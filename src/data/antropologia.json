@@ -2,7 +2,7 @@
   "antropology": [
     {
       "id": 1,
-      "question": "L'antropologia è una scienza:",
+      "question": "l'antropologia è una scienza?",
       "options": [
         "sia induttiva che deduttiva",
         "induttiva",
@@ -12,7 +12,6 @@
       "correctAnswer": "comparativa",
       "userPick": ""
     },
-
     {
       "id": 2,
       "question": "la Cultura si differenzia dalle culture perché:",
@@ -25,10 +24,9 @@
       "correctAnswer": "è innata e non appresa",
       "userPick": ""
     },
-
     {
       "id": 3,
-      "question": "la definizione di cultura come \"insieme di idee e comportamenti l'insieme di idee e comportamenti comuni ad una società che gli esseri umani imparano in quanto membri di questa\" si riferisce a:",
+      "question": "\"la definizione di cultura come \"\"insieme di idee e comportamenti l'insieme di idee e comportamenti comuni ad una società che gli esseri umani imparano in quanto membri di questa\"\" si riferisce a:\"",
       "options": [
         "la cultura che ci facciamo a scuola, università, ecc",
         "le culture",
@@ -38,7 +36,6 @@
       "correctAnswer": "le culture",
       "userPick": ""
     },
-
     {
       "id": 4,
       "question": "L'esperienza trobriandese di Malinowski rappresenta un caso di etnografia o di etnologia?",
@@ -51,7 +48,6 @@
       "correctAnswer": "etnografia",
       "userPick": ""
     },
-
     {
       "id": 5,
       "question": "l'immagine del polilito illustra la cultura come:",
@@ -64,10 +60,9 @@
       "correctAnswer": "un insieme di moduli aggiuntisi al cervello di Homo sp. nel corso della sua evoluzione",
       "userPick": ""
     },
-
     {
       "id": 6,
-      "question": "la \"moda antropologica\" è:",
+      "question": "\"la \"\"moda antropologica\"\" è:\"",
       "options": [
         "l'evoluzione artificiale della scimmia umana",
         "come gli antropologi indicano la selezione culturale ed i suoi meccanismi nella nostra specie",
@@ -87,6 +82,631 @@
         "UIC che vengono imitate in modo inconsapevole"
       ],
       "correctAnswer": "UIC che vengono imitate con cambiamenti ben percepiti dagli agenti",
+      "userPick": ""
+    },
+    {
+      "id": 8,
+      "question": "gli agenti possono essere analizzati secondo i seguenti fattori",
+      "options": [
+        "controllo, potenza, sicurezza",
+        "consapevolezza, innovazione, diffusione.",
+        "diffusione, influenza, innovazione",
+        "controllo, influenza, valutazione"
+      ],
+      "correctAnswer": "controllo, influenza, valutazione",
+      "userPick": ""
+    },
+    {
+      "id": 9,
+      "question": "i memi (o UEC) sono",
+      "options": [
+        "UIC che vengono imitate di generazione in generazione senza cambiamenti percepiti dagli agenti",
+        "UIC che vengono imitate di generazione in generazione in modo consapevole",
+        "UIC che vengono imitati in generale",
+        "UIC che vengono imitate di generazione in generazione con grande velocità"
+      ],
+      "correctAnswer": "UIC che vengono imitate di generazione in generazione senza cambiamenti percepiti dagli agenti",
+      "userPick": ""
+    },
+    {
+      "id": 10,
+      "question": "Le UIC sono",
+      "options": [
+        "le lettere che compongono una parola",
+        "tutti i segni che le scimmie umano si imitano le une le altre",
+        "i segni che le scimmie umane si imitano le une le altre inconsapevolmente",
+        "i segni le scimmie umane si imitano le une le altre in quanto agenti"
+      ],
+      "correctAnswer": "i segni le scimmie umane si imitano le une le altre in quanto agenti",
+      "userPick": ""
+    },
+    {
+      "id": 11,
+      "question": "L'imitazione tipica della scimmia umana si chiama:",
+      "options": [
+        "imitazione emulativa",
+        "imitazione agentiva",
+        "imitazione culturale",
+        "imitazione contemplativa"
+      ],
+      "correctAnswer": "imitazione culturale",
+      "userPick": ""
+    },
+    {
+      "id": 12,
+      "question": "Darwin ha elaborato la teoria della selezione naturale per spiegare:",
+      "options": [
+        "nessuna delle risposte presentate per questa domanda è corretta",
+        "come le specie vengono create",
+        "che l'essere umano deriva dalla scimmia",
+        "le differenze tra gli organismi viventi"
+      ],
+      "correctAnswer": "le differenze tra gli organismi viventi",
+      "userPick": ""
+    },
+    {
+      "id": 13,
+      "question": "L'antropologo sul campo deve rimuovere per quanto possibile:",
+      "options": [
+        "i propri pregiudizi etnocentrici",
+        "nessuna delle risposte presentate per questa domanda è corretta",
+        "il proprio relativismo culturale",
+        "sia i propri pregiudizi etnocentrici che il proprio relativismo culturale"
+      ],
+      "correctAnswer": "i propri pregiudizi etnocentrici",
+      "userPick": ""
+    },
+    {
+      "id": 14,
+      "question": "\"Per \"\"bio-etnocentrismo\"\" s'intende:\"",
+      "options": [
+        "una forma di riduzionismo in cui la specie umana si sente biologicamente superiore alle altre",
+        "una forma di relativismo culturale in cui tutti gli organismi viventi sono ugualmente importanti",
+        "una forma di ambientalismo",
+        "una forma di etnocentrismo in cui tutti gli organismi viventi sono ugualmente importanti"
+      ],
+      "correctAnswer": "una forma di riduzionismo in cui la specie umana si sente biologicamente superiore alle altre",
+      "userPick": ""
+    },
+    {
+      "id": 15,
+      "question": "Il significato di un dato culturale è:",
+      "options": [
+        "costruito da coloro che lo usano",
+        "sempre assicurato",
+        "il prodotto di quelli che conoscono meglio la cultura",
+        "qualcosa che deve essere scoperto attraverso un'attenta osservazione partecipante"
+      ],
+      "correctAnswer": "qualcosa che deve essere scoperto attraverso un'attenta osservazione partecipante",
+      "userPick": ""
+    },
+    {
+      "id": 16,
+      "question": "\"Dire che una cultura è più \"\"primitiva\"\" di un'altra è\"",
+      "options": [
+        "inaccettabile antropologicamente ed eticamente",
+        "perfettamente naturale",
+        "inaccettabile sul piano etico",
+        "inaccettabile sul piano antropologico"
+      ],
+      "correctAnswer": "inaccettabile antropologicamente ed eticamente",
+      "userPick": ""
+    },
+    {
+      "id": 17,
+      "question": "Con quale concetto Boas riesce a dimostrare l'infondatezza delle teorie unilineari?",
+      "options": ["trasformazione", "interazione", "prestito", "debito"],
+      "correctAnswer": "prestito",
+      "userPick": ""
+    },
+    {
+      "id": 18,
+      "question": "Un taxon è:",
+      "options": [
+        "un ordinamento zoologico",
+        "un raggruppamento prevalentemente botanico",
+        "un gruppo più o meno vasto di organismi aventi tratti simili perché discendenti da un antenato comune, individuato a scopi tassonomici",
+        "una specie"
+      ],
+      "correctAnswer": "un gruppo più o meno vasto di organismi aventi tratti simili perché discendenti da un antenato comune, individuato a scopi tassonomici",
+      "userPick": ""
+    },
+    {
+      "id": 19,
+      "question": "Le scimmie antropomorfe sono comprese nella superfamiglia",
+      "options": ["Antropoidi", "Anthropoidea", "Hominoidea", "Hominini"],
+      "correctAnswer": "Hominoidea",
+      "userPick": ""
+    },
+    {
+      "id": 20,
+      "question": "Le differenze tra quella umana e le altre scimmie antropomorfe sono:",
+      "options": [
+        "di tipo quantitativo più che qualitativo",
+        "di tipo qualitativo",
+        "sia di tipo quantitativo che qualitativo",
+        "impossibili da determinare"
+      ],
+      "correctAnswer": "di tipo quantitativo più che qualitativo",
+      "userPick": ""
+    },
+    {
+      "id": 21,
+      "question": "Il genere Pan e il genere Homo condividevano un antenato:",
+      "options": [
+        "cinque milioni di anni fa",
+        "8 milioni di anni fa",
+        "6 milioni di anni fa",
+        "10 milioni di anni fa"
+      ],
+      "correctAnswer": "6 milioni di anni fa",
+      "userPick": ""
+    },
+    {
+      "id": 22,
+      "question": "La lingua a differenza del linguaggio, è:",
+      "options": [
+        "particolare e appresa",
+        "innata e particolare",
+        "universale e innata",
+        "universale e appresa"
+      ],
+      "correctAnswer": "particolare e appresa",
+      "userPick": ""
+    },
+    {
+      "id": 23,
+      "question": "Il determinismo linguistico è l'approccio secondo cui:",
+      "options": [
+        "cultura e lingua si influenzano reciprocamente",
+        "i determinanti sia del lingua che della cultura devono essere individuati nella struttura della mente umana",
+        "la grammatica determina come la persone riflettono sul mondo",
+        "la grammatica è determinata dalla cultura"
+      ],
+      "correctAnswer": "cultura e lingua si influenzano reciprocamente",
+      "userPick": ""
+    },
+    {
+      "id": 24,
+      "question": "Secondo l'approccio generativo-cognitivo il linguaggio è:",
+      "options": [
+        "una tecnica di comunicazione appresa",
+        "un organo dell'apparato fonatorio",
+        "una tecnica di comunicazione innata",
+        "un organo del cervello"
+      ],
+      "correctAnswer": "un organo del cervello",
+      "userPick": ""
+    },
+    {
+      "id": 25,
+      "question": "Chi ha definito il concetto di eteroglossia?",
+      "options": [
+        "Noam Chomsky",
+        "Bronislaw Malinowski",
+        "Michael Silverstein",
+        "Mikhail Bachtin"
+      ],
+      "correctAnswer": "Mikhail Bachtin",
+      "userPick": ""
+    },
+    {
+      "id": 26,
+      "question": "etic ed emic sono:",
+      "options": [
+        "due dati da ricercare con l'osservazione partecipante",
+        "due strutture della lingua",
+        "due diversi tipi di prototipi",
+        "due modi di guardare un dato antropologico"
+      ],
+      "correctAnswer": "due modi di guardare un dato antropologico",
+      "userPick": ""
+    },
+    {
+      "id": 27,
+      "question": "Secondo Vigotsky, i processi cognitivi elementari sono organizzati in:",
+      "options": [
+        "capacità cognitive",
+        "sistemi cognitivi funzionali",
+        "schemi",
+        "processi cognitivi di livello superiore"
+      ],
+      "correctAnswer": "sistemi cognitivi funzionali",
+      "userPick": ""
+    },
+    {
+      "id": 28,
+      "question": "Nei suoi studi sulla lingua, William Labov ha scoperto che, quando i bambini afro-americani venivano intervistati in classe da adulti euro-americani:",
+      "options": [
+        "dicevano molto poco",
+        "erano incapaci di produrre frasi grammaticali",
+        "le loro risposte erano mezzi di difesa per impedire a degli intervistatori minacciosi di sapere qualsiasi cosa da loro",
+        "dicevano molto poco e le loro risposte erano mezzi di difesa per impedire a degli intervistatori minacciosi di sapere qualsiasi cosa da loro"
+      ],
+      "correctAnswer": "dicevano molto poco e le loro risposte erano mezzi di difesa per impedire a degli intervistatori minacciosi di sapere qualsiasi cosa da loro",
+      "userPick": ""
+    },
+    {
+      "id": 29,
+      "question": "Bateson studia il gioco come:",
+      "options": [
+        "modo di comunicare su come comunicare",
+        "modo di relativizzare la realtà",
+        "modo di relativizzare la realtà, modo di comunicare su come comunicare e strumento di riflessività",
+        "strumento di riflessività"
+      ],
+      "correctAnswer": "modo di relativizzare la realtà, modo di comunicare su come comunicare e strumento di riflessività",
+      "userPick": ""
+    },
+    {
+      "id": 30,
+      "question": "il mito può essere definito un racconto:",
+      "options": ["basilare", "di fondazione", "autorevole", "fantastico"],
+      "correctAnswer": "autorevole",
+      "userPick": ""
+    },
+    {
+      "id": 31,
+      "question": "L'idea che il mito è uno strumento concettuale è associata al lavoro di:",
+      "options": [
+        "Bronislaw Malinowski",
+        "Claude Lévi-Strauss",
+        "Gregory Bateson",
+        "Franz Boas"
+      ],
+      "correctAnswer": "Claude Lévi-Strauss",
+      "userPick": ""
+    },
+    {
+      "id": 32,
+      "question": "Come la religione, la magia e la stregoneria offrono",
+      "options": [
+        "una visione del mondo",
+        "un ottundimento della ragione",
+        "una cornice interpretativa onnicomprensiva",
+        "sia una cornice interpretativa onnicomprensiva che una visione del mondo"
+      ],
+      "correctAnswer": "sia una cornice interpretativa onnicomprensiva che una visione del mondo",
+      "userPick": ""
+    },
+    {
+      "id": 33,
+      "question": "Le religioni possono essere viste dagli antropologi come:",
+      "options": [
+        "delle metafore universali",
+        "delle metonimie sociali",
+        "delle similitudini organiche",
+        "delle metafore sociali"
+      ],
+      "correctAnswer": "delle metafore sociali",
+      "userPick": ""
+    },
+    {
+      "id": 34,
+      "question": "Le spiegazioni del determinismo ambientale si possono facilmente ribattere:",
+      "options": [
+        "perché culture uguali viventi nello stesso ambiente hanno bisogni uguali",
+        "perché culture diverse viventi nello stesso ambiente hanno bisogni uguali",
+        "perché culture diverse che vivono nello stesso ambiente hanno bisogni diversi",
+        "perché culture diverse hanno bisogni diversi"
+      ],
+      "correctAnswer": "perché culture diverse che vivono nello stesso ambiente hanno bisogni diversi",
+      "userPick": ""
+    },
+    {
+      "id": 35,
+      "question": "Quale delle seguenti concezioni del potere è tipica delle società extra-occidentali?",
+      "options": [
+        "il potere come forza pan-umana",
+        "il potere come un modo di investire il mondo di significato",
+        "il potere come forma di coercizione",
+        "il potere come entità indipendente"
+      ],
+      "correctAnswer": "il potere come entità indipendente",
+      "userPick": ""
+    },
+    {
+      "id": 36,
+      "question": "La celebre frase di Gramsci sul pessimismo della ragione e l'ottimismo della volonta è un altro modo di vedere:",
+      "options": [
+        "il potere come coercizione",
+        "il potere dell'immaginazione",
+        "il potere egemonico della persuasione",
+        "il potere come entità indipendente"
+      ],
+      "correctAnswer": "il potere dell'immaginazione",
+      "userPick": ""
+    },
+    {
+      "id": 37,
+      "question": "Il fenomeno della biopirateria può esemplificare il fatto che:",
+      "options": [
+        "ciascuna delle altre risposte fornite per questa domanda va bene",
+        "bisognerebbe usare sementi locali come si è sempre fatto senza creare dipendenze basate sul diritto eticamente discutibile di vendere organismi viventi brevettati",
+        "il Nord del Mondo sottrae risorse al Sud del Mondo in modo poco attento ai diritti umani e all'ambiente",
+        "\"esportare la \"\"rivoluzione verde\"\" dall'occidente si rivela dannoso anche sul piano sociale\""
+      ],
+      "correctAnswer": "ciascuna delle altre risposte fornite per questa domanda va bene",
+      "userPick": ""
+    },
+    {
+      "id": 38,
+      "question": "Chi ha sostenuto che le teorie economiche elaborate per rendere conto del mercato capitalistico NON erano adatte alle società non capitaliste?",
+      "options": [
+        "gli economisti",
+        "i formalisti",
+        "i sostantivisti",
+        "i neoclassicisti"
+      ],
+      "correctAnswer": "i sostantivisti",
+      "userPick": ""
+    },
+    {
+      "id": 39,
+      "question": "La scuola economica marxista enfatizza, tra le fasi dell'attività economica, quella:",
+      "options": [
+        "del consumo",
+        "del mercato",
+        "della produzione",
+        "dello stoccaggio"
+      ],
+      "correctAnswer": "della produzione",
+      "userPick": ""
+    },
+    {
+      "id": 40,
+      "question": "L'approccio funzionalista enfatizza, tra le fasi dell'attività economica, quella:",
+      "options": [
+        "del mercato",
+        "dello stoccaggio",
+        "del consumo",
+        "della produzione"
+      ],
+      "correctAnswer": "del consumo",
+      "userPick": ""
+    },
+    {
+      "id": 41,
+      "question": "Le foglie di banano scambiate dai Trobriandesi danno ragione ai:",
+      "options": [
+        "sia funzionalisti interni che esterni",
+        "funzionalisti esterni",
+        "sostantivisti",
+        "funzionalisti interni"
+      ],
+      "correctAnswer": "sostantivisti",
+      "userPick": ""
+    },
+    {
+      "id": 42,
+      "question": "Il genere è definito dagli antropologi come:",
+      "options": [
+        "il sesso biologico culturalmente costruito e attribuito/acquisito nel gruppo",
+        "la costruzione culturale del sesso biologico",
+        "il sesso di un individuo alla nascita",
+        "il sesso attribuito o acquisito all'interno di un gruppo umano"
+      ],
+      "correctAnswer": "il sesso biologico culturalmente costruito e attribuito/acquisito nel gruppo",
+      "userPick": ""
+    },
+    {
+      "id": 43,
+      "question": "Il totemismo è connesso a livello di strutture della parentela:",
+      "options": [
+        "con il matrilignaggio",
+        "con la famiglia",
+        "con il lignaggio",
+        "con il clan"
+      ],
+      "correctAnswer": "con il clan",
+      "userPick": ""
+    },
+    {
+      "id": 44,
+      "question": "Secondo l'ISTAT (2017) i più numerosi scolari stranieri in Italia sono (in ordine decrescente):",
+      "options": [
+        "asiatici, africani, sudamericani",
+        "cinesi, indiani, marocchini",
+        "africani, asiatici, sudamericani",
+        "africani, nordamericani, asiatici"
+      ],
+      "correctAnswer": "africani, asiatici, sudamericani",
+      "userPick": ""
+    },
+    {
+      "id": 45,
+      "question": "La scuola è una esperienza che in termini di cultura antropologica",
+      "options": [
+        "allontana l'interazione interculturale",
+        "influenza i processi di socializzazione e apprendimento",
+        "comprende molte materie diverse",
+        "aiuta a distinguere culture migliori da culture peggiori"
+      ],
+      "correctAnswer": "influenza i processi di socializzazione e apprendimento",
+      "userPick": ""
+    },
+    {
+      "id": 46,
+      "question": "Il sistema educativo cinese è caratterizzato da:",
+      "options": [
+        "competizione e individualismo",
+        "militarismo e disciplina",
+        "collettivismo e competizione",
+        "collettivismo e individualismo"
+      ],
+      "correctAnswer": "collettivismo e competizione",
+      "userPick": ""
+    },
+    {
+      "id": 47,
+      "question": "I sistemi educativi africani in generale enfatizzano:",
+      "options": [
+        "individualismo e competizione",
+        "collettivismo e sapere pratico",
+        "individualismo e sapere astratto",
+        "competizione e sapere pratico"
+      ],
+      "correctAnswer": "collettivismo e sapere pratico",
+      "userPick": ""
+    },
+    {
+      "id": 48,
+      "question": "il modello educativo americano è per eccellenza:",
+      "options": [
+        "tutte le risposte presentate sono corrette",
+        "individualista",
+        "multiculturalista",
+        "competitivo"
+      ],
+      "correctAnswer": "tutte le risposte presentate sono corrette",
+      "userPick": ""
+    },
+    {
+      "id": 49,
+      "question": "Secondo l'ISTAT (2017) il rapporto tra scolari italiani e stranieri è:",
+      "options": [
+        "6 milioni italiani e 650 mila stranieri",
+        "650 mila italiani e 6 milioni stranieri",
+        "3 milioni italiani e 3 milioni stranieri",
+        "650 mila italiani e 350 mila stranieri"
+      ],
+      "correctAnswer": "6 milioni italiani e 650 mila stranieri",
+      "userPick": ""
+    },
+    {
+      "id": 50,
+      "question": "\"Tra gli stili motivazionali quello detto \"\"apprendere a richiesta\"\" è tipico:\"",
+      "options": ["del Giappone", "dell'Italia", "della Spagna", "degli USA"],
+      "correctAnswer": "del Giappone",
+      "userPick": ""
+    },
+    {
+      "id": 51,
+      "question": "La strategia di insegnamento più valida in una classe multiculturale è:",
+      "options": [
+        "differenziare l'insegnamento all'interno del gruppo-classe",
+        "porsi in modo autorevole come esperti della materia",
+        "usare un tipo di valutazione diversa per gli studenti stranieri",
+        "omogeneizzare l'insegnamento sul gruppo-classe"
+      ],
+      "correctAnswer": "differenziare l'insegnamento all'interno del gruppo-classe",
+      "userPick": ""
+    },
+    {
+      "id": 52,
+      "question": "Il maggior tasso di abbandoni nella scuola italiana riguarda studenti:",
+      "options": [
+        "di origine africana",
+        "di origine sudamericana",
+        "l grafico non riporta il dato",
+        "di origine asiatica"
+      ],
+      "correctAnswer": "l grafico non riporta il dato",
+      "userPick": ""
+    },
+    {
+      "id": 53,
+      "question": "\"Gli stili in base a \"\"percezione/giudizio\"\" si basano sui lavori di:\"",
+      "options": ["Laporta", "Jung", "Freud", "Hofmann"],
+      "correctAnswer": "Jung",
+      "userPick": ""
+    },
+    {
+      "id": 54,
+      "question": "Lo stile di apprendimento tipico dei paesi latini è:",
+      "options": [
+        "imdividualista",
+        "competitivo",
+        "cooperativo",
+        "globalizzato"
+      ],
+      "correctAnswer": "cooperativo",
+      "userPick": ""
+    },
+    {
+      "id": 55,
+      "question": "\"Gli studenti \"\"campo-sensibili\"\" tendenzialmente:\"",
+      "options": [
+        "lavorano da soli",
+        "lavorano in gruppo",
+        "sono competitivi",
+        "si distraggono facilmente"
+      ],
+      "correctAnswer": "lavorano in gruppo",
+      "userPick": ""
+    },
+    {
+      "id": 56,
+      "question": "Il cosidetto matrimonio preferenziale si trova solo nei sistemi:",
+      "options": ["matrilineari", "bilaterali", "patrilineari", "unilineari"],
+      "correctAnswer": "unilineari",
+      "userPick": ""
+    },
+    {
+      "id": 57,
+      "question": "Quante sono le forme di matrimonio poligamico attestate interculturalmente?",
+      "options": ["cinque", "fondamentalmente due", "quattro", "tre"],
+      "correctAnswer": "tre",
+      "userPick": ""
+    },
+    {
+      "id": 58,
+      "question": "Una prova schiacciante che anche la sessualità viene costruita culturalmente è:",
+      "options": [
+        "il matrimonio di fatto",
+        "la castità pre-matrimoniale",
+        "l'infibulazione",
+        "la castrazione"
+      ],
+      "correctAnswer": "l'infibulazione",
+      "userPick": ""
+    },
+    {
+      "id": 59,
+      "question": "In una società segreta il segreto riguarda:",
+      "options": [
+        "dove si tengono le riunioni",
+        "il sapere condiviso dai membri",
+        "chi sono i membri",
+        "perché i membri si uniscono"
+      ],
+      "correctAnswer": "il sapere condiviso dai membri",
+      "userPick": ""
+    },
+    {
+      "id": 60,
+      "question": "\"Quale delle seguenti NON è una \"\"realtà immaginata\"\" in una cultura \"\"face-to-face\"\"\"",
+      "options": [
+        "tutte le tre categorie presentate nelle altre risposte lo è",
+        "etnia",
+        "razza",
+        "classe"
+      ],
+      "correctAnswer": "tutte le tre categorie presentate nelle altre risposte lo è",
+      "userPick": ""
+    },
+    {
+      "id": 61,
+      "question": "Il razzismo del XIX secolo fu un portato:",
+      "options": [
+        "del concetto di evoluzione unilineare",
+        "dei concetti di razza biologica e di scala naturae",
+        "del concetto di scala naturae",
+        "del concetto di razza biologica"
+      ],
+      "correctAnswer": "dei concetti di razza biologica e di scala naturae",
+      "userPick": ""
+    },
+    {
+      "id": 62,
+      "question": "L'ideologia della classe dominante che tenta di costruire l'identità di quella dominata viene chiamata da Gramsci:",
+      "options": [
+        "demagogia",
+        "ideologia",
+        "demagogia trasformista",
+        "egemonia trasformista"
+      ],
+      "correctAnswer": "egemonia trasformista",
       "userPick": ""
     }
   ]
