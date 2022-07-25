@@ -1,0 +1,93 @@
+{
+  "antropology": [
+    {
+      "id": 1,
+      "question": "L'antropologia è una scienza:",
+      "options": [
+        "sia induttiva che deduttiva",
+        "induttiva",
+        "deduttiva",
+        "comparativa"
+      ],
+      "correctAnswer": "comparativa",
+      "userPick": ""
+    },
+
+    {
+      "id": 2,
+      "question": "la Cultura si differenzia dalle culture perché:",
+      "options": [
+        "è adattiva",
+        "è innata e non appresa",
+        "è appresa e non innata",
+        "è bioculturale"
+      ],
+      "correctAnswer": "è innata e non appresa",
+      "userPick": ""
+    },
+
+    {
+      "id": 3,
+      "question": "la definizione di cultura come \"insieme di idee e comportamenti l'insieme di idee e comportamenti comuni ad una società che gli esseri umani imparano in quanto membri di questa\" si riferisce a:",
+      "options": [
+        "la cultura che ci facciamo a scuola, università, ecc",
+        "le culture",
+        "il riduzionismo ambientale",
+        "la Cultura"
+      ],
+      "correctAnswer": "le culture",
+      "userPick": ""
+    },
+
+    {
+      "id": 4,
+      "question": "L'esperienza trobriandese di Malinowski rappresenta un caso di etnografia o di etnologia?",
+      "options": [
+        "etnografia ed etnologia",
+        "etnologia",
+        "etnografia",
+        "nessuna delle risposte presentate per questa domanda è corretta"
+      ],
+      "correctAnswer": "etnografia",
+      "userPick": ""
+    },
+
+    {
+      "id": 5,
+      "question": "l'immagine del polilito illustra la cultura come:",
+      "options": [
+        "un insieme di moduli presenti nella realtà immaginata di Homo sp.",
+        "nessuna delle risposte presentate per questa domanda è corretta",
+        "un insieme di moduli aggiuntisi al cervello di Homo sp. nel corso del tempo storico",
+        "un insieme di moduli aggiuntisi al cervello di Homo sp. nel corso della sua evoluzione"
+      ],
+      "correctAnswer": "un insieme di moduli aggiuntisi al cervello di Homo sp. nel corso della sua evoluzione",
+      "userPick": ""
+    },
+
+    {
+      "id": 6,
+      "question": "la \"moda antropologica\" è:",
+      "options": [
+        "l'evoluzione artificiale della scimmia umana",
+        "come gli antropologi indicano la selezione culturale ed i suoi meccanismi nella nostra specie",
+        "nessuna delle risposte presentate per questa domanda è corretta",
+        "come gli antropologi indicano la selezione naturale ed i suoi meccanismi nella nostra specie"
+      ],
+      "correctAnswer": "come gli antropologi indicano la selezione culturale ed i suoi meccanismi nella nostra specie",
+      "userPick": ""
+    },
+    {
+      "id": 7,
+      "question": "i modemi (o UVC) sono",
+      "options": [
+        "UIC che vengono imitate con bassa velocità",
+        "UIC che vengono imitate con cambiamenti ben percepiti dagli agenti",
+        "UIC che vengono imitate di generazione in generazione con cambiamenti ben percepiti dagli agenti",
+        "UIC che vengono imitate in modo inconsapevole"
+      ],
+      "correctAnswer": "UIC che vengono imitate con cambiamenti ben percepiti dagli agenti",
+      "userPick": ""
+    }
+  ]
+}
