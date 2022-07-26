@@ -2,8 +2,9 @@ import React, { useEffect, useRef, useState } from 'react';
 import styled from 'styled-components';
 import { FaLongArrowAltLeft, FaLongArrowAltRight } from 'react-icons/fa';
 import QuestionsBox from '../components/QuestionsBox';
-import questions from '../data/antropologia.json';
 import { shuffleArray } from '../utils/shuffleArray';
+import DropDownMenu from '../components/DropDownMenu';
+import { getQuestions } from '../utils/getQuestions';
 
 type TQuestion = {
   id: number;
@@ -24,10 +25,48 @@ const calculateScore = (questionsArr: TQuestion[]) => {
   return score;
 };
 
+const setPath = (value: string) => {
+  if (value === 'methodology') {
+    return 'src/data/metodologia.json';
+  }
+
+  return 'src/data/antropologia.json';
+};
+
+const setQuestionsNum = (value: string) => {
+  if (value === 'exam(30)') {
+    return 30;
+  }
+};
+
+const setErrMode = (value: string) => {
+  if (value === 'hide') {
+    return false;
+  }
+
+  return true;
+};
+
 const Home = () => {
-  const [data, setData] = useState<TQuestion[]>(() =>
-    shuffleArray(questions.antropology)
-  );
+  const [data, setData] = useState<TQuestion[]>([]);
+
+  const [selectedCategory, setSelectedCategory] = useState('antropology');
+  const [selectedQuestionsNum, setSelectedQuestionsNum] = useState('exam(30)');
+  const [selectedErrMode, setSelectedErrMode] = useState('show');
+
+  console.log(setErrMode(selectedErrMode));
+
+  useEffect(() => {
+    (async () => {
+      const questions = await getQuestions(setPath(selectedCategory));
+      setData(() =>
+        shuffleArray(questions.category).slice(
+          0,
+          setQuestionsNum(selectedQuestionsNum)
+        )
+      );
+    })();
+  }, [selectedCategory, selectedQuestionsNum]);
 
   const [isSimulationStarted, setIsSimulationStarted] =
     useState<boolean>(false);
@@ -35,21 +74,23 @@ const Home = () => {
     useState<boolean>(false);
   const [questionNumber, setQuestionNumber] = useState<number>(0);
   const [displayTotalScore, setDisplayTotalScore] = useState<boolean>(false);
-  const [isTrainingMode, setIsTrainingMode] = useState<boolean>(false);
+  const [showErrMode, setShowErrMode] = useState<boolean>(() =>
+    setErrMode(selectedErrMode)
+  );
   const totalScore = useRef(0);
 
   const handleStartSimulation = () => {
-    setData(() => shuffleArray(questions.antropology));
+    setData(() => shuffleArray(data));
     setIsSimulationStarted(true);
     setIsSimulationFinished(false);
     setDisplayTotalScore(false);
-    setIsTrainingMode(false);
+    setShowErrMode(() => setErrMode(selectedErrMode)); //get this value true or false from localStorage
     setQuestionNumber(0);
   };
 
   const handleEndSimulation = () => {
     totalScore.current = calculateScore(data);
-    setIsTrainingMode(true);
+    setShowErrMode(true);
     setDisplayTotalScore(true);
     setIsSimulationFinished(true);
   };
@@ -64,15 +105,37 @@ const Home = () => {
     setQuestionNumber((prev) => prev + 1);
   };
 
-  console.log(data);
-
   return (
     <>
+      <MenuContainer>
+        {!isSimulationStarted && (
+          <>
+            {' '}
+            <DropDownMenu
+              title='category'
+              options={['antropology', 'methodology']}
+              setSelectedOption={setSelectedCategory}
+            />
+            <DropDownMenu
+              title='questions'
+              options={['exam(30)', 'all']}
+              setSelectedOption={setSelectedQuestionsNum}
+            />
+            <DropDownMenu
+              title='erros'
+              options={['show', 'hide']}
+              setSelectedOption={setSelectedErrMode}
+            />
+          </>
+        )}
+      </MenuContainer>
       <MainContainer>
         {!isSimulationStarted && (
-          <StyledButton onClick={handleStartSimulation}>
-            start simulation
-          </StyledButton>
+          <>
+            <StyledButton onClick={handleStartSimulation}>
+              start simulation
+            </StyledButton>
+          </>
         )}
 
         {isSimulationStarted && (
@@ -93,7 +156,8 @@ const Home = () => {
                       options={v.options}
                       correctAnswer={v.correctAnswer}
                       userPick={v.userPick}
-                      isTrainingMode={isTrainingMode}
+                      showErrMode={showErrMode}
+                      isSimulationFinished={isSimulationFinished}
                       setUserPick={setData}
                       displayTotalScore={displayTotalScore}
                     />
@@ -146,16 +210,22 @@ const arrowStyle = {
   cursor: 'pointer',
 };
 
+const MenuContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  padding: 0.6rem;
+`;
+
 const MainContainer = styled.main`
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90vh;
-  min-height: 650px;
+  height: fit-content;
+  min-height: 450px;
   padding: 1rem;
   margin: 1rem 0;
-  /*   border: 2px solid #fff; */
+  /*  border: 2px solid #fff; */
 `;
 
 const ButtonContaier = styled.div`

@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import styled from 'styled-components';
 
 type TQuestion = {
@@ -14,8 +13,9 @@ type TProps = {
   options: string[];
   userPick: string;
   correctAnswer: string;
-  isTrainingMode: boolean;
+  showErrMode: boolean;
   id: number;
+  isSimulationFinished: boolean;
   setUserPick: React.Dispatch<React.SetStateAction<TQuestion[]>>;
   displayTotalScore: boolean;
 };
@@ -26,9 +26,10 @@ const QuestionsBox = ({
   correctAnswer,
   id,
   userPick,
-  isTrainingMode,
+  showErrMode,
   setUserPick,
   displayTotalScore,
+  isSimulationFinished,
 }: /*  selectedAnswer, */
 TProps) => {
   const updateUserPick = (answer: string) => {
@@ -44,8 +45,8 @@ TProps) => {
   };
 
   const handleAnswerClick = (answer: string) => {
-    /* if (userPick) return; */
-    if (displayTotalScore) return;
+    if (isSimulationFinished) return;
+    if (userPick && showErrMode) return;
 
     /*  if (!userPick && answer === correctAnswer && isTrainingMode) {
       setTotalScore((prev) => prev + 1);
@@ -69,7 +70,8 @@ TProps) => {
               userPick={userPick}
               correctAnswer={correctAnswer}
               isCorrectAnswer={correctAnswer === answer}
-              isTrainingMode={isTrainingMode}
+              showErrMode={showErrMode}
+              isSimulationFinished={isSimulationFinished}
             >
               {answer}
             </GridCell>
@@ -119,10 +121,11 @@ const OptionsContainer = styled.div`
 type TGridCellProps = {
   /*   selectedAnswer: string; */
   isCorrectAnswer: boolean;
-  isTrainingMode: boolean;
+  showErrMode: boolean;
   answer: string;
   userPick: string;
   correctAnswer: string;
+  isSimulationFinished: boolean;
   /*  isCorrectAnswer: () => boolean; */
 };
 
@@ -131,18 +134,25 @@ const GridCell = styled.div<TGridCellProps>`
   background-color: /* 2px solid */ ${({
     isCorrectAnswer,
     answer,
-    isTrainingMode,
+    showErrMode,
     userPick,
+    isSimulationFinished,
     correctAnswer,
   }) => {
-    if (isTrainingMode && userPick) {
+    if (showErrMode && isSimulationFinished) {
       return isCorrectAnswer
         ? ` #1ea304`
         : userPick === answer
         ? ` #fc4e41`
         : '#036668';
-    } else if (!isTrainingMode) {
+    } else if (!showErrMode && !isSimulationFinished) {
       return userPick === answer ? ` #adab25` : '';
+    } else if (showErrMode && !isSimulationFinished && userPick) {
+      return isCorrectAnswer
+        ? ` #1ea304`
+        : userPick === answer
+        ? ` #fc4e41`
+        : '#036668';
     }
   }};
 
