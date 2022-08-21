@@ -4,7 +4,6 @@ import { FaLongArrowAltLeft, FaLongArrowAltRight } from 'react-icons/fa';
 import QuestionsBox from '../components/QuestionsBox';
 import { shuffleArray } from '../utils/shuffleArray';
 import DropDownMenu from '../components/DropDownMenu';
-import { getQuestions } from '../utils/getQuestions';
 
 type TQuestion = {
   id: number;
@@ -25,44 +24,59 @@ const calculateScore = (questionsArr: TQuestion[]) => {
   return score;
 };
 
-const setPath = (value: string) => {
-  if (value === 'methodology') {
-    return 'src/data/metodologia.json';
-  }
-
-  return 'src/data/antropologia.json';
+const clearUserPicks = (questionsArr: TQuestion[]) => {
+  questionsArr.map((v) => (v.userPick = ''));
 };
 
-const setQuestionsNum = (value: string) => {
-  if (value === 'exam(30)') {
-    return 30;
-  }
+const pathsOptions = {
+  antropology: 'data/antropologia.json',
+  methodology: 'data/metodologia.json',
+  pedagogy: 'data/pedagogia.json',
+  psicology: 'data/psicologia.json',
 };
 
-const setErrMode = (value: string) => {
-  if (value === 'hide') {
-    return false;
-  }
-
-  return true;
+const questionNum = {
+  'exam(30)': 30,
+  all: undefined,
 };
+
+const errorMode = {
+  hide: false,
+  show: true,
+};
+
+type pathKeys = keyof typeof pathsOptions;
+type questionNumKeys = keyof typeof questionNum;
+type errorModeKeys = keyof typeof errorMode;
+
+const categoryOptions = Object.keys(pathsOptions);
+const questionNumOptions = Object.keys(questionNum);
+const errorModeOptions = Object.keys(errorMode);
 
 const Home = () => {
+  const bottomRef = useRef<any>(null);
   const [data, setData] = useState<TQuestion[]>([]);
 
-  const [selectedCategory, setSelectedCategory] = useState('antropology');
-  const [selectedQuestionsNum, setSelectedQuestionsNum] = useState('exam(30)');
-  const [selectedErrMode, setSelectedErrMode] = useState('show');
-
-  console.log(setErrMode(selectedErrMode));
+  const [selectedCategory, setSelectedCategory] = useState(
+    categoryOptions[0] as pathKeys
+  );
+  const [selectedQuestionsNum, setSelectedQuestionsNum] = useState(
+    questionNumOptions[0] as questionNumKeys
+  );
+  const [selectedErrMode, setSelectedErrMode] = useState(
+    errorModeOptions[0] as errorModeKeys
+  );
 
   useEffect(() => {
     (async () => {
-      const questions = await getQuestions(setPath(selectedCategory));
+      const questions = await fetch(pathsOptions[`${selectedCategory}`]).then(
+        (res) => res.json()
+      );
+
       setData(() =>
         shuffleArray(questions.category).slice(
           0,
-          setQuestionsNum(selectedQuestionsNum)
+          questionNum[`${selectedQuestionsNum}`]
         )
       );
     })();
@@ -74,23 +88,23 @@ const Home = () => {
     useState<boolean>(false);
   const [questionNumber, setQuestionNumber] = useState<number>(0);
   const [displayTotalScore, setDisplayTotalScore] = useState<boolean>(false);
-  const [showErrMode, setShowErrMode] = useState<boolean>(() =>
-    setErrMode(selectedErrMode)
-  );
+
   const totalScore = useRef(0);
 
   const handleStartSimulation = () => {
+    clearUserPicks(data);
     setData(() => shuffleArray(data));
     setIsSimulationStarted(true);
     setIsSimulationFinished(false);
     setDisplayTotalScore(false);
-    setShowErrMode(() => setErrMode(selectedErrMode)); //get this value true or false from localStorage
     setQuestionNumber(0);
+    setTimeout(() => {
+      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }, 0);
   };
 
   const handleEndSimulation = () => {
     totalScore.current = calculateScore(data);
-    setShowErrMode(true);
     setDisplayTotalScore(true);
     setIsSimulationFinished(true);
   };
@@ -98,11 +112,17 @@ const Home = () => {
   const handleDecrementQuestionNum = () => {
     if (questionNumber <= 0) return;
     setQuestionNumber((prev) => prev - 1);
+    setTimeout(() => {
+      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }, 0);
   };
 
   const handleIncrementQuestionNum = () => {
     if (questionNumber >= data.length - 1) return;
     setQuestionNumber((prev) => prev + 1);
+    setTimeout(() => {
+      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }, 0);
   };
 
   return (
@@ -113,18 +133,21 @@ const Home = () => {
             {' '}
             <DropDownMenu
               title='category'
-              options={['antropology', 'methodology']}
+              options={categoryOptions}
+              selectedOption={selectedCategory}
               setSelectedOption={setSelectedCategory}
             />
             <DropDownMenu
               title='questions'
-              options={['exam(30)', 'all']}
+              options={questionNumOptions}
               setSelectedOption={setSelectedQuestionsNum}
+              selectedOption={selectedQuestionsNum}
             />
             <DropDownMenu
               title='erros'
-              options={['show', 'hide']}
+              options={errorModeOptions}
               setSelectedOption={setSelectedErrMode}
+              selectedOption={selectedErrMode}
             />
           </>
         )}
@@ -136,6 +159,17 @@ const Home = () => {
               start simulation
             </StyledButton>
           </>
+        )}
+
+        {!isSimulationFinished && isSimulationStarted && (
+          <StyledButton onClick={handleEndSimulation}>
+            end simulation
+          </StyledButton>
+        )}
+        {isSimulationFinished && isSimulationStarted && (
+          <StyledButton onClick={() => setIsSimulationStarted(false)}>
+            start new simulation
+          </StyledButton>
         )}
 
         {isSimulationStarted && (
@@ -156,10 +190,11 @@ const Home = () => {
                       options={v.options}
                       correctAnswer={v.correctAnswer}
                       userPick={v.userPick}
-                      showErrMode={showErrMode}
+                      showErrMode={errorMode[`${selectedErrMode}`]}
                       isSimulationFinished={isSimulationFinished}
                       setUserPick={setData}
                       displayTotalScore={displayTotalScore}
+                      handleIncrementQuestionNum={handleIncrementQuestionNum}
                     />
                   );
                 })
@@ -170,8 +205,6 @@ const Home = () => {
                   onClick={handleDecrementQuestionNum}
                   style={arrowStyle}
                 />
-
-                {/*   <StyledButton>end simulation</StyledButton> */}
 
                 <FaLongArrowAltRight
                   onClick={handleIncrementQuestionNum}
@@ -184,29 +217,24 @@ const Home = () => {
                 </ScoreContainer>
               )}
             </div>
-            {!isSimulationFinished && (
-              <StyledButton onClick={handleEndSimulation}>
-                end simulation
-              </StyledButton>
-            )}
-            {isSimulationFinished && (
-              <StyledButton onClick={() => setIsSimulationStarted(false)}>
-                start new simulation
-              </StyledButton>
-            )}
           </>
         )}
       </MainContainer>
+      <BottomDiv ref={bottomRef} />
     </>
   );
 };
 
 export default Home;
 
+const BottomDiv = styled.div`
+  border: 2px solid #131313;
+`;
+
 const arrowStyle = {
-  fontSize: '3rem',
-  marginRight: '20px',
-  marginLeft: '20px',
+  fontSize: '3.2rem',
+  marginRight: '45px',
+  marginLeft: '45px',
   cursor: 'pointer',
 };
 

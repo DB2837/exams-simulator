@@ -1,0 +1,1850 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "question": " Che cos'è la psicologia ingenua?",
+      "options": [
+        "Indica la psicologia positiva ",
+        "Indica la psicologia generale ",
+        "L'insieme di tutte quelle conoscenze psicologiche derivanti dal \"buon senso\" e costruite a partire da conoscenze parziali e/o generiche esperienze passate ",
+        "Indica genericamente tutte le psicologie che si sono sviluppate a partire dalla fine dell'ottocento fino all'avvento della neuroimmagine e della conoscenze di neuropsicologia "
+      ],
+      "correctAnswer": "L'insieme di tutte quelle conoscenze psicologiche derivanti dal \"buon senso\" e costruite a partire da conoscenze parziali e/o generiche esperienze passate "
+    },
+    {
+      "id": 2,
+      "question": " Tra gli errori di attribuzione o biases non ritroviamo?",
+      "options": [
+        "L'errore del falso consenso ",
+        "L'errore condizionale ",
+        "L'errore fondamentale ",
+        "L'errore di self-serving "
+      ],
+      "correctAnswer": "L'errore condizionale "
+    },
+    {
+      "id": 3,
+      "question": " A quale scopo gli individui utilizzano i processi di attribuzione causale?",
+      "options": [
+        "Per individuare le responsabilità individuali nelle dinamiche di gruppo ",
+        "Per supportare l'utilizzo del pensiero logico-scientifico ",
+        "Nessuna delle altre alternative ",
+        "Per trovare delle spiegazioni sia al proprio che all'altrui comportamento "
+      ],
+      "correctAnswer": "Per trovare delle spiegazioni sia al proprio che all'altrui comportamento "
+    },
+    {
+      "id": 4,
+      "question": " Un bambino di 11-12 mesi è in grado di capire la differenza tra un bicchiere vuoto e un bicchiere pieno?",
+      "options": [
+        "No, i bambini di 11-12 mesi non sono in grado di comprenderne la differenza poiché non hanno ancora chiara la funzione del bicchiere",
+        "Si, i bambini di 11-12 mesi sono perfettamente in grado di capirne la differenza.  Inoltre, sono in grado di discriminare anche tra un bicchiere che contiene poco liquido euno che ne contiene molto preferendo quest'ultimo.",
+        "No, i bambini di 11-12 mesi non sono in grado di comprenderne la differenza. Inoltre, non dimostrano di preferirne uno rispetto all'altro e cercano di bere da entrambi",
+        "Si, i bambini di 11-12 mesi sono perfettamente in grado di capirne la differenza "
+      ],
+      "correctAnswer": "No, i bambini di 11-12 mesi non sono in grado di comprenderne la differenza. Inoltre, non dimostrano di preferirne uno rispetto all'altro e cercano di bere da entrambi"
+    },
+    {
+      "id": 5,
+      "question": " Quale dei seguenti non è un errore attribuzionale compiuto dall'adulto nell'osservare lo sviluppo infantile?",
+      "options": [
+        "Interpretazione del solo resoconto verbale ",
+        "Interpretazione del solo stato emotivo ",
+        "Interpretazione dell'osservazione spontanea ",
+        "Interpretazione per similarità "
+      ],
+      "correctAnswer": "Interpretazione del solo stato emotivo "
+    },
+    {
+      "id": 6,
+      "question": " Perché l'utilizzo della parola meno rappresenta un problema per il bambino fino ai 4 anni?",
+      "options": [
+        "Perché la parola meno è legata all'operazione matematica della sottrazione che fa riferimento alla reversibilità del pensiero non ancora presente prima dei 4 anni ",
+        "Perché a differenza del termine più il bambino deve prendere in considerare la presenza di una qualità e allo stesso tempo negarne la presenza ",
+        "Perché il bambino fatica a distaccarsi dalla tendenza accumulativa del suo pensiero infantile ",
+        "Perché meno e più vengono capiti solo con l'inizio della scolarizzazione "
+      ],
+      "correctAnswer": "Perché a differenza del termine più il bambino deve prendere in considerare la presenza di una qualità e allo stesso tempo negarne la presenza "
+    },
+    {
+      "id": 7,
+      "question": " Tra le caratteristiche del LAD (Language Acquisition Device) troviamo",
+      "options": [
+        "Il fatto che sia appreso e specifico nel contesto ",
+        "Il fatto che sia appreso e universale ",
+        "Il fatto che sia innato e specifico per ogni lingua ",
+        "Il fatto che sia innato, universale ed alla base dell'apprendimento di ogni lingua "
+      ],
+      "correctAnswer": "Il fatto che sia innato, universale ed alla base dell'apprendimento di ogni lingua "
+    },
+    {
+      "id": 8,
+      "question": " L'approccio di Chomsky allo sviluppo linguistico è di tipo:",
+      "options": [
+        "Interattivo-cognitivista ",
+        "Ambientalista ",
+        "Psicanalitico ",
+        "Innatista "
+      ],
+      "correctAnswer": "Innatista "
+    },
+    {
+      "id": 9,
+      "question": " Secondo Gesell quale tra gli eventi elencati potrebbe alterare gli schemi maturazionali?",
+      "options": [
+        "Basso status socio-economico della famiglia ",
+        "Abilità cognitive borderline (QI compreso tra 70 e 85) ",
+        "Denutrizione ",
+        "Norme socio-culturali particolarmente ristrettive "
+      ],
+      "correctAnswer": "Denutrizione "
+    },
+    {
+      "id": 10,
+      "question": " Che idea di bambino, di sviluppo e di apprendimento caratterizza il comportamentismo?",
+      "options": [
+        "Il bambino è visto come individuo che agisce sull'ambiente fisico; lo sviluppo è possibile grazie all'esperienza che il bambino fa dell'ambiente, esperienza che gli permettedi costruirsi delle \"teorie\" su come funziona il mondo questa corrente di pensiero è focalizzata soprattutto su ciò che il bambino può fare in relazione all'ambiente, piuttostoche sull'influenza che l'ambiente può avere sul bambino ",
+        "Il bambino è considerato un essere dotato di intelligenza; si sviluppa grazie all'interazione tra organismo e ambiente, l'apprendimento procede per progressiveautoregolazioni e regolazioni interattive con il caregiver, che si pone nella sua zona di sviluppo prossimale questa corrente di pensiero pone attenzione a ciò che il bambinoapprende culturalmente e in co-costruzione con l'ambiente ",
+        "Il bambino è un essere pulsionale; si sviluppa passando attraverso stadi libidici, predefiniti in maniera innata nell'individuo e, in quanto tali, universali e costanti questacorrente di pensiero pone attenzione soprattutto all'espressione genetica di \"moduli\" cerebrali, che hanno caratteristiche innate ",
+        "Il bambino è considerato una tavoletta di cera e in quanto tale nel suo sviluppo è plasmabile, grazie ai rinforzi ambientali (modellamento) questa corrente di pensiero poneattenzione unicamente ai comportamenti e all'influenza dell'ambiente sul bambino, disinteressandosi dei processi "
+      ],
+      "correctAnswer": "Il bambino è considerato una tavoletta di cera e in quanto tale nel suo sviluppo è plasmabile, grazie ai rinforzi ambientali (modellamento) questa corrente di pensiero poneattenzione unicamente ai comportamenti e all'influenza dell'ambiente sul bambino, disinteressandosi dei processi "
+    },
+    {
+      "id": 11,
+      "question": " Quale approccio teorico identifica la psicologia dello sviluppo con la psicologia dell'apprendimento?",
+      "options": [
+        "Il comportamentismo ",
+        "Il funzionalismo",
+        " Il costruttivismo",
+        " Il cognitivismo "
+      ],
+      "correctAnswer": "Il comportamentismo "
+    },
+    {
+      "id": 12,
+      "question": " Per condizionamento operante si intende:",
+      "options": [
+        "Una modalità di apprendimento che prevede che i comportamenti appresi modifichino l'ambiente e vengano mantenuti dalle risposte che ricevono",
+        "Una modalità di apprendimento che prevede che i comportamenti appresi siano sollecitati dagli stimoli che li precedono",
+        "Una modalità di apprendimento che prevede che i comportamenti appresi siano frutto dell'osservazione di comportamenti compiuti da un altro individuo e delle relativeconseguenze sociali",
+        "Una modalità di apprendimento che prevede che i comportamenti vengano appresi grazie all'intervento di una figura esterna che agisca nella zona di sviluppo prossimale "
+      ],
+      "correctAnswer": "Una modalità di apprendimento che prevede che i comportamenti appresi modifichino l'ambiente e vengano mantenuti dalle risposte che ricevono"
+    },
+    {
+      "id": 13,
+      "question": " Nell'ottica dell'approccio costruttivista lo sviluppo cognitivo può essere definito come:",
+      "options": [
+        "Una serie di trasformazioni, ciascuna delle quali riflette un migliore equilibrio tra individuo e ambiente ",
+        "Una serie di trasformazioni determinate da stadi di sviluppo invarianti e culturalmente definiti ",
+        "Una serie di trasformazioni che passano attraverso diversi sistemi rappresentazionali ",
+        "Una serie di trasformazioni che attraverso cambiamenti solo quantitativi portano dal pensiero infantile al pensiero adulto "
+      ],
+      "correctAnswer": "Una serie di trasformazioni, ciascuna delle quali riflette un migliore equilibrio tra individuo e ambiente "
+    },
+    {
+      "id": 14,
+      "question": " Riferendoti all'approccio costruttivista allo sviluppo cognitivo quale delle seguenti affermazioni è da ritenersi falsa",
+      "options": [
+        "Le credenze e le conoscenze infantili non derivano da una predisposizione naturale ",
+        "Le credenze e le conoscenze infantili vanno incontro a modifiche sostanziali veloci ed improvvise ",
+        "Le credenze e le conoscenze infantili non rispecchiano i dati dell'esperienza ",
+        "Le credenze e le conoscenze infantili possono essere molto differenti da quelle dell'adulto e alle volte possono sembrare assurde e bizzarre "
+      ],
+      "correctAnswer": "Le credenze e le conoscenze infantili vanno incontro a modifiche sostanziali veloci ed improvvise "
+    },
+    {
+      "id": 15,
+      "question": " Per l'approccio organismico il concetto cardine della psicologia dello sviluppo è",
+      "options": [
+        "Il condizionamento ",
+        "L'equilibrio ",
+        "Lo scaffolding ",
+        "Il cambiamento "
+      ],
+      "correctAnswer": "Il cambiamento "
+    },
+    {
+      "id": 16,
+      "question": " L'utilizzo di conoscenze legate all'implicito procedurale viene superato",
+      "options": [
+        "...quando il bambino diviene in grado di utilizzare il pensiero riflessivo che gli consente di attribuire un senso e un significato esplicito a comportamenti ed eventi ",
+        "...quando il bambino diviene in grado di distinguere tra mezzi e fini ",
+        "...quando il bambino diviene in grado di regolare il suo stato emotivo e di comunicare con gli altri utilizzando un lessico emotivo appropriato ",
+        "...quando il bambino diviene in grado di utilizzare il pensiero logico che gli consente di distinguere tra causa e conseguenza aumentando la sua comprensione del mondoche lo circonda "
+      ],
+      "correctAnswer": "...quando il bambino diviene in grado di utilizzare il pensiero riflessivo che gli consente di attribuire un senso e un significato esplicito a comportamenti ed eventi "
+    },
+    {
+      "id": 17,
+      "question": " Cosa significa che Bruner sintetizza la visione della conoscenza secondo il pensiero di Piaget e di Vygotskij?",
+      "options": [
+        "Secondo Bruner spiegazione e comprensione sono due modalità di costruire significati di cui gli individui si avvalgono a seconda delle loro necessità ",
+        "Secondo Bruner spiegazione e comprensione sono due modalità di costruire significati di cui gli individui si avvalgono a seconda della fase dello sviluppo in cui si trovano ",
+        "Secondo Bruner spiegazione e comprensione sono due modalità di pensiero che solo lavorando in modo sequenziale possono consentire agli individui di arrivare apadroneggiare il mondo che li circonda ",
+        "Secondo Bruner spiegazione e comprensione sono due modalità di processare le informazioni il cui utilizzo dipende dalla cultura di appartenenza del soggetto "
+      ],
+      "correctAnswer": "Secondo Bruner spiegazione e comprensione sono due modalità di costruire significati di cui gli individui si avvalgono a seconda delle loro necessità "
+    },
+    {
+      "id": 18,
+      "question": " Il pensiero paradigmatico che per Bruner si contrappone al pensiero narrativo",
+      "options": [
+        "È una tipologia di pensiero che cerca di cogliere il significato degli eventi tramite la contestualizzazione poiché si tratta di un pensiero interpretativo che tiene conto sia delfenomeno, culturalmente situato, sia della soggettività degli attori ",
+        "È una tipologia di pensiero autistico ",
+        "È una tipologia di pensiero che cerca le cause generali ed universali dei fenomeni ",
+        "È una tipologia di pensiero che precede il pensiero ipotetico-deduttivo "
+      ],
+      "correctAnswer": "È una tipologia di pensiero che cerca le cause generali ed universali dei fenomeni "
+    },
+    {
+      "id": 19,
+      "question": " Quando si parla di sviluppo cognitivo spesso si fa riferimento al pensiero di tre grandi autori: Piaget, Vygotskij e Bruner quali sono le differenze, se ve nesono, nell'idea che questi autori hanno del bambino?",
+      "options": [
+        "Per tutti questi autori il bambino è essenzialmente epistemico e logico ",
+        "Per Piaget il bambino è epistemico e logico, mentre per Vygotskij e Bruner il bambino è culturale ",
+        "Per Piaget e Bruner il bambino è epistemico e logico, mentre per Vygotskij il bambino è esclusivamente culturale ",
+        "Per Piaget il bambino è epistemico e logico, per Vygotskij invece il bambino è culturale e infine per Bruner il bambino è rappresentazionale e narrativo "
+      ],
+      "correctAnswer": "Per Piaget il bambino è epistemico e logico, per Vygotskij invece il bambino è culturale e infine per Bruner il bambino è rappresentazionale e narrativo "
+    },
+    {
+      "id": 20,
+      "question": " I principali teorici dello sviluppo cognitivo sono:",
+      "options": [
+        "Vygotskij, Chomsky e Piaget",
+        "Piaget, Vygotskij e Chomsky ",
+        "Piaget, Vygotskij e Bandura ",
+        "Piaget, Vygotskij e Bruner "
+      ],
+      "correctAnswer": "Piaget, Vygotskij e Bruner "
+    },
+    {
+      "id": 21,
+      "question": " Quale relazione lega funzioni invarianti e strutture varianti secondo Piaget?",
+      "options": [
+        "Le strutture varianti sono costruite attraverso le funzioni invarianti ",
+        "Le funzioni invarianti sono costruite attraverso le strutture varianti ",
+        "Funzioni invarianti e strutture varianti sono espressioni della tendenza psicologica all'organizzazione ",
+        "Le funzioni invarianti precedono la comparsa delle strutture varianti "
+      ],
+      "correctAnswer": "Le strutture varianti sono costruite attraverso le funzioni invarianti "
+    },
+    {
+      "id": 22,
+      "question": " La metafora del giovane esploratore o scienziato fa riferimento al pensiero di:",
+      "options": ["Skinner ", "Vygotskij ", "Piaget ", "Chomsky "],
+      "correctAnswer": "Piaget "
+    },
+    {
+      "id": 23,
+      "question": " Nella teoria piagetiana, per accomodamento si intende",
+      "options": [
+        "Una strategia non adattiva di soluzione dei problemi ",
+        "La costruzione delle prime rappresentazioni mentali ",
+        "Lo sviluppo delle funzioni cognitive in base all'eredità biologica ",
+        "La modificazione degli schemi cognitivi in base agli stimoli esterni "
+      ],
+      "correctAnswer": "La modificazione degli schemi cognitivi in base agli stimoli esterni "
+    },
+    {
+      "id": 24,
+      "question": " Secondo Piaget lo sviluppo procede per stadi successivi che caratterizzano diversi e specifici periodi dell'età evolutiva nello specifico Piaget parla di:",
+      "options": [
+        "(1) sensomotorio: dalla nascita a circa 1 anno, (2) preoperatorio: da 1 a circa 3 anni, (3) operatorio concreto: da 3 anni a circa 10 anni, (4) operatorio formale: dai 10 anni in avanti ",
+        "(1) preoperatorio: dalla nascita circa 1 anno, (2) operatorio concreto: da 1 a circa 3 anni, (3) operatorio formale: da 3 anni a circa 10 anni, (4) operatorio metacognitivo: dai 10 anni in avanti ",
+        "(1) preoperatorio: dalla nascita a circa 2 anni, (2) operatorio concreto: da 2 a circa 6 anni, (3) operatorio formale: da 6 anni a circa 12 anni, (4) operatorio metacognitivo: dai 12 anni in avanti ",
+        "(1) sensomotorio: dalla nascita a circa 2 anni, (2) preoperatorio: da 2 a circa 6 anni, (3) operatorio concreto: da 6 anni a circa 12 anni, (4) operatorio formale: dai 12 anni inavanti "
+      ],
+      "correctAnswer": "(1) sensomotorio: dalla nascita a circa 2 anni, (2) preoperatorio: da 2 a circa 6 anni, (3) operatorio concreto: da 6 anni a circa 12 anni, (4) operatorio formale: dai 12 anni inavanti "
+    },
+    {
+      "id": 25,
+      "question": " Per Piaget l'intelligenza è:",
+      "options": [
+        "Il potenziale di apprendimento ",
+        "La capacità di adattarsi al proprio ambiente ",
+        "L'insieme di procedure e strategie per risolvere i problemi ",
+        "La forma più elevata di adattamento biologico "
+      ],
+      "correctAnswer": "La forma più elevata di adattamento biologico "
+    },
+    {
+      "id": 26,
+      "question": " Cosa distingue le cognizioni adulte dalle cognizioni infantili?",
+      "options": [
+        "Il livello di coscienza: quelle infantili sono implicite mentre quelle adulte sono coscienti. I bambini non sanno di sapere mentre gli adulti possono richiamare alla mente leloro rappresentazioni mentali quando ne hanno desiderio o necessità ",
+        "Le caratteristiche delle rappresentazioni: le rappresentazioni infantili sono legate al solo pensiero logico, le rappresentazioni adulte sono invece possibili a livello astratto eipotetico ",
+        "Il livello di coscienza: quelle infantili sono coscienti mentre quelle adulte sono implicite. I bambini non hanno ancora automatizzato le rappresentazioni del mondo, questo crea una differenza con gli adulti che possono contare su processi automatizzati che garantiscono risposte coerenti all'ambiente senza che sia necessario l'intervento di un controllo cosciente",
+        "Le caratteristiche delle rappresentazioni: le rappresentazioni infantili sono solo dominio-specifiche, mentre quelle adulte sono dominio-generale "
+      ],
+      "correctAnswer": "Il livello di coscienza: quelle infantili sono implicite mentre quelle adulte sono coscienti. I bambini non sanno di sapere mentre gli adulti possono richiamare alla mente leloro rappresentazioni mentali quando ne hanno desiderio o necessità "
+    },
+    {
+      "id": 27,
+      "question": " A quale età secondo Piaget il bambino riesce a rappresentarsi l'oggetto a trovarlo anche in seguito a spostamenti invisibili e soltanto inferiti?",
+      "options": [
+        "Tra i 6 e i 12 mesi ",
+        "Tra i 18 e i 24 mesi ",
+        "Tra i 12 e i 18 mesi ",
+        "Tra i 24 e i 36 mesi "
+      ],
+      "correctAnswer": "Tra i 18 e i 24 mesi "
+    },
+    {
+      "id": 28,
+      "question": " L'acquisizione del concetto di permanenza d'oggetto secondo Piaget caratterizza:",
+      "options": [
+        "Il passaggio tra stadio preoperatorio e stadio operatorio concreto ",
+        "Il passaggio tra stadio operatorio concreto e stadio operatorio formale ",
+        "Il passaggio tra stadio sensomotorio e stadio preoperatorio ",
+        "Il passaggio tra stadio sensomotorio e stadio operatorio concreto "
+      ],
+      "correctAnswer": "Il passaggio tra stadio sensomotorio e stadio preoperatorio "
+    },
+    {
+      "id": 29,
+      "question": " Che cosa distingue le reazioni circolari primarie dalle reazioni circolari secondarie, e queste ultime dalle reazioni circolari terziarie?",
+      "options": [
+        "Le prime sono dirette verso una persona/oggetto, le seconde verso situazioni/eventi legati alle esperienze dirette del soggetto, le terze verso delle rappresentazioni mentalidelle prime due ",
+        "Le prime sono dirette verso se stessi, le seconde verso le altre persone e le terze verso più persone contemporaneamente",
+        "Le prime sono dirette su se stessi, le seconde sul mondo esterno, le terze sono caratterizzate dall'applicazione sperimentale di schemi nuovi a situazioni e oggetti ",
+        "Le prime sono dirette verso una persona /oggetto, le seconde verso due persone/oggetti, le terze verso tre o più persone/oggetti "
+      ],
+      "correctAnswer": "Le prime sono dirette su se stessi, le seconde sul mondo esterno, le terze sono caratterizzate dall'applicazione sperimentale di schemi nuovi a situazioni e oggetti "
+    },
+    {
+      "id": 30,
+      "question": " \"Leggi il seguente scambio di battute tra un adulto e un bambino: \"Adulto: perché le nuvole si muovono? Bambino: perché vogliono andare a vedere postibelli! \"Secondo la teoria di Piaget questo tipo di risposta è tipica di un bambino che si trova nello stadio?\"",
+      "options": [
+        "Stadio preoperatorio ",
+        "Stadio sensomotorio ",
+        "Stadio operatorio concreto ",
+        "Stadio operatorio formale "
+      ],
+      "correctAnswer": "Stadio preoperatorio "
+    },
+    {
+      "id": 31,
+      "question": " A quale età secondo Piaget il bambino diviene capace di imitare anche a distanza di tempo un modello?",
+      "options": ["A 18 mesi ", "A 24 mesi ", "A 6 mesi ", "A 12 mesi "],
+      "correctAnswer": "A 24 mesi "
+    },
+    {
+      "id": 32,
+      "question": " Secondo Piaget quali tra i seguenti non è un comportamento che testimonia la presenza della funzione simbolica?",
+      "options": [
+        "Il gioco simbolico ",
+        "L'operazionalizzazione ",
+        "L'imitazione differita ",
+        "Il linguaggio "
+      ],
+      "correctAnswer": "L'operazionalizzazione "
+    },
+    {
+      "id": 33,
+      "question": " Nell'ambito della teoria di Piaget per operazione si intende:",
+      "options": [
+        "Una forma interiorizzata di azioni precedentemente sperimentate sul mondo fisico e reversibili ",
+        "L'azione manipolatoria che il bambino compie sulla realtà fisica per conoscere il mondo circostante ",
+        "Una competenza innata del bambino che gli premette di appropriarsi dell'esperienza che fa nella realtà ",
+        "L'immagine mentale che il bambino costruisce della realtà e che consente di immaginare l'oggetto "
+      ],
+      "correctAnswer": "Una forma interiorizzata di azioni precedentemente sperimentate sul mondo fisico e reversibili "
+    },
+    {
+      "id": 34,
+      "question": " Tra gli ostacoli all'uso delle operazioni mentali nello stadio preoperatorio di Piaget non ritroviamo",
+      "options": [
+        "Ragionamento prelogico ",
+        "L'egocentrismo ",
+        "La rigidità di pensiero ",
+        "L'ascetismo "
+      ],
+      "correctAnswer": "L'ascetismo "
+    },
+    {
+      "id": 35,
+      "question": " Il compito delle tre montagne viene utilizzato da Piaget per indagare:",
+      "options": [
+        "Il pensiero ipotetico-deduttivo ",
+        "La seriazione ",
+        "L'egocentrismo infantile ",
+        "La percezione visiva "
+      ],
+      "correctAnswer": "L'egocentrismo infantile "
+    },
+    {
+      "id": 36,
+      "question": " Nello stadio preoperatorio secondo Piaget:",
+      "options": [
+        "Il bambino si rappresenta mentalmente gli oggetti e può usare i simboli (le parole e le immagini mentali) ",
+        "Il bambino è capace di organizzare le conoscenze in modo sistematico e pensa in termini ipotetico-deduttivi ",
+        "Compare il pensiero logico e la capacità di compiere operazioni mentali (classificazione, seriazione, ecc)",
+        "Il bambino \"comprende\" il mondo in base a ciò che può fare con gli oggetti e con le informazioni sensoriali "
+      ],
+      "correctAnswer": "Il bambino si rappresenta mentalmente gli oggetti e può usare i simboli (le parole e le immagini mentali) "
+    },
+    {
+      "id": 37,
+      "question": " Il pensiero pre-operatorio è caratterizzato, secondo Piaget, da:",
+      "options": [
+        "L'utilizzo di reazioni circolari ",
+        "Egocentrismo, animismo, ragionamento rigido e pre-logico",
+        "Reversibilità, animismo, finalismo, ragionamento rigido e pre-logico",
+        "Scarso utilizzo dei simboli e dei sistemi di simboli, artificialismo, egocentrismo, realismo, schemi motori combinati"
+      ],
+      "correctAnswer": "Egocentrismo, animismo, ragionamento rigido e pre-logico"
+    },
+    {
+      "id": 38,
+      "question": " Nella concezione stadiale di Piaget, il passaggio dal primo al secondo stadio di sviluppo è determinato:",
+      "options": [
+        "Dall'interiorizzazione di forme culturali ",
+        "Dal progressivo sviluppo della capacità di conoscere il mondo attraverso le azioni svolte su di esso (reazioni circolari primarie, secondarie e terziarie) ",
+        "Dalla capacità di svolgere alcune operazioni mentali di tipo reversibile (che segnano la genesi del pensiero logico) ",
+        "Dall'avvento dell'attività rappresentativa: utilizzo di simboli, parole, immagini che rappresentano altre cose "
+      ],
+      "correctAnswer": "Dall'avvento dell'attività rappresentativa: utilizzo di simboli, parole, immagini che rappresentano altre cose "
+    },
+    {
+      "id": 39,
+      "question": " Egocentrismo, animismo, rigidità e ragionamento prelogico sono ostacoli alle forme di pensiero tipiche dell'adulto che caratterizzano:",
+      "options": [
+        "Il bambino da 7 a 11 anni circa ",
+        "Il bambino da 0 a 2 anni circa ",
+        "Il bambino da 2 a 7 anni circa ",
+        "Il bambino oltre gli 11 anni "
+      ],
+      "correctAnswer": "Il bambino da 2 a 7 anni circa "
+    },
+    {
+      "id": 40,
+      "question": " Il pensiero operatorio concreto è caratterizzato da:",
+      "options": [
+        "Capacità di formulare concretamente dei pensieri e di esprimerli con il linguaggio ",
+        "Capacità di compiere operazioni mentali caratterizzate da reversibilità ",
+        "Capacità di compiere operazioni concrete sulla realtà (manipolare la realtà e modificarla) ",
+        "Capacità di formulare pensieri di tipo ipotetico-deduttivo "
+      ],
+      "correctAnswer": "Capacità di compiere operazioni mentali caratterizzate da reversibilità "
+    },
+    {
+      "id": 41,
+      "question": " In quale stadio secondo Piaget il bambino acquisisce i principi di conservazione, seriazione e classificazione",
+      "options": [
+        "Operatorio formale ",
+        "Preoperatorio ",
+        "Operatorio concreto ",
+        "Sensomotorio "
+      ],
+      "correctAnswer": "Operatorio concreto "
+    },
+    {
+      "id": 42,
+      "question": " Secondo Piaget la transizione tra il secondo e il terzo stadio dello sviluppo cognitivo da quale acquisizione è caratterizzata?",
+      "options": [
+        "Dall'acquisizione della funzione simbolica ",
+        "Dall'acquisizione della conservazione ",
+        "Dall'acquisizione del pensiero trasduttivo ",
+        "Dall'acquisizione del pensiero ipotetico-deduttivo "
+      ],
+      "correctAnswer": "Dall'acquisizione della conservazione "
+    },
+    {
+      "id": 43,
+      "question": " Nello stadio operatorio concreto, secondo Piaget",
+      "options": [
+        "Il bambino si rappresenta mentalmente gli oggetti e può usare i simboli (le parole e le immagini mentali) ",
+        "Compare il pensiero logico e la capacità di compiere operazioni mentali (classificazione, seriazione, ecc.)",
+        "Il bambino è capace di organizzare le conoscenze in modo sistematico e pensa in termini ipotetico-deduttivi ",
+        "Il bambino \"comprende\" il mondo in base a ciò che può fare con gli oggetti e con le informazioni sensoriali "
+      ],
+      "correctAnswer": "Compare il pensiero logico e la capacità di compiere operazioni mentali (classificazione, seriazione, ecc.)"
+    },
+    {
+      "id": 44,
+      "question": " \"Leggi la seguente descrizione: \"A un bambino vengono presentate due palline di plastilina della stessa dimensione e gli si chiede in quale delle due ci sia più plastilina.  Quando gli è chiaro che le due palline sono uguali si procede a creare un cilindro lungo e stretto utilizzando una delle due palline.  Al termine dell'operazione gli si chiede nuovamente in quale delle due ci sia più plastilina.  \"Di cosa si tratta?\"",
+      "options": [
+        "Una prova di classificazione ",
+        "Una prova di seriazione ",
+        "Una prova di conservazione ",
+        "Una prova di pianificazione "
+      ],
+      "correctAnswer": "Una prova di conservazione "
+    },
+    {
+      "id": 45,
+      "question": " Gli adolescenti hanno sviluppato delle capacità cognitive che gli consentono di",
+      "options": [
+        "Riconoscere se la persona con cui interagiscono sta mentendo (intelligenza emotiva) ",
+        "Attribuire validità ai principi morali sulla base dell'autorità che li ha sanciti e dalla forza con cui vengono fatti rispettare (morale eteronoma) ",
+        "Fare ipotesi e deduzioni (pensiero operatorio formale) ",
+        "Superare la crisi che Erickson definisce di \"generatività-stagnazione\", attraverso forme di produttività e creatività (compiti di sviluppo) "
+      ],
+      "correctAnswer": "Fare ipotesi e deduzioni (pensiero operatorio formale) "
+    },
+    {
+      "id": 46,
+      "question": " Il pensiero ipotetico-deduttivo, tipico del pensiero formale, è caratterizzato da:",
+      "options": [
+        "Operazioni logiche che individuano conseguenze appropriate basandosi su premesse che riguardano contenuti precedentemente sperimentati in modo concreto ",
+        "Operazioni concrete messe in atto in modo sperimentale sul reale, che definisce la relazione premesse conseguenze attraverso un processo di prove ed errori ",
+        "Operazioni trasduttive che permettono al bambino un pensiero di tipo postconvenzionale ",
+        "Operazioni logiche che sulla base di premesse ipotetiche individuano le conseguenze appropriate "
+      ],
+      "correctAnswer": "Operazioni logiche che sulla base di premesse ipotetiche individuano le conseguenze appropriate "
+    },
+    {
+      "id": 47,
+      "question": " Perché lo stadio di sviluppo così come è inteso nell'accezione di Piaget non può più essere considerato un approccio teorico valido ed utilizzabile?",
+      "options": [
+        "Perché non è condivisibile l'idea che alcune acquisizioni ne preparino altre ",
+        "Perché lo sviluppo non procede per salti qualitativi che si ripropongono in tutti gli individui ",
+        "Perché non è possibile ritrovare una sequenzialità nello sviluppo ",
+        "Perché gli stadi sono strutture globali e dotate di coerenza interna "
+      ],
+      "correctAnswer": "Perché gli stadi sono strutture globali e dotate di coerenza interna "
+    },
+    {
+      "id": 48,
+      "question": " All'interno delle critiche al lavoro di Piaget qual è una delle possibili interpretazioni del fallimento delle prove di conservazione da parte dei bambini?",
+      "options": [
+        "Alla seconda domanda il bambino potrebbe cambiare la sua risposta perché pensa che se gli viene chiesto nuovamente di rispondere probabilmente la mia prima rispostaera sbagliata ",
+        "Alla seconda domanda il bambino potrebbe non cambiare la sua risposta a causa della permanenza di una certa rigidità di pensiero ",
+        "Alla seconda domanda il bambino potrebbe cambiare la sua risposta perché ingannato dalla percezione visiva ancora immatura ",
+        "Alla seconda domanda il bambino potrebbe non cambiare la sua risposta a causa di un comportamento oppositivo tipico di questa fascia d'età "
+      ],
+      "correctAnswer": "Alla seconda domanda il bambino potrebbe cambiare la sua risposta perché pensa che se gli viene chiesto nuovamente di rispondere probabilmente la mia prima rispostaera sbagliata "
+    },
+    {
+      "id": 49,
+      "question": " Secondo Vygotskij lo sviluppo cognitivo così come il linguaggio",
+      "options": [
+        "A differenza del linguaggio deve passare dall'intramentale all'intermentale ",
+        "Così come il linguaggio deve passare dall'intermentale all'intramentale ",
+        "A differenza del linguaggio deve passare dall'intermentale all'intramentale ",
+        "Così come il linguaggio deve passare dall'intramentale all'intermentale "
+      ],
+      "correctAnswer": "Così come il linguaggio deve passare dall'intermentale all'intramentale "
+    },
+    {
+      "id": 50,
+      "question": " Per Vygotskij l'intelligenza è:",
+      "options": [
+        "La forma più elevata di adattamento biologico ",
+        "Il potenziale di apprendimento ",
+        "Insieme di procedure e strategie per risolvere i problemi ",
+        "La capacità di adattarsi al proprio ambiente "
+      ],
+      "correctAnswer": "Il potenziale di apprendimento "
+    },
+    {
+      "id": 51,
+      "question": " Il modello che fa da cornice alla teoria vygotskijana dello sviluppo cognitivo:",
+      "options": [
+        "È definita psicoanalisi e si occupa di analizzare la vita intrapsichica dell'individuo ",
+        "È definito comportamentismo e prevede che l'individuo apprenda attraverso un meccanismo di associazione stimolo-risposta ",
+        "È definito costruttivismo sociale e ipotizza che lo sviluppo cognitivo derivi da una partecipazione attiva in un ambiente sociale ",
+        "È definito costruttivismo prevede che l'individuo sia attivo esploratore dell'ambiente fisico "
+      ],
+      "correctAnswer": "È definito costruttivismo sociale e ipotizza che lo sviluppo cognitivo derivi da una partecipazione attiva in un ambiente sociale "
+    },
+    {
+      "id": 52,
+      "question": " Cos'è la zona di sviluppo prossimale?",
+      "options": [
+        "È il tempo che il bambino impiega ad apprendere una nuova conoscenza, quando sostenuto da un tutor (ad es. Il genitore o l'insegnante o un compagno più esperto) ",
+        "È la distanza tra il livello effettivo e il livello potenziale (sostenuto da una guida) di sviluppo ",
+        "È lo spazio che intercorre tra il bambino e il suo caregiver ",
+        "La distanza tra il livello di conoscenza attuale e quello della conoscenza passata "
+      ],
+      "correctAnswer": "È la distanza tra il livello effettivo e il livello potenziale (sostenuto da una guida) di sviluppo "
+    },
+    {
+      "id": 53,
+      "question": " All'interno dello studio dello sviluppo cognitivo cosa rappresenta lo scaffolding?",
+      "options": [
+        "Il processo grazie al quale gli adulti offrono aiuto al bambino nella soluzioni dei problemi, adattando i loro interventi alle sue capacità ",
+        "La capacità di rappresentarsi e di condividere con l'interlocutore le conoscenze sul mondo e sulla persona ",
+        "Il processo mentale grazie al quale l'individuo incorpora nuove esperienze relazionali nelle proprie rappresentazioni mentali ",
+        "La caratteristica centrale che definisce lo stile di attaccamento sicuro, per cui il bambino sa di poter contare sulla madre e per questo può allontanarsi con sicurezza da leiper esplorare l'ambiente "
+      ],
+      "correctAnswer": "Il processo grazie al quale gli adulti offrono aiuto al bambino nella soluzioni dei problemi, adattando i loro interventi alle sue capacità "
+    },
+    {
+      "id": 54,
+      "question": " Secondo Vygotskij, l'individuo che apprende:",
+      "options": [
+        "È inizialmente eteroregolato e passa con il tempo e l'esperienza ad un processo di tipo autoregolato ",
+        "È inizialmente autoregolato e passa con il tempo e l'esperienza ad un processo di tipo eteroregolato ",
+        "A seconda del modello di apprendimento può essere inizialmente autoregolato o eteroregolato ",
+        "Mantiene sempre e solo un'autoregolazione perché il processo di apprendimento è una funzione intrapersonale "
+      ],
+      "correctAnswer": "È inizialmente eteroregolato e passa con il tempo e l'esperienza ad un processo di tipo autoregolato "
+    },
+    {
+      "id": 55,
+      "question": " La metafora del giovane apprendista fa riferimento al pensiero di:",
+      "options": ["Vygotskij ", "Piaget ", "Skinner ", "Bruner "],
+      "correctAnswer": "Vygotskij "
+    },
+    {
+      "id": 56,
+      "question": " Quale delle seguenti non è una critica mossa alla teoria di Vygotskij?",
+      "options": [
+        "Non ha sviluppato una teoria realmente evolutiva ",
+        "Ha dato troppa importanza agli aspetti emotivi dello sviluppo ",
+        "Non ha considerato l'influenza dei processi che sottostanno all'apprendimento (come le capacità percettive, attentive, mnemoniche) Variano con l'età e influenzano l'interazione con gli altri",
+        "Ha considerato maggiormente l'adulto e le influenze socio-culturale, piuttosto che il bambino e il suo apporto soggettivo allo sviluppo "
+      ],
+      "correctAnswer": "Ha dato troppa importanza agli aspetti emotivi dello sviluppo "
+    },
+    {
+      "id": 57,
+      "question": " Quale delle seguenti non è una fase di progressione attraverso la zona di sviluppo prossimale?",
+      "options": [
+        "La prestazione è controllata dal bambino ",
+        "La prestazione è pianificata ",
+        "La prestazione è controllata dall'adulto/esperto ",
+        "La prestazione è automatizzata "
+      ],
+      "correctAnswer": "La prestazione è pianificata "
+    },
+    {
+      "id": 58,
+      "question": " Qual è la miglior definizione del concetto di tutoring efficace riferendosi al contributo di Rogoff",
+      "options": [
+        "Procedura grazie alla quale gli adulti aiutano i bambini ad acquisire varie conoscenze mediante la collaborazione in situazioni di problem-solving e in una vasta gamma diinterazioni casuali e informali ",
+        "Procedura grazie alla quale, in un gruppo di pari, il più esperto fornisce indicazioni affinché il novizio possa adeguatamente partecipare in un contesto di apprendimento strutturato",
+        "Procedura grazie alla quale l'adulto fornisce al bambino tutte le informazioni necessarie e sufficienti ad essere un membro attivo della sua comunità di apprendimento ",
+        "Procedura grazie alla quale i bambini acquisiscono attraverso attività pratiche standardizzate i principi del sapere necessari per la loro corretta evoluzione "
+      ],
+      "correctAnswer": "Procedura grazie alla quale gli adulti aiutano i bambini ad acquisire varie conoscenze mediante la collaborazione in situazioni di problem-solving e in una vasta gamma diinterazioni casuali e informali "
+    },
+    {
+      "id": 59,
+      "question": " Nello studio dello sviluppo cognitivo uno dei maggiori contributi è stato dato da Bruner, uno studioso dello sviluppo recentemente scomparso. Il pensiero diquesto autore si differenzia da quello di Piaget e di Vygotskij per l'accento posto su capacità infantili differenti.  Nello specifico Bruner ritiene che per acquisireun pensiero maturo il bambino debba necessariamente passare attraverso",
+      "options": [
+        "La capacità di narrare e mentalizzare, che si sviluppa intorno agli 8 anni ",
+        "Tre forme di rappresentazione: esecutiva, iconica e simbolica ",
+        "Uno stadio di sviluppo psicosessuale, caratterizzato da invidia per il genitore del proprio sesso e attrazione per il genitore del sesso opposto ",
+        "Alcune fasi che lo porteranno a codificare le informazioni provenienti dall'ambiente, similmente a un computer "
+      ],
+      "correctAnswer": "Tre forme di rappresentazione: esecutiva, iconica e simbolica "
+    },
+    {
+      "id": 60,
+      "question": " In che senso si può dire che Vygotskij aderisce al pensiero del razionalismo illuministico?",
+      "options": [
+        "Riconoscendo l'importanza dell'astrazione: ai suoi livelli di sviluppo intellettivo più alto l'individuo diviene in grado di occuparsi di questioni filosofico-esistenziali ",
+        "Riconoscendo l'importanza dell'eterogeneità del funzionamento mentale: i passaggi precedenti dello sviluppo del pensiero non vengono abbandonati, ma sono conservati eritornare ad essi significa regredire ",
+        "Riconoscendo l'importanza dell'influenza sociale: nel passaggio dalla realtà intrapersonale a quella interpersonale l'individuo costruisce il suo sviluppo intellettuale ",
+        "Riconoscendo l'importanza dell'equilibrio del funzionamento mentale: le acquisizioni fatte dal bambino devono tendere a garantire l'equilibrio del sistema razionale "
+      ],
+      "correctAnswer": "Riconoscendo l'importanza dell'eterogeneità del funzionamento mentale: i passaggi precedenti dello sviluppo del pensiero non vengono abbandonati, ma sono conservati eritornare ad essi significa regredire "
+    },
+    {
+      "id": 61,
+      "question": " Nel definire la direzione dello sviluppo possiamo affermare che",
+      "options": [
+        "Per Piaget lo sviluppo procede verso l'esteriorizzazione, mentre per Vygotskij procede verso l'interiorizzazione ",
+        "Per Piaget lo sviluppo procede verso l'interiorizzazione, mentre per Vygotskij procede verso l'esteriorizzazione ",
+        "Per Piaget e Vygotskij lo sviluppo procede verso l'interiorizzazione ",
+        "Per Piaget e Vygotskij lo sviluppo procede verso l'esteriorizzazione "
+      ],
+      "correctAnswer": "Per Piaget lo sviluppo procede verso l'esteriorizzazione, mentre per Vygotskij procede verso l'interiorizzazione "
+    },
+    {
+      "id": 62,
+      "question": " Parlando di Piaget e Vygotskij e delle loro teorie si può dire che",
+      "options": [
+        "Entrambi gli autori accolgono la posizione del soggettivismo ",
+        "Entrambi gli autori accolgono la posizione dell'oggettivismo ",
+        "Piaget accoglie la posizione dell'oggettivismo, mentre Vygotskij quella del soggettivismo ",
+        "Entrambi gli autori rifiutano sia l'oggettivismo che il soggettivismo delle teorie psicologiche "
+      ],
+      "correctAnswer": "Entrambi gli autori rifiutano sia l'oggettivismo che il soggettivismo delle teorie psicologiche "
+    },
+    {
+      "id": 63,
+      "question": " L'approccio allo sviluppo cognitivo di Piaget e Vygotskij, all'interno di quale quadro concettuale di riferimento si collocano?",
+      "options": [
+        "Comportamentismo ",
+        "Approccio ecologico ",
+        "Organicismo",
+        "Psicologia culturale "
+      ],
+      "correctAnswer": "Organicismo"
+    },
+    {
+      "id": 64,
+      "question": " Quale tra le seguenti affermazioni sulla rappresentazione esecutiva teorizzata da Bruner è falsa",
+      "options": [
+        "È caratterizzata da programmi motori in cui c'è rappresentazione dello scopo e degli atti da compiere per raggiungere lo scopo ",
+        "È la forma di rappresentazione esclusiva nel primo anno di vita e viene abbandonata in età adulta ",
+        "È la prima forma di rappresentazione individuata ",
+        "Permette di codificare la realtà attraverso l'azione "
+      ],
+      "correctAnswer": "È la forma di rappresentazione esclusiva nel primo anno di vita e viene abbandonata in età adulta "
+    },
+    {
+      "id": 65,
+      "question": " Quali sono per Bruner le tre forme di rappresentazione?",
+      "options": [
+        "Esecutiva, iconica, simbolica ",
+        "Metaforica, evocativa, pratica ",
+        "Linguistica, grafica, procedurale ",
+        "Narrativa, descrittiva, espressiva "
+      ],
+      "correctAnswer": "Esecutiva, iconica, simbolica "
+    },
+    {
+      "id": 66,
+      "question": " Secondo Bruner la sequenza dei sistemi di codifica delle informazioni che si sviluppa nel bambino è:",
+      "options": [
+        "Codifiche permesse dalle azioni; codifiche simboliche; codifiche iconiche ",
+        "Codifiche permesse dai sensi; codifiche permesse dalle azioni; codifiche simboliche ",
+        "Codifiche permesse dai sensi; codifiche permesse dalle azioni; codifiche iconiche ",
+        "Codifiche permesse dalle azioni; codifiche iconiche; codifiche simboliche "
+      ],
+      "correctAnswer": "Codifiche permesse dalle azioni; codifiche iconiche; codifiche simboliche "
+    },
+    {
+      "id": 67,
+      "question": " Secondo Bruner, per arrivare ad acquisire un pensiero maturo, il bambino passa attraverso alcune forme di rappresentazione:",
+      "options": [
+        "Rappresentazione pre-cognitiva (ovvero una rappresentazione emotiva), sub-simbolica (basata su rappresentazioni per immagini) e simbolizzata (utilizzo del linguaggio) ",
+        "Rappresentazione esecutiva (la realtà è codificata attraverso l'azione), iconica (si basa sull'immagine) e simbolica (utilizzo di sistemi simbolici come linguaggio, musica, numeri) ",
+        "Rappresentazione egocentrica e rappresentazione sociale (il passaggio dall'una all'altra avviene grazie all'attività di interiorizzazione) ",
+        "Rappresentazione intenzionale (comprensione che le proprie azioni influenzano l'altro), preverbale (emozioni e intenzioni si integrano nella comprensione della realtà) esimbolica (simbolizzazione di pensieri ed emozioni attraverso le parole) "
+      ],
+      "correctAnswer": "Rappresentazione esecutiva (la realtà è codificata attraverso l'azione), iconica (si basa sull'immagine) e simbolica (utilizzo di sistemi simbolici come linguaggio, musica, numeri) "
+    },
+    {
+      "id": 68,
+      "question": " Secondo Bruner il superamento della rappresentazione di tipo iconico in favore di una rappresentazione di tipo simbolico è alla base della capacità:",
+      "options": [
+        "Tipiche della ToM (teoria della mente) in cui l'inferenza gioca un ruolo fondamentale nel permettere al bambino di interpretare il mondo interno dell'altro ",
+        "Tipiche di una visione della realtà che va al di là dell'informazione data e consente di formulare inferenze e aspettative ",
+        "Tipiche delle stereotipizzazioni che avvengono a seguito dell'acquisizione da parte del bambino della capacità di categorizzazione e seriazione ",
+        "Tipiche dell'età adulta di utilizzare e contestualizzare simboli e procedure (come la gestione della valuta monetaria, i cartelli stradali, le indicazioni di tossicità opericolosità) indispensabili per poter intessere rapporti all'interno della cultura/società di appartenenza "
+      ],
+      "correctAnswer": "Tipiche di una visione della realtà che va al di là dell'informazione data e consente di formulare inferenze e aspettative "
+    },
+    {
+      "id": 69,
+      "question": " Con il suo lavoro Bruner",
+      "options": [
+        "Ha identificato la zona di sviluppo prossimale ",
+        "Ha proposto che, nel processo di acquisizione del pensiero maturo, il bambino passi attraverso tre forme di rappresentazione: esecutiva, iconica e simbolica ",
+        "Ha messo in luce le componenti innate dell'attaccamento ",
+        "Ha evidenziato il ruolo della categorizzazione nello sviluppo cognitivo "
+      ],
+      "correctAnswer": "Ha proposto che, nel processo di acquisizione del pensiero maturo, il bambino passi attraverso tre forme di rappresentazione: esecutiva, iconica e simbolica "
+    },
+    {
+      "id": 70,
+      "question": " Il linguaggio per Bruner è:",
+      "options": [
+        "Una forma di immaginazione, tipica della rappresentazione iconica (che si sviluppa dopo la rappresentazione esecutiva) ",
+        "Una forma di rappresentazione del mondo e in quanto tale è parte integrante del pensiero ",
+        "Una forma di comunicazione e in quanto tale precede la capacità di pensiero ",
+        "Una forma di pensiero rivolto a se stessi, cioè egocentrico "
+      ],
+      "correctAnswer": "Una forma di rappresentazione del mondo e in quanto tale è parte integrante del pensiero "
+    },
+    {
+      "id": 71,
+      "question": " Nella fase di rappresentazione esecutiva, secondo Bruner:",
+      "options": [
+        "La realtà è codificata attraverso le immagini visive, uditive, olfattive o tattili ",
+        "La realtà è codificata attraverso segni convenzionali che consentono il ragionamento astratto ",
+        "La realtà è codificata attraverso l'interiorizzazione dell'azione compiuta sull'oggetto reale ",
+        "La realtà è codificata attraverso forme di pensiero complesso che collegano gli schemi d'azione e le rappresentazioni percettive "
+      ],
+      "correctAnswer": "La realtà è codificata attraverso l'interiorizzazione dell'azione compiuta sull'oggetto reale "
+    },
+    {
+      "id": 72,
+      "question": " Per Bruner l'intelligenza è:",
+      "options": [
+        "La forma più elevata di adattamento biologico ",
+        "La capacità di adattarsi al proprio ambiente ",
+        "Il potenziale di apprendimento",
+        "L'insieme di procedure e strategie per risolvere i problemi "
+      ],
+      "correctAnswer": "L'insieme di procedure e strategie per risolvere i problemi "
+    },
+    {
+      "id": 73,
+      "question": " Che cos'è il compito di vera credenza?",
+      "options": [
+        "Un paradigma per la valutazione della teoria della mente ",
+        "Un paradigma per la valutazione dell'attaccamento ",
+        "Un paradigma per la valutazione dello sviluppo emotivo ",
+        "Un paradigma per la valutazione dello sviluppo morale "
+      ],
+      "correctAnswer": "Un paradigma per la valutazione della teoria della mente "
+    },
+    {
+      "id": 74,
+      "question": " All'interno dello studio della teoria della mente",
+      "options": [
+        "Lo scaffolding riveste un ruolo fondamentale ",
+        "L'animismo riveste un ruolo fondamentale ",
+        "Gli stati mentali considerati fondamentale per l'interpretazione del comportamento degli individui sono le loro credenze ",
+        "Gli stati mentali considerati fondamentali per l'interpretazione del comportamento degli individui sono le loro credenze e i loro desideri "
+      ],
+      "correctAnswer": "Gli stati mentali considerati fondamentali per l'interpretazione del comportamento degli individui sono le loro credenze e i loro desideri "
+    },
+    {
+      "id": 75,
+      "question": " Nella teoria della mente",
+      "options": [
+        "Le credenze e i desideri causano sia le azioni che le reazioni emotive congruenti con i risultati delle azioni che gli individui compiono ",
+        "Le credenze causano le azioni e i desideri causano le reazioni emotive congruenti con i risultati delle azioni che gli individui compiono ",
+        "I desideri causano le azioni e le credenze causano le reazioni emotive congruenti con i risultati delle azioni che gli individui compiono ",
+        "Non viene considerata adattiva la capacità del bambino di comprendere che le azioni possono essere determinate da credenze erronee "
+      ],
+      "correctAnswer": "Le credenze e i desideri causano sia le azioni che le reazioni emotive congruenti con i risultati delle azioni che gli individui compiono "
+    },
+    {
+      "id": 76,
+      "question": " La teoria della mente si riferisce alla capacità di attribuire agli altri desideri, credenze e intenzioni.  Ad oggi, la maggior parte degli studiosi concordanell'affermare che la presenza di una teoria della mente si possa collocare intorno ai:",
+      "options": ["3-4 anni ", "5-6 anni ", "2 anni ", "6 anni "],
+      "correctAnswer": "3-4 anni "
+    },
+    {
+      "id": 77,
+      "question": " \"Leggi il seguente dialogo: Giulia: Mamma, voglio il gelato Mamma: No, prima devi finire di mangiare quello che hai nel Piatto Giulia: ma io lo voglio, adesso vado a prenderlo Può essere considerato un esempio di:\"",
+      "options": [
+        "Artificialismo ",
+        "Animismo ",
+        "Pensiero trasduttivo ",
+        "Psicologia del desiderio "
+      ],
+      "correctAnswer": "Psicologia del desiderio "
+    },
+    {
+      "id": 78,
+      "question": " \"Leggi il seguente dialogo: Mamma: Andrea, hai fatto male a Luca! Perché l'hai fatto? Andrea: Perché Luca è cattivo, voleva rompere il mio treninoMamma: Pensi che Luca l'abbia fatto apposta? Andre: Sì, penso che Luca è cattivo Può essere considerato un esempio di:\"",
+      "options": [
+        "Psicologia del desiderio ",
+        "Psicologia del desiderio/credenza ",
+        "Animismo ",
+        "Pensiero trasduttivo "
+      ],
+      "correctAnswer": "Psicologia del desiderio/credenza "
+    },
+    {
+      "id": 79,
+      "question": " A quale età un bambino è generalmente in grado di risolvere un compito di falsa credenza di II ordine?",
+      "options": ["6-7 anni ", "8-9 anni ", "2-3 anni ", "4-5 anni "],
+      "correctAnswer": "6-7 anni "
+    },
+    {
+      "id": 80,
+      "question": " Quali tra le seguenti non è una funzione della teoria della mente?",
+      "options": [
+        "Funzione emotiva ",
+        "Funzione sociale",
+        "Funzione protettiva ",
+        "Funzione comunicativa "
+      ],
+      "correctAnswer": "Funzione emotiva "
+    },
+    {
+      "id": 81,
+      "question": " Per poter superare un compito di credenza di II ordine quale capacità deve avere il bambino?",
+      "options": [
+        "Il bambino deve essere capace di riconoscere che la propria credenza è in realtà una falsa credenza rispetto alla realtà e deve sostituire la sua interpretazione della realtà conl'interpretazione dell'altro",
+        "Il bambino deve essere capace di attribuire a un altro soggetto una falsa credenza rispetto alla realtà e di rappresentarsi il contenuto della mente dell'altro come diverso dalproprio ",
+        "Il bambino deve essere capace di riconoscere che la propria credenza è in realtà una falsa credenza rispetto alla realtà e deve mediare l'interpretazione della realtà con lacredenza degli altri",
+        "Il bambino deve essere capace di attribuire a un altro soggetto una falsa credenza rispetto alla realtà ed avere a disposizione un pensiero ricorsivo di tipo triadico "
+      ],
+      "correctAnswer": "Il bambino deve essere capace di attribuire a un altro soggetto una falsa credenza rispetto alla realtà ed avere a disposizione un pensiero ricorsivo di tipo triadico "
+    },
+    {
+      "id": 82,
+      "question": "\"Leggi il seguente protocollo:1. Al bambino si racconta la storia di John e Mary che giocano insieme nel parco2. Lì vedono un carretto dei gelati3. MentreMary va a casa a prendere il denaro per comprare il gelato John vede il carretto spostarsi verso la chiesa4. Anche Mary, però, viene a conoscenza, all'insaputa diJohn che il gelataio si è spostato Dove pensa John che Mary sia andata a comprare il gelato? Di che cosa di tratta?\"",
+      "options": [
+        "Un compito di falsa credenza di I ordine ",
+        "Un compito di falsa credenza di II ordine ",
+        "Una strange situation ",
+        "Un compito di vera credenza "
+      ],
+      "correctAnswer": "Un compito di falsa credenza di II ordine "
+    },
+    {
+      "id": 83,
+      "question": "\"Leggi il seguente protocollo:1. Il bambino, insieme a un amico, viene condotto in una stanza con la promessa che il ricercatore mostrerà loro il contenuto diuna scatola2. All'amico, però, viene anche detto di aspettare il suo turno fuori dalla porta3. All'interno della stanza viene mostrata al bambino una scatola diSmarties4. Si chiede al bambino che cosa pensa che ci sia nella scatola5. Il bambino risponde Smarties6. A questo punto gli si mostra che in realtà si sbaglia e chela scatola contiene una matita7. Entra il suo amico a cui verrà mostrata la scatola. il bambino deve dire cosa si aspetta che l'amico pensi ci sia nella scatola. Di checosa di tratta?\"",
+      "options": [
+        "Un compito di falsa credenza di II ordine ",
+        "Un compito di falsa credenza di I ordine ",
+        "Un compito di vera credenza ",
+        "Una strange situation "
+      ],
+      "correctAnswer": "Un compito di falsa credenza di I ordine "
+    },
+    {
+      "id": 84,
+      "question": "\"Leggi il seguente protocollo:1. Sally e Anne sono due bambole, hanno l'una un cestino e l'altra una scatola.2. Sally ha in mano una palla, la ripone nel suocestino3. Sally se ne va via per fare una passeggiata.4. Anna prende la palla dal cestino e la mette nella sua scatola.5. Poi Sally torna e vuole giocare con la suapalla. Sally dove andrà a cercare la sua palla? Di che cosa di tratta?\"",
+      "options": [
+        "Un compito di falsa credenza di II ordine ",
+        "Una strange situation ",
+        "Un compito di vera credenza ",
+        "Un compito di falsa credenza di I ordine "
+      ],
+      "correctAnswer": "Un compito di falsa credenza di I ordine "
+    },
+    {
+      "id": 85,
+      "question": "\"Leggi il seguente protocollo: Viene narrata la storia di un personaggio che desidera giocare con il proprio gattino. Ma il gatto non si trova in casa: può esseresia in cucina che in giardino. Si informa il bambino che il protagonista crede che sia in giardino. Quindi gli viene chiesto dove il personaggio cercherà il gattino. Diche cosa di tratta?\"",
+      "options": [
+        "Un compito di falsa credenza di II ordine ",
+        "Un compito di falsa credenza di I ordine ",
+        "Un compito di vera credenza ",
+        "Una strange situation "
+      ],
+      "correctAnswer": "Un compito di vera credenza "
+    },
+    {
+      "id": 86,
+      "question": "\"Leggi il seguente protocollo:1. Maxi, in presenza della madre, ripone un pezzo di cioccolata in un determinato armadio della cucina e in seguito si allontanaper giocare2. Durante la sua assenza la mamma, per cucinare, prende il cioccolato dall'armadio dove era stato riposto e lascia la parte rimanente in un altroarmadietto3. Poi la madre si allontana dalla scena4. A questo punto Maxi ritorna in cucina5. Non ha assistito allo spostamento (inatteso) della cioccolata e quindiignora la nuova collocazione Maxi dove cercherà la cioccolata? Di che cosa di tratta?\"",
+      "options": [
+        "Un compito di vera credenza ",
+        "Un compito di falsa credenza di II ordine ",
+        "Una strange situation ",
+        "Un compito di falsa credenza di I ordine "
+      ],
+      "correctAnswer": "Un compito di falsa credenza di I ordine "
+    },
+    {
+      "id": 87,
+      "question": " Per poter superare un compito di credenza di I ordine quale capacità deve avere il bambino?",
+      "options": [
+        "Il bambino deve essere capace di riconoscere che la propria credenza è in realtà una falsa credenza rispetto alla realtà e deve sostituire la sua interpretazione della realtà conl'interpretazione dell'altro",
+        "Il bambino deve essere capace di attribuire a un altro soggetto una falsa credenza rispetto alla realtà ed avere a disposizione un pensiero ricorsivo di tipo triadico ",
+        "Il bambino deve essere capace di riconoscere che la propria credenza è in realtà una falsa credenza rispetto alla realtà e deve mediare l'interpretazione della realtà con la credenza degli altri",
+        "Il bambino deve essere capace di attribuire a un altro soggetto una falsa credenza rispetto alla realtà e di rappresentarsi il contenuto della mente dell'altro come diverso dal proprio "
+      ],
+      "correctAnswer": "Il bambino deve essere capace di attribuire a un altro soggetto una falsa credenza rispetto alla realtà e di rappresentarsi il contenuto della mente dell'altro come diverso dal proprio "
+    },
+    {
+      "id": 88,
+      "question": " La risposta fisiologica del disgusto è caratterizzata da:",
+      "options": [
+        "Battito cardiaco accelerato, respiro irregolare, elevata conduttività epidermica ",
+        "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica ",
+        "Battito cardiaco lento, aumento della resistenza epidermica ",
+        "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante "
+      ],
+      "correctAnswer": "Battito cardiaco lento, aumento della resistenza epidermica "
+    },
+    {
+      "id": 89,
+      "question": " La risposta fisiologica della gioia è caratterizzata da:",
+      "options": [
+        "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica ",
+        "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante ",
+        "Battito cardiaco accelerato, respiro irregolare, elevata conduttività epidermica ",
+        "Battito cardiaco rallentato, respirazione sospesa, diminuzione del tono muscolare "
+      ],
+      "correctAnswer": "Battito cardiaco accelerato, respiro irregolare, elevata conduttività epidermica "
+    },
+    {
+      "id": 90,
+      "question": " La risposta fisiologica della paura è caratterizzata da:",
+      "options": [
+        "Aumento del battito cardiaco e della temperatura della pelle, viso rosso ",
+        "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante ",
+        "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica ",
+        "Battito cardiaco lento, aumento della resistenza epidermica "
+      ],
+      "correctAnswer": "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante "
+    },
+    {
+      "id": 91,
+      "question": " La risposta fisiologica della rabbia è caratterizzata da:",
+      "options": [
+        "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante ",
+        "Aumento del battito cardiaco e della temperatura della pelle, viso rosso ",
+        "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica ",
+        "Battito cardiaco lento, aumento della resistenza epidermica "
+      ],
+      "correctAnswer": "Aumento del battito cardiaco e della temperatura della pelle, viso rosso "
+    },
+    {
+      "id": 92,
+      "question": " A quale età indicativamente si può presumere che il bambino passa da reazioni emotive ad emozioni vere e proprie con valenza comunicativa?",
+      "options": ["4-5mesi ", "Dopo i 12 mesi ", "7-8 mesi ", "2-3 mesi "],
+      "correctAnswer": "2-3 mesi "
+    },
+    {
+      "id": 93,
+      "question": " La risposta fisiologica della tristezza è caratterizzata da:",
+      "options": [
+        "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica ",
+        "Battito cardiaco rallentato, respirazione sospesa, diminuzione del tono muscolare ",
+        "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante ",
+        "Battito cardiaco accelerato, respiro irregolare, elevata conduttività epidermica "
+      ],
+      "correctAnswer": "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica "
+    },
+    {
+      "id": 94,
+      "question": " La risposta fisiologica della sorpresa è caratterizzata da:",
+      "options": [
+        "Battito cardiaco rallentato, abbassamento della temperatura e della resistenza epidermica ",
+        "Battito cardiaco rallentato, respirazione sospesa, diminuzione del tono muscolare ",
+        "Battito cardiaco accelerato, respiro irregolare, elevata conduttività epidermica ",
+        "Aumento del battito cardiaco, bassa temperatura della pelle, respirazione ansimante "
+      ],
+      "correctAnswer": "Battito cardiaco rallentato, respirazione sospesa, diminuzione del tono muscolare "
+    },
+    {
+      "id": 95,
+      "question": " All'interno della teoria della differenziazione l'ansia è in relazione con il sistema circospezione - paura.  A che età compare secondo questa teoria dellosviluppo emotivo?",
+      "options": [
+        "Periodo scolare (circa 5-6 anni) ",
+        "A 2 anni ",
+        "A 12-13 mesi ",
+        "A 6 mesi "
+      ],
+      "correctAnswer": "A 12-13 mesi "
+    },
+    {
+      "id": 96,
+      "question": " Quale tra le seguenti non è un'abilità legata con la possibilità di provare un'emozione?",
+      "options": [
+        "L'acquisizione di consapevolezza di sé e degli altri ",
+        "La capacità di anticipare gli eventi ",
+        "La presenza di intenzionalità ",
+        "La presenza di una teoria della mente "
+      ],
+      "correctAnswer": "La presenza di una teoria della mente "
+    },
+    {
+      "id": 97,
+      "question": " Secondo Darwin quali sono le due funzioni principali delle emozioni?",
+      "options": [
+        "Permettere all'individuo di scaricare tensione (ad es.  Attraverso le manifestazioni di pianto, etc) E consentire la riorganizzazione della vita psichica dell'individuo ",
+        "Fornire indizi sulla sicurezza o il pericolo di una situazione e intimidire i potenziali nemici ",
+        "Preparare l'individuo all'azione e comunicare agli individui della stessa specie informazioni sul proprio stato interno ",
+        "Comunicare informazioni sullo stato emotivo interno e consentire la definizione del comportamento socialmente più adeguato "
+      ],
+      "correctAnswer": "Preparare l'individuo all'azione e comunicare agli individui della stessa specie informazioni sul proprio stato interno "
+    },
+    {
+      "id": 98,
+      "question": " Quale delle seguenti non è una strategia di autoregolazione?",
+      "options": [
+        "L'utilizzo di oggetti transizionali ",
+        "L'evitamento fisico ",
+        "La concettualizzazione ",
+        "La rievocazione "
+      ],
+      "correctAnswer": "La rievocazione "
+    },
+    {
+      "id": 99,
+      "question": " Quale caratteristica non possiedono le emozioni fondamentali o \"di base\"?",
+      "options": [
+        "Preparano l'individuo all'azione (per la sopravvivenza) ",
+        "Dipendono nella loro espressione dalle regole del gruppo sociale ",
+        "Sono invarianti nella loro espressione lungo tutto il ciclo di vita ",
+        "Hanno una base biologica e innata "
+      ],
+      "correctAnswer": "Dipendono nella loro espressione dalle regole del gruppo sociale "
+    },
+    {
+      "id": 100,
+      "question": " Quali delle seguenti abilità non è considerata un'abilità indispensabile per essere considerati emotivamente competenti?",
+      "options": [
+        "Utilizzare comportamenti prosociali ",
+        "Controllare l'espressione delle proprie emozioni ",
+        "La consapevolezza del proprio stato emotivo ",
+        "Riconoscere le emozioni nelle altre persone "
+      ],
+      "correctAnswer": "Utilizzare comportamenti prosociali "
+    },
+    {
+      "id": 101,
+      "question": " Quale tra le seguenti teorie sullo sviluppo emotivo non è mai stata formulata in psicologia?",
+      "options": [
+        "Alla nascita siamo in uno stato di eccitazione indifferenziata, a partire dal quale si articoleranno le diverse emozioni (teoria della differenziazione emotiva)",
+        " Alla nascita siamo capaci di produrre già alcune emozioni fondamentali e differenziate tra loro, che hanno un fine adattivo e organizzativo per il piccolo (teoriadifferenziale delle emozioni)",
+        "Alla nascita sono presenti tutte le emozioni fondamentali, che non risultano subordinate allo sviluppo cognitivo e che hanno lo scopo di regolare il rapporto tra organismo eambiente (approccio funzionalista) ",
+        "Alla nascita, grazie a un dispositivo innato (biologico) per l'acquisizione emotiva, possediamo una sorta di \"grammatica universale\" delle emozioni, che caratterizza tutte leculture; nel tempo il bambino scoprirà le regole delle emozioni.  L'adulto non ha un ruolo nell'insegnare la competenza emotiva, poiché tutto è governato biologicamente(approccio innatista)"
+      ],
+      "correctAnswer": "Alla nascita, grazie a un dispositivo innato (biologico) per l'acquisizione emotiva, possediamo una sorta di \"grammatica universale\" delle emozioni, che caratterizza tutte leculture; nel tempo il bambino scoprirà le regole delle emozioni.  L'adulto non ha un ruolo nell'insegnare la competenza emotiva, poiché tutto è governato biologicamente(approccio innatista)"
+    },
+    {
+      "id": 102,
+      "question": " La comprensione delle emozioni durante il periodo prescolare",
+      "options": [
+        "È ancora assente e si svilupperà solamente nel periodo scolare con la comparsa delle emozioni autocoscienti ",
+        "È già pienamente funzionante in quanto si basa sulla presenza della teoria della mente che compare intorno ai 2 anni ",
+        "È limitata alla polarità gioia - tristezza ",
+        "È legata allo comprensione del fatto che le emozioni sono legate ai desideri e alle credenze di un individuo "
+      ],
+      "correctAnswer": "È legata allo comprensione del fatto che le emozioni sono legate ai desideri e alle credenze di un individuo "
+    },
+    {
+      "id": 103,
+      "question": " I bambini con attaccamento insicuro disorganizzato (pattern D)",
+      "options": [
+        "Non sono in grado di organizzare una strategia unitaria di comportamento ed emette segnali inadeguati a mantenere e strutturare il legame con la madre ",
+        "Non sembrano avere fiducia in un'adeguata risposta materna quando sottoposti a situazioni stressanti ",
+        "Non hanno rappresentazioni mentali di sé e degli altri ",
+        "Sembrano avere fiducia in un'adeguata risposta materna quando sottoposti a situazioni stressanti "
+      ],
+      "correctAnswer": "Non sono in grado di organizzare una strategia unitaria di comportamento ed emette segnali inadeguati a mantenere e strutturare il legame con la madre "
+    },
+    {
+      "id": 104,
+      "question": " La teoria dell'attaccamento è stata formulata da",
+      "options": ["Bowlby ", "Koehler ", "Atkinson ", "Tolman "],
+      "correctAnswer": "Bowlby "
+    },
+    {
+      "id": 105,
+      "question": " Il comportamento di attaccamento",
+      "options": [
+        "Si manifesta in situazioni di pericolo ",
+        "È considerato un aspetto patologico nello sviluppo delle capacità relazionali ",
+        "Avviene solo nei primi cinque anni di vita del bambino ",
+        "Si manifesta in situazioni di serenità e tranquillità "
+      ],
+      "correctAnswer": "Si manifesta in situazioni di pericolo "
+    },
+    {
+      "id": 106,
+      "question": " Il bambino mantiene profonda attenzione sui giochi presenti nella stanza, non guarda la madre quando è presente in assenza della madre e persino inpresenza di un'estranea non si agita, ma riesce a continuare a giocare tranquillo questi comportamenti, osservati durante la strange situation, ci possono far pensare a",
+      "options": [
+        "Un attaccamento sicuro ",
+        "Un buon sviluppo della teoria della mente ",
+        "Una scarsa capacità di auto-eco-organizzazione ",
+        "Un attaccamento insicuro-evitante "
+      ],
+      "correctAnswer": "Un attaccamento insicuro-evitante "
+    },
+    {
+      "id": 107,
+      "question": " I bambini con attaccamento insicuro evitante (pattern A)",
+      "options": [
+        "Non hanno rappresentazioni mentali di sé e degli altri ",
+        "Sembrano avere fiducia in un'adeguata risposta materna quando sottoposti a situazioni stressanti ",
+        "Non sembrano avere fiducia in un'adeguata risposta materna quando sottoposti a situazioni stressanti ",
+        "Sviluppano sicuramente sintomi depressivi "
+      ],
+      "correctAnswer": "Non sembrano avere fiducia in un'adeguata risposta materna quando sottoposti a situazioni stressanti "
+    },
+    {
+      "id": 108,
+      "question": " Bowlby afferma che la socializzazione è:",
+      "options": [
+        "Un derivato da bisogni fisiologici ",
+        "Una competenza matura ",
+        "Una motivazione primaria ",
+        "Un bisogno secondario "
+      ],
+      "correctAnswer": "Una motivazione primaria "
+    },
+    {
+      "id": 109,
+      "question": " Cos'è la strange situation?",
+      "options": [
+        "È un'applicazione della teoria di Bowlby in contesti educativi (quali l'asilo nido o la scuola dell'infanzia) ",
+        "È una tecnica che consente di vedere su uno schermo sia il volto del bambino piccolo sia quello della madre, per analizzare la loro interazione ",
+        "È una procedura osservativa standardizzata per valutare lo stile di attaccamento ",
+        "È una procedura sperimentale che consente di studiare le reazioni del bambino all'immobilità del volto materno, che simula la depressione "
+      ],
+      "correctAnswer": "È una procedura osservativa standardizzata per valutare lo stile di attaccamento "
+    },
+    {
+      "id": 110,
+      "question": " Cosa intende Bowlby con il termine \"attaccamento\"?",
+      "options": [
+        "La vicinanza fisica ed emotiva, che si realizza nei contesti frequentati dal bambino, tra il bambino e le sue figure di accudimento durante i primi anni di vita ",
+        "Il rapporto che si instaura tra il bambino e chi si prende cura di lui, se quest'ultimo costituisce una \"base sicura\" (che consente l'equilibrio tra vicinanza ed esplorazione) ",
+        "Il legame del bambino con la madre (o altra figura con la stessa funzione), che emerge subito dopo la soddisfazione dei bisogni primari/fisiologici (fame, sete, sonno) ",
+        "Il legame che si instaura tra il bambino e chi si prende cura di lui, che si sviluppa pienamente verso la fine del primo anno di vita "
+      ],
+      "correctAnswer": "Il legame che si instaura tra il bambino e chi si prende cura di lui, che si sviluppa pienamente verso la fine del primo anno di vita "
+    },
+    {
+      "id": 111,
+      "question": " Cosa sono i Modelli Operativi Interni (MOI)?",
+      "options": [
+        "Sono immagini mentali che si sviluppano in età scolare e consentono di svolgere calcoli matematici senza supporti visivi, ma in maniera astratta ",
+        "Sono modelli che si esprimono nel legame con la madre, valutabili verso la fine del primo anno di vita tramite apposite procedure sperimentali osservative ",
+        "Sono rappresentazioni mentali di sé e della figura di attaccamento, che si sviluppano intorno ai 18 mesi, basati su modelli ripetuti di esperienze relazionali con la madre ",
+        "Sono modelli mentali che si creano nei primi mesi di vita, grazie al principio di regolazione attesa, di rottura e riparazione e dei momenti affettivi intensi "
+      ],
+      "correctAnswer": "Sono rappresentazioni mentali di sé e della figura di attaccamento, che si sviluppano intorno ai 18 mesi, basati su modelli ripetuti di esperienze relazionali con la madre "
+    },
+    {
+      "id": 112,
+      "question": " Cosa misura il paradigma sperimentale noto come Strange Situation?",
+      "options": [
+        "Gli stili di attaccamento a 1 anno ",
+        "La presenza della teoria della mente a 4 anni ",
+        "I modelli operativi interni a 5-6 anni ",
+        "Il riferimento sociale a 9-12 mesi "
+      ],
+      "correctAnswer": "Gli stili di attaccamento a 1 anno "
+    },
+    {
+      "id": 113,
+      "question": " Durante la procedura sperimentale di valutazione dell'attaccamento vengono osservati questi comportamenti: il bambino in presenza della madre edell'estranea preferisce interagire con la madre ed esplorare l'ambiente circostante; quando la madre si allontana può esprimere segni di sconforto e quando ritorna ricerca attivamente la vicinanza fisica della madre. Quale tipo di attaccamento caratterizza questo bambino?",
+      "options": [
+        "Attaccamento insicuro ambivalente ",
+        "Attaccamento insicuro evitante ",
+        "Attaccamento sicuro ",
+        "Assenza di attaccamento "
+      ],
+      "correctAnswer": "Attaccamento sicuro "
+    },
+    {
+      "id": 114,
+      "question": " Il pattern C relativo all'attaccamento insicuro ansioso ambivalente",
+      "options": [
+        "Caratterizza quei bambini che durante il primo anno di vita hanno sperimentato un rapporto con una figura di attaccamento insensibile ai loro segnali e rifiutante sul pianodel contatto fisico, anche in circostanze stressanti ",
+        "Caratterizza quei bambini che non sono in grado di organizzare una strategia comportamentale unitaria e sono incapaci di comportamenti coerenti verso la figura di attaccamento ",
+        "Caratterizza quei bambini che durante la separazione dalla madre esprimono evidenti segni di stress, disagio e angoscia che non vengono placati nemmeno con il ritorno della madre ",
+        "Caratterizza quei bambini che sembrano spendere un quantitativo di tempo equivalente nei comportamenti esplorativi e in quelli di attaccamento "
+      ],
+      "correctAnswer": "Caratterizza quei bambini che durante la separazione dalla madre esprimono evidenti segni di stress, disagio e angoscia che non vengono placati nemmeno con il ritorno della madre "
+    },
+    {
+      "id": 115,
+      "question": " Marco, durante la procedura classica di valutazione dell'attaccamento, quando è con la mamma tende a non esplorare l'ambiente ed è tutto impegnato acercare la sua vicinanza. Quando la mamma esce dalla stanza, marco appare inconsolabile e piange disperato.  Al suo rientro marco mostra rabbia verso la mammaavvicinandosi a lei e picchiandola con la mano",
+      "options": [
+        "Attaccamento disorganizzato ",
+        "Attaccamento sicuro ",
+        "Attaccamento insicuro ambivalente ",
+        "Assenza di attaccamento "
+      ],
+      "correctAnswer": "Attaccamento insicuro ambivalente "
+    },
+    {
+      "id": 116,
+      "question": " Quando nella strange situation viene osservato l'effetto \"base sicura\", cosa si intende?",
+      "options": [
+        "La possibilità di individuare nell'esperimento una \"base-line\", su cui confrontare i dati raccolti ",
+        "La capacità della mamma di rispecchiare le emozioni del figlio e sostenerlo nella regolazione emotiva ",
+        "La capacità del bambino di far fronte a una situazione relazionale stressante ",
+        "La capacità del bambino di esplorare l'ambiente, anche in assenza della figura di riferimento "
+      ],
+      "correctAnswer": "La capacità del bambino di esplorare l'ambiente, anche in assenza della figura di riferimento "
+    },
+    {
+      "id": 117,
+      "question": " Secondo Erikson, il periodo adolescenziale è caratterizzato:",
+      "options": [
+        "Dalla capacità di cogliere le azioni come dirette a uno scopo ",
+        "Da atteggiamenti di fiducia, alternati ad atteggiamento di sfiducia (verso sé e verso l'altro) ",
+        "Da una fase transitoria di autoregolazione, caratterizzata da modalità aggressive verso sé e/o verso gli altri ",
+        "Dalla crisi dell'identità - confusione/dispersione dell'identità "
+      ],
+      "correctAnswer": "Dalla crisi dell'identità - confusione/dispersione dell'identità "
+    },
+    {
+      "id": 118,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza l'età del gioco (stadio 3)?",
+      "options": [
+        "Industriosità vs Senso di inferiorità ",
+        "Spirito di iniziativa vs senso di colpa ",
+        "Fiducia fondamentale vs Sfiducia ",
+        "Integrità dell'Io vs Disperazione "
+      ],
+      "correctAnswer": "Spirito di iniziativa vs senso di colpa "
+    },
+    {
+      "id": 119,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza la prima infanzia (stadio 2)?",
+      "options": [
+        "Generatività vs Stagnazione ",
+        "Industriosità vs Senso di inferiorità ",
+        "Autonomia vs Vergogna e dubbio ",
+        "Intimità vs Isolamento "
+      ],
+      "correctAnswer": "Autonomia vs Vergogna e dubbio "
+    },
+    {
+      "id": 120,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza l'età neonatale (stadio 1)?",
+      "options": [
+        "Identità vs Dispersione ",
+        "Integrità dell'Io vs Disperazione ",
+        "Spirito di iniziativa vs senso di colpa ",
+        "Fiducia fondamentale vs Sfiducia "
+      ],
+      "correctAnswer": "Fiducia fondamentale vs Sfiducia "
+    },
+    {
+      "id": 121,
+      "question": " Secondo la teoria di Erikson ogni età è caratterizzata da specifiche crisi psicosociali.  Secondo questo autore intorno ai 65 anni possiamo assistere",
+      "options": [
+        "Alla ricerca di un nuovo senso di identità (col rischio della dispersione dell'identità) ",
+        "Al superamento delle posizioni precedenti e al raggiungimento di una serenità intellettuale (col rischio di una inversione di tendenza che porti a negare la propria fase di vita in favore di atteggiamenti adolescenziali) ",
+        "All'acquisizione dell'io integrato (col rischio della disperazione) ",
+        "Alla possibilità di muoversi autonomamente e in maniera intraprendente (col rischio che la moralità blocchi l'iniziativa) "
+      ],
+      "correctAnswer": "All'acquisizione dell'io integrato (col rischio della disperazione) "
+    },
+    {
+      "id": 122,
+      "question": " La prima età adulta secondo il modello di Erikson è caratterizzata",
+      "options": [
+        "Dalla presa in considerazione delle perdite (di persone e lavorative) e della morte, con l'accettazione di ciò che è stata la prima infanzia e la propria vita in generale ",
+        "Da cambiamenti fisici importanti e da contraddizioni come la voglia di indipendenza e il bisogno di sicurezza dato dalla famiglia di origine ",
+        "Dall'affrontare la sfida dell'integrità dell'Io ",
+        "Da sfide come raggiungere l'intimità e conseguire successi professionali "
+      ],
+      "correctAnswer": "Da sfide come raggiungere l'intimità e conseguire successi professionali "
+    },
+    {
+      "id": 123,
+      "question": " Quale delle seguenti affermazioni sul modello di Erikson può essere ritenuta corretta?",
+      "options": [
+        "È focalizzata sull'identità della persona nel ciclo di vita, intesa come \"mito personale\" ",
+        "Identifica degli stadi di vita sovrapponibili agli stadi psicosessuali dello sviluppo individuati da Freud ",
+        "Individua le crisi psicosociali tipiche di ogni stadio di sviluppo della vita ",
+        "Riguarda le transizioni che caratterizzano la vita adulta "
+      ],
+      "correctAnswer": "Individua le crisi psicosociali tipiche di ogni stadio di sviluppo della vita "
+    },
+    {
+      "id": 124,
+      "question": " Il modello di Erikson può essere interpretato come un tentativo di coniugare",
+      "options": [
+        "La psicologia della Gestalt, l'antropologia e l'etologia ",
+        "La psicologia cognitiva, la sociologia e l'antropologia ",
+        "Il comportamentismo, la psicoanalisi e la sociologia ",
+        "La psicoanalisi, la sociologia e l'antropologia "
+      ],
+      "correctAnswer": "La psicoanalisi, la sociologia e l'antropologia "
+    },
+    {
+      "id": 125,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza l'età anziana (stadio 8)?",
+      "options": [
+        "Industriosità vs Senso di inferiorità ",
+        "Intimità vs Isolamento ",
+        "Fiducia fondamentale vs Sfiducia ",
+        "Integrità dell'Io vs Disperazione "
+      ],
+      "correctAnswer": "Integrità dell'Io vs Disperazione "
+    },
+    {
+      "id": 126,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza l'età scolare (stadio 4)?",
+      "options": [
+        "Fiducia fondamentale vs Sfiducia ",
+        "Industriosità vs Senso di inferiorità ",
+        "Intimità vs Isolamento ",
+        "Spirito di iniziativa vs senso di colpa "
+      ],
+      "correctAnswer": "Industriosità vs Senso di inferiorità "
+    },
+    {
+      "id": 127,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza l'adolescenza (stadio 5)?",
+      "options": [
+        "Autonomia vs Vergogna e dubbio ",
+        "Intimità vs Isolamento ",
+        "Integrità dell'Io vs Disperazione ",
+        "Identità vs Dispersione "
+      ],
+      "correctAnswer": "Identità vs Dispersione "
+    },
+    {
+      "id": 128,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza il giovane adulto (stadio 6)?",
+      "options": [
+        "Intimità vs Isolamento ",
+        "Generatività vs Stagnazione ",
+        "Integrità dell'Io vs Disperazione ",
+        "Fiducia fondamentale vs Sfiducia "
+      ],
+      "correctAnswer": "Intimità vs Isolamento "
+    },
+    {
+      "id": 129,
+      "question": " Nel modello di Erikson qual è la crisi psicosociale che caratterizza la maturità (stadio 7)?",
+      "options": [
+        "Generatività vs Stagnazione ",
+        "Integrità dell'Io vs Disperazione ",
+        "Autonomia vs Vergogna e dubbio ",
+        "Spirito di iniziativa vs senso di colpa "
+      ],
+      "correctAnswer": "Generatività vs Stagnazione "
+    },
+    {
+      "id": 130,
+      "question": " A cosa fa riferimento l'apprendimento per i comportamentisti?",
+      "options": [
+        "Viene ricondotto ai processi mnestici e di recupero ",
+        "Viene ricondotto a processi emotivi, cognitivi, mnestici ed attentivi ",
+        "Viene ricondotto ai processi di apprendimento imitativo e modeling ",
+        "Viene ricondotto ai processi di condizionamento classico e condizionamento operante "
+      ],
+      "correctAnswer": "Viene ricondotto ai processi di condizionamento classico e condizionamento operante "
+    },
+    {
+      "id": 131,
+      "question": " In un contesto scolastico assistiamo a un bambino che osserva ripetutamente una sua insegnante lodare con una certa frequenza un suo compagno di classe perché svolge molto bene i compiti a casa. Con il tempo il bambino sembra cercare di comportarsi allo stesso modo. Cosa è avvenuto?",
+      "options": [
+        "Condizionamento operante ",
+        "Metacognizione ",
+        "Effetto Rosenthal ",
+        "Apprendimento osservativo "
+      ],
+      "correctAnswer": "Apprendimento osservativo "
+    },
+    {
+      "id": 132,
+      "question": " Quale cambiamento interessa la psicologia dell'educazione all'inizio del XX secolo?",
+      "options": [
+        "Ha iniziato ad occuparsi dell'apprendimento imitativo, dei comportamenti modellanti e della figura educativa ",
+        "Ha iniziato ad occuparsi della relazioni tra apprendimento, processi per il suo conseguimento e contesti di istruzione ",
+        "Ha iniziato a dare importanza alle relazione tra apprendimento e memoria di lavoro ",
+        "Ha iniziato a studiare il condizionamento operante "
+      ],
+      "correctAnswer": "Ha iniziato ad occuparsi della relazioni tra apprendimento, processi per il suo conseguimento e contesti di istruzione "
+    },
+    {
+      "id": 133,
+      "question": " Per HIP si intende:",
+      "options": [
+        "Human Inside Psyche ",
+        "Human Information Progression ",
+        "Human Information Processing ",
+        "Human Inside Processing "
+      ],
+      "correctAnswer": "Human Information Processing "
+    },
+    {
+      "id": 134,
+      "question": " La memoria dichiarativa",
+      "options": [
+        "Si riferisce alle informazioni di cui facciamo uso nell'attuare un compito, è un tipo di conoscenza tacita e non consapevole ",
+        "Si riferisce a specifici eventi ed esperienze di vita, contiene informazioni spazio-temporali che specificano dove e quando si è verificato l'evento ed è organizzata cronologicamente ",
+        "Si riferisce alla conoscenza esplicita di fatti, come la definizione di una parola o le circostanze in cui abbiamo conosciuto una persona ",
+        "Si riferisce a conoscenze astratte e generali, trascende le condizioni temporali e spaziali in cui la traccia si è formata ed è organizzata in modo tassonomico e associativo "
+      ],
+      "correctAnswer": "Si riferisce alla conoscenza esplicita di fatti, come la definizione di una parola o le circostanze in cui abbiamo conosciuto una persona "
+    },
+    {
+      "id": 135,
+      "question": " Per l'approccio HIP all'apprendimento sono centrali i processi di",
+      "options": [
+        "Attenzione e memoria ",
+        "Elaborazione dell'informazione e di memoria ",
+        "Condizionamento e memoria ",
+        "Attenzione selettiva e attenzione finalizzata "
+      ],
+      "correctAnswer": "Elaborazione dell'informazione e di memoria "
+    },
+    {
+      "id": 136,
+      "question": " Secondo Atkinson e Shiffrin quale dei magazzini di memoria consente all'individuo di selezionare le informazioni da trattenere in memoria?",
+      "options": [
+        "Memoria a lungo termine ",
+        "Memoria a breve termine ",
+        "Registro sensoriale ",
+        "Memoria di lavoro "
+      ],
+      "correctAnswer": "Memoria a breve termine "
+    },
+    {
+      "id": 137,
+      "question": " La memoria episodica:",
+      "options": [
+        "Si riferisce alle informazioni di cui facciamo uso nell'attuare un compito, è un tipo di conoscenza tacita e non consapevole ",
+        "Si riferisce a conoscenze astratte e generali, trascende le condizioni temporali e spaziali in cui la traccia si è formata ed è organizzata in modo tassonomico e associativo ",
+        "Si riferisce a specifici eventi ed esperienze di vita, contiene informazioni spazio-temporali che specificano dove e quando si è verificato l'evento ed è organizzata cronologicamente",
+        "Si riferisce alla conoscenza esplicita di fatti, come la definizione di una parola o le circostanze in cui abbiamo conosciuto una persona "
+      ],
+      "correctAnswer": "Si riferisce a specifici eventi ed esperienze di vita, contiene informazioni spazio-temporali che specificano dove e quando si è verificato l'evento ed è organizzata cronologicamente"
+    },
+    {
+      "id": 138,
+      "question": " Quale tra i seguenti magazzini non fa parte del modello di memoria di lavoro proposto da Baddley:",
+      "options": [
+        "Ciclo fonologico ",
+        "Registro mnestico ",
+        "Taccuino visuospaziale ",
+        "Buffer episodico "
+      ],
+      "correctAnswer": "Registro mnestico "
+    },
+    {
+      "id": 139,
+      "question": " Per memoria implicita si intende:",
+      "options": [
+        "Una memoria inconsapevole di fatti ed esperienze basata su operazioni automatizzate ",
+        "Una memoria inconsapevole di fatti ed esperienze basata su operazioni complesse ",
+        "Una memoria consapevole di fatti ed esperienze basata su operazioni automatizzate ",
+        "Una memoria consapevole di fatti ed esperienze basata su operazioni complesse "
+      ],
+      "correctAnswer": "Una memoria inconsapevole di fatti ed esperienze basata su operazioni automatizzate "
+    },
+    {
+      "id": 140,
+      "question": " Quale tra le seguenti non è una modifica della memoria che avviene nei bambini con il progredire dell'età?",
+      "options": [
+        "Si riducono i tempi necessari al bambino per riattivare il ricordo ",
+        "Diviene sempre meno dipendente dal contesto ",
+        "I tempi di permanenza in memoria divengono più lunghi ",
+        "Si riduce lo span "
+      ],
+      "correctAnswer": "Si riduce lo span "
+    },
+    {
+      "id": 141,
+      "question": " Per HIP l'elaborazione dell'informazione avviene attraverso quattro fasi",
+      "options": [
+        "Immissione dati (input) - abbandono o conservazione - elaborazione - generazione di risposte (output) ",
+        "Attenzione selettiva - immissione dati (input) - abbandono o conservazione - generazione di risposte (output) ",
+        "Immissione dati (input) - abbandono o conservazione - valutazione - generazione di risposte (output) ",
+        "Attenzione selettiva - immissione dati (input) - elaborazione - generazione di risposte (output) "
+      ],
+      "correctAnswer": "Immissione dati (input) - abbandono o conservazione - elaborazione - generazione di risposte (output) "
+    },
+    {
+      "id": 142,
+      "question": " Quali caratteristiche dell'interazione adulto-bambino utilizzate in famiglia secondo la ricerca non sono collegate alle competenze cognitive del bambino?",
+      "options": [
+        "Status sociale del padre ",
+        "Incoraggiamento a delegare ",
+        "Traduzione del compito in termini intellegibili e interessanti da parte della madre ",
+        "Delega progressiva della responsabilità di esecuzione "
+      ],
+      "correctAnswer": "Incoraggiamento a delegare "
+    },
+    {
+      "id": 143,
+      "question": " La metamemoria è caratterizza dall'insieme dalle conoscenze che il soggetto possiede su",
+      "options": [
+        "Sulle caratteristiche del compito, sulle procedure e sulle strategie da utilizzare ",
+        "Se stesso, sulle caratteristiche del compito e sulle strategie da utilizzare ",
+        "Sulle caratteristiche del compito, sulle procedure e sui metodi valutativi ",
+        "Se stesso, sulle caratteristiche del compito e sui metodi valutativi "
+      ],
+      "correctAnswer": "Se stesso, sulle caratteristiche del compito e sulle strategie da utilizzare "
+    },
+    {
+      "id": 144,
+      "question": " Quale tra le seguenti non è una definizione di metacognizione",
+      "options": [
+        "La metacognizione rappresenta la conoscenza del funzionamento cognitivo proprio e altrui ",
+        "La metacognizione è l'insieme dei meccanismi di regolazione e controllo del funzionamento cognitivo ",
+        "La metacognizione rappresenta la conoscenza che un individuo ha del proprio funzionamento cognitivo e dei processi di controllo che mette in atto nell'esecuzione di uncompito ",
+        "La metacognizione rappresenta la consapevolezza circa tutto ciò che già si sa su un determinato argomento "
+      ],
+      "correctAnswer": "La metacognizione rappresenta la consapevolezza circa tutto ciò che già si sa su un determinato argomento "
+    },
+    {
+      "id": 145,
+      "question": " Secondo Borkowski e Muthukrishna non basta conoscere molte strategie, bisogna saperle utilizzare in modo flessibile e coerente con:",
+      "options": [
+        "Caratteristiche personali - caratteristiche metacognitive - condizioni ambientali ",
+        "Caratteristiche personali - caratteristiche del compito - condizioni ambientali ",
+        "Caratteristiche attribuzionali - caratteristiche metacognitive - condizioni ambientali ",
+        "Caratteristiche attribuzionali - caratteristiche del compito - condizioni ambientali "
+      ],
+      "correctAnswer": "Caratteristiche personali - caratteristiche del compito - condizioni ambientali "
+    },
+    {
+      "id": 146,
+      "question": " L'apprendimento autoregolato:",
+      "options": [
+        "Definisce in modo esplicito i compiti che l'individuo deve svolgere per apprendere al meglio ",
+        "Prevede un insieme di procedure che possono essere applicate in tutti i contesti per ottenere il massimo profitto ",
+        "Comprende componenti cognitive, metacognitive, affettivo-motivazionali e comportamentali ",
+        "Riguarda esclusivamente le componenti \"fredde\" dell'apprendimento, ovvero cognizione e metacognizione "
+      ],
+      "correctAnswer": "Comprende componenti cognitive, metacognitive, affettivo-motivazionali e comportamentali "
+    },
+    {
+      "id": 147,
+      "question": " Secondo Brown, la metacognizione è:",
+      "options": [
+        "L'insieme delle strategie che l'individuo mette in atto per risolvere il compito",
+        "La consapevolezza del valore della valutazione cognitiva nella regolazione emozionale",
+        "L'insieme dei meccanismi di regolazione e controllo del funzionamento cognitivo",
+        "La consapevolezza delle proprie motivazioni ed emozioni "
+      ],
+      "correctAnswer": "L'insieme dei meccanismi di regolazione e controllo del funzionamento cognitivo"
+    },
+    {
+      "id": 148,
+      "question": " L'intelligenza è:",
+      "options": [
+        "Una abilità cognitiva modificabile ",
+        "Una abilità cognitiva generale ",
+        "Una abilità cognitiva unitaria ",
+        "Una abilità cognitiva geneticamente determinata "
+      ],
+      "correctAnswer": "Una abilità cognitiva modificabile "
+    },
+    {
+      "id": 149,
+      "question": " Riferendosi al modello di Zimmerman (2008) quale delle seguenti non è una fase dell'autoregolazione?",
+      "options": [
+        "Fase di performance ",
+        "Fase strategica ",
+        "Fase di autoriflessione ",
+        "Fase previsionale "
+      ],
+      "correctAnswer": "Fase strategica "
+    },
+    {
+      "id": 150,
+      "question": " La concezione innatista e quella costruttivista:",
+      "options": [
+        "Sono la misura della tipologia di intelligenza che contraddistingue ogni individuo ",
+        "Sono gli estremi di un continuum all'interno del quale si collocano le concezioni personali sull'intelligenza ",
+        "Consentono di definire in modo assoluto e definitivo la collocazione di ciascun individuo rispetto all'intelligenza ",
+        "Sono due concezioni antitetiche relative all'intelligenza e ogni individuo deve consapevolmente scegliere in quale collocarsi "
+      ],
+      "correctAnswer": "Sono gli estremi di un continuum all'interno del quale si collocano le concezioni personali sull'intelligenza "
+    },
+    {
+      "id": 151,
+      "question": " Come definisce Wechsler (1896-1981) l'intelligenza?",
+      "options": [
+        "Come la capacità di adeguare il pensiero alle richieste dell'ambiente ",
+        "Come la capacità psicofisica di discriminazione sensoriale dell'individuo ",
+        "Come un'abilità cognitiva geneticamente determinata ",
+        "Come la capacità globale di agire in modo propositivo riferendosi in generale alla personalità nella sua totalità "
+      ],
+      "correctAnswer": "Come la capacità globale di agire in modo propositivo riferendosi in generale alla personalità nella sua totalità "
+    },
+    {
+      "id": 152,
+      "question": " Secondo la teoria triarchica dell'intelligenza di Sternberg esistono tre sub teorie",
+      "options": [
+        "Sub teoria componenziale - sub teoria esperienziale - sub teoria contestuale ",
+        "Sub teoria differenziale - sub teoria esperienziale - sub teoria contestuale ",
+        "Sub teoria componenziale - sub teoria emozionale - sub teoria contestuale ",
+        "Sub teoria differenziale - sub teoria emozionale - sub teoria contestuale "
+      ],
+      "correctAnswer": "Sub teoria componenziale - sub teoria esperienziale - sub teoria contestuale "
+    },
+    {
+      "id": 153,
+      "question": " Quale tra le seguenti affermazioni sugli stili cognitivi è falsa",
+      "options": [
+        "Ognuno di noi utilizza contemporaneamente più stili e, a seconda delle situazioni, preferisce stili diversi ",
+        "È compito dell'insegnante far lavorare il ragazzo in modo tale che utilizzi esclusivamente i suoi stili cognitivi preferenziali ",
+        "Conoscere i diversi stili cognitivi favorisce una maggior consapevolezza sul loro utilizzo e sulla loro adeguatezza a ciascun compito specifico ",
+        "Non esiste uno stile migliore ma a seconda del tipo di compito e del contesto, è opportuno privilegiarne uno rispetto ad un altro "
+      ],
+      "correctAnswer": "È compito dell'insegnante far lavorare il ragazzo in modo tale che utilizzi esclusivamente i suoi stili cognitivi preferenziali "
+    },
+    {
+      "id": 154,
+      "question": " Individuare l'affermazione che si riferisce allo stile cognitivo analitico:",
+      "options": [
+        "Parto da un'ipotesi generale e cerco di confermarla o confutarla ",
+        "Quando osservo, studio… mi soffermo sui particolari",
+        "Procedo a piccoli passi, prendo in considerazione tutte le variabili in gioco ",
+        "Quando osservo, studio… mi soffermo sugli aspetti d'insieme"
+      ],
+      "correctAnswer": "Quando osservo, studio… mi soffermo sui particolari"
+    },
+    {
+      "id": 155,
+      "question": " Per stile cognitivo si intende:",
+      "options": [
+        "Una tendenza relativamente stabile che porta l'individuo ad attribuire in modo corretto i vissuti emotivi a seguito di un evento ansiogeno ",
+        "Una predisposizione che porta a preferire certe modalità di apprendimento ",
+        "Una tendenza stabile ad attribuire le cause di successi e fallimenti ",
+        "Una predisposizione all'uso di strategie adeguate "
+      ],
+      "correctAnswer": "Una predisposizione che porta a preferire certe modalità di apprendimento "
+    },
+    {
+      "id": 156,
+      "question": " Individuare l'affermazione che si riferisce allo stile cognitivo riflessivo:",
+      "options": [
+        "Quando mi confronto con un compito sono interessato a svolgerlo nel minor tempo possibile ",
+        "Quando mi confronto con un compito penso bene prima di agire per non commettere errori ",
+        "Quando osservo, studio… mi soffermo sugli aspetti d'insieme ",
+        "Quando osservo, studio...  mi soffermo sui particolari "
+      ],
+      "correctAnswer": "Quando mi confronto con un compito penso bene prima di agire per non commettere errori "
+    },
+    {
+      "id": 157,
+      "question": " Quale delle seguenti descrizioni non può essere considerata una definizione di gruppo?",
+      "options": [
+        "Un gruppo esiste quando i suoi membri condividono la percezione di un destino comune ",
+        "Un gruppo esiste quando due o più individui si percepiscono come membri di una medesima e specifica categoria sociale ",
+        "Un gruppo esiste quando due o più individui condividono una stessa realtà sociale, culturale o economica, ma anche territoriale-organizzativa",
+        "Un gruppo esiste quando due o più individui si definiscono come membri del gruppo ed è ritrovabile il riconoscimento dell'esistenza del gruppo da parte di almeno una persona estranea "
+      ],
+      "correctAnswer": "Un gruppo esiste quando due o più individui condividono una stessa realtà sociale, culturale o economica, ma anche territoriale-organizzativa"
+    },
+    {
+      "id": 158,
+      "question": " Quale dei seguenti non è un orientamento legato alla partecipazione alla vita di gruppo?",
+      "options": [
+        "Orientamento al compito ",
+        "Orientamento personale ",
+        "Orientamento all'empatia ",
+        "Orientamento al comando "
+      ],
+      "correctAnswer": "Orientamento al comando "
+    },
+    {
+      "id": 159,
+      "question": " Cosa si intende con l'espressione leader informale?",
+      "options": [
+        "Un leader con una leadership permissiva ",
+        "Un leader con una leadership democratica ",
+        "Un leader che emerge spontaneamente dal gruppo e ne assume la leadership ",
+        "Un leader nominato da un'autorità ed imposto al gruppo "
+      ],
+      "correctAnswer": "Un leader che emerge spontaneamente dal gruppo e ne assume la leadership "
+    },
+    {
+      "id": 160,
+      "question": " Quale tra le seguenti risposte riporta correttamente le tre aree delle categorie d'interazione di Bales?",
+      "options": [
+        "Area socio-emozionale a risposta empatica - Area socio-emozionale a risposta nevrotica - Area socio-emozionale a risposta psicotica ",
+        "Area socio-emozionale a risposta prosocial - Area dei compiti a risposta neutra - Area socio-emozionale a risposta aggressiva ",
+        "Area socio-emozionale a risposta positiva - Area dei compiti a risposta neutra - Area socio-emozionale a risposta negativa ",
+        "Area socio-emozionale a risposta affettiva - Area dei compiti a risposta neutra - Area socio-emozionale a risposta distanziante "
+      ],
+      "correctAnswer": "Area socio-emozionale a risposta positiva - Area dei compiti a risposta neutra - Area socio-emozionale a risposta negativa "
+    },
+    {
+      "id": 161,
+      "question": " Quali tra le seguenti è una caratteristica della leadership democratica?",
+      "options": [
+        "Completa libertà del gruppo relativamente alla suddivisione e alle modalità di esecuzione dei compiti ",
+        "La partecipazione al gruppo da parte del leader è modesta e in larga misura limitata ad azioni dimostrative ",
+        "Condivisione degli obiettivi a breve, medio e lungo termine ",
+        "Interventi diretti e critiche e lodi basati su caratteristiche personali degli individui "
+      ],
+      "correctAnswer": "Condivisione degli obiettivi a breve, medio e lungo termine "
+    },
+    {
+      "id": 162,
+      "question": " In caso di carente regolazione emotiva da parte dell'insegnante quali sono le emozioni negative per l'insegnate?",
+      "options": [
+        "Gioia e sorpresa ",
+        "Disgusto e disprezzo ",
+        "Paura, vergogna e senso di colpa ",
+        "Rabbia e tristezza "
+      ],
+      "correctAnswer": "Paura, vergogna e senso di colpa "
+    },
+    {
+      "id": 163,
+      "question": " In caso di carente regolazione emotiva da parte dell'insegnante quali sono le emozioni negative per lo studente?",
+      "options": [
+        "Paura, vergogna e senso di colpa ",
+        "Rabbia e tristezza ",
+        "Disgusto e disprezzo ",
+        "Gioia e sorpresa "
+      ],
+      "correctAnswer": "Disgusto e disprezzo "
+    },
+    {
+      "id": 164,
+      "question": " Quale tra le seguenti risposte non è legata al burnout dell'insegnate?",
+      "options": [
+        "Regolazione emotiva ",
+        "Soddisfazione sentimentale ",
+        "Concezione dell'intelligenza ",
+        "Ricerca di supporto "
+      ],
+      "correctAnswer": "Soddisfazione sentimentale "
+    },
+    {
+      "id": 165,
+      "question": " Quando si parla di competenza emotiva degli insegnati a quali abilità ci si riferisce?",
+      "options": [
+        "All'abilità o meno posseduta dall'insegnante di creare un clima positivo all'interno della classe ",
+        "Conoscenza delle emozioni, conoscenza delle cause delle emozioni e capacità di regolazione delle emozioni ",
+        "All'abilità o meno posseduta dall'insegnante di riconoscere le vere emozioni provate dagli studenti ",
+        "Conoscenza delle basi fisiologiche delle emozioni, conoscenza delle principali teorie sulle emozioni e abilità di mascheramento "
+      ],
+      "correctAnswer": "Conoscenza delle emozioni, conoscenza delle cause delle emozioni e capacità di regolazione delle emozioni "
+    },
+    {
+      "id": 166,
+      "question": " Quale delle seguenti è l'approccio alla comunicazione scuola-famiglia promosso da Bartolomeo (2004)?",
+      "options": [
+        "Approccio direttivo alla comunicazione ",
+        "Approccio competente alla comunicazione ",
+        "Approccio genitoriale alla comunicazione ",
+        "Approccio permissivo alla comunicazione "
+      ],
+      "correctAnswer": "Approccio competente alla comunicazione "
+    },
+    {
+      "id": 167,
+      "question": " Quale delle seguenti risposte identifica i quattro sistemi proposti da Urie Brofenbrenner per leggere lo sviluppo e l'adattamento in modo sistemico?",
+      "options": [
+        "Microsistema - Sferosistema - Plurisistema - Macrosistema ",
+        "Microsistema - Mesosistema - Esosistema - Macrosistema ",
+        "Nanosistema - Microsistema - Macrosistema - Megasistema ",
+        "Nanosistema - Microsistema - Esosistema - Mesosistema "
+      ],
+      "correctAnswer": "Microsistema - Mesosistema - Esosistema - Macrosistema "
+    },
+    {
+      "id": 168,
+      "question": " L'approccio ecologico di Urie Brofenbrenner (1979) sostiene che:",
+      "options": [
+        "L'intelligenza si costruisce in rapporto con l'ambiente, il quale a sua volta è mediato dal temperamento ",
+        "È importante rispettare la natura, per far crescere al meglio i bambini ",
+        "La situazione ambientale da cui è influenzato il bambino è costituita da quello che definisce come \"mesosistema\" ",
+        "È importante includere il contesto nello studio del bambino "
+      ],
+      "correctAnswer": "È importante includere il contesto nello studio del bambino "
+    },
+    {
+      "id": 169,
+      "question": " Secondo Tuckman (1965) quali sono le fasi di costruzione di un gruppo?",
+      "options": [
+        "Formazione - Strutturazione - Conflitto - Prestazione - Aggiornamento ",
+        "Definizione - Strutturazione - Aggiornamento ",
+        "Formazione - Conflitto - Strutturazione - Prestazione - Aggiornamento ",
+        "Incontro - Conflitto - Definizione "
+      ],
+      "correctAnswer": "Formazione - Conflitto - Strutturazione - Prestazione - Aggiornamento "
+    },
+    {
+      "id": 170,
+      "question": " Quale dei seguenti non è un percorso per una scuola interculturale?",
+      "options": [
+        "Accoglienza dell'altro ",
+        "Conoscenza reciproca ",
+        "Co-costruzione ",
+        "Identificazione con l'altro "
+      ],
+      "correctAnswer": "Identificazione con l'altro "
+    },
+    {
+      "id": 171,
+      "question": " Quale tra i seguenti non è una tipologia di cyberbullismo?",
+      "options": [
+        "Flaming ",
+        "Rivelazione ",
+        "Sostituzione d'identità ",
+        "Scaffolding "
+      ],
+      "correctAnswer": "Scaffolding "
+    }
+  ]
+}

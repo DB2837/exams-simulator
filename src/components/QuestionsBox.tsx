@@ -17,6 +17,7 @@ type TProps = {
   id: number;
   isSimulationFinished: boolean;
   setUserPick: React.Dispatch<React.SetStateAction<TQuestion[]>>;
+  handleIncrementQuestionNum: () => void;
   displayTotalScore: boolean;
 };
 
@@ -29,6 +30,7 @@ const QuestionsBox = ({
   showErrMode,
   setUserPick,
   displayTotalScore,
+  handleIncrementQuestionNum,
   isSimulationFinished,
 }: /*  selectedAnswer, */
 TProps) => {
@@ -48,10 +50,10 @@ TProps) => {
     if (isSimulationFinished) return;
     if (userPick && showErrMode) return;
 
-    /*  if (!userPick && answer === correctAnswer && isTrainingMode) {
-      setTotalScore((prev) => prev + 1);
-    } */
     updateUserPick(answer);
+    if (correctAnswer === answer && showErrMode) {
+      handleIncrementQuestionNum();
+    }
   };
 
   return (
@@ -112,7 +114,7 @@ const OptionsContainer = styled.div`
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr; */
   padding: 1rem;
-  gap: 12px;
+  gap: 20px;
 
   display: flex;
   flex-direction: column;
