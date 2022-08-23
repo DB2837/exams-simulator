@@ -15,7 +15,7 @@ type TQuestion = {
 
 const calculateScore = (questionsArr: TQuestion[]) => {
   let score = 0;
-  questionsArr.map((v) => {
+  questionsArr.forEach((v) => {
     if (v.correctAnswer === v.userPick) {
       score++;
     }
@@ -25,38 +25,37 @@ const calculateScore = (questionsArr: TQuestion[]) => {
 };
 
 const clearUserPicks = (questionsArr: TQuestion[]) => {
-  questionsArr.map((v) => (v.userPick = ''));
+  questionsArr.forEach((v) => (v.userPick = ''));
 };
 
 const pathsOptions = {
-  antropology: 'data/antropologia.json',
-  methodology: 'data/metodologia.json',
-  pedagogy: 'data/pedagogia.json',
-  psicology: 'data/psicologia.json',
+  antropology: 'src/data/antropologia.json',
+  methodology: 'src/data/metodologia.json',
+  pedagogy: 'src/data/pedagogia.json',
+  psicology: 'src/data/psicologia.json',
 };
 
-const questionNum = {
-  'exam(30)': 30,
+const totalQuestionNum = {
   all: undefined,
+  'exam(30)': 30,
 };
 
 const errorMode = {
-  hide: false,
   show: true,
+  hide: false,
 };
 
 type pathKeys = keyof typeof pathsOptions;
-type questionNumKeys = keyof typeof questionNum;
+type questionNumKeys = keyof typeof totalQuestionNum;
 type errorModeKeys = keyof typeof errorMode;
 
 const categoryOptions = Object.keys(pathsOptions);
-const questionNumOptions = Object.keys(questionNum);
+const questionNumOptions = Object.keys(totalQuestionNum);
 const errorModeOptions = Object.keys(errorMode);
 
 const Home = () => {
   const bottomRef = useRef<any>(null);
   const [data, setData] = useState<TQuestion[]>([]);
-
   const [selectedCategory, setSelectedCategory] = useState(
     categoryOptions[0] as pathKeys
   );
@@ -66,6 +65,11 @@ const Home = () => {
   const [selectedErrMode, setSelectedErrMode] = useState(
     errorModeOptions[0] as errorModeKeys
   );
+  const [currentQuestionNumber, setCurrentQuestionNumber] = useState<number>(0);
+  const [isSimulationStarted, setIsSimulationStarted] =
+    useState<boolean>(false);
+  const [isSimulationFinished, setIsSimulationFinished] =
+    useState<boolean>(false);
 
   useEffect(() => {
     (async () => {
@@ -74,20 +78,14 @@ const Home = () => {
       );
 
       setData(() =>
-        shuffleArray(questions.category).slice(
-          0,
-          questionNum[`${selectedQuestionsNum}`]
-        )
+        questions.category.slice(0, totalQuestionNum[`${selectedQuestionsNum}`])
       );
     })();
   }, [selectedCategory, selectedQuestionsNum]);
 
-  const [isSimulationStarted, setIsSimulationStarted] =
-    useState<boolean>(false);
-  const [isSimulationFinished, setIsSimulationFinished] =
-    useState<boolean>(false);
-  const [questionNumber, setQuestionNumber] = useState<number>(0);
-  const [displayTotalScore, setDisplayTotalScore] = useState<boolean>(false);
+  useEffect(() => {
+    bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+  }, [bottomRef.current, currentQuestionNumber, isSimulationStarted]);
 
   const totalScore = useRef(0);
 
@@ -96,33 +94,22 @@ const Home = () => {
     setData(() => shuffleArray(data));
     setIsSimulationStarted(true);
     setIsSimulationFinished(false);
-    setDisplayTotalScore(false);
-    setQuestionNumber(0);
-    setTimeout(() => {
-      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-    }, 0);
+    setCurrentQuestionNumber(0);
   };
 
   const handleEndSimulation = () => {
     totalScore.current = calculateScore(data);
-    setDisplayTotalScore(true);
     setIsSimulationFinished(true);
   };
 
   const handleDecrementQuestionNum = () => {
-    if (questionNumber <= 0) return;
-    setQuestionNumber((prev) => prev - 1);
-    setTimeout(() => {
-      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-    }, 0);
+    if (currentQuestionNumber <= 0) return;
+    setCurrentQuestionNumber((prev) => prev - 1);
   };
 
   const handleIncrementQuestionNum = () => {
-    if (questionNumber >= data.length - 1) return;
-    setQuestionNumber((prev) => prev + 1);
-    setTimeout(() => {
-      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-    }, 0);
+    if (currentQuestionNumber >= data.length - 1) return;
+    setCurrentQuestionNumber((prev) => prev + 1);
   };
 
   return (
@@ -172,33 +159,27 @@ const Home = () => {
           </StyledButton>
         )}
 
-        {isSimulationStarted && (
+        {isSimulationStarted && data && (
           <>
             <div>
               <QuestionNumContainer>
                 <h3>
-                  {questionNumber + 1} / {data.length}
+                  {currentQuestionNumber + 1} / {data.length}
                 </h3>
               </QuestionNumContainer>
-              {data
-                .map((v) => {
-                  return (
-                    <QuestionsBox
-                      key={v.id}
-                      id={v.id}
-                      question={v.question}
-                      options={v.options}
-                      correctAnswer={v.correctAnswer}
-                      userPick={v.userPick}
-                      showErrMode={errorMode[`${selectedErrMode}`]}
-                      isSimulationFinished={isSimulationFinished}
-                      setUserPick={setData}
-                      displayTotalScore={displayTotalScore}
-                      handleIncrementQuestionNum={handleIncrementQuestionNum}
-                    />
-                  );
-                })
-                .slice(questionNumber, questionNumber + 1)}
+              {
+                <QuestionsBox
+                  id={data[currentQuestionNumber].id}
+                  question={data[currentQuestionNumber].question}
+                  options={data[currentQuestionNumber].options}
+                  correctAnswer={data[currentQuestionNumber].correctAnswer}
+                  userPick={data[currentQuestionNumber].userPick}
+                  showErrMode={errorMode[`${selectedErrMode}`]}
+                  isSimulationFinished={isSimulationFinished}
+                  setUserPick={setData}
+                  handleIncrementQuestionNum={handleIncrementQuestionNum}
+                />
+              }
 
               <ButtonContaier>
                 <FaLongArrowAltLeft
@@ -211,7 +192,7 @@ const Home = () => {
                   style={arrowStyle}
                 />
               </ButtonContaier>
-              {displayTotalScore && (
+              {isSimulationFinished && (
                 <ScoreContainer>
                   total score: {totalScore.current} / {data.length}{' '}
                 </ScoreContainer>

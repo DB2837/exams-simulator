@@ -18,7 +18,6 @@ type TProps = {
   isSimulationFinished: boolean;
   setUserPick: React.Dispatch<React.SetStateAction<TQuestion[]>>;
   handleIncrementQuestionNum: () => void;
-  displayTotalScore: boolean;
 };
 
 const QuestionsBox = ({
@@ -29,11 +28,9 @@ const QuestionsBox = ({
   userPick,
   showErrMode,
   setUserPick,
-  displayTotalScore,
   handleIncrementQuestionNum,
   isSimulationFinished,
-}: /*  selectedAnswer, */
-TProps) => {
+}: TProps) => {
   const updateUserPick = (answer: string) => {
     setUserPick((prev) =>
       prev.map((obj) => {
@@ -70,7 +67,6 @@ TProps) => {
               answer={answer}
               onClick={() => handleAnswerClick(answer)}
               userPick={userPick}
-              correctAnswer={correctAnswer}
               isCorrectAnswer={correctAnswer === answer}
               showErrMode={showErrMode}
               isSimulationFinished={isSimulationFinished}
@@ -126,7 +122,6 @@ type TGridCellProps = {
   showErrMode: boolean;
   answer: string;
   userPick: string;
-  correctAnswer: string;
   isSimulationFinished: boolean;
   /*  isCorrectAnswer: () => boolean; */
 };
@@ -139,17 +134,22 @@ const GridCell = styled.div<TGridCellProps>`
     showErrMode,
     userPick,
     isSimulationFinished,
-    correctAnswer,
   }) => {
-    if (showErrMode && isSimulationFinished) {
+    /* else if (!showErrMode && isSimulationFinished && userPick) {
       return isCorrectAnswer
         ? ` #1ea304`
         : userPick === answer
         ? ` #fc4e41`
         : '#036668';
-    } else if (!showErrMode && !isSimulationFinished) {
+    } */ if (!showErrMode && !isSimulationFinished) {
       return userPick === answer ? ` #adab25` : '';
     } else if (showErrMode && !isSimulationFinished && userPick) {
+      return isCorrectAnswer
+        ? ` #1ea304`
+        : userPick === answer
+        ? ` #fc4e41`
+        : '#036668';
+    } else if (isSimulationFinished) {
       return isCorrectAnswer
         ? ` #1ea304`
         : userPick === answer
