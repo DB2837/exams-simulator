@@ -29,10 +29,10 @@ const clearUserPicks = (questionsArr: TQuestion[]) => {
 };
 
 const pathsOptions = {
-  antropology: 'src/data/antropologia.json',
-  methodology: 'src/data/metodologia.json',
-  pedagogy: 'src/data/pedagogia.json',
-  psicology: 'src/data/psicologia.json',
+  antropology: 'data/antropologia.json',
+  methodology: 'data/metodologia.json',
+  pedagogy: 'data/pedagogia.json',
+  psicology: 'data/psicologia.json',
 };
 
 const totalQuestionNum = {
