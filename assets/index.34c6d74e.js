@@ -101,10 +101,12 @@ Error generating stack: `+o.message+`
   padding: 0.7rem;
   transition: all 0.2s ease-in-out;
 
-  :hover {
-    /*   border: 2px solid #ff7034; */
-    transform: scale(1.06);
-    /*  transition: border 0.3s; */
+  @media (hover: hover) {
+    &:hover {
+      /*   border: 2px solid #ff7034; */
+      transform: scale(1.06);
+      /*  transition: border 0.3s; */
+    }
   }
 `,Jm=e=>e.map(t=>({...t})),qm=e=>{const t=Jm(e);for(let n=t.length-1;n>0;n--){const r=Math.floor(Math.random()*(n+1));[t[n],t[r]]=[t[r],t[n]]}return t},si=({title:e,options:t,selectedOption:n,setSelectedOption:r})=>Je(e0,{onChange:o=>{r(()=>o.target.value)},children:[Y("label",{htmlFor:e,children:e}),Y(bm,{defaultValue:n,children:t.map(o=>Y("option",{value:o,children:o},o))})]}),bm=Ve.select`
   font-weight: inherit;
