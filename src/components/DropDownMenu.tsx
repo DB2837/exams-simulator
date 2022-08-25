@@ -24,9 +24,9 @@ const DropDownMenu = ({
     <Container onChange={handleChange}>
       <label htmlFor={title}>{title}</label>
       <MenuSelector defaultValue={selectedOption}>
-        {options.map((option, index) => {
+        {options.map((option) => {
           return (
-            <option key={index} value={option}>
+            <option key={option} value={option}>
               {option}
             </option>
           );
@@ -38,7 +38,9 @@ const DropDownMenu = ({
 
 export default DropDownMenu;
 
-const MenuSelector = styled.select``;
+const MenuSelector = styled.select`
+  font-weight: inherit;
+`;
 
 const Container = styled.div`
   display: flex;
@@ -46,6 +48,7 @@ const Container = styled.div`
   text-align: center;
   margin-right: 0.8rem;
   margin-left: 0.8rem;
+  font-weight: bold;
 `;
 
 /* const OptionsContainer = styled.div`
