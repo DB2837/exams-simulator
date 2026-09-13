@@ -13,6 +13,12 @@ type TQuestion = {
   correctAnswer: string;
 };
 
+type TRawQuestion = Omit<TQuestion, 'userPick'> & { userPick?: string };
+
+type TQuestionsPayload = {
+  category: TRawQuestion[];
+};
+
 const calculateScore = (questionsArr: TQuestion[]) => {
   let score = 0;
   questionsArr.forEach((v) => {
@@ -22,10 +28,6 @@ const calculateScore = (questionsArr: TQuestion[]) => {
   });
 
   return score;
-};
-
-const clearUserPicks = (questionsArr: TQuestion[]) => {
-  questionsArr.forEach((v) => (v.userPick = ''));
 };
 
 const pathsOptions = {
@@ -72,31 +74,61 @@ const Home = () => {
     useState<boolean>(false);
   const [isSimulationFinished, setIsSimulationFinished] =
     useState<boolean>(false);
+  const [isLoading, setIsLoading] = useState<boolean>(true);
+  const [loadError, setLoadError] = useState<string>('');
 
   useEffect(() => {
-    (async () => {
-      const questions = await fetch(pathsOptions[`${selectedCategory}`]).then(
-        (res) => res.json(),
-      );
+    const controller = new AbortController();
 
-      setData(() =>
-        questions.category.slice(
-          0,
-          totalQuestionNum[`${selectedQuestionsNum}`],
-        ),
-      );
-    })();
+    const loadQuestions = async () => {
+      setIsLoading(true);
+      setLoadError('');
+      setData([]);
+
+      try {
+        const path = pathsOptions[selectedCategory];
+        const response = await fetch(`${import.meta.env.BASE_URL}${path}`, {
+          signal: controller.signal,
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const questions = (await response.json()) as TQuestionsPayload;
+        const questionLimit = totalQuestionNum[selectedQuestionsNum];
+        const selectedQuestions = questions.category
+          .slice(0, questionLimit)
+          .map((question) => ({ ...question, userPick: '' }));
+
+        setData(selectedQuestions);
+      } catch (error) {
+        if (controller.signal.aborted) return;
+        console.error('Unable to load questions', error);
+        setLoadError('Unable to load the selected category.');
+      } finally {
+        if (!controller.signal.aborted) {
+          setIsLoading(false);
+        }
+      }
+    };
+
+    loadQuestions();
+
+    return () => controller.abort();
   }, [selectedCategory, selectedQuestionsNum]);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-  }, [bottomRef.current, currentQuestionNumber, isSimulationStarted]);
+  }, [currentQuestionNumber, isSimulationStarted]);
 
   const totalScore = useRef(0);
 
   const handleStartSimulation = () => {
-    clearUserPicks(data);
-    setData(() => shuffleArray(data));
+    if (isLoading || data.length === 0) return;
+    setData((prev) =>
+      shuffleArray(prev.map((question) => ({ ...question, userPick: '' }))),
+    );
     setIsSimulationStarted(true);
     setIsSimulationFinished(false);
     setCurrentQuestionNumber(0);
@@ -122,7 +154,6 @@ const Home = () => {
       <MenuContainer>
         {!isSimulationStarted && (
           <>
-            {' '}
             <DropDownMenu
               title='category'
               options={categoryOptions}
@@ -147,9 +178,13 @@ const Home = () => {
       <MainContainer>
         {!isSimulationStarted && (
           <>
-            <StyledButton onClick={handleStartSimulation}>
-              start simulation
+            <StyledButton
+              onClick={handleStartSimulation}
+              disabled={isLoading || data.length === 0}
+            >
+              {isLoading ? 'loading...' : 'start simulation'}
             </StyledButton>
+            {loadError && <LoadError>{loadError}</LoadError>}
           </>
         )}
 
@@ -164,46 +199,42 @@ const Home = () => {
           </StyledButton>
         )}
 
-        {isSimulationStarted && data && (
-          <>
-            <div>
-              <QuestionNumContainer>
-                <h3>
-                  {currentQuestionNumber + 1} / {data.length}
-                </h3>
-              </QuestionNumContainer>
-              {
-                <QuestionsBox
-                  id={data[currentQuestionNumber].id}
-                  question={data[currentQuestionNumber].question}
-                  options={data[currentQuestionNumber].options}
-                  correctAnswer={data[currentQuestionNumber].correctAnswer}
-                  userPick={data[currentQuestionNumber].userPick}
-                  showErrMode={errorMode[`${selectedErrMode}`]}
-                  isSimulationFinished={isSimulationFinished}
-                  setUserPick={setData}
-                  handleIncrementQuestionNum={handleIncrementQuestionNum}
-                />
-              }
+        {isSimulationStarted && data.length > 0 && (
+          <div>
+            <QuestionNumContainer>
+              <h3>
+                {currentQuestionNumber + 1} / {data.length}
+              </h3>
+            </QuestionNumContainer>
+            <QuestionsBox
+              id={data[currentQuestionNumber].id}
+              question={data[currentQuestionNumber].question}
+              options={data[currentQuestionNumber].options}
+              correctAnswer={data[currentQuestionNumber].correctAnswer}
+              userPick={data[currentQuestionNumber].userPick}
+              showErrMode={errorMode[selectedErrMode]}
+              isSimulationFinished={isSimulationFinished}
+              setUserPick={setData}
+              handleIncrementQuestionNum={handleIncrementQuestionNum}
+            />
 
-              <ButtonContaier>
-                <FaLongArrowAltLeft
-                  onClick={handleDecrementQuestionNum}
-                  style={arrowStyle}
-                />
+            <ButtonContaier>
+              <FaLongArrowAltLeft
+                onClick={handleDecrementQuestionNum}
+                style={arrowStyle}
+              />
 
-                <FaLongArrowAltRight
-                  onClick={handleIncrementQuestionNum}
-                  style={arrowStyle}
-                />
-              </ButtonContaier>
-              {isSimulationFinished && (
-                <ScoreContainer>
-                  total score: {totalScore.current} / {data.length}{' '}
-                </ScoreContainer>
-              )}
-            </div>
-          </>
+              <FaLongArrowAltRight
+                onClick={handleIncrementQuestionNum}
+                style={arrowStyle}
+              />
+            </ButtonContaier>
+            {isSimulationFinished && (
+              <ScoreContainer>
+                total score: {totalScore.current} / {data.length}{' '}
+              </ScoreContainer>
+            )}
+          </div>
         )}
       </MainContainer>
       <BottomDiv ref={bottomRef} />
@@ -239,7 +270,6 @@ const MainContainer = styled.main`
   min-height: 450px;
   padding: 1rem;
   margin: 1rem 0;
-  /*  border: 2px solid #fff; */
 `;
 
 const ButtonContaier = styled.div`
@@ -263,6 +293,12 @@ const QuestionNumContainer = styled.div`
   padding: 1rem;
 `;
 
+const LoadError = styled.div`
+  margin-top: 1rem;
+  color: #fc4e41;
+  font-weight: 700;
+`;
+
 const StyledButton = styled.button`
   min-width: 92px;
   padding: 0.6rem;
@@ -273,8 +309,13 @@ const StyledButton = styled.button`
   font-size: inherit;
   font-weight: 700;
 
-  :hover {
+  :hover:not(:disabled) {
     border: 2px solid #036668;
     transition: border 0.3s;
+  }
+
+  :disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
   }
 `;

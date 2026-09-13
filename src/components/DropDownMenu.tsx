@@ -1,4 +1,4 @@
-import React, { SyntheticEvent, useState } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 
 type TDropDownMenuProps = {
@@ -14,23 +14,19 @@ const DropDownMenu = ({
   selectedOption,
   setSelectedOption,
 }: TDropDownMenuProps) => {
-  /*  const [value, setValue] = useState<string>(options[0]); */
-
-  const handleChange = (e: any) => {
-    setSelectedOption(() => e.target.value);
+  const handleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setSelectedOption(e.target.value);
   };
 
   return (
-    <Container onChange={handleChange}>
+    <Container>
       <label htmlFor={title}>{title}</label>
-      <MenuSelector defaultValue={selectedOption}>
-        {options.map((option) => {
-          return (
-            <option key={option} value={option}>
-              {option}
-            </option>
-          );
-        })}
+      <MenuSelector id={title} value={selectedOption} onChange={handleChange}>
+        {options.map((option) => (
+          <option key={option} value={option}>
+            {option}
+          </option>
+        ))}
       </MenuSelector>
     </Container>
   );
@@ -50,24 +46,3 @@ const Container = styled.div`
   margin-left: 0.8rem;
   font-weight: bold;
 `;
-
-/* const OptionsContainer = styled.div`
-  position: absolute;
-  min-width: 70px;
-  top: 300%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  display: ${({ displaySelector }) => {
-    return displaySelector ? 'flex' : 'none';
-  }};
-  flex-direction: column;
-  padding: 0.5rem;
-  background-color: #323232;
-`; */
-
-/* const Select = styled.select`
-  border-bottom: 1px solid #fff;
-  margin-top: 6px;
-  width: 100%;
-`;
- */
