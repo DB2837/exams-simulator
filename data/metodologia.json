@@ -1,0 +1,1343 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "question": "I mass-media possono essere definiti strumenti di apprendimento informale?",
+      "options": [
+        "No",
+        "Quanto utilizzati in contesti di apprendimento strutturato",
+        "In determinate condizioni",
+        "Si"
+      ],
+      "correctAnswer": "Si",
+      "userPick": ""
+    },
+    {
+      "id": 2,
+      "question": "Quale tra le seguenti può essere definita una caratteristica dell'apprendimento in età adulta?",
+      "options": [
+        "Ha luogo in contesti strutturati",
+        "Nessuna delle risposte",
+        "Ricostruisce contenuti attraverso le emozioni",
+        "L'apprendimento è il modo in cui l'adulto acquisisce, interpreta, organizza, modifica o assimila e costruisce significati"
+      ],
+      "correctAnswer": "L'apprendimento è il modo in cui l'adulto acquisisce, interpreta, organizza, modifica o assimila e costruisce significati",
+      "userPick": ""
+    },
+    {
+      "id": 3,
+      "question": "Quale è stato il contributo della teoria psicoanalitica all'apprendimento esperienziale?",
+      "options": [
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza",
+        "attenzione al rivelare i desideri inconsci e le paure",
+        "attenzione alla partecipazione a comunità di pratica",
+        "attenzione alla riflessione sull'esperienza concreta"
+      ],
+      "correctAnswer": "attenzione al rivelare i desideri inconsci e le paure",
+      "userPick": ""
+    },
+    {
+      "id": 4,
+      "question": "Quale è stato il contributo della teoria culturale all'apprendimento esperienziale?",
+      "options": [
+        "attenzione alla riflessione sull'esperienza concreta",
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza",
+        "attenzione alla partecipazione a comunità di pratica",
+        "attenzione al rivelare i desideri inconsci e le paure"
+      ],
+      "correctAnswer": "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza",
+      "userPick": ""
+    },
+    {
+      "id": 5,
+      "question": "Quele tra le seguenti è una caratteristica del modello di Jarvis?",
+      "options": [
+        "un processo di trasformazione",
+        "la didattica inclusiva",
+        "il modello sociologico",
+        "la presenza dell'educatore"
+      ],
+      "correctAnswer": "un processo di trasformazione",
+      "userPick": ""
+    },
+    {
+      "id": 6,
+      "question": "Quale è stato il contributo della teoria costruttivista all'apprendimento esperienziale?",
+      "options": [
+        "attenzione alla partecipazione a comunità di pratica",
+        "attenzione alla riflessione sull'esperienza concreta",
+        "attenzione al rivelare i desideri inconsci e le paure",
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza"
+      ],
+      "correctAnswer": "attenzione alla riflessione sull'esperienza concreta",
+      "userPick": ""
+    },
+    {
+      "id": 7,
+      "question": "Qule è il tratto saliente del modello di Usher, Bryant e Johnston?",
+      "options": [
+        "attenzione alla partecipazione a comunità di pratica",
+        "attenzione alla riflessione sull'esperienza concreta",
+        "gli studiosi considerano l'esperienza come un testo che, nonostante il grande sforzo che richiede per essere letto e interpretato, non possa avere significati che siano da assumersi come definitivi o durevoli",
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza"
+      ],
+      "correctAnswer": "gli studiosi considerano l'esperienza come un testo che, nonostante il grande sforzo che richiede per essere letto e interpretato, non possa avere significati che siano da assumersi come definitivi o durevoli",
+      "userPick": ""
+    },
+    {
+      "id": 8,
+      "question": "Quale è stato il contributo della teoria situazionale all'apprendimento esperienziale?",
+      "options": [
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza",
+        "attenzione al rivelare i desideri inconsci e le paure",
+        "attenzione alla partecipazione a comunità di pratica",
+        "attenzione alla riflessione sull'esperienza concreta"
+      ],
+      "correctAnswer": "attenzione alla partecipazione a comunità di pratica",
+      "userPick": ""
+    },
+    {
+      "id": 9,
+      "question": "Che cosa sono le critical practices nel modello di Usher, Bryant e Johnston?",
+      "options": [
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "nascono dal riconoscimento che l'esperienza non può essere assunta come un dato ineluttabile.  L'attenzione è rivolta al cambiamento dei contesti sociali e di appartenenza in cui la persona si muove, piuttosto che al tentativo di adattarvisi",
+        "significa che l'esperienza è tale a causa di una transazione che avviene tra l'individuo e ciò che, in un dato momento, costituisce l'ambiente in cui si muove",
+        "l'esperienza per essere considerata tale deve manifestare i principi di continuità e interazione;"
+      ],
+      "correctAnswer": "nascono dal riconoscimento che l'esperienza non può essere assunta come un dato ineluttabile.  L'attenzione è rivolta al cambiamento dei contesti sociali e di appartenenza in cui la persona si muove, piuttosto che al tentativo di adattarvisi",
+      "userPick": ""
+    },
+    {
+      "id": 10,
+      "question": "Come possiamo definire la riflessione sull'azione?",
+      "options": [
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "è il processo che permette di tornare consapevolmente sull'esperienza vissuta",
+        "l'esperienza per essere considerata tale deve manifestare i principi di continuità e interazione;",
+        "implica che ogni esperienza assorbe qualcosa da quelle che l'hanno preceduta e, allo stesso tempo, modifica in qualche modo la qualità di quelle che verranno in seguito"
+      ],
+      "correctAnswer": "è il processo che permette di tornare consapevolmente sull'esperienza vissuta",
+      "userPick": ""
+    },
+    {
+      "id": 11,
+      "question": "Quali tra le seguenti sono dimensioni peculiari della pratica riflessiva?",
+      "options": [
+        "il modello sociologico",
+        "le credenze e le pratiche",
+        "la presenza dell'educatore",
+        "la didattica inclusiva"
+      ],
+      "correctAnswer": "le credenze e le pratiche",
+      "userPick": ""
+    },
+    {
+      "id": 12,
+      "question": "Quale tra le seguenti definizioni è applicabile alla pratica riflessiva?",
+      "options": [
+        "attenzione alla partecipazione a comunità di pratica",
+        "attenzione al rivelare i desideri inconsci e le paure",
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza",
+        "richiede un'interruzione intenzionale dell'azione che permetta al soggetto di prendere in considerazione la molteplicità delle prospettive che possono concorrere a definire una situazione o un problema"
+      ],
+      "correctAnswer": "richiede un'interruzione intenzionale dell'azione che permetta al soggetto di prendere in considerazione la molteplicità delle prospettive che possono concorrere a definire una situazione o un problema",
+      "userPick": ""
+    },
+    {
+      "id": 13,
+      "question": "Che cosa contraddistingue la riflessione nel corso dell'azione da altri tipi di riflessione?",
+      "options": [
+        "nessuno",
+        "l'esperienza per essere considerata tale deve manifestare i principi di continuità e interazione;",
+        "il suo immediato significato per l'azione",
+        "significa che l'esperienza è tale a causa di una transazione che avviene tra l'individuo e ciò che, in un dato momento, costituisce l'ambiente in cui si muove"
+      ],
+      "correctAnswer": "il suo immediato significato per l'azione",
+      "userPick": ""
+    },
+    {
+      "id": 14,
+      "question": "Che cosa è quella che Schön chiama \"la consapevolezza dei dilemmi\"?",
+      "options": [
+        "ricostruisce contenuti attraverso le emozioni",
+        "quando una comunità di professionisti incorpora idee molteplici e contrastanti sulle strutture adatte alla costruzione di problemi e di ruoli",
+        "attenzione alla partecipazione a comunità di pratica",
+        "implica che ogni esperienza assorbe qualcosa da quelle che l'hanno preceduta e, allo stesso tempo, modifica in qualche modo la qualità di quelle che verranno in seguito"
+      ],
+      "correctAnswer": "quando una comunità di professionisti incorpora idee molteplici e contrastanti sulle strutture adatte alla costruzione di problemi e di ruoli",
+      "userPick": ""
+    },
+    {
+      "id": 15,
+      "question": "Quale tra le seguenti è una tipologia di ricerca rilessiva?",
+      "options": [
+        "La ricerca-azione",
+        "la ricerca qualitativa",
+        "la ricerca quantitativa",
+        "la ricerca per la costruzione del repertorio"
+      ],
+      "correctAnswer": "la ricerca per la costruzione del repertorio",
+      "userPick": ""
+    },
+    {
+      "id": 16,
+      "question": "Che cosa può fare la ricerca educativa?",
+      "options": [
+        "indica la particolare modalità di partecipazione della persona-che-apprende coinvolta nella pratica reale di un esperto",
+        "la partecipazione attiva",
+        "una comunità di pratica",
+        "costruire repertori di pratiche"
+      ],
+      "correctAnswer": "costruire repertori di pratiche",
+      "userPick": ""
+    },
+    {
+      "id": 17,
+      "question": "Che cosa è la partecipazione periferica legittima?",
+      "options": [
+        "implica che ogni esperienza assorbe qualcosa da quelle che l'hanno preceduta e, allo stesso tempo, modifica in qualche modo la qualità di quelle che verranno in seguito",
+        "indica la particolare modalità di partecipazione della persona-che-apprende coinvolta nella pratica reale di un esperto",
+        "l'esperienza per essere considerata tale deve manifestare i principi di continuità e interazione;",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;"
+      ],
+      "correctAnswer": "indica la particolare modalità di partecipazione della persona-che-apprende coinvolta nella pratica reale di un esperto",
+      "userPick": ""
+    },
+    {
+      "id": 18,
+      "question": "Su quale aspetto si soffermano Lave e Wenger nella definizione di apprendimento situato?",
+      "options": [
+        "il modello sociologico",
+        "la didattica inclusiva",
+        "sulle forme di partecipazione sociale che forniscono il contesto",
+        "la presenza dell'educatore"
+      ],
+      "correctAnswer": "sulle forme di partecipazione sociale che forniscono il contesto",
+      "userPick": ""
+    },
+    {
+      "id": 19,
+      "question": "Per avere una comunità di pratica è sufficiente associare il concetto di pratica e quello di comunità?",
+      "options": ["a volte", "dipende dal contesto", "si", "no"],
+      "correctAnswer": "no",
+      "userPick": ""
+    },
+    {
+      "id": 20,
+      "question": "Una pratica è il frutto di una negoziazione tra:",
+      "options": [
+        "tutti gli esperti del campo",
+        "aspetti materiali e immateriali",
+        "la metafisica della relatà e il pensiero",
+        "esperti e soggetti esterni alla comunità"
+      ],
+      "correctAnswer": "aspetti materiali e immateriali",
+      "userPick": ""
+    },
+    {
+      "id": 21,
+      "question": "E' possibile progettare una comunità di pratica se non esiste un network preesistente?",
+      "options": [
+        "no",
+        "si a deterimante condizioni",
+        "solo in azienda",
+        "solo nella scuola"
+      ],
+      "correctAnswer": "no",
+      "userPick": ""
+    },
+    {
+      "id": 22,
+      "question": "La comunità di pratica nasce:",
+      "options": [
+        "spontaneamente",
+        "se progettata in modo accurato",
+        "su iniziativa del management",
+        "può solo essere costruita da un formatore"
+      ],
+      "correctAnswer": "spontaneamente",
+      "userPick": ""
+    },
+    {
+      "id": 23,
+      "question": "Che cosa si intende con partecipazione all'intrno della comunità di pratica?",
+      "options": [
+        "legittimare chi non fa parte della comunità",
+        "essere partecipanti attivi nelle pratiche di comunità sociali e nella costruzione di identità",
+        "essere partecipanti attivi della comunità per differenziarsi dai partecipanti passivi",
+        "non è applicabile"
+      ],
+      "correctAnswer": "essere partecipanti attivi nelle pratiche di comunità sociali e nella costruzione di identità",
+      "userPick": ""
+    },
+    {
+      "id": 24,
+      "question": "Quale definizione di Comunità di pratica è corretta?",
+      "options": [
+        "è il processo che permette di tornare consapevolmente sull'esperienza vissuta",
+        "richiede un'interruzione intenzionale dell'azione che permetta al soggetto di prendere in considerazione la molteplicità delle prospettive che possono concorrere a definire una situazione o un problema",
+        "nascono dal riconoscimento che l'esperienza non può essere assunta come un dato ineluttabile. L'attenzione è rivolta al cambiamento dei contesti sociali e di appartenenza in cui la persona si muove, piuttosto che al tentativo di adattarvisi",
+        "gruppi di persone che condividono un interesse, un insieme di problemi, una passione rispetto a una tematica e che approfondiscono la loro conoscenza ed esperienza in quest'area mediante interazioni continue"
+      ],
+      "correctAnswer": "gruppi di persone che condividono un interesse, un insieme di problemi, una passione rispetto a una tematica e che approfondiscono la loro conoscenza ed esperienza in quest'area mediante interazioni continue",
+      "userPick": ""
+    },
+    {
+      "id": 25,
+      "question": "Che cosa è l'impegno reciproco?",
+      "options": [
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza",
+        "indica la particolare modalità di partecipazione della persona-che-apprende coinvolta nella pratica reale di un esperto",
+        "essere partecipanti attivi nelle pratiche di comunità sociali e nella costruzione di identità",
+        "Una CdP necessita di mantenere nel tempo intense relazioni di impegno reciproco, organizzato intorno ai compiti da svolgere"
+      ],
+      "correctAnswer": "Una CdP necessita di mantenere nel tempo intense relazioni di impegno reciproco, organizzato intorno ai compiti da svolgere",
+      "userPick": ""
+    },
+    {
+      "id": 26,
+      "question": "Come può essere definita l'impresa comune in una comunità di pratica?",
+      "options": [
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "le credenze e le pratiche",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "il suo immediato significato per l'azione"
+      ],
+      "correctAnswer": "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+      "userPick": ""
+    },
+    {
+      "id": 27,
+      "question": "Coltivare la Comunità di pratica significa:",
+      "options": [
+        "richiede un'interruzione intenzionale dell'azione che permetta al soggetto di prendere in considerazione la molteplicità delle prospettive che possono concorrere a definire una situazione o un problema",
+        "dirigere l'apprendimento",
+        "la presenza dell'educatore",
+        "stimolare la riflessione"
+      ],
+      "correctAnswer": "stimolare la riflessione",
+      "userPick": ""
+    },
+    {
+      "id": 28,
+      "question": "Che cosa significa aprire un dialogo tra prospettive interne ed esterne alla comunità di pratica?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+        "Gli elementi di progettazione dovrebbero porsi come dei catalizzatori per un'evoluzione naturale della comunità",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;"
+      ],
+      "correctAnswer": "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+      "userPick": ""
+    },
+    {
+      "id": 29,
+      "question": "Che cosa significa sviluppare spazi di comunità sia pubblici che privati?",
+      "options": [
+        "Gli elementi di progettazione dovrebbero porsi come dei catalizzatori per un'evoluzione naturale della comunità",
+        "La dimensione pubblica e quella privata sono strettamente correlate, la loro efficace gestione è la chiave per il successo della comunità",
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+        "Fare in modo che i membri della comunità, siano centrali (core), attivi (active) o periferici (peripheral) e ricoprano ruoli specifici"
+      ],
+      "correctAnswer": "La dimensione pubblica e quella privata sono strettamente correlate, la loro efficace gestione è la chiave per il successo della comunità",
+      "userPick": ""
+    },
+    {
+      "id": 30,
+      "question": "Che cosa significa progettare l'evoluzione di una comunità di pratica?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "le credenze e le pratiche",
+        "Gli elementi di progettazione dovrebbero porsi come dei catalizzatori per un'evoluzione naturale della comunità"
+      ],
+      "correctAnswer": "Gli elementi di progettazione dovrebbero porsi come dei catalizzatori per un'evoluzione naturale della comunità",
+      "userPick": ""
+    },
+    {
+      "id": 31,
+      "question": "Che cosa significa favorire differenti livelli di partecipazione in una comunità di pratica?",
+      "options": [
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+        "Gli elementi di progettazione dovrebbero porsi come dei catalizzatori per un'evoluzione naturale della comunità",
+        "Fare in modo che i membri della comunità, siano centrali (core), attivi (active) o periferici (peripheral) e ricoprano ruoli specifici",
+        "Gli elementi di progettazione dovrebbero porsi come dei catalizzatori per un'evoluzione naturale della comunità"
+      ],
+      "correctAnswer": "Fare in modo che i membri della comunità, siano centrali (core), attivi (active) o periferici (peripheral) e ricoprano ruoli specifici",
+      "userPick": ""
+    },
+    {
+      "id": 32,
+      "question": "Che cosa significa concentrarsi sul valore in una comunità di pratica?",
+      "options": [
+        "Fare in modo che i membri della comunità, siano centrali (core), attivi (active) o periferici (peripheral) e ricoprano ruoli specifici",
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+        "Creare occasioni per incoraggiare i membri a esplicitare il valore attribuito alla comunità nel corso del suo sviluppo",
+        "Valorizzare economicamente la CdP"
+      ],
+      "correctAnswer": "Creare occasioni per incoraggiare i membri a esplicitare il valore attribuito alla comunità nel corso del suo sviluppo",
+      "userPick": ""
+    },
+    {
+      "id": 33,
+      "question": "Cosa può innescare un dilemma disorientate?",
+      "options": [
+        "un processo di trasformazione",
+        "una comunità di pratica",
+        "la partecipazione attiva",
+        "indica la particolare modalità di partecipazione della persona-che-apprende coinvolta nella pratica reale di un esperto"
+      ],
+      "correctAnswer": "un processo di trasformazione",
+      "userPick": ""
+    },
+    {
+      "id": 34,
+      "question": "Nella teoria trasformativa l'apprendimento rappresenta la capacità di:",
+      "options": [
+        "Creare occasioni per incoraggiare i membri a esplicitare il valore attribuito alla comunità nel corso del suo sviluppo",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "Ricordare, validare e agire"
+      ],
+      "correctAnswer": "Ricordare, validare e agire",
+      "userPick": ""
+    },
+    {
+      "id": 35,
+      "question": "Come possiamo schematizzare l'apprendimento nella teoria trasformativa?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "la ricerca per la costruzione del repertorio",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "Capacità di esplicitare, schematizzare, interiorizzare"
+      ],
+      "correctAnswer": "Capacità di esplicitare, schematizzare, interiorizzare",
+      "userPick": ""
+    },
+    {
+      "id": 36,
+      "question": "In che cosa consiste il principio di continuità dell'esperienza secondo Dewey?",
+      "options": [
+        "implica che ogni esperienza assorbe qualcosa da quelle che l'hanno preceduta e, allo stesso tempo, modifica in qualche modo la qualità di quelle che verranno in seguito",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "l'esperienza per essere considerata tale deve manifestare i principi di continuità e interazione;",
+        "significa che l'esperienza è tale a causa di una transazione che avviene tra l'individuo e ciò che, in un dato momento, costituisce l'ambiente in cui si muove"
+      ],
+      "correctAnswer": "implica che ogni esperienza assorbe qualcosa da quelle che l'hanno preceduta e, allo stesso tempo, modifica in qualche modo la qualità di quelle che verranno in seguito",
+      "userPick": ""
+    },
+    {
+      "id": 37,
+      "question": "Come ha inizio il processo di apprendimento secondo Jervis?",
+      "options": [
+        "in modo casuale",
+        "in modo volontario",
+        "all'interno dell'aula",
+        "Quando si è alle prese con un'esperienza la cui elaborazione non possa essere automaticamente accomodata o assimilata"
+      ],
+      "correctAnswer": "Quando si è alle prese con un'esperienza la cui elaborazione non possa essere automaticamente accomodata o assimilata",
+      "userPick": ""
+    },
+    {
+      "id": 38,
+      "question": "Che cosa è uno schema di significato nella teoria trasformativa?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "E' costituito da aspettative abituali e da regole implicite che supportano il processo d'interpretazione",
+        "Capacità di esplicitare, schematizzare, interiorizzare",
+        "la ricerca per la costruzione del repertorio"
+      ],
+      "correctAnswer": "E' costituito da aspettative abituali e da regole implicite che supportano il processo d'interpretazione",
+      "userPick": ""
+    },
+    {
+      "id": 39,
+      "question": "Quale tra i seguenti è un termine chiave della pratica trasformativa?",
+      "options": [
+        "partecipazione periferica",
+        "prossimità",
+        "prospettiva di significato",
+        "comunità"
+      ],
+      "correctAnswer": "prospettiva di significato",
+      "userPick": ""
+    },
+    {
+      "id": 40,
+      "question": "La trasformazione delle prospettive comporta?",
+      "options": [
+        "un senso rafforzato del Sé",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "le credenze e le pratiche",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco"
+      ],
+      "correctAnswer": "un senso rafforzato del Sé",
+      "userPick": ""
+    },
+    {
+      "id": 41,
+      "question": "Quali sono le tipologie di prospettive di significato individuate da Mezirow?",
+      "options": [
+        "storiche e politiche",
+        "epistemologiche, sociolinguistiche e psicologiche",
+        "di natura formale e informale",
+        "nessuna di queste"
+      ],
+      "correctAnswer": "epistemologiche, sociolinguistiche e psicologiche",
+      "userPick": ""
+    },
+    {
+      "id": 42,
+      "question": "Quale è Il contributo di Wildemeersch e Leirman alla prospettiva trasfrormativa?",
+      "options": [
+        "la didattica inclusiva",
+        "il mondo della vita auto-dimostrato, minacciato, trasformato",
+        "la presenza dell'educatore",
+        "il modello sociologico"
+      ],
+      "correctAnswer": "il mondo della vita auto-dimostrato, minacciato, trasformato",
+      "userPick": ""
+    },
+    {
+      "id": 43,
+      "question": "Quali tra le seguenti sono fasi del processo di trasformazione delle prospettive di significato?",
+      "options": [
+        "la partecipazione periferica",
+        "la partecipazione attiva",
+        "la pianificazione di un corso d'azione",
+        "la pratica"
+      ],
+      "correctAnswer": "la pianificazione di un corso d'azione",
+      "userPick": ""
+    },
+    {
+      "id": 44,
+      "question": "Che cosa è una distorsione socioculturale?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "coinvolgono i sistemi di credenze che gli adulti assumono come scontati e si riferiscono alle relazioni sociali e di potere",
+        "un senso rafforzato del Sé",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;"
+      ],
+      "correctAnswer": "coinvolgono i sistemi di credenze che gli adulti assumono come scontati e si riferiscono alle relazioni sociali e di potere",
+      "userPick": ""
+    },
+    {
+      "id": 45,
+      "question": "Che cosa è una distorsione epistemologica?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "un senso rafforzato del Sé",
+        "una visione distorta dell'approccio alla conoscenza",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;"
+      ],
+      "correctAnswer": "una visione distorta dell'approccio alla conoscenza",
+      "userPick": ""
+    },
+    {
+      "id": 46,
+      "question": "Che cosa è una distorsione psicologica?",
+      "options": [
+        "coinvolgono i sistemi di credenze che gli adulti assumono come scontati e si riferiscono alle relazioni sociali e di potere",
+        "producono modi di sentire e agire che causano dolore, perché risultano incoerenti con il concetto di Sé e il profilo che l'adulto vuole darsi",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "un senso rafforzato del Sé"
+      ],
+      "correctAnswer": "producono modi di sentire e agire che causano dolore, perché risultano incoerenti con il concetto di Sé e il profilo che l'adulto vuole darsi",
+      "userPick": ""
+    },
+    {
+      "id": 47,
+      "question": "Quale è il rapporto tra riflessione e trasformazione secondo Mezirow?",
+      "options": [
+        "un senso rafforzato del Sé",
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "è proprio il processo di riflessione retroattiva sugli apprendimenti che l'adulto ha maturato a permettere di giustificarne la validità in circostanze inedite",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco"
+      ],
+      "correctAnswer": "è proprio il processo di riflessione retroattiva sugli apprendimenti che l'adulto ha maturato a permettere di giustificarne la validità in circostanze inedite",
+      "userPick": ""
+    },
+    {
+      "id": 48,
+      "question": "Come può essere definita in sintesi la teoria trasformativa?",
+      "options": [
+        "considera la riflessione critica come l'esperienza di apprendimento più significativa dell'adultità",
+        "indica la particolare modalità di partecipazione della persona-che-apprende coinvolta nella pratica reale di un esperto",
+        "essere partecipanti attivi nelle pratiche di comunità sociali e nella costruzione di identità",
+        "attenzione alla comprensione delle norme sociali dominanti e strutturanti l'esperienza"
+      ],
+      "correctAnswer": "considera la riflessione critica come l'esperienza di apprendimento più significativa dell'adultità",
+      "userPick": ""
+    },
+    {
+      "id": 49,
+      "question": "Come viene definita la riflessione da Mezirow?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "un senso rafforzato del Sé",
+        "è definita come una valutazione del come e del perché si pensa, si senta e si agisca",
+        "coinvolgono i sistemi di credenze che gli adulti assumono come scontati e si riferiscono alle relazioni sociali e di potere"
+      ],
+      "correctAnswer": "è definita come una valutazione del come e del perché si pensa, si senta e si agisca",
+      "userPick": ""
+    },
+    {
+      "id": 50,
+      "question": "Che cosa sono gli schemi di significato nella teoria trasformativa?",
+      "options": [
+        "strutture generali di aspettativa, regole implicite per interpretare le situazioni",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "è un set di risorse condivise dalla comunità che include routine, parole, strumenti, modi di operare, storie, gesti, simboli, azioni o concetti che la comunità ha prodotto o adottato",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco"
+      ],
+      "correctAnswer": "strutture generali di aspettativa, regole implicite per interpretare le situazioni",
+      "userPick": ""
+    },
+    {
+      "id": 51,
+      "question": "Che cosa sono gli: \"Habits of mind\"?",
+      "options": [
+        "modi di vedere il mondo basati sul nostro background, esperienza, cultura e personalità",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "considera la riflessione critica come l'esperienza di apprendimento più significativa dell'adultità",
+        "producono modi di sentire e agire che causano dolore, perché risultano incoerenti con il concetto di Sé e il profilo che l'adulto vuole darsi"
+      ],
+      "correctAnswer": "modi di vedere il mondo basati sul nostro background, esperienza, cultura e personalità",
+      "userPick": ""
+    },
+    {
+      "id": 52,
+      "question": "In che cosa consiste il principio di interazione dell'esperienza?",
+      "options": [
+        "tutto ciò che può genuinamente definirsi educazione avviene attraverso l'esperienza;",
+        "implica che ogni esperienza assorbe qualcosa da quelle che l'hanno preceduta e, allo stesso tempo, modifica in qualche modo la qualità di quelle che verranno in seguito",
+        "significa che l'esperienza è tale a causa di una transazione che avviene tra l'individuo e ciò che, in un dato momento, costituisce l'ambiente in cui si muove",
+        "l'esperienza per essere considerata tale deve manifestare i principi di continuità e interazione;"
+      ],
+      "correctAnswer": "significa che l'esperienza è tale a causa di una transazione che avviene tra l'individuo e ciò che, in un dato momento, costituisce l'ambiente in cui si muove",
+      "userPick": ""
+    },
+    {
+      "id": 53,
+      "question": "Che cosa è un dilemma disorientante?",
+      "options": [
+        "gruppi di persone che condividono un interesse, un insieme di problemi, una passione rispetto a una tematica e che approfondiscono la loro conoscenza ed esperienza in quest'area mediante interazioni continue",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+        "una visione distorta dell'approccio alla conoscenza"
+      ],
+      "correctAnswer": "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+      "userPick": ""
+    },
+    {
+      "id": 54,
+      "question": "Che cosa può fare l'educatore in ottica trasformativa?",
+      "options": [
+        "fare in modo che i membri della comunità, siano centrali (core), attivi (active) o periferici (peripheral) e ricoprano ruoli specifici",
+        "riorientare continuamente i propri riferimenti concettuali e i quadri di sapere acquisiti, i modelli di pensiero e gli approcci conoscitivi sedimentati, per meglio \"adattarsi\" e comprendere i contesti che incontra ",
+        "ricordare, validare e agire",
+        "la partecipazione periferica"
+      ],
+      "correctAnswer": "riorientare continuamente i propri riferimenti concettuali e i quadri di sapere acquisiti, i modelli di pensiero e gli approcci conoscitivi sedimentati, per meglio \"adattarsi\" e comprendere i contesti che incontra ",
+      "userPick": ""
+    },
+    {
+      "id": 55,
+      "question": "Che cosa significa fare ricerca educativa in un contesto di azione?",
+      "options": [
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+        "una visione distorta dell'approccio alla conoscenza",
+        "orientare le pratiche educative in senso riflessivo e con una sensibilità narrativa",
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità"
+      ],
+      "correctAnswer": "orientare le pratiche educative in senso riflessivo e con una sensibilità narrativa",
+      "userPick": ""
+    },
+    {
+      "id": 56,
+      "question": "Che cosa è la memoria autobiografica in ottica educativa?",
+      "options": [
+        "modi di vedere il mondo basati sul nostro background, esperienza, cultura e personalità",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+        "consolida e strutttura l'esperienza",
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco"
+      ],
+      "correctAnswer": "consolida e strutttura l'esperienza",
+      "userPick": ""
+    },
+    {
+      "id": 57,
+      "question": "Come possiamo definire il \"Sé oggetto di ricordo\" ?",
+      "options": [
+        "Il confronto con l'esterno può favorire una migliore comprensione del potenziale della comunità",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+        "orientare le pratiche educative in senso riflessivo e con una sensibilità narrativa",
+        "è un fenomeno socialmente costruito grazie al saper attribuire un ordine sequenziale alle proprie esperienze di vita"
+      ],
+      "correctAnswer": "è un fenomeno socialmente costruito grazie al saper attribuire un ordine sequenziale alle proprie esperienze di vita",
+      "userPick": ""
+    },
+    {
+      "id": 58,
+      "question": "Quale è il primo passo per definire un progetto di ricerca empirica?",
+      "options": [
+        "il modello sociologico",
+        "la presenza dell'educatore",
+        "la didattica inclusiva",
+        "identificare il problema di ricerca"
+      ],
+      "correctAnswer": "identificare il problema di ricerca",
+      "userPick": ""
+    },
+    {
+      "id": 59,
+      "question": "Come possiamo definire la ricerca empirica in ambito educativo?",
+      "options": [
+        "E' costituito da aspettative abituali e da regole implicite che supportano il processo d'interpretazione",
+        "una visione distorta dell'approccio alla conoscenza",
+        "è una successione di operazioni per produrre risposte a domande sulla realtà",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé"
+      ],
+      "correctAnswer": "è una successione di operazioni per produrre risposte a domande sulla realtà",
+      "userPick": ""
+    },
+    {
+      "id": 60,
+      "question": "Quale tra i seguenti è un esempio di ricerca qualitativa?",
+      "options": [
+        "analisi statistica",
+        "data mining",
+        "analisi a campione",
+        "ricerca etnografica"
+      ],
+      "correctAnswer": "ricerca etnografica",
+      "userPick": ""
+    },
+    {
+      "id": 61,
+      "question": "Chi può determinare il problema di ricerca?",
+      "options": [
+        "un bando",
+        "il MIUR",
+        "i soggetti coinvolti nella ricerca",
+        "il ricercatore o un committente"
+      ],
+      "correctAnswer": "il ricercatore o un committente",
+      "userPick": ""
+    },
+    {
+      "id": 62,
+      "question": "Quale delle seguenti affermazioni è congruente con il concetto di apprendimento situato?",
+      "options": [
+        "si tratta di una pratica sociale",
+        "la presenza dell'educatore",
+        "la didattica inclusiva",
+        "il modello sociologico"
+      ],
+      "correctAnswer": "si tratta di una pratica sociale",
+      "userPick": ""
+    },
+    {
+      "id": 63,
+      "question": "Quali tra i seguenti aspetti afferiscono alla tattica del progetto di ricerca?",
+      "options": [
+        "il campione di riferimento",
+        "gli assunti epistemologici",
+        "l'approccio metodologico",
+        "la didattica inclusiva"
+      ],
+      "correctAnswer": "il campione di riferimento",
+      "userPick": ""
+    },
+    {
+      "id": 64,
+      "question": "Quale sono le fasi di lavoro sui dati di una ricerca empirica?",
+      "options": [
+        "raccolta e trasmissione",
+        "ricerca e comunicazione",
+        "modifica e integrazione",
+        "raccolta, elaborazione e analisi"
+      ],
+      "correctAnswer": "raccolta, elaborazione e analisi",
+      "userPick": ""
+    },
+    {
+      "id": 65,
+      "question": "Su quali piani si sviluppa il percorso di formulazione degli obiettivi di ricerca?",
+      "options": [
+        "modifica e integrazione",
+        "rispetto agli scopi e rispetto alla teoria",
+        "ricerca e comunicazione",
+        "raccolta e trasmissione"
+      ],
+      "correctAnswer": "rispetto agli scopi e rispetto alla teoria",
+      "userPick": ""
+    },
+    {
+      "id": 66,
+      "question": "Come si configura la ricerca nell'ambito dei sistemi educativi?",
+      "options": [
+        "analisi a campione",
+        "analisi statistica",
+        "come pratica euristica e come dispositivo di formazione",
+        "data mining"
+      ],
+      "correctAnswer": "come pratica euristica e come dispositivo di formazione",
+      "userPick": ""
+    },
+    {
+      "id": 67,
+      "question": "La cultura organizzativa risulta importante per comprendere:",
+      "options": [
+        "la didattica inclusiva",
+        "la presenza dell'educatore",
+        "il modello sociologico",
+        "i significati condivisi"
+      ],
+      "correctAnswer": "i significati condivisi",
+      "userPick": ""
+    },
+    {
+      "id": 68,
+      "question": "A cosa attiene il paradigma costruzionista?",
+      "options": [
+        "la ricerca de-costruisce e ri-costruisce la realtà",
+        "approccio idiografico e contingente",
+        "teoria generata dal fenomeno",
+        "ancoraggio al senso comune"
+      ],
+      "correctAnswer": "la ricerca de-costruisce e ri-costruisce la realtà",
+      "userPick": ""
+    },
+    {
+      "id": 69,
+      "question": "A cosa attiene il paradigma formalista?",
+      "options": [
+        "approccio idiografico e contingente",
+        "teoria generata dal fenomeno",
+        "ancoraggio al senso comune",
+        "Esistenza di una teroria di riferimento"
+      ],
+      "correctAnswer": "Esistenza di una teroria di riferimento",
+      "userPick": ""
+    },
+    {
+      "id": 70,
+      "question": "Quale è il terzo assunto della ricerca qualitativa?",
+      "options": [
+        "nessuno di questi",
+        "Paradigmi, teorie, metodi, tecniche e strumenti della ricerca qualitativa",
+        "ricerca per paradigmi, ricerca per problemi",
+        "Processo di ricerca: elementi, metodo, teoria della tecnica"
+      ],
+      "correctAnswer": "Processo di ricerca: elementi, metodo, teoria della tecnica",
+      "userPick": ""
+    },
+    {
+      "id": 71,
+      "question": "A cosa attiene il paradigma ermeneutico?",
+      "options": [
+        "la ricerca de-costruisce e ri-costruisce la realtà",
+        "la realtà è frutto di interpretazione",
+        "approccio idiografico e contingente",
+        "ancoraggio al senso comune"
+      ],
+      "correctAnswer": "la realtà è frutto di interpretazione",
+      "userPick": ""
+    },
+    {
+      "id": 72,
+      "question": "Quale è il secondo assunto della ricerca qualitativa?",
+      "options": [
+        "Processo di ricerca: elementi, metodo, teoria della tecnica",
+        "Paradigmi, teorie, metodi, tecniche e strumenti della ricerca qualitativa",
+        "ricerca per paradigmi, ricerca per problemi",
+        "nessuno di questi"
+      ],
+      "correctAnswer": "ricerca per paradigmi, ricerca per problemi",
+      "userPick": ""
+    },
+    {
+      "id": 73,
+      "question": "Quale è il primo assunto della ricerca qualitativa?",
+      "options": [
+        "Paradigmi, teorie, metodi, tecniche e strumenti della ricerca qualitativa",
+        "nessuno di questi",
+        "ricerca per paradigmi, ricerca per problemi",
+        "Processo di ricerca: elementi, metodo, teoria della tecnica"
+      ],
+      "correctAnswer": "Paradigmi, teorie, metodi, tecniche e strumenti della ricerca qualitativa",
+      "userPick": ""
+    },
+    {
+      "id": 74,
+      "question": "Che cosa è uno strumento nell'ambito della ricerca didattica?",
+      "options": [
+        "Dispositivo operativo + tecniche atti a generare le conoscenze identificate negli obiettivi",
+        "ancoraggio al senso comune",
+        "approccio idiografico e contingente",
+        "teoria generata dal fenomeno"
+      ],
+      "correctAnswer": "Dispositivo operativo + tecniche atti a generare le conoscenze identificate negli obiettivi",
+      "userPick": ""
+    },
+    {
+      "id": 75,
+      "question": "Che cosa è uno strumento situato nell'ambito della ricerca didattica?",
+      "options": [
+        "Strumento + condizioni di attuazione",
+        "Dispositivo operativo + tecniche atti a generare le conoscenze identificate negli obiettivi",
+        "approccio idiografico e contingente",
+        "nessuno di questi"
+      ],
+      "correctAnswer": "Strumento + condizioni di attuazione",
+      "userPick": ""
+    },
+    {
+      "id": 76,
+      "question": "Che cosa è il campo relazionale nell'ambito della ricerca didattica?",
+      "options": [
+        "nessuno di questi",
+        "la relazione tra ricercatore, soggetto e oggetto della ricerca",
+        "la relazione tra ricercatore e docente",
+        "la relazione tra ricercatore e oggetto della ricerca"
+      ],
+      "correctAnswer": "la relazione tra ricercatore, soggetto e oggetto della ricerca",
+      "userPick": ""
+    },
+    {
+      "id": 77,
+      "question": "Come può essere definita la progettazione educativa?",
+      "options": [
+        "è un fenomeno socialmente costruito grazie al saper attribuire un ordine sequenziale alle proprie esperienze di vita",
+        "un insieme concatenato di attività orientate al conseguimento di un risultato che in genere coincide con un obiettivo definito in anticipo",
+        "orientare le pratiche educative in senso riflessivo e con una sensibilità narrativa",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé"
+      ],
+      "correctAnswer": "un insieme concatenato di attività orientate al conseguimento di un risultato che in genere coincide con un obiettivo definito in anticipo",
+      "userPick": ""
+    },
+    {
+      "id": 78,
+      "question": "Quale è lo scopo della valutazione?",
+      "options": [
+        "è uno strumento di apprendimento e di cambiamento",
+        "nessuno di questi",
+        "definizione degli obiettivi",
+        "progettazione"
+      ],
+      "correctAnswer": "è uno strumento di apprendimento e di cambiamento",
+      "userPick": ""
+    },
+    {
+      "id": 79,
+      "question": "Quale tra i seguenti è un approccio attraverso cui analizzare e organizzare le esperienze di apprendimento",
+      "options": [
+        "approccio centrato sulla condivisione di conoscenze",
+        "definizione degli obiettivi",
+        "nessuno di questi",
+        "progettazione"
+      ],
+      "correctAnswer": "approccio centrato sulla condivisione di conoscenze",
+      "userPick": ""
+    },
+    {
+      "id": 80,
+      "question": "Quale è la prima fase del processo educativo?",
+      "options": [
+        "progettazione",
+        "valutazione",
+        "esplorazione del problema",
+        "definizione degli obiettivi"
+      ],
+      "correctAnswer": "esplorazione del problema",
+      "userPick": ""
+    },
+    {
+      "id": 81,
+      "question": "Che cosa si intende per programmazione?",
+      "options": [
+        "il modello sociologico",
+        "la didattica inclusiva",
+        "documento di carattere normativo riguardante i contenuti e i metodi di insegnamento",
+        "la progettazione educativo-didattica elaborata per uno specifico gruppo di alunni in una situazione determinata"
+      ],
+      "correctAnswer": "la progettazione educativo-didattica elaborata per uno specifico gruppo di alunni in una situazione determinata",
+      "userPick": ""
+    },
+    {
+      "id": 82,
+      "question": "Che cosa è il curricolo come documento?",
+      "options": [
+        "un documento programmatico con programmi di insegnamento, libri di testo dettagliati, fino a direttive globali o raccolte in temi",
+        "documento di carattere normativo riguardante i contenuti e i metodi di insegnamento",
+        "la progettazione educativo-didattica elaborata per uno specifico gruppo di alunni in una situazione determinata",
+        "un modo personale, ma oggettivabile di programmare il lavoro dell'insegnante"
+      ],
+      "correctAnswer": "un documento programmatico con programmi di insegnamento, libri di testo dettagliati, fino a direttive globali o raccolte in temi",
+      "userPick": ""
+    },
+    {
+      "id": 83,
+      "question": "Quali obiettivi ha l'apprendimento cooperativo?",
+      "options": [
+        "definizione degli obiettivi",
+        "valutazione",
+        "costruire relazioni positive tra gli studenti",
+        "progettazione"
+      ],
+      "correctAnswer": "costruire relazioni positive tra gli studenti",
+      "userPick": ""
+    },
+    {
+      "id": 84,
+      "question": "Quali obiettivi ha l'apprendimento cooperativo?",
+      "options": [
+        "migliorare il rendimento di tutti gli studenti, anche quelli più in difficoltà",
+        "progettazione",
+        "definizione degli obiettivi",
+        "nessuno di questi"
+      ],
+      "correctAnswer": "migliorare il rendimento di tutti gli studenti, anche quelli più in difficoltà",
+      "userPick": ""
+    },
+    {
+      "id": 85,
+      "question": "Come possiamo classificare gli obiettivi della didattica cooperativa?",
+      "options": [
+        "sintetici e di dettaglio",
+        "didattici e strutturati",
+        "obiettivi didattici e riguardanti le abilità sociali",
+        "nessuno di questi"
+      ],
+      "correctAnswer": "obiettivi didattici e riguardanti le abilità sociali",
+      "userPick": ""
+    },
+    {
+      "id": 86,
+      "question": "Per programmare gli obiettivi in termini di abilità interpersonale l'insegnante può:",
+      "options": [
+        "definire un piano",
+        "nessuno di questi",
+        "stilare una lista delle abilità sociali",
+        "usare il curricolo"
+      ],
+      "correctAnswer": "stilare una lista delle abilità sociali",
+      "userPick": ""
+    },
+    {
+      "id": 87,
+      "question": "Quale tra i seguenti strumenti può essere usato per spiegare i ruoli in una lezione cooperativa?",
+      "options": [
+        "la disposizione dell'aula",
+        "nessuno di questi",
+        "un diagramma di flusso",
+        "i ruoli assegnati"
+      ],
+      "correctAnswer": "un diagramma di flusso",
+      "userPick": ""
+    },
+    {
+      "id": 88,
+      "question": "A cosa servono i ruoli nella didattica collaborativa?",
+      "options": [
+        "definire degli obiettivi",
+        "progettare",
+        "nessuno di questi",
+        "I ruoli definiscono ciò che gli altri membri del gruppo si aspettano da uno studente"
+      ],
+      "correctAnswer": "I ruoli definiscono ciò che gli altri membri del gruppo si aspettano da uno studente",
+      "userPick": ""
+    },
+    {
+      "id": 89,
+      "question": "Quale è il primo passo nell'assegnazione dei ruoli nella didattica cooperativa?",
+      "options": [
+        "nessuno di questi",
+        "assegnare da subito i ruoli agli studenti",
+        "definire i ruoli in relazione agli studenti piùcapaci",
+        "non assegnare da subito ruoli definiti"
+      ],
+      "correctAnswer": "non assegnare da subito ruoli definiti",
+      "userPick": ""
+    },
+    {
+      "id": 90,
+      "question": "Che cosa sono i compiti in una lezione cooperativa?",
+      "options": [
+        "il risultato di un processo collettivo di negoziazione che riflette tutta la complessità dell'impegno reciproco",
+        "modi di vedere il mondo basati sul nostro background, esperienza, cultura e personalità",
+        "Servono a spiegare agli studenti che cosa devono sapere cosa ci si aspetta da loro",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé"
+      ],
+      "correctAnswer": "Servono a spiegare agli studenti che cosa devono sapere cosa ci si aspetta da loro",
+      "userPick": ""
+    },
+    {
+      "id": 91,
+      "question": "Quale sono tra le seguenti le ragioni per organizzare l'aula nella didattica cooperativa?",
+      "options": [
+        "definire un piano",
+        "La disposizione dello spazio e degli arredi dell'aula mostra simbolicamente quali sono i comportamenti che vengono considerati appropriati",
+        "non fare confusione",
+        "definire gli spazi a disposizione di ciascuno studente"
+      ],
+      "correctAnswer": "La disposizione dello spazio e degli arredi dell'aula mostra simbolicamente quali sono i comportamenti che vengono considerati appropriati",
+      "userPick": ""
+    },
+    {
+      "id": 92,
+      "question": "Quanto influisce la distribuzione dei materiali nella didattica coopertiva?",
+      "options": [
+        "per nulla",
+        "solo in alcuni casi è importante",
+        "Molto",
+        "abbastanza"
+      ],
+      "correctAnswer": "Molto",
+      "userPick": ""
+    },
+    {
+      "id": 93,
+      "question": "Che ruolo hanno le abilità sociali nella didattica cooperativa?",
+      "options": [
+        "nessuno di questi",
+        "la capacità di interagire produttivamente con gli altri",
+        "la disposizione dell'aula",
+        "serve a spiegare agli studenti che cosa devono sapere cosa ci si aspetta da loro"
+      ],
+      "correctAnswer": "la capacità di interagire produttivamente con gli altri",
+      "userPick": ""
+    },
+    {
+      "id": 94,
+      "question": "Che cosa è l'interdipendenza positiva in una lezione cooperativa?",
+      "options": [
+        "serve a spiegare agli studenti che cosa devono sapere cosa ci si aspetta da loro",
+        "consiste nello stabilire tra gli studenti dei rapporti tali per cui nessuno possa riuscire individualmente se non con il successo dell'intero gruppo",
+        "i ruoli assegnati",
+        "la disposizione dell'aula"
+      ],
+      "correctAnswer": "consiste nello stabilire tra gli studenti dei rapporti tali per cui nessuno possa riuscire individualmente se non con il successo dell'intero gruppo",
+      "userPick": ""
+    },
+    {
+      "id": 95,
+      "question": "Come possiamo chiudere una lezione cooperativa?",
+      "options": [
+        "con l'intervento dell'insegnante",
+        "ritornando ai rispettivi posti",
+        "l'insegnante riassume il lavoro svolto",
+        "attraverso un processo attivo da parte degli studenti"
+      ],
+      "correctAnswer": "attraverso un processo attivo da parte degli studenti",
+      "userPick": ""
+    },
+    {
+      "id": 96,
+      "question": "Quale è l'essenza della lezione cooperativa?",
+      "options": [
+        "i ruoli assegnati",
+        "la disposizione dell'aula",
+        "gli studenti lavorano insieme durante la lezione per svolgere il compito assegnato",
+        "nessuno di questi"
+      ],
+      "correctAnswer": "gli studenti lavorano insieme durante la lezione per svolgere il compito assegnato",
+      "userPick": ""
+    },
+    {
+      "id": 97,
+      "question": "In quale occasione si può usare metodo cooperativo a coppie?",
+      "options": [
+        "scrivere un testo",
+        "definire degli obiettivi",
+        "definire i ruoli",
+        "lavorare assieme"
+      ],
+      "correctAnswer": "scrivere un testo",
+      "userPick": ""
+    },
+    {
+      "id": 98,
+      "question": "Quale strumento consente di monitorare la lezione cooperativa?",
+      "options": [
+        "lavorare assieme",
+        "definire i ruoli",
+        "una scheda di osservazione formale",
+        "scrivere un testo"
+      ],
+      "correctAnswer": "una scheda di osservazione formale",
+      "userPick": ""
+    },
+    {
+      "id": 99,
+      "question": "Come si effettua la sintesi per coppie nella lezione cooperativa?",
+      "options": [
+        "entrambi i membri della coppia devono essere d'accordo su ciò che è stato scritto e tutti e due devono essere in grado di spiegarlo",
+        "con l'intervento dell'insegnante",
+        "ritornando ai rispettivi posti",
+        "attraverso un processo attivo da parte degli studenti"
+      ],
+      "correctAnswer": "entrambi i membri della coppia devono essere d'accordo su ciò che è stato scritto e tutti e due devono essere in grado di spiegarlo",
+      "userPick": ""
+    },
+    {
+      "id": 100,
+      "question": "Che cosa è la valutazione nella lezione cooperativa?",
+      "options": [
+        "Ha luogo in contesti strutturati",
+        "è un giudizio di valore formulato sulla base dei dati disponibili",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+        "è la raccolta dei dati necessari a formulare un giudizio"
+      ],
+      "correctAnswer": "è un giudizio di valore formulato sulla base dei dati disponibili",
+      "userPick": ""
+    },
+    {
+      "id": 101,
+      "question": "Che cosa è la verifica nella lezione cooperativa?",
+      "options": [
+        "Ha luogo in contesti strutturati",
+        "Ricostruisce contenuti attraverso le emozioni",
+        "si tratta di una sfida ad una prospettiva consolidata che comporta dolore perché spesso si mettono in discussione valori profondamente radicati e il nostro stesso senso del Sé",
+        "è la raccolta dei dati necessari a formulare un giudizio"
+      ],
+      "correctAnswer": "è la raccolta dei dati necessari a formulare un giudizio",
+      "userPick": ""
+    },
+    {
+      "id": 102,
+      "question": "Come si può monitorare la lezione cooperativa?",
+      "options": [
+        "definire degli obiettivi",
+        "scegliere alcuni osservatori",
+        "definire i ruoli",
+        "lavorare assieme"
+      ],
+      "correctAnswer": "scegliere alcuni osservatori",
+      "userPick": ""
+    },
+    {
+      "id": 103,
+      "question": "quale tra i seguenti è un requisito della sommisistarzione di test in ambito cooperativo?",
+      "options": [
+        "raggiungere un consenso su quali siano le risposte corrette e perché",
+        "interrogazione",
+        "definizione dei ruoli",
+        "correzione in gruppo dei compiti a casa"
+      ],
+      "correctAnswer": "raggiungere un consenso su quali siano le risposte corrette e perché",
+      "userPick": ""
+    },
+    {
+      "id": 104,
+      "question": "Quale tra i seguenti è un metodo di valutazione cooperativo?",
+      "options": [
+        "definizione dei ruoli",
+        "attribuzione dei voti",
+        "interrogazione",
+        "correzione in gruppo dei compiti a casa"
+      ],
+      "correctAnswer": "correzione in gruppo dei compiti a casa",
+      "userPick": ""
+    },
+    {
+      "id": 105,
+      "question": "Chi ha la responsabilità della verifica nella lezione cooperativa?",
+      "options": [
+        "l'insegnante",
+        "gli studenti",
+        "congiuntamente insegnante e studenti",
+        "non è applicabile"
+      ],
+      "correctAnswer": "l'insegnante",
+      "userPick": ""
+    },
+    {
+      "id": 106,
+      "question": "Che cosa significa attribuire giudizi nel lavoro in gruppo in una lezione cooperativa?",
+      "options": [
+        "raggiungere un consenso su quali siano le risposte corrette e perché",
+        "interrogazione",
+        "dare una valutazione personale sulle prestazioni dello studente",
+        "correzione in gruppo dei compiti a casa"
+      ],
+      "correctAnswer": "dare una valutazione personale sulle prestazioni dello studente",
+      "userPick": ""
+    },
+    {
+      "id": 107,
+      "question": "Come si può fornire un eedback individuale nella lezione cooperativa?",
+      "options": [
+        "focalizzare il feedback sul comportamento e non sulle caratteristiche personali dello studente",
+        "nessuna di queste",
+        "evidenziare gli aspetti negativi",
+        "essere critici sulla performance dello studente"
+      ],
+      "correctAnswer": "focalizzare il feedback sul comportamento e non sulle caratteristiche personali dello studente",
+      "userPick": ""
+    },
+    {
+      "id": 108,
+      "question": "Che cosa devono fare gli stuenti dono la lezione cooperativa?",
+      "options": [
+        "riflettere sul lavoro svolto nel gruppo e analizzarne i vari aspetti",
+        "raggiungere un consenso su quali siano le risposte corrette e perché",
+        "correzione in gruppo dei compiti a casa",
+        "interrogazione"
+      ],
+      "correctAnswer": "riflettere sul lavoro svolto nel gruppo e analizzarne i vari aspetti",
+      "userPick": ""
+    },
+    {
+      "id": 109,
+      "question": "Che cosa dovrebbe fare il gruppo dopo la riflessione sulla lezione cooperativa?",
+      "options": [
+        "porsi obiettivi di miglioramento",
+        "raggiungere un consenso su quali siano le risposte corrette e perché",
+        "correzione in gruppo dei compiti a casa",
+        "riflettere sul lavoro svolto nel gruppo e analizzarne i vari aspetti"
+      ],
+      "correctAnswer": "porsi obiettivi di miglioramento",
+      "userPick": ""
+    },
+    {
+      "id": 110,
+      "question": "Come può il gruppo riflettere sulla lezione cooperativa?",
+      "options": [
+        "focalizzare il feedback sul comportamento e non sulle caratteristiche personali dello studente",
+        "rappresentare con un diagramma tutti i dati raccolti sull'interazione tra i membri del gruppo",
+        "evidenziare gli aspetti negativi",
+        "essere critici sulla performance dello studente"
+      ],
+      "correctAnswer": "rappresentare con un diagramma tutti i dati raccolti sull'interazione tra i membri del gruppo",
+      "userPick": ""
+    },
+    {
+      "id": 111,
+      "question": "Cosa è possibile fare in una lezione cooperativa se la discussione degli studenti rimane sul vago?",
+      "options": [
+        "riflettere sul lavoro svolto nel gruppo e analizzarne i vari aspetti",
+        "porre domande specifiche che richiedano risposte dettagliate e concrete",
+        "porsi obiettivi di miglioramento",
+        "raggiungere un consenso su quali siano le risposte corrette e perché"
+      ],
+      "correctAnswer": "porre domande specifiche che richiedano risposte dettagliate e concrete",
+      "userPick": ""
+    },
+    {
+      "id": 112,
+      "question": "Che cosa è importante fare per gratificare gli studenti nella lezione cooperativa?",
+      "options": [
+        "raggiungere un consenso su quali siano le risposte corrette e perché",
+        "gli sforzi individuali che contribuiscono al successo del gruppo devono essere riconosciuti, apprezzati e incoraggiati",
+        "riflettere sul lavoro svolto nel gruppo e analizzarne i vari aspetti",
+        "porsi obiettivi di miglioramento"
+      ],
+      "correctAnswer": "gli sforzi individuali che contribuiscono al successo del gruppo devono essere riconosciuti, apprezzati e incoraggiati",
+      "userPick": ""
+    }
+  ]
+}

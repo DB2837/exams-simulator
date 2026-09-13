@@ -1,0 +1,1723 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "question": " Cosa si intende con il termine pedagogia? ",
+      "options": [
+        "la scienza che studia l'educazione umana ",
+        "la storia filosofica dell'individuo ",
+        "la scienza della didattica ",
+        "la prassi formativa "
+      ],
+      "correctAnswer": "la scienza che studia l'educazione umana ",
+      "userPick": ""
+    },
+    {
+      "id": 2,
+      "question": " Qual è l'opera del Vescovo Comenio richiamata a fondamento della pedagogia? ",
+      "options": [
+        "Didattica del domani ",
+        "Didattica Magna ",
+        "Didattica e pedagogia ",
+        "Didattica pratica "
+      ],
+      "correctAnswer": "Didattica Magna ",
+      "userPick": ""
+    },
+    {
+      "id": 3,
+      "question": " A cosa si riferisce Comenio con il termine \"lumicino\"? ",
+      "options": [
+        "alla stoppa per il fuoco ",
+        "alla pscologia ",
+        "al nostro potenziale educativo ",
+        "alla luce della saggezza "
+      ],
+      "correctAnswer": "al nostro potenziale educativo ",
+      "userPick": ""
+    },
+    {
+      "id": 4,
+      "question": " A chi appartiene l'opera \"Didattica Magna\"? ",
+      "options": ["Dewey ", "Platone ", "Mencarelli ", "Comenio "],
+      "correctAnswer": "Comenio ",
+      "userPick": ""
+    },
+    {
+      "id": 5,
+      "question": " A cosa si riferisce Alberoni quando definisce \"un movimento colletivo a due\"? ",
+      "options": [
+        "alla famiglia ",
+        "al qualitativo e quantitativo ",
+        "alla pedagogia e la didattica ",
+        "alla docimologia e valutazione "
+      ],
+      "correctAnswer": "alla famiglia ",
+      "userPick": ""
+    },
+    {
+      "id": 6,
+      "question": " Quale scienza è possibile definirla come lo studio dell'educazione umana? ",
+      "options": [
+        "la didattica ",
+        "la filosofia ",
+        "la pedagogia ",
+        "la psicologia "
+      ],
+      "correctAnswer": "la pedagogia ",
+      "userPick": ""
+    },
+    {
+      "id": 7,
+      "question": " Qual è il primo significato che ha assunto il termine pedagogia? ",
+      "options": [
+        "la competenza in un determinato settore del sapere ",
+        "l'educazione popolare ",
+        "l'educazione dei rampolli delle case nobiliari ",
+        "la formazione di una professionalità docente "
+      ],
+      "correctAnswer": "l'educazione dei rampolli delle case nobiliari ",
+      "userPick": ""
+    },
+    {
+      "id": 8,
+      "question": " Tra le principali aspirazioni e connotazioni dell'epistemologia che si ricordano, il convenzionalismo è aderente al pensiero di ",
+      "options": [
+        "J. Rousseau e T. Timoty ",
+        "R. Crew e L. Rosati ",
+        "E. Mach e P. Duhem ",
+        "J. Dewey e P. Freeman "
+      ],
+      "correctAnswer": "E. Mach e P. Duhem ",
+      "userPick": ""
+    },
+    {
+      "id": 9,
+      "question": " A chi appartiene il metodo della falsificazione? ",
+      "options": ["Rosati ", "Montessori ", "Popper ", "Dewey "],
+      "correctAnswer": "Popper ",
+      "userPick": ""
+    },
+    {
+      "id": 10,
+      "question": " Il termine epistemologia deriva dal greco ",
+      "options": [
+        "epistelos e cioè struttur ",
+        "epistimio e cioè strumento ",
+        "epistelio e cioè principio ",
+        "epistème e cioè scienza "
+      ],
+      "correctAnswer": "epistème e cioè scienza ",
+      "userPick": ""
+    },
+    {
+      "id": 11,
+      "question": " Quali caratteristiche deve possedere una scienza per definirsi autonoma? ",
+      "options": [
+        "strumenti, tecniche, leader ",
+        "correnti di pensiero, impresa, linee guida ",
+        "indipendenza, legittimazione, autovalutazione ",
+        "campo di applicazione, oggetto di studio, statuto epistemologico "
+      ],
+      "correctAnswer": "campo di applicazione, oggetto di studio, statuto epistemologico ",
+      "userPick": ""
+    },
+    {
+      "id": 12,
+      "question": " A cosa ci riferiamo se affermiamo: \"la scienza che ha per oggetto l'esame critico della ricerca scientifica e della stessa nozione di scienza\"? ",
+      "options": [
+        "alla filosofia ",
+        "all'epistemologia ",
+        "alla didattica ",
+        "alle neuroscienze "
+      ],
+      "correctAnswer": "all'epistemologia ",
+      "userPick": ""
+    },
+    {
+      "id": 13,
+      "question": " Quale triade rappresenta le correnti di pensiero attraverso cui è possibile tassonomizzare i grandi Maestri? ",
+      "options": [
+        "analitica, olistica, rivoluzionaria ",
+        "mistica, scientifica, filosofica ",
+        "pragmatica, esperienziale, oligarchica ",
+        "mistica, ancestrale, antropologica "
+      ],
+      "correctAnswer": "mistica, scientifica, filosofica ",
+      "userPick": ""
+    },
+    {
+      "id": 14,
+      "question": " Cosa sono il campo di applicazione, l'oggetto di studio e lo statuto epistemologico? ",
+      "options": [
+        "gli elementi di una scienza autonoma ",
+        "la prassi didattica ",
+        "le fasi del lavoro di gruppo ",
+        "gli elementi della filosofia "
+      ],
+      "correctAnswer": "gli elementi di una scienza autonoma ",
+      "userPick": ""
+    },
+    {
+      "id": 15,
+      "question": " Qual è il campo di applicazione della pedagogia? ",
+      "options": [
+        "l'educazione ",
+        "l'epistemologia ",
+        "la persona ",
+        "la filosofia "
+      ],
+      "correctAnswer": "l'educazione ",
+      "userPick": ""
+    },
+    {
+      "id": 16,
+      "question": " Qual è l'oggetto di studio della pedagogia? ",
+      "options": [
+        "la prassi ",
+        "la didattica ",
+        "l'educazione ",
+        "la persona "
+      ],
+      "correctAnswer": "la persona ",
+      "userPick": ""
+    },
+    {
+      "id": 17,
+      "question": " Come è possibile sintetizzare il termine epistemologia? ",
+      "options": [
+        "riflessione sulla metafisica ",
+        "pensiero debole ",
+        "studio della didattica ",
+        "studio del sapere "
+      ],
+      "correctAnswer": "studio del sapere ",
+      "userPick": ""
+    },
+    {
+      "id": 18,
+      "question": " In quale modo è possibile definire l'epistemologia? ",
+      "options": [
+        "l'azione che ha per oggetto lo studio sistematico e/o analitico della valutazione e della docimologia ",
+        "la scienza che ha per oggetto l'esame critico della ricerca scientifica e della stessa nozione di scienza ",
+        "il pensiero che legittima l'agire educativo attraverso il metodo della falsificazione ",
+        "la scienza che si occupa di stabilire le risorse, l'articolazione curriculare e della didattica di ogni processo educativo "
+      ],
+      "correctAnswer": "la scienza che ha per oggetto l'esame critico della ricerca scientifica e della stessa nozione di scienza ",
+      "userPick": ""
+    },
+    {
+      "id": 19,
+      "question": " Quali sono i due termini che vengono richiamati nella semantica pedagogia? ",
+      "options": [
+        "maggiorenne/determinare ",
+        "anziano/prossemica ",
+        "adulto/andragogia ",
+        "fanciullo/condurre "
+      ],
+      "correctAnswer": "fanciullo/condurre ",
+      "userPick": ""
+    },
+    {
+      "id": 20,
+      "question": " Cosa può essere mistica, scientifica, filosofica? ",
+      "options": [
+        "le correnti di pensiero attraverso cui è possibile tassonomizzare i grandi Maestri ",
+        "le fasi della ricerca pedagogica ",
+        "gli elementi filosofici della pedagogia ",
+        "le fasi della didattica "
+      ],
+      "correctAnswer": "le correnti di pensiero attraverso cui è possibile tassonomizzare i grandi Maestri ",
+      "userPick": ""
+    },
+    {
+      "id": 21,
+      "question": " Qual è il principio universale del Maestro Rousseau? ",
+      "options": [
+        "la poliformia della formazione ",
+        "l'educazione secondo natura ",
+        "la nomenclatura delle scienze ",
+        "la fatica dell'istruzione "
+      ],
+      "correctAnswer": "l'educazione secondo natura ",
+      "userPick": ""
+    },
+    {
+      "id": 22,
+      "question": " Quale grande maestro appartiene alla corrente filosofica? ",
+      "options": ["Gardner ", "Goleman ", "Dewey ", "Mencarelli "],
+      "correctAnswer": "Dewey ",
+      "userPick": ""
+    },
+    {
+      "id": 23,
+      "question": " Quale esigenza educativa incarna la Maria Boschetti Alberti? ",
+      "options": [
+        "la didattica tecnologica ",
+        "il laboratorio formativo ",
+        "la personalità dell'educatrice ",
+        "la formazione del personale "
+      ],
+      "correctAnswer": "la personalità dell'educatrice ",
+      "userPick": ""
+    },
+    {
+      "id": 24,
+      "question": " Quale argomento è posto al centro della teorizzazione del Circolo di Vienna? ",
+      "options": [
+        "di assuefazione ",
+        "di determinazione ",
+        "di prospettiva ",
+        "di verificabilità "
+      ],
+      "correctAnswer": "di verificabilità ",
+      "userPick": ""
+    },
+    {
+      "id": 25,
+      "question": " Quale principio universale è portato come fonte di legittimazione del positivismo da Kelly? ",
+      "options": [
+        "tutto si compie per volontà divine ",
+        "tutto ciò che è conoscibile è anche misurabile ",
+        "tutto si determina secondo una logica progressiva ",
+        "tutto avviene secondo un modello alchimistico "
+      ],
+      "correctAnswer": "tutto ciò che è conoscibile è anche misurabile ",
+      "userPick": ""
+    },
+    {
+      "id": 26,
+      "question": " Secondo Morselli cosa rivaluta il positivismo come fondamento della conoscenza? ",
+      "options": [
+        "l'origine fenomenologica ",
+        "la didattica ",
+        "l'esperienza ",
+        "il gruppo "
+      ],
+      "correctAnswer": "l'esperienza ",
+      "userPick": ""
+    },
+    {
+      "id": 27,
+      "question": " Quale etimologia richiama il positivismo? ",
+      "options": [
+        "ciò che è posto ",
+        "ciò che è messo ",
+        "ciò che è espresso ",
+        "ciò che è educato "
+      ],
+      "correctAnswer": "ciò che è posto ",
+      "userPick": ""
+    },
+    {
+      "id": 28,
+      "question": " Quale grande trasformazione determinò l'attivismo? ",
+      "options": [
+        "la formulazione di piani curriculari fondati nella società ",
+        "la determinazione delle variabili nel processo educativo ",
+        "la presa in carico delle risorse economiche volte alla riorganizzazione della didattica ",
+        "il passaggio da una visione magistrocentrica ad una puerocentrica "
+      ],
+      "correctAnswer": "il passaggio da una visione magistrocentrica ad una puerocentrica ",
+      "userPick": ""
+    },
+    {
+      "id": 29,
+      "question": " Cosa ebbe inizio sul finire del XIX secolo di così importante per la pedagogia? ",
+      "options": [
+        "l'attivismo ",
+        "il progressismo ",
+        "la filosofia ",
+        "il misticismo "
+      ],
+      "correctAnswer": "l'attivismo ",
+      "userPick": ""
+    },
+    {
+      "id": 30,
+      "question": " In quale periodo ebbe inizio l'attivismo? ",
+      "options": [
+        "sul finire del XIX secolo ",
+        "alle soglie del XXI secolo ",
+        "da un lustro ",
+        "da più di un ventennio "
+      ],
+      "correctAnswer": "sul finire del XIX secolo ",
+      "userPick": ""
+    },
+    {
+      "id": 31,
+      "question": " Come era definite la colonia di Gorkij di makarenko? ",
+      "options": [
+        "la casa popolare ",
+        "la trappola ",
+        "la comune ",
+        "la casa di tutti "
+      ],
+      "correctAnswer": "la comune ",
+      "userPick": ""
+    },
+    {
+      "id": 32,
+      "question": " Quale scuola diresse Maria Boschetti Alberti? ",
+      "options": [
+        "la scuola di mezzo ",
+        "la scuola serena ",
+        "la scuola pedagogica ",
+        "la scuola del partito "
+      ],
+      "correctAnswer": "la scuola serena ",
+      "userPick": ""
+    },
+    {
+      "id": 33,
+      "question": " Come veniva comunemente chiamata la Maria Boschetti Alberti? ",
+      "options": [
+        "la maestra dalla penna rossa ",
+        "la prodigiosa conoscenza ",
+        "l'orgoglio italiano ed europeo ",
+        "la sapiente istruttrice "
+      ],
+      "correctAnswer": "la maestra dalla penna rossa ",
+      "userPick": ""
+    },
+    {
+      "id": 34,
+      "question": " Chi utilizza le cianfrusaglie per far giocare i bambini all'asilo di Mompiano? ",
+      "options": [
+        "Maria Montessori ",
+        "John Dewey ",
+        "Erik Hill ",
+        "Sorelle Agazzi "
+      ],
+      "correctAnswer": "Sorelle Agazzi ",
+      "userPick": ""
+    },
+    {
+      "id": 35,
+      "question": " Quale era il fine dell'educazione secondo il Makarenko? ",
+      "options": [
+        "l'uomo sapiens ",
+        "l'uomo collettivo ",
+        "l'uomo integrale ",
+        "l'uomo totalitario "
+      ],
+      "correctAnswer": "l'uomo collettivo ",
+      "userPick": ""
+    },
+    {
+      "id": 36,
+      "question": " Quale principio è alla base del credo educativo del Toltoj? ",
+      "options": [
+        "il futuro ",
+        "la libertà ",
+        "l'obbligo sociale ",
+        "l'oppressione "
+      ],
+      "correctAnswer": "la libertà ",
+      "userPick": ""
+    },
+    {
+      "id": 37,
+      "question": " Come definisce i sensi Maria Montessori? ",
+      "options": [
+        "la porta dell'anima ",
+        "lo spirito universale ",
+        "la trascendenza divina ",
+        "lo scalino del paradiso "
+      ],
+      "correctAnswer": "la porta dell'anima ",
+      "userPick": ""
+    },
+    {
+      "id": 38,
+      "question": " Quale caratteristica possiede il bambino per la Montessori? ",
+      "options": [
+        "sfruttare al meglio le risorse che i genitori mettono a disposizione ",
+        "appartenere ad una determinata classe sociale ",
+        "evolversi in maniera solipsistica ",
+        "avere una mente assorbente "
+      ],
+      "correctAnswer": "avere una mente assorbente ",
+      "userPick": ""
+    },
+    {
+      "id": 39,
+      "question": " Qual è il metodo che contraddistingue il pensiero di Decroly? ",
+      "options": [
+        "metodo globale ",
+        "metodo fenomenologico ",
+        "metodo anarchico ",
+        "metodo euristico "
+      ],
+      "correctAnswer": "metodo globale ",
+      "userPick": ""
+    },
+    {
+      "id": 40,
+      "question": " Quali principi universali dell'educazione si estrapolano dal pensiero del Decroly? ",
+      "options": [
+        "metodo euristico/approccio essenziale ",
+        "lassismo/meritocrazia ",
+        "metodologia antropologica/esistenzialismo ",
+        "centri d'interesse/globalismo conoscitivo "
+      ],
+      "correctAnswer": "centri d'interesse/globalismo conoscitivo ",
+      "userPick": ""
+    },
+    {
+      "id": 41,
+      "question": " A quale criterio associamo il lavoro del Claparede? ",
+      "options": [
+        "funzionalismo ",
+        "osmotico ",
+        "associazionismo ",
+        "nichilismo "
+      ],
+      "correctAnswer": "funzionalismo ",
+      "userPick": ""
+    },
+    {
+      "id": 42,
+      "question": " Dove si colloca il maggiore contributo del Freinet alle scienze dell'educazione? ",
+      "options": [
+        "tecniche e strumenti ",
+        "associazione e risorse ",
+        "stili cognitivi e di comportamento ",
+        "tecnologie e FAD "
+      ],
+      "correctAnswer": "tecniche e strumenti ",
+      "userPick": ""
+    },
+    {
+      "id": 43,
+      "question": " Quale autore indaga il metodo di lavoro libero per gruppi? ",
+      "options": ["Platone ", "Dewey ", "Cousinet ", "Aristotele "],
+      "correctAnswer": "Cousinet ",
+      "userPick": ""
+    },
+    {
+      "id": 44,
+      "question": " In quale anno Maria Montessori aprì la Casa dei Bambini? ",
+      "options": ["1854", "1954", "1906", "1996"],
+      "correctAnswer": "1906",
+      "userPick": ""
+    },
+    {
+      "id": 45,
+      "question": " Piaget ha il grande pregio di aver elaborato ",
+      "options": [
+        "un modello integrale dello sviluppo del bambino ",
+        "un assioma dell'educazione interculturale ",
+        "un metodo di intervento in presenza di deficit ",
+        "un metodo sperimentale "
+      ],
+      "correctAnswer": "un modello integrale dello sviluppo del bambino ",
+      "userPick": ""
+    },
+    {
+      "id": 46,
+      "question": " Come può essere riassunto il credo educativo del Dewey? ",
+      "options": [
+        "legalizzare il pensiero ",
+        "liberare l'uomo ",
+        "studiare i principi ",
+        "imparare facendo "
+      ],
+      "correctAnswer": "imparare facendo ",
+      "userPick": ""
+    },
+    {
+      "id": 47,
+      "question": " Quali leggi regolano l'evoluzione e l'apprendimento per Piaget? ",
+      "options": [
+        "prossimità/tecnologie",
+        " anarchia/libertà",
+        " entropia/empatia",
+        " assimilazione/accomodamento "
+      ],
+      "correctAnswer": " assimilazione/accomodamento ",
+      "userPick": ""
+    },
+    {
+      "id": 48,
+      "question": " A chi dobbiamo l'aver ideato un modello integrale dello sviluppo del bambino? ",
+      "options": ["Pieget ", "Gardner ", "Bruner ", "Mencarelli "],
+      "correctAnswer": "Pieget ",
+      "userPick": ""
+    },
+    {
+      "id": 49,
+      "question": " Come deve essere organizzato l'apprendimento per Bruner? ",
+      "options": [
+        "secondo una progressione ottimale ",
+        "secondo modelli stadiali e separati ",
+        "secondo il modello prossimale ",
+        "secondo la prospettiva deterministica "
+      ],
+      "correctAnswer": "secondo una progressione ottimale ",
+      "userPick": ""
+    },
+    {
+      "id": 50,
+      "question": " Per quale autore l'apprendimento deve avvenire secondo una progressione ottimale? ",
+      "options": ["Bruner ", "Kant ", "Hill ", "Piaget "],
+      "correctAnswer": "Bruner ",
+      "userPick": ""
+    },
+    {
+      "id": 51,
+      "question": " Quale metafora utilizza per spiegare il valore del cuore e dei sentimenti nell'educazione il Bruner? ",
+      "options": [
+        "la metafora delle digressione della mano ",
+        "la metafora del braccio armato ",
+        "la metafora della gamba destra ",
+        "la metafora della mano sinistra "
+      ],
+      "correctAnswer": "la metafora della mano sinistra ",
+      "userPick": ""
+    },
+    {
+      "id": 52,
+      "question": " A quale grande Maestro associamo i natali del concetto di educazione permanente in Italia? ",
+      "options": ["Goleman ", "Visalberghi ", "Makarenko ", "Mencarelli "],
+      "correctAnswer": "Mencarelli ",
+      "userPick": ""
+    },
+    {
+      "id": 53,
+      "question": " Qual è la seconda fase dell'evoluzione del bambino per il Piaget? ",
+      "options": [
+        "senso-percettiva ",
+        "operazioni logiche ",
+        "finale-sommatoria ",
+        "operazioni formali "
+      ],
+      "correctAnswer": "senso-percettiva ",
+      "userPick": ""
+    },
+    {
+      "id": 54,
+      "question": " Quale posto occupa la pedagogia all'interno della metafora piagettiana del “cerchio delle scienze”? ",
+      "options": [
+        "è un punto della circonferenza ",
+        "è al centro del cerchio ",
+        "è fuori dal cerchio in quanto garante di scientificità ",
+        "è in mezzo tra l'uomo e le altre scienze "
+      ],
+      "correctAnswer": "è un punto della circonferenza ",
+      "userPick": ""
+    },
+    {
+      "id": 55,
+      "question": " Quale metafora adotta il Piaget per descrivere le scienze dell'educazione? ",
+      "options": [
+        "il triangolo della formazione ",
+        "il cerchio delle scienze ",
+        "il quadrato dell'istruzione primaria ",
+        "il cubo educativo "
+      ],
+      "correctAnswer": "il cerchio delle scienze ",
+      "userPick": ""
+    },
+    {
+      "id": 56,
+      "question": " Cosa si intende con il termine “vigilanza epistemologica”? ",
+      "options": [
+        "l'incessante capacità umana di dirigere ",
+        "la propensione a sapere e spartire il traffico ",
+        "l'abilità a uniformarsi al pensiero convergente ",
+        "la costante tensione a codificare le informazioni che ci provengono dall'ambiente "
+      ],
+      "correctAnswer": "la costante tensione a codificare le informazioni che ci provengono dall'ambiente ",
+      "userPick": ""
+    },
+    {
+      "id": 57,
+      "question": " A chi appartiene la metafora del cerchio delle scienze? ",
+      "options": ["Piget ", "Spencer ", "Kant ", "Mencarelli "],
+      "correctAnswer": "Piget ",
+      "userPick": ""
+    },
+    {
+      "id": 58,
+      "question": " Secondo il Mialaret, cosa è l'educazione? ",
+      "options": [
+        "una alchimia omologante ",
+        "una scienza e un'arte ",
+        "una parafrasi della vita ",
+        "una determinazione universale "
+      ],
+      "correctAnswer": "una scienza e un'arte ",
+      "userPick": ""
+    },
+    {
+      "id": 59,
+      "question": " Secondo Comte e Durkheim come possiamo definire la pedagogia? ",
+      "options": [
+        "la teoria pratica dell'educazione ",
+        "la parafrasi della formazione umana ",
+        "la manifestazione umana ",
+        "la teoresi dell'istruzione secondaria "
+      ],
+      "correctAnswer": "la teoria pratica dell'educazione ",
+      "userPick": ""
+    },
+    {
+      "id": 60,
+      "question": " Come è possibile definire la ricerca? ",
+      "options": [
+        "studio sistematico con il quale ci si propone di aumentare il sapere ",
+        "l'omologazione del laboratorio didattico ed epistemologico ",
+        "analisi delle variabili di caso ",
+        "un'azione coercitiva su un determinato sapere "
+      ],
+      "correctAnswer": "studio sistematico con il quale ci si propone di aumentare il sapere ",
+      "userPick": ""
+    },
+    {
+      "id": 61,
+      "question": " Cosa si intende per metodo sistematico? ",
+      "options": [
+        "una fase del metodo universale ",
+        "le norme con le quali il sapere viene ordinato ",
+        "la sintesi dei metodi educativi ",
+        "il sistema educativo "
+      ],
+      "correctAnswer": "le norme con le quali il sapere viene ordinato ",
+      "userPick": ""
+    },
+    {
+      "id": 62,
+      "question": " Cosa determina il metodo inventivo? ",
+      "options": [
+        "le risorse ",
+        "i procedimenti ",
+        "la fase dell'osservazione ",
+        "l'intuizione energica "
+      ],
+      "correctAnswer": "i procedimenti ",
+      "userPick": ""
+    },
+    {
+      "id": 63,
+      "question": " Cosa si definisce se affermiamo: la via da percorrere per giungere ad un determinato obiettivo? ",
+      "options": [
+        "il problem solving ",
+        "la ricerca ",
+        "il metodo ",
+        "la ricerca-azione "
+      ],
+      "correctAnswer": "il metodo ",
+      "userPick": ""
+    },
+    {
+      "id": 64,
+      "question": " A chi risale il lavoro dal titolo “Discorso sul metodo”? ",
+      "options": ["Kant ", "Spencer ", "Platone ", "Cartesio "],
+      "correctAnswer": "Cartesio ",
+      "userPick": ""
+    },
+    {
+      "id": 65,
+      "question": " Cosa si intende per metodo? ",
+      "options": [
+        "le fasi, gli strumenti, etc, che si attivano per giungere a nuova conoscenza ",
+        "un apparato scientifico su cui riflettere in modalità alchimistica ",
+        "una determinazione dell'istruzione scolastica ",
+        "il processo individuale del pensiero sociale "
+      ],
+      "correctAnswer": "le fasi, gli strumenti, etc, che si attivano per giungere a nuova conoscenza ",
+      "userPick": ""
+    },
+    {
+      "id": 66,
+      "question": " Cosa indica da un punto di vista epistemologico il termine metodo? ",
+      "options": [
+        "un problem solving scolastico ",
+        "la via da percorrere per giungere ad un determinato obiettivo ",
+        "la via docimologica da intraprendere in ogni processo pedagogico ",
+        "la salvezza della progettazione didattica "
+      ],
+      "correctAnswer": "la via da percorrere per giungere ad un determinato obiettivo ",
+      "userPick": ""
+    },
+    {
+      "id": 67,
+      "question": " Qual è la quarta fase della ricerca secondo il Mialaret? ",
+      "options": [
+        "la sintesi delle risorse ",
+        "dalla stipula del contratto alla formazione ",
+        "l'acquisizione delle abilità di ricerca ",
+        "dall'analisi alla valutazione "
+      ],
+      "correctAnswer": "dall'analisi alla valutazione ",
+      "userPick": ""
+    },
+    {
+      "id": 68,
+      "question": " Secondo il Mialaret, qual è prima fase della ricerca? ",
+      "options": [
+        "studio del problema ",
+        "identificazione del problema ",
+        "determinazione della didattica ",
+        "analisi dei risultati "
+      ],
+      "correctAnswer": "identificazione del problema ",
+      "userPick": ""
+    },
+    {
+      "id": 69,
+      "question": " Quali sono le fasi della ricerca? ",
+      "options": [
+        "identificazione del problema, analisi della situazione, costruzione di un piano sperimentale, applicazione, interpretazione-valutazione ",
+        "conoscenza del problema, definizione dei requisiti, apparato docimologico e autodeterminazione ",
+        "valutazione, analisi, speculazione, omologazione e definizione ",
+        "verifica, progettazione, programmazione, risorse e definizione degli obiettivi "
+      ],
+      "correctAnswer": "identificazione del problema, analisi della situazione, costruzione di un piano sperimentale, applicazione, interpretazione-valutazione ",
+      "userPick": ""
+    },
+    {
+      "id": 70,
+      "question": " Qual è la sesta fase della ricerca secondo il Mialaret? ",
+      "options": [
+        "l'applicazione del piano sperimentale ",
+        "la standardizzazione delle procedure ",
+        "la determinazione dei requisiti ",
+        "l'omologazione delle fasi "
+      ],
+      "correctAnswer": "l'applicazione del piano sperimentale ",
+      "userPick": ""
+    },
+    {
+      "id": 71,
+      "question": " In quale rapporto devono stare la ricerca teorica e quella applicata? ",
+      "options": [
+        "in speculazione ",
+        "in modo derivato ",
+        "in costante relazione ",
+        "in parallelo "
+      ],
+      "correctAnswer": "in costante relazione ",
+      "userPick": ""
+    },
+    {
+      "id": 72,
+      "question": " Qual è l'ottava fase della ricerca per il Mialaret? ",
+      "options": [
+        "la pubblicazione ",
+        "la valutazione ",
+        "la discussione dei risultati ",
+        "la sommatoria delle variabili "
+      ],
+      "correctAnswer": "la pubblicazione ",
+      "userPick": ""
+    },
+    {
+      "id": 73,
+      "question": " Tra quelli elencati qual è un fattore influenzante la situazione educativa? ",
+      "options": [
+        "Programmi generali e particolari ",
+        "la scienza andragogica ",
+        "l'alessitimia ",
+        "l'atteggiamento religioso "
+      ],
+      "correctAnswer": "Programmi generali e particolari ",
+      "userPick": ""
+    },
+    {
+      "id": 74,
+      "question": " Su quale assunto si fonda il metodo discorsivo? ",
+      "options": [
+        "sul tacere se non conosciamo la risposta ",
+        "sul parlare il più possibile ",
+        "sull'elaborare mentalmente la soluzione del problema ",
+        "sul far confluire più prospettive su un determinato argomento "
+      ],
+      "correctAnswer": "sul far confluire più prospettive su un determinato argomento ",
+      "userPick": ""
+    },
+    {
+      "id": 75,
+      "question": " Tra quelli elencati qual è un fattore influenzante la situazione educativa? ",
+      "options": [
+        "la prospettiva atomistica ",
+        "le variabili antropologiche ",
+        "il sistema educativo ",
+        "il gap tra scienza e metodo "
+      ],
+      "correctAnswer": "il sistema educativo ",
+      "userPick": ""
+    },
+    {
+      "id": 76,
+      "question": " Quali sono i due principali metodi della ricerca pedagogica? ",
+      "options": [
+        "discorsivo/sperimentale ",
+        "analitico/fattoriale ",
+        "olistico/utopico ",
+        "utopico/alchimistico "
+      ],
+      "correctAnswer": "discorsivo/sperimentale ",
+      "userPick": ""
+    },
+    {
+      "id": 77,
+      "question": " Cosa può essere discorsivo/sperimentale? ",
+      "options": [
+        "la prospettiva ecologica ",
+        "la prassi ",
+        "il metodo ",
+        "la teoria "
+      ],
+      "correctAnswer": "il metodo ",
+      "userPick": ""
+    },
+    {
+      "id": 78,
+      "question": " Tra quelli elencati qual è un fattore influenzate la situazione educativa? ",
+      "options": [
+        "la scienza andragogica ",
+        "l'atteggiamento religioso ",
+        "il tipo di società ",
+        "la prospettiva utopica "
+      ],
+      "correctAnswer": "il tipo di società ",
+      "userPick": ""
+    },
+    {
+      "id": 79,
+      "question": " Quale slogan dell'UNESCO definisce il processo di maturazione permanente ed espressione umana in ogni contesto/ambiente educativo? ",
+      "options": [
+        "crescere continuamente la propria impresa ",
+        "imparare ad imparare ",
+        "studiare lo studio ",
+        "educarsi per raccontare "
+      ],
+      "correctAnswer": "imparare ad imparare ",
+      "userPick": ""
+    },
+    {
+      "id": 80,
+      "question": " Quale, tra le competenze evidenziate, è riferibile all'educatore? ",
+      "options": [
+        "determinare la scala di interventi predittivi ",
+        "cogliere i cambiamenti sociali ",
+        "formare al nichilismo ed all'introspezione ",
+        "istruire secondo il modello degli obiettivi oggettivi "
+      ],
+      "correctAnswer": "cogliere i cambiamenti sociali ",
+      "userPick": ""
+    },
+    {
+      "id": 81,
+      "question": " Secondo Freud l'educatore è ",
+      "options": [
+        "una prassi sperimentale ",
+        "un soggetto capace di entrare nella psiche umana ",
+        "un'azione classificatoria ",
+        "un mestiere impossibile "
+      ],
+      "correctAnswer": "un mestiere impossibile ",
+      "userPick": ""
+    },
+    {
+      "id": 82,
+      "question": " Il memorandum redatto nel 2000 dalla Commissione europea definisce ",
+      "options": [
+        "la volontà a parlare continuamente ",
+        "la percezione di soggetti estranei ",
+        "l'apprendimento formale ",
+        "la conoscenza informale "
+      ],
+      "correctAnswer": "l'apprendimento formale ",
+      "userPick": ""
+    },
+    {
+      "id": 83,
+      "question": " Quale caratteristica possiede secondo Milito l'apprendimento informale? ",
+      "options": [
+        "è prettamente sociale ",
+        "ha determinati obiettivi educativi, tali da prevedere una organizzazione a priori ",
+        "è determinato alla ricerca empirica ",
+        "non è organizzato o strutturato in termini di obiettivi "
+      ],
+      "correctAnswer": "non è organizzato o strutturato in termini di obiettivi ",
+      "userPick": ""
+    },
+    {
+      "id": 84,
+      "question": " Nella Raccomandazione del Consiglio europeo del 2012 si evince che l'apprendimento non formale è ",
+      "options": [
+        "è erogato mediante attività pianificate ",
+        "è orientato solo al processo di formazione ",
+        "è falsato dalla società corrente ",
+        "è sempre alla scoperta della vita quotidiana "
+      ],
+      "correctAnswer": "è erogato mediante attività pianificate ",
+      "userPick": ""
+    },
+    {
+      "id": 85,
+      "question": " Quale, tra quelli indicati, non è una tipologia di gioco espressa dal Piaget ",
+      "options": [
+        "quello simbolico dell'infanzia ",
+        "quello senso motorio dei primi anni di vita ",
+        "quello antagonista della terza età ",
+        "quello specifico dell'età scolare "
+      ],
+      "correctAnswer": "quello antagonista della terza età ",
+      "userPick": ""
+    },
+    {
+      "id": 86,
+      "question": " Come è possibile distinguere le categorie ove la persona può apprendere per tutto il corso della propria esistenza? ",
+      "options": [
+        "formale-informale-non formale ",
+        "spazi immensi ",
+        "informale-classica-scientifica ",
+        "formale-determinante-europea "
+      ],
+      "correctAnswer": "formale-informale-non formale ",
+      "userPick": ""
+    },
+    {
+      "id": 87,
+      "question": " Qual è il fine della pedagogia interculturale? ",
+      "options": [
+        "una competenza da acquisire con consapevolezza da adulto ",
+        "garantire la singolarità dell'individuo mediate percorsi educativi che privilegino la prospettiva multi- e pluri-",
+        "una risorsa economica da sfruttare indipendentemente dalla fase della vita ",
+        "un obbligo che si oppone ad essere educato "
+      ],
+      "correctAnswer": "garantire la singolarità dell'individuo mediate percorsi educativi che privilegino la prospettiva multi- e pluri-",
+      "userPick": ""
+    },
+    {
+      "id": 88,
+      "question": " Come può essere sintetizzato da un punto di vista pedagogico il concetto di miracolo formativo? ",
+      "options": [
+        "un intervento divino nel voler formare qualcosa ",
+        "un traguardo in direzione del quale si cresce ",
+        "un filone di ricerca che ha origine nel 1862 in Inghilterra ",
+        "una prospettiva trascendentale del positivismo "
+      ],
+      "correctAnswer": "un traguardo in direzione del quale si cresce ",
+      "userPick": ""
+    },
+    {
+      "id": 89,
+      "question": " Quale tassonomia della pedagogia presenta il King? ",
+      "options": [
+        "pura, applicata, sociale ",
+        "scientifica, assoluta, oggettiva ",
+        "valoriale, metafisica, obiettiva ",
+        "deterministica, valida, vera "
+      ],
+      "correctAnswer": "pura, applicata, sociale ",
+      "userPick": ""
+    },
+    {
+      "id": 90,
+      "question": " Su quale principio didattico si fonda il modello della comunicazione? ",
+      "options": [
+        "insegnare è inculcare ",
+        "insegnare è comunicare ",
+        "insegnare è travasare ",
+        "insegnare è obbligare per mezzo della parola "
+      ],
+      "correctAnswer": "insegnare è comunicare ",
+      "userPick": ""
+    },
+    {
+      "id": 91,
+      "question": " Su quali campi di indagine si fonda il modello didattico delle tre I? ",
+      "options": [
+        "intuito, innovazione, interdipendenza ",
+        "intellettivo, induzione, impressione ",
+        "informatica, inglese, impresa ",
+        "incubazione, intenzionalità, integrazione "
+      ],
+      "correctAnswer": "informatica, inglese, impresa ",
+      "userPick": ""
+    },
+    {
+      "id": 92,
+      "question": " Qual è il limite del modello didattico dell'apprendimento? ",
+      "options": [
+        "la teoria e la pratica si dirigono in direzioni opposte piuttosto che comunicare ",
+        "non si esprime in modo scientifico ",
+        "la prassi risulta troppo articolata ed eterogenea ",
+        "la didattica non è solo apprendimento, ma anche insegnamento "
+      ],
+      "correctAnswer": "la didattica non è solo apprendimento, ma anche insegnamento ",
+      "userPick": ""
+    },
+    {
+      "id": 93,
+      "question": " Secondo quale tassonomia è giusto definire gli obiettivi dell'apprendimento? ",
+      "options": [
+        "conoscenza, classificazione, tassonomia, bisogni e calibrazione ",
+        "conoscenza, comprensione, applicazione, analisi, sintesi, valutazione ",
+        "determinazione, consapevolezza, analisi, verifica, abilità ",
+        "progettazione, programmazione, realizzazione, valutazione "
+      ],
+      "correctAnswer": "conoscenza, comprensione, applicazione, analisi, sintesi, valutazione ",
+      "userPick": ""
+    },
+    {
+      "id": 94,
+      "question": " Qual è l'ultimo stadio dell'apprendimento per il Bloom? ",
+      "options": [
+        "la determinazione ",
+        "la sintesi ",
+        "la valutazione ",
+        "la soggettività "
+      ],
+      "correctAnswer": "la valutazione ",
+      "userPick": ""
+    },
+    {
+      "id": 95,
+      "question": " Quali sono gli storici saperi basilari dell'istruzione? ",
+      "options": [
+        "conoscere, uniformarsi e parlare ",
+        "istruirsi, creare e determinare ",
+        "leggere, scrivere e far di conto ",
+        "ascoltare, narrare ed informarsi "
+      ],
+      "correctAnswer": "leggere, scrivere e far di conto ",
+      "userPick": ""
+    },
+    {
+      "id": 96,
+      "question": " Qual è il primo livello di apprendimento per il Bloom? ",
+      "options": [
+        "conoscenza ",
+        "empatia ",
+        "consapevolezza ",
+        "comunicazione "
+      ],
+      "correctAnswer": "conoscenza ",
+      "userPick": ""
+    },
+    {
+      "id": 97,
+      "question": " Di quale ambito del sapere si occupa la pedagogia speciale? ",
+      "options": [
+        "dell'esperimento educativo ",
+        "dei soggetti diversamente abili ",
+        "della didattica delle case di riposo ",
+        "della comparazione tra i sistemi educativi "
+      ],
+      "correctAnswer": "dei soggetti diversamente abili ",
+      "userPick": ""
+    },
+    {
+      "id": 98,
+      "question": " Quale pedagogia deve essere fondata sull'osservazione e l'esperienza? ",
+      "options": [
+        "pedagogia sperimentale ",
+        "pedagogia comparata ",
+        "pedagogia della cultura ",
+        "pedagogia olistica "
+      ],
+      "correctAnswer": "pedagogia sperimentale ",
+      "userPick": ""
+    },
+    {
+      "id": 99,
+      "question": " In quali sensi è possibile distinguere la cultura? ",
+      "options": [
+        "in senso biologico e ecumenico ",
+        "in senso mistico e oggettivo ",
+        "in senso classico e antropologico ",
+        "in senso speculativo e anarchico "
+      ],
+      "correctAnswer": "in senso classico e antropologico ",
+      "userPick": ""
+    },
+    {
+      "id": 100,
+      "question": " Quale duplice valore assume ciascuna connotazione culturale? ",
+      "options": [
+        "speciale/deficit ",
+        "espressione/significato ",
+        "valenza/ricchezza ",
+        "verità/certezza "
+      ],
+      "correctAnswer": "espressione/significato ",
+      "userPick": ""
+    },
+    {
+      "id": 101,
+      "question": " Qual è lo slogan coniato da Peters nel 1977? ",
+      "options": [
+        "bisogna prendere sul serio l'educazione ",
+        "analizziamo tutto quello che ci capita e ci capita tutto quello che analizziamo ",
+        "studiamo per vivere e viviamo per leggere ",
+        "viviamo per imparare e impariamo per vivere "
+      ],
+      "correctAnswer": "viviamo per imparare e impariamo per vivere ",
+      "userPick": ""
+    },
+    {
+      "id": 102,
+      "question": " Come deve essere sostituita la pedagogia dell'avere? ",
+      "options": [
+        "con la filosofia tecnocratica ",
+        "con la pedagogia dell'essere ",
+        "con l'antropologia dell'accumulare ",
+        "con la didattica della ricchezza "
+      ],
+      "correctAnswer": "con la pedagogia dell'essere ",
+      "userPick": ""
+    },
+    {
+      "id": 103,
+      "question": " Il successo della scuola, nel raggiungimento della propria missione, è intrinsecamente legato al rapporto di collaborazione con ",
+      "options": ["l'economia ", "il lavoro ", "il denaro ", "la famiglia "],
+      "correctAnswer": "la famiglia ",
+      "userPick": ""
+    },
+    {
+      "id": 104,
+      "question": " Quale cambiamento nell'ambito scolastico italiano segna il passaggio da una concezione quantitativa dell'insegnamento ad una concezione qualitativa? ",
+      "options": ["didattico ", "prospettico ", "culturale ", "di governance "],
+      "correctAnswer": "didattico ",
+      "userPick": ""
+    },
+    {
+      "id": 105,
+      "question": " L'obbligatorietà e la messa a regime dell'alternanza scuola-lavoro ha determinato tre sensibili cambiamenti nell'ambito scolastico italiano",
+      "options": [
+        "attivare, educare, memorizzare ",
+        "alchimistico, simmetrico, falsificazionista ",
+        "culturale, organizzativo, didattico ",
+        "propedeutico, di orientamento, sociale "
+      ],
+      "correctAnswer": "culturale, organizzativo, didattico ",
+      "userPick": ""
+    },
+    {
+      "id": 106,
+      "question": " Il metodo del cooperative learning si pone l'obiettivo di ",
+      "options": [
+        "delimitare l'agire sociale dell'uomo ",
+        "velocizzare il processo economico ",
+        "proiettare l'educazione verso traguardi futuribili ",
+        "incentivare gli alunni a divenire protagonisti attivi del loro percorso di apprendimento"
+      ],
+      "correctAnswer": "incentivare gli alunni a divenire protagonisti attivi del loro percorso di apprendimento",
+      "userPick": ""
+    },
+    {
+      "id": 107,
+      "question": " La famiglia è espressione della vicenda esistenziale dell'uomo e riconosciuta come prima agenzia di formazione e socializzazione ",
+      "options": [
+        "determinazione del cittadino ",
+        "formazione umana ",
+        "istituzione specializzata in affetto ",
+        "educazione alla collettività emancipata "
+      ],
+      "correctAnswer": "istituzione specializzata in affetto ",
+      "userPick": ""
+    },
+    {
+      "id": 108,
+      "question": " Secondo Agnese Rosati, cosa è obbligatorio incentivare per offrire una corretta prospettiva \"eco\" dell'educazione? ",
+      "options": [
+        "una nascondiglio segreto della persona ",
+        "un tesoro dell'uomo ",
+        "una cassetta di sicurezza educativa ",
+        "una banca di valori "
+      ],
+      "correctAnswer": "una banca di valori ",
+      "userPick": ""
+    },
+    {
+      "id": 109,
+      "question": " Cosa sono le neuroscienze? ",
+      "options": [
+        "le scienze che studiano la trascendenza biologica ",
+        "le scienze che studiano il processo evolutivo ",
+        "le scienze che studiano il cervello ",
+        "le scienze che studiano la cultura dell'anima "
+      ],
+      "correctAnswer": "le scienze che studiano il cervello ",
+      "userPick": ""
+    },
+    {
+      "id": 110,
+      "question": " I nostri comportamenti sono originati dall'attività del cervello, quello che a buona ragione può essere definito ",
+      "options": [
+        "pilota automatico ",
+        "pilota culturale ",
+        "pilota modesto ",
+        "pilota esperto "
+      ],
+      "correctAnswer": "pilota automatico ",
+      "userPick": ""
+    },
+    {
+      "id": 111,
+      "question": " Quali tra le seguenti affermazioni riferita alle caratteristiche che possiede l'atteggiamento metacognitivo ritieni vera? ",
+      "options": [
+        "è un'azione che spinge a riflettere sulla propria azione cognitiva ",
+        "è un pensiero umile e distaccato dalla realtà ",
+        "una sfera del sapere che si occupa della docimologia ",
+        "è un atteggiamento di chiusura costante e permanente "
+      ],
+      "correctAnswer": "è un'azione che spinge a riflettere sulla propria azione cognitiva ",
+      "userPick": ""
+    },
+    {
+      "id": 112,
+      "question": " Qual è il primo stadio della scala di socializzazione? ",
+      "options": ["dell'IO ", "pratico ", "ecumenico ", "primitivo "],
+      "correctAnswer": "dell'IO ",
+      "userPick": ""
+    },
+    {
+      "id": 113,
+      "question": " In quale rapporto stanno il leader e la leadership? ",
+      "options": [
+        "causa/effetto ",
+        "abilità/operosità ",
+        "memoria/ricordo ",
+        "soggetto/funzione "
+      ],
+      "correctAnswer": "soggetto/funzione ",
+      "userPick": ""
+    },
+    {
+      "id": 114,
+      "question": " Quale orientamento concepisce la leadership come un fenomeno legato al raggiungimento di un determinato obiettivo? ",
+      "options": [
+        "funzionalista ",
+        "per obiettivi ",
+        "deterministica",
+        " strutturale "
+      ],
+      "correctAnswer": "funzionalista ",
+      "userPick": ""
+    },
+    {
+      "id": 115,
+      "question": " Come è possibile distinguere la leadership? ",
+      "options": [
+        "formale/informale ",
+        "anarchica/liberale ",
+        "analitica/sintetica ",
+        "strutturale/funzionale "
+      ],
+      "correctAnswer": "formale/informale ",
+      "userPick": ""
+    },
+    {
+      "id": 116,
+      "question": " Quale definizione è riferita al leader se lo si descrive come un “individuo che possiede i tratti caratteriali necessari per la leadership”? ",
+      "options": [
+        "parassitaria ",
+        "personologica ",
+        "antropologica ",
+        "funzionale "
+      ],
+      "correctAnswer": "personologica ",
+      "userPick": ""
+    },
+    {
+      "id": 117,
+      "question": " Quale definizione è riferita al leader se lo si descrive come “la figura di riferimento che riceve il maggior numero di scelte sociometriche”? ",
+      "options": [
+        "anarchica ",
+        "osmotica ",
+        "atomistica ",
+        "statico-strutturale "
+      ],
+      "correctAnswer": "statico-strutturale ",
+      "userPick": ""
+    },
+    {
+      "id": 118,
+      "question": " Come può essere definita la leadership? ",
+      "options": [
+        "funzione parallela ",
+        "funzione di contatto ",
+        "funzione autoritaria ",
+        "funzione osmotica "
+      ],
+      "correctAnswer": "funzione osmotica ",
+      "userPick": ""
+    },
+    {
+      "id": 119,
+      "question": " Quale, tra quelli indicati, non è uno stile di leadership? ",
+      "options": ["soggettiva ", "manifesta ", "adeguata ", "presunta "],
+      "correctAnswer": "soggettiva ",
+      "userPick": ""
+    },
+    {
+      "id": 120,
+      "question": " Qual è la seconda fase di un corretto lavoro di gruppo? ",
+      "options": [
+        "ammaestrare gli studenti ",
+        "obbligare allo studio del problema ",
+        "definizione degli obiettivi ",
+        "valutazione dei risultati "
+      ],
+      "correctAnswer": "definizione degli obiettivi ",
+      "userPick": ""
+    },
+    {
+      "id": 121,
+      "question": " Qual è la terza fase di un lavoro di gruppo? ",
+      "options": [
+        "analisi dei soggetti ",
+        "realizzazione del programma ",
+        "valutazione dei risultati ",
+        "somministrazione del test "
+      ],
+      "correctAnswer": "realizzazione del programma ",
+      "userPick": ""
+    },
+    {
+      "id": 122,
+      "question": " Dove e a quando risale il cooperative learning? ",
+      "options": [
+        "XIX/Italia ",
+        "XXII/Francia ",
+        "XIIII/Germania ",
+        "XVIII/Gran Bretagna "
+      ],
+      "correctAnswer": "XVIII/Gran Bretagna ",
+      "userPick": ""
+    },
+    {
+      "id": 123,
+      "question": " Come definisce il Frenet la relazione educativa? ",
+      "options": [
+        "determinazione univoca degli obiettivi comuni ",
+        "azione di coercizione culturale ",
+        "movimento di cooperazione educativa ",
+        "oscillazione del pensiero astratto e quello concreto "
+      ],
+      "correctAnswer": "movimento di cooperazione educativa ",
+      "userPick": ""
+    },
+    {
+      "id": 124,
+      "question": " Cosa è il cooperative learning? ",
+      "options": [
+        "una metodologia di insegnamento collaborativo ",
+        "una forma didattica di insegnamento in rete ",
+        "la funzione tecnologica all'interno dell'educazione ",
+        "l'uso delle tecnologie nelle didattica "
+      ],
+      "correctAnswer": "una metodologia di insegnamento collaborativo ",
+      "userPick": ""
+    },
+    {
+      "id": 125,
+      "question": " Quale ruolo svolge il tutor nel modello educativo on-line wrap around? ",
+      "options": ["di valutazione ", "emotivo ", "di supporto ", "di margine "],
+      "correctAnswer": "di supporto ",
+      "userPick": ""
+    },
+    {
+      "id": 126,
+      "question": " Cosa significa il termine e-learning? ",
+      "options": [
+        "insegnamento elettronico ",
+        "elemento tecnico ",
+        "formazione classica ",
+        "apprendimento esperienziale "
+      ],
+      "correctAnswer": "insegnamento elettronico ",
+      "userPick": ""
+    },
+    {
+      "id": 127,
+      "question": " Cosa significa l'acronimo FAD? ",
+      "options": [
+        "fare a domande ",
+        "fare didattico ",
+        "formazione a distanza ",
+        "formare a docimologia "
+      ],
+      "correctAnswer": "formazione a distanza ",
+      "userPick": ""
+    },
+    {
+      "id": 128,
+      "question": " Per Crispiani e Giaconi, su quale tecnologia punta le terza generazione delle FAD? ",
+      "options": [
+        "tecnologie di elevata standardizzazione ",
+        "tecnologie prassiche/paritarie ",
+        "tecnologie prassiche ",
+        "tecnologie telematiche "
+      ],
+      "correctAnswer": "tecnologie telematiche ",
+      "userPick": ""
+    },
+    {
+      "id": 129,
+      "question": " Tra le triadi elencate, quale rappresenta i modelli educativi on-line? ",
+      "options": [
+        "modal, intuitive, wrap ",
+        "about, approach, transmission ",
+        "learning, support, whit ",
+        "single, dual, mixed "
+      ],
+      "correctAnswer": "single, dual, mixed ",
+      "userPick": ""
+    },
+    {
+      "id": 130,
+      "question": " Cosa si intende con l'acronimo TIC? ",
+      "options": [
+        "tassonomie interattive codificate ",
+        "tecniche informatiche commutative ",
+        "tecnologie dell'informazione e della comunicazione ",
+        "tecnologie informatiche e del cliet "
+      ],
+      "correctAnswer": "tecnologie dell'informazione e della comunicazione ",
+      "userPick": ""
+    },
+    {
+      "id": 131,
+      "question": " Quale valore assume il termine sfida all'interno di un percorso educativo? ",
+      "options": [
+        "autolesionismo consapevole ",
+        "ingresso di nuove forme di autorità ",
+        "crescita continua ",
+        "limitazione d'azione "
+      ],
+      "correctAnswer": "crescita continua ",
+      "userPick": ""
+    },
+    {
+      "id": 132,
+      "question": " Cosa è la famiglia? ",
+      "options": [
+        "una barricata contro la tecnologia ",
+        "un agenzia deputata al nutrimento ",
+        "sistema emozionale plurigenerazionale ",
+        "un sistema di sussidio "
+      ],
+      "correctAnswer": "sistema emozionale plurigenerazionale ",
+      "userPick": ""
+    },
+    {
+      "id": 133,
+      "question": " A chi appartiene l'idea di valori basati essenzialmente su due principi: la responsabilizzazione di ciascun individuo sulle proprie azioni (sistema valoriale) e le pari opportunità realizzative delle potenzialità umane individuali (diritti e valori)? ",
+      "options": ["Dewey ", "Mencarelli ", "Truslov ", "Rosati "],
+      "correctAnswer": "Truslov ",
+      "userPick": ""
+    },
+    {
+      "id": 134,
+      "question": " A quali funzioni è deputato l'emisfero sinistro? ",
+      "options": ["fantasia ", "affetti ", "emozioni ", "logica "],
+      "correctAnswer": "logica ",
+      "userPick": ""
+    },
+    {
+      "id": 135,
+      "question": " Quale, tra le seguenti affermazioni, definisce il cervello? ",
+      "options": [
+        "pilota automatico ",
+        "trasmettitore di energia ",
+        "anarchia sinaptica ",
+        "gioco simbolico-biologico "
+      ],
+      "correctAnswer": "pilota automatico ",
+      "userPick": ""
+    },
+    {
+      "id": 136,
+      "question": " Cosa si intende sottolineare con la semantica “plasticità neuronale”? ",
+      "options": [
+        "l'efficienza ed elasticità dei neuroni ",
+        "la capacità insita dell'ippocampo di migrare ",
+        "la fantasia in opera a livello biologico ",
+        "la forza del cervello di estendersi e dilatarsi "
+      ],
+      "correctAnswer": "l'efficienza ed elasticità dei neuroni ",
+      "userPick": ""
+    },
+    {
+      "id": 137,
+      "question": " Qual è la prima fase della creatività? ",
+      "options": ["analisi ", "incubazione ", "preparazione ", "sintesi "],
+      "correctAnswer": "preparazione ",
+      "userPick": ""
+    },
+    {
+      "id": 138,
+      "question": " Qual è il maggiore contributo alla creatività offerto da Serge Moscovicì? ",
+      "options": [
+        "la teoria dei gruppi ",
+        "la valorizzazione dell'educazione creativa in Russia ",
+        "le tecniche sociometriche ",
+        "la psicologia delle minoranze attive "
+      ],
+      "correctAnswer": "la psicologia delle minoranze attive ",
+      "userPick": ""
+    },
+    {
+      "id": 139,
+      "question": " Cosa cerca di definire il Cei quando afferma: non è una cosa astratta né un tratto del carattere o un'abilità tecnica o una capacità che coinvolga una soladimensione dell'essere umano (cognitiva, affettiva o organica)? ",
+      "options": [
+        "la creatività ",
+        "la pedagogia ",
+        "la didattica ",
+        "l'intelligenza "
+      ],
+      "correctAnswer": "la creatività ",
+      "userPick": ""
+    },
+    {
+      "id": 140,
+      "question": " Come definisce la creatività Mario Mencarelli? ",
+      "options": [
+        "uno stato di interfuzionalità ",
+        "un processo che si compie solo in momenti di crisi ",
+        "un'azione di governo ",
+        "uno stato di uguaglianza "
+      ],
+      "correctAnswer": "uno stato di interfuzionalità ",
+      "userPick": ""
+    },
+    {
+      "id": 141,
+      "question": " Qual è il quarto stadio della creatività? ",
+      "options": ["confluire ", "analizzare ", "fantasticare ", "determinare "],
+      "correctAnswer": "fantasticare ",
+      "userPick": ""
+    },
+    {
+      "id": 142,
+      "question": " Come è chiamato lo studio che precede la programmazione? ",
+      "options": [
+        "sintesi creativa delle azioni ",
+        "analisi dei bisogni formativi ",
+        "espressione della fasi complementari ",
+        "determinazione delle risorse in modo univoco "
+      ],
+      "correctAnswer": "analisi dei bisogni formativi ",
+      "userPick": ""
+    },
+    {
+      "id": 143,
+      "question": " A quale domanda risponde la fase della realizzazione? ",
+      "options": [
+        "come voglio fare? ",
+        "perché si determinano le variabiali? ",
+        "quanto voglio ricavare? ",
+        "quanto sono bravo? "
+      ],
+      "correctAnswer": "come voglio fare? ",
+      "userPick": ""
+    },
+    {
+      "id": 144,
+      "question": " Quando nasce la programmazione? ",
+      "options": [
+        "prima decade del secolo ",
+        "seconda metà degli anni Settanta ",
+        "nel 1920 ",
+        "durante il periodo fascista "
+      ],
+      "correctAnswer": "seconda metà degli anni Settanta ",
+      "userPick": ""
+    },
+    {
+      "id": 145,
+      "question": " Cosa significa secondo don Milani bocciare un discente? ",
+      "options": [
+        "bocciare se stessi ",
+        "approfondire la conoscenza ",
+        "dargli il giusto valore ",
+        "educarlo al domani "
+      ],
+      "correctAnswer": "bocciare se stessi ",
+      "userPick": ""
+    },
+    {
+      "id": 146,
+      "question": " Come definisce il Bruner la valutazione? ",
+      "options": [
+        "valorizzazione dell'espressione umana ",
+        "forma di intelligenza pedagogica ",
+        "processo che non ha mai fine ",
+        "prospettiva utopica dell'educazione "
+      ],
+      "correctAnswer": "forma di intelligenza pedagogica ",
+      "userPick": ""
+    },
+    {
+      "id": 147,
+      "question": " A cosa ci riferiamo se affermiamo: attribuire un valore a fatti, eventi, oggetti e simili, in relazione agli scopi che colui intende perseguire ",
+      "options": ["verificare ", "misurare ", "educare ", "valutare "],
+      "correctAnswer": "valutare ",
+      "userPick": ""
+    },
+    {
+      "id": 148,
+      "question": " A cosa ci riferiamo se affermiamo: un'educazione totale (in quanto educazione democratica rivolta a tutti); integrale (in quanto mirante alla realizzazionedella capacità di composizione delle antinomie insite nella vita personale); educazione alla critica (in quanto capacità di esercizio della responsabilità morale insitanella chiara coscienza della centralità dell'uomo); alla sintesi operativa personale di valori guida per la propria vita; al dialogo ed alla tolleranza? ",
+      "options": [
+        "alla prassi didattica ",
+        "al fine dei corsi di aggiornamento ",
+        "all'educazione permanente ",
+        "alla formazione degli adulti "
+      ],
+      "correctAnswer": "all'educazione permanente ",
+      "userPick": ""
+    },
+    {
+      "id": 149,
+      "question": " Qual è l'obiettivo dell'educazione permanente? ",
+      "options": [
+        "obbligare l'uomo ad educarsi ",
+        "promuovere la ricchezza materiale ",
+        "annichilire la creatività ",
+        "elevare la qualità della vita "
+      ],
+      "correctAnswer": "elevare la qualità della vita ",
+      "userPick": ""
+    },
+    {
+      "id": 150,
+      "question": " Come può essere sintetizzata l'opera dell'educazione permanente? ",
+      "options": [
+        "crescere e credere ",
+        "imparare ad imparare ",
+        "svilupparsi senza fine ",
+        "studiare per studiare "
+      ],
+      "correctAnswer": "imparare ad imparare ",
+      "userPick": ""
+    },
+    {
+      "id": 151,
+      "question": " Costruire una società plurale, aperta e globale significa principalmente instaurare un rapporto simbiotico con la costruzione di un uomo totale, che risulticapace di superare l'unilateralità delle monodimensioni fruttando la logica ",
+      "options": [
+        "della pertinenza lessicale ",
+        "della salvaguardia dell'economia globale ",
+        "dell'inclusione pluralista ",
+        "della prospettiva sintetica ed analitica "
+      ],
+      "correctAnswer": "dell'inclusione pluralista ",
+      "userPick": ""
+    },
+    {
+      "id": 152,
+      "question": " Tra i programmi settoriali proposti a livello europeo, quella che a noi può interessare maggiormente è senza dubbio il programma ",
+      "options": ["Erasmus ", "Grundtvig ", "Archimede ", "Platone "],
+      "correctAnswer": "Grundtvig ",
+      "userPick": ""
+    }
+  ]
+}
