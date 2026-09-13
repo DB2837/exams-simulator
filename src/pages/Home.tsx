@@ -216,6 +216,9 @@ const Home = () => {
               isSimulationFinished={isSimulationFinished}
               setUserPick={setData}
               handleIncrementQuestionNum={handleIncrementQuestionNum}
+              enableMathFormatting={
+                selectedCategory === 'math' || selectedCategory === 'physics'
+              }
             />
 
             <ButtonContaier>

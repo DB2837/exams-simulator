@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import MathText from './MathText';
 
 type TQuestion = {
   id: number;
@@ -16,6 +17,7 @@ type TProps = {
   showErrMode: boolean;
   id: number;
   isSimulationFinished: boolean;
+  enableMathFormatting: boolean;
   setUserPick: React.Dispatch<React.SetStateAction<TQuestion[]>>;
   handleIncrementQuestionNum: () => void;
 };
@@ -30,6 +32,7 @@ const QuestionsBox = ({
   setUserPick,
   handleIncrementQuestionNum,
   isSimulationFinished,
+  enableMathFormatting,
 }: TProps) => {
   const updateUserPick = (answer: string) => {
     setUserPick((prev) =>
@@ -56,7 +59,7 @@ const QuestionsBox = ({
   return (
     <Section>
       <Title>
-        <h3>{question}</h3>
+        <h3><MathText text={question} enabled={enableMathFormatting} /></h3>
       </Title>
 
       <OptionsContainer>
@@ -71,7 +74,7 @@ const QuestionsBox = ({
               showErrMode={showErrMode}
               isSimulationFinished={isSimulationFinished}
             >
-              {answer}
+              <MathText text={answer} enabled={enableMathFormatting} />
             </GridCell>
           );
         })}
@@ -89,8 +92,9 @@ const Section = styled.section`
   padding: 1rem;
   /*  border: 2px solid #fff; */
   /*  min-height: 350px; */
-  min-width: 320px;
-  max-width: 520px;
+  width: min(760px, calc(100vw - 2rem));
+  min-width: 0;
+  max-width: 760px;
   border-radius: 6px;
   background-color: #202020;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
@@ -103,6 +107,18 @@ const Title = styled.div`
   align-items: center;
   width: 100%;
   padding: 1rem;
+
+  h3 {
+    width: 100%;
+    margin: 0;
+    line-height: 1.45;
+    text-align: left;
+  }
+
+  mjx-container {
+    margin: 0 0.08em !important;
+    font-size: 1.08em !important;
+  }
 `;
 
 const OptionsContainer = styled.div`
@@ -165,6 +181,12 @@ const GridCell = styled.div<TGridCellProps>`
   text-align: center;
   padding: 0.7rem;
   transition: all 0.2s ease-in-out;
+  line-height: 1.5;
+
+  mjx-container {
+    margin: 0 0.06em !important;
+    font-size: 1.08em !important;
+  }
 
   @media (hover: hover) {
     &:hover {

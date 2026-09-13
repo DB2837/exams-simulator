@@ -3,24 +3,23 @@
 # abort on errors
 set -e
 
+# remove the previous build/deploy repository
+rm -rf dist
+
 # build
 npm run build
 
 # navigate into the build output directory
 cd dist
 
-# if you are deploying to a custom domain
-# echo 'www.example.com' > CNAME
+# bypass Jekyll processing on GitHub Pages
+echo > .nojekyll
 
 git init
-git checkout -b main
+git checkout -B main
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
-
-# if you are deploying to https://<USERNAME>.github.io/<REPO>
 git push -f https://github.com/DB2837/exams-simulator.git main:gh-pages
 
 cd -
