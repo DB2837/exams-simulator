@@ -1,6 +1,44 @@
 const exactMathOverrides: Record<string, string> = {
   'Utilizzando gli sviluppi di McLaurin delle funzioni coinvolte, si ha che limx→0 (e3x-1-3x)/[ln(1+x/2)-x/2] è uguale a':
     'Utilizzando gli sviluppi di McLaurin delle funzioni coinvolte, si ha che \\(\\lim_{x\\to 0} \\frac{e^{3x}-1-3x}{\\ln\\left(1+\\frac{x}{2}\\right)-\\frac{x}{2}}\\) è uguale a',
+
+  // Matrices: the PDF text extraction flattens rows/columns into a single line.
+  // These overrides reconstruct the original layout without changing the stored
+  // question/answer strings, so scoring remains byte-for-byte identical.
+  '1 0 3 / -2 2 0 / 3 -2 -1':
+    '\\(\\begin{pmatrix}1 & 0 & 3 \\\\ -2 & 2 & 0 \\\\ 3 & -2 & -1\\end{pmatrix}\\)',
+  '1 0 3 / -2 2 -2 / 3 0 -1':
+    '\\(\\begin{pmatrix}1 & 0 & 3 \\\\ -2 & 2 & -2 \\\\ 3 & 0 & -1\\end{pmatrix}\\)',
+  '1 0 3 / 0 2 -2 / 3 -2 -1':
+    '\\(\\begin{pmatrix}1 & 0 & 3 \\\\ 0 & 2 & -2 \\\\ 3 & -2 & -1\\end{pmatrix}\\)',
+  '1 0 3 / 3 2 -2 / 0 -2 -1':
+    '\\(\\begin{pmatrix}1 & 0 & 3 \\\\ 3 & 2 & -2 \\\\ 0 & -2 & -1\\end{pmatrix}\\)',
+
+  'La trasposta della matrice A= 5 -1 1 2 -4 6 è la matrice':
+    'La trasposta della matrice \\(A=\\begin{pmatrix}5 & -1 & 1 \\\\ 2 & -4 & 6\\end{pmatrix}\\) è la matrice',
+  'AT= 2 -4 6 / -4 -1 1':
+    '\\(A^T=\\begin{pmatrix}2 & -4 & 6 \\\\ -4 & -1 & 1\\end{pmatrix}\\)',
+  'AT= -1 5 1 / -4 2 6':
+    '\\(A^T=\\begin{pmatrix}-1 & 5 & 1 \\\\ -4 & 2 & 6\\end{pmatrix}\\)',
+  '5 2 / AT= -1 -4 / 1 6':
+    '\\(A^T=\\begin{pmatrix}5 & 2 \\\\ -1 & -4 \\\\ 1 & 6\\end{pmatrix}\\)',
+  '2 5 / AT= -4 -1 / 6 1':
+    '\\(A^T=\\begin{pmatrix}2 & 5 \\\\ -4 & -1 \\\\ 6 & 1\\end{pmatrix}\\)',
+
+  'La matrice 1 2 1 A = -1 0 2 1 4 1 ha determinante uguale a':
+    'La matrice \\(A=\\begin{pmatrix}1 & 2 & 1 \\\\ -1 & 0 & 2 \\\\ 1 & 4 & 1\\end{pmatrix}\\) ha determinante uguale a',
+  'La matrice 1 0 -1 0 A= 0 2 1 1 1 1 -1 0 -1 -1 0 0 ha determinante uguale a':
+    'La matrice \\(A=\\begin{pmatrix}1 & 0 & -1 & 0 \\\\ 0 & 2 & 1 & 1 \\\\ 1 & 1 & -1 & 0 \\\\ -1 & -1 & 0 & 0\\end{pmatrix}\\) ha determinante uguale a',
+  'La matrice A= -3 1 6 -2':
+    'La matrice \\(A=\\begin{pmatrix}-3 & 1 \\\\ 6 & -2\\end{pmatrix}\\)',
+  'La matrice 1 0 A = -1 2 -1 0 -2 4 ha rango':
+    'La matrice \\(A=\\begin{pmatrix}1 & 0 \\\\ -1 & 2 \\\\ -1 & 0 \\\\ -2 & 4\\end{pmatrix}\\) ha rango',
+  'La matrice -2 1 1 A = -1 ½ ½ -4 2 2 ha rango':
+    'La matrice \\(A=\\begin{pmatrix}-2 & 1 & 1 \\\\ -1 & \\frac{1}{2} & \\frac{1}{2} \\\\ -4 & 2 & 2\\end{pmatrix}\\) ha rango',
+  'Data la matrice 1 -2 -3 A = 2 0 1 1 -1 1 siano v1, v2 e v3 i vettori le cui coordinate sono rispettivamente uguali alle entrate della prima, della seconda e della terza colonna di A. Allora':
+    'Data la matrice \\(A=\\begin{pmatrix}1 & -2 & -3 \\\\ 2 & 0 & 1 \\\\ 1 & -1 & 1\\end{pmatrix}\\), siano \\(v_1\\), \\(v_2\\) e \\(v_3\\) i vettori le cui coordinate sono rispettivamente uguali alle entrate della prima, della seconda e della terza colonna di \\(A\\). Allora',
+  'Sia 1 1 A = -3 2 5 -1 4 0 La trasformazione lineare L(v)= Av è una trasformazione':
+    'Sia \\(A=\\begin{pmatrix}1 & 1 \\\\ -3 & 2 \\\\ 5 & -1 \\\\ 4 & 0\\end{pmatrix}\\). La trasformazione lineare \\(L(v)=Av\\) è una trasformazione',
 };
 
 const mathTokenPattern = /(?:[=<>≤≥±√∫∞→∈∪∩πµαβγδλθω•◊]|\^|\/|\b(?:lim|sin|cos|tan|ln|log|arcsin|arccos|arctan|Ker|det)\b|[A-Za-z]\d|\d[A-Za-z]|(?:f|g|y)'|\b(?:ex|e-x)\b|\d!)/;
