@@ -33,6 +33,8 @@ const pathsOptions = {
   methodology: 'data/metodologia.json',
   pedagogy: 'data/pedagogia.json',
   psicology: 'data/psicologia.json',
+  math: 'data/matematica.json',
+  physics: 'data/fisica.json',
 };
 
 const totalQuestionNum = {
@@ -57,13 +59,13 @@ const Home = () => {
   const bottomRef = useRef<any>(null);
   const [data, setData] = useState<TQuestion[]>([]);
   const [selectedCategory, setSelectedCategory] = useState(
-    categoryOptions[0] as pathKeys
+    categoryOptions[0] as pathKeys,
   );
   const [selectedQuestionsNum, setSelectedQuestionsNum] = useState(
-    questionNumOptions[0] as questionNumKeys
+    questionNumOptions[0] as questionNumKeys,
   );
   const [selectedErrMode, setSelectedErrMode] = useState(
-    errorModeOptions[0] as errorModeKeys
+    errorModeOptions[0] as errorModeKeys,
   );
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState<number>(0);
   const [isSimulationStarted, setIsSimulationStarted] =
@@ -74,11 +76,14 @@ const Home = () => {
   useEffect(() => {
     (async () => {
       const questions = await fetch(pathsOptions[`${selectedCategory}`]).then(
-        (res) => res.json()
+        (res) => res.json(),
       );
 
       setData(() =>
-        questions.category.slice(0, totalQuestionNum[`${selectedQuestionsNum}`])
+        questions.category.slice(
+          0,
+          totalQuestionNum[`${selectedQuestionsNum}`],
+        ),
       );
     })();
   }, [selectedCategory, selectedQuestionsNum]);

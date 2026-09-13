@@ -166,10 +166,12 @@ const GridCell = styled.div<TGridCellProps>`
   padding: 0.7rem;
   transition: all 0.2s ease-in-out;
 
-  :hover {
-    /*   border: 2px solid #ff7034; */
-    transform: scale(1.06);
-    /*  transition: border 0.3s; */
+  @media (hover: hover) {
+    &:hover {
+      /*   border: 2px solid #ff7034; */
+      transform: scale(1.06);
+      /*  transition: border 0.3s; */
+    }
   }
 `;
 
