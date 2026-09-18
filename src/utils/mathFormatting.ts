@@ -1,6 +1,8 @@
 const exactMathOverrides: Record<string, string> = {
   'Utilizzando gli sviluppi di McLaurin delle funzioni coinvolte, si ha che limx→0 (e3x-1-3x)/[ln(1+x/2)-x/2] è uguale a':
-    'Utilizzando gli sviluppi di McLaurin delle funzioni coinvolte, si ha che \\(\\lim_{x\\to 0} \\frac{e^{3x}-1-3x}{\\ln\\left(1+\\frac{x}{2}\\right)-\\frac{x}{2}}\\) è uguale a',
+    'Utilizzando gli sviluppi di McLaurin delle funzioni coinvolte, si ha che \\(\\lim_{x\\to 0} \\frac{\\mathrm{e}^{3x}-1-3x}{\\ln\\left(1+\\frac{x}{2}\\right)-\\frac{x}{2}}\\) è uguale a',
+
+  'e-2': '\\(\\mathrm{e}^{-2}\\)',
 
   // Matrices: the PDF text extraction flattens rows/columns into a single line.
   // These overrides reconstruct the original layout without changing the stored
@@ -148,18 +150,25 @@ const normalizeFormula = (rawFormula: string) => {
   formula = formula.replace(/\bx([12])(?=\s*=)/g, 'x_{$1}');
 
   // e followed by a compact exponent, e.g. ex, e-x, e3x, ex2/2, e1/x.
-  formula = formula.replace(/xex\b/g, 'x\\,e^{x}');
-  formula = formula.replace(/(^|[=+\-*/(,\s0-9}∫])e(x[2345]?(?:[+\-]\d*x[2345]?)+)\b/g, (_match, prefix, exponent) => {
-    const normalizedExponent = exponent.replace(/x([2345])\b/g, 'x^{$1}');
-    return `${prefix}e^{${normalizedExponent}}`;
+  // Keep Euler's number upright and make the exponent structurally explicit so
+  // e^{-x} cannot be mistaken for a subtraction on small screens.
+  formula = formula.replace(/e([+\-]?(?:\d*x|x))(sin|cos|tan)x\b/g, (_match, exponent, fn) => {
+    return `\\mathrm{e}^{${exponent}}\\${fn} x`;
   });
-  formula = formula.replace(/(^|[=+\-*/(,\s0-9}∫])e([+\-]?(?:\d*x\d*(?:\/\d+)?|1\/x))\b/g, (_match, prefix, exponent) => {
+  formula = formula.replace(/e(x[2345](?:[+\-]\d*x[2345]?)+)\b/g, (_match, exponent) => {
+    const normalizedExponent = exponent.replace(/x([2345])\b/g, 'x^{$1}');
+    return `\\mathrm{e}^{${normalizedExponent}}`;
+  });
+  formula = formula.replace(/e([+\-]?(?:\d*x\d*(?:\/\d+)?|1\/x))\b/g, (_match, exponent) => {
     let normalizedExponent = exponent.replace(/x([2345])\b/g, 'x^{$1}');
     const exponentFraction = normalizedExponent.match(/^(.+)\/(\d+|x)$/);
     if (exponentFraction) {
-      normalizedExponent = `\\frac{${exponentFraction[1]}}{${exponentFraction[2]}}`;
+      const numerator = exponentFraction[1];
+      const sign = numerator.startsWith('-') ? '-' : '';
+      const unsignedNumerator = sign ? numerator.slice(1) : numerator;
+      normalizedExponent = `${sign}\\frac{${unsignedNumerator}}{${exponentFraction[2]}}`;
     }
-    return `${prefix}e^{${normalizedExponent}}`;
+    return `\\mathrm{e}^{${normalizedExponent}}`;
   });
 
   // Polynomial powers such as x2, x3, n2 that lost superscript positioning in the PDF extraction.

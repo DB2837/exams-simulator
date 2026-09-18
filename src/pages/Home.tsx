@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import styled from 'styled-components';
 import { FaLongArrowAltLeft, FaLongArrowAltRight } from 'react-icons/fa';
 import QuestionsBox from '../components/QuestionsBox';
-import { shuffleArray } from '../utils/shuffleArray';
+import { selectQuestionSet } from '../utils/shuffleArray';
 import DropDownMenu from '../components/DropDownMenu';
 
 type TQuestion = {
@@ -59,6 +59,7 @@ const errorModeOptions = Object.keys(errorMode);
 
 const Home = () => {
   const bottomRef = useRef<any>(null);
+  const [questionPool, setQuestionPool] = useState<TQuestion[]>([]);
   const [data, setData] = useState<TQuestion[]>([]);
   const [selectedCategory, setSelectedCategory] = useState(
     categoryOptions[0] as pathKeys,
@@ -83,6 +84,7 @@ const Home = () => {
     const loadQuestions = async () => {
       setIsLoading(true);
       setLoadError('');
+      setQuestionPool([]);
       setData([]);
 
       try {
@@ -96,12 +98,12 @@ const Home = () => {
         }
 
         const questions = (await response.json()) as TQuestionsPayload;
-        const questionLimit = totalQuestionNum[selectedQuestionsNum];
-        const selectedQuestions = questions.category
-          .slice(0, questionLimit)
-          .map((question) => ({ ...question, userPick: '' }));
+        const normalizedQuestions = questions.category.map((question) => ({
+          ...question,
+          userPick: '',
+        }));
 
-        setData(selectedQuestions);
+        setQuestionPool(normalizedQuestions);
       } catch (error) {
         if (controller.signal.aborted) return;
         console.error('Unable to load questions', error);
@@ -116,7 +118,7 @@ const Home = () => {
     loadQuestions();
 
     return () => controller.abort();
-  }, [selectedCategory, selectedQuestionsNum]);
+  }, [selectedCategory]);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -125,10 +127,14 @@ const Home = () => {
   const totalScore = useRef(0);
 
   const handleStartSimulation = () => {
-    if (isLoading || data.length === 0) return;
-    setData((prev) =>
-      shuffleArray(prev.map((question) => ({ ...question, userPick: '' }))),
+    if (isLoading || questionPool.length === 0) return;
+
+    const questionLimit = totalQuestionNum[selectedQuestionsNum];
+    const selectedQuestions = selectQuestionSet(questionPool, questionLimit).map(
+      (question) => ({ ...question, userPick: '' }),
     );
+
+    setData(selectedQuestions);
     setIsSimulationStarted(true);
     setIsSimulationFinished(false);
     setCurrentQuestionNumber(0);
@@ -180,7 +186,7 @@ const Home = () => {
           <>
             <StyledButton
               onClick={handleStartSimulation}
-              disabled={isLoading || data.length === 0}
+              disabled={isLoading || questionPool.length === 0}
             >
               {isLoading ? 'loading...' : 'start simulation'}
             </StyledButton>
