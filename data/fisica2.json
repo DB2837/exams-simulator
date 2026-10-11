@@ -1,0 +1,1984 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "question": "Cosa vuol dire misurare?",
+      "options": [
+        "Non riguarda le grandezze fisiche",
+        "Confrontare due grandezze non omogenee",
+        "Confrontatere due grandezze omogenee",
+        "Condfrontare grandezze fisiche senza avere una grandezza riferimento"
+      ],
+      "correctAnswer": "Confrontatere due grandezze omogenee"
+    },
+    {
+      "id": 2,
+      "question": "Nel moto rettilineo uniforme",
+      "options": [
+        "Il corpo di muove con accelerazione costante",
+        "Il corpo si muove con velocità costante",
+        "La velocità media è diversa dalla velocità istantanea",
+        "Il corpo si muove lungo una traiettoria parabolica"
+      ],
+      "correctAnswer": "Il corpo si muove con velocità costante"
+    },
+    {
+      "id": 3,
+      "question": "Le grandezze fisiche fondamentali",
+      "options": [
+        "Non sappiamo quante sono",
+        "Sono indipendenti dalla definizione di altre grandezze fisiche e sono definite nel Sistema Internazionale (SI)",
+        "Dipendono dalla definizione di altre grandezze",
+        "Sono ad esempio le velocità e l'accelerazione"
+      ],
+      "correctAnswer": "Sono indipendenti dalla definizione di altre grandezze fisiche e sono definite nel Sistema Internazionale (SI)"
+    },
+    {
+      "id": 4,
+      "question": "Lasciando cadere oggetti con masse diverse",
+      "options": [
+        "Corpi con massa diversa sulla superficie lunare, toccano terra nello stesso istante",
+        "La presenza dell'atmosfera terrestre non influisce con l'esperimento",
+        "Otteniamo lo stesso risultato sia sulla Terra, sia sulla Luna",
+        "Sulla Terra raggiunge il suolo per primo l'oggetto più leggero"
+      ],
+      "correctAnswer": "Corpi con massa diversa sulla superficie lunare, toccano terra nello stesso istante"
+    },
+    {
+      "id": 5,
+      "question": "L'esperimento condotto sulla Luna riguardo la caduta libera di un corpo, fu effettuato da",
+      "options": [
+        "Scott",
+        "Nessuno dei precedenti",
+        "Newton",
+        "Galilei"
+      ],
+      "correctAnswer": "Scott"
+    },
+    {
+      "id": 6,
+      "question": "Nel moto rettilineo uniformemente accelerato",
+      "options": [
+        "Il corpo ha accelerazione sempre nulla",
+        "Nel caso specifico in cui l'accelerazione sia nulla, la legge oraria è uguale a quella del moto rettilineo uniforme",
+        "Il corpo ha velocità costante",
+        "La legge oraria non è in accordo con quella del moto rettilineo uniforme"
+      ],
+      "correctAnswer": "Nel caso specifico in cui l'accelerazione sia nulla, la legge oraria è uguale a quella del moto rettilineo uniforme"
+    },
+    {
+      "id": 7,
+      "question": "L'accelerazione media",
+      "options": [
+        "Da informazioni riguardo l'accelerazione in un determinato istante",
+        "E' diversa da 0 nel moto rettilineo uniforme",
+        "Ha direzione perpendicolare la velocità",
+        "E' uguale a 0 nel moto rettilineo uniforme"
+      ],
+      "correctAnswer": "E' uguale a 0 nel moto rettilineo uniforme"
+    },
+    {
+      "id": 8,
+      "question": "Nel grafico spazio-tempo del moto rettilineo uniforme",
+      "options": [
+        "Se la retta è inclinata verso l'alto, allora la velocità è negativa",
+        "Se la retta è inclinata verso il basso, allora la velocità è positiva",
+        "la quota all'origine indica la velocità iniziale",
+        "Il coefficiente angolare corrisponde alla velocità del corpo"
+      ],
+      "correctAnswer": "Il coefficiente angolare corrisponde alla velocità del corpo"
+    },
+    {
+      "id": 9,
+      "question": "Consideriamo un grafico spazio-tempo di un punto materiale",
+      "options": [
+        "La velocità istantanea non corrisponde ad alcun coefficiente angolare",
+        "La velocità istantanea corrisponde al coefficiente angolare della retta tangete il grafico nel punto",
+        "La velocità istantanea è il coefficiente angolare della retta che congiunge il punto iniziale e il punto di cui si vuole conoscere la velocità in un dato istante",
+        "La velocità istantanea è il coefficiente angolare della retta che congiunge il punto iniziale e il punto finale"
+      ],
+      "correctAnswer": "La velocità istantanea corrisponde al coefficiente angolare della retta tangete il grafico nel punto"
+    },
+    {
+      "id": 10,
+      "question": "La velocità media",
+      "options": [
+        "E' un vettore con direzione e verso opposti allo spostamento",
+        "E' uno scalare",
+        "E' un vettore con la stessa direzione e verso dello spostamento",
+        "E' un vettore con direzione perpendicolare allo spostamento"
+      ],
+      "correctAnswer": "E' un vettore con la stessa direzione e verso dello spostamento"
+    },
+    {
+      "id": 11,
+      "question": "La velocità media",
+      "options": [
+        "Dipende dal tragitto percorso",
+        "E' il rapporto tra lo spostamento effettuato da un punto materiale e il tempo impiegato",
+        "Ci da infromazioni riguardo la velocità tenuta in specifici istanti",
+        "E misurata in metri"
+      ],
+      "correctAnswer": "E' il rapporto tra lo spostamento effettuato da un punto materiale e il tempo impiegato"
+    },
+    {
+      "id": 12,
+      "question": "L'incertezza di misurazione",
+      "options": [
+        "E' data dal valore più grande tra la prontezza dello strumento e l'errore assoluto",
+        "E' data dal valore più grande tra la sensibilità dello strumento e l'errore assoluto",
+        "E' data dal valore più grande tra la portata dello strumento e l'errore assoluto",
+        "E' data dal valore più grande tra la precisione dello strumento e l'errore assoluto"
+      ],
+      "correctAnswer": "E' data dal valore più grande tra la sensibilità dello strumento e l'errore assoluto"
+    },
+    {
+      "id": 13,
+      "question": "Nella misurazione si possono compiere errori",
+      "options": [
+        "Nessuna delle precedenti",
+        "Sistematici",
+        "Sistematici e casuali",
+        "Casuali"
+      ],
+      "correctAnswer": "Sistematici e casuali"
+    },
+    {
+      "id": 14,
+      "question": "Le caratteristiche di uno strumento di misura sono",
+      "options": [
+        "Precisione",
+        "Sensibilità e precisione",
+        "Sensibilità, portata e prontezza",
+        "Sensibilità, portata, prontezza e precisione"
+      ],
+      "correctAnswer": "Sensibilità, portata, prontezza e precisione"
+    },
+    {
+      "id": 15,
+      "question": "Le grandezze vettoriali",
+      "options": [
+        "Si possono sommare tra loro solo se sono omogenee",
+        "Si possono sommare tra di loro, anche se non sono omogenee",
+        "Possono essere sommate a grandezze scalari",
+        "Non si possono sommare tra di loro, anche se sono omogenee"
+      ],
+      "correctAnswer": "Si possono sommare tra loro solo se sono omogenee"
+    },
+    {
+      "id": 16,
+      "question": "La velocità tangente nel moto circolare",
+      "options": [
+        "Nessuna delle precedente",
+        "Ha direzione perpendicolare la traiettoria",
+        "Ha verso opposto al moto",
+        "Ha direzione tangente la traiettoria"
+      ],
+      "correctAnswer": "Ha direzione tangente la traiettoria"
+    },
+    {
+      "id": 17,
+      "question": "La pulsazione è",
+      "options": [
+        "la velocità con cui viene effettuata un'oscillazione",
+        "Nessuna delle precedenti",
+        "il numero di oscillazioni effettuate in un secondo",
+        "Il tempo necessario ad effettuare un'oscillazione completa"
+      ],
+      "correctAnswer": "la velocità con cui viene effettuata un'oscillazione"
+    },
+    {
+      "id": 18,
+      "question": "Il periodo",
+      "options": [
+        "E' definito come l'intervallo di tempo necessario a realizzare un evento periodico completo",
+        "Misura i giri effettuati in un secondo",
+        "E' l'inverso dell'accelerazione",
+        "Si misura in Hertz"
+      ],
+      "correctAnswer": "E' definito come l'intervallo di tempo necessario a realizzare un evento periodico completo"
+    },
+    {
+      "id": 19,
+      "question": "Il grafico spazio-tempo del moto armonico",
+      "options": [
+        "E' una retta",
+        "E' una circonferenza",
+        "E' una sinusoidale",
+        "E' una cosinusoidale"
+      ],
+      "correctAnswer": "E' una sinusoidale"
+    },
+    {
+      "id": 20,
+      "question": "Il moto armonico",
+      "options": [
+        "E' un moto lungo una sinusoide",
+        "E' un moto lungo una retta",
+        "E' un moto lungo una circonferenza",
+        "E' un moto lungo una parabola"
+      ],
+      "correctAnswer": "E' un moto lungo una retta"
+    },
+    {
+      "id": 21,
+      "question": "L'accelerazione tangenziale in un moto curvilineo",
+      "options": [
+        "Non fa variare nessuna caratteristica della velocità tangenziale",
+        "Fa variare la direzione della velocità tangenziale",
+        "Fa variare il verso della velocità tangenziale",
+        "Fa variare il modulo della velocità tangenziale"
+      ],
+      "correctAnswer": "Fa variare il modulo della velocità tangenziale"
+    },
+    {
+      "id": 22,
+      "question": "Nel moto armonico il punt materiale",
+      "options": [
+        "Ha velocità maggiore nelle zone centrali",
+        "Ha in ogni punto velocità pari alla velocità tangenziale del corrispondente punto che si muove di moto circolare uniforme",
+        "Ha velocità costante",
+        "Ha velocità più alta nei punti di inversione del moto"
+      ],
+      "correctAnswer": "Ha velocità maggiore nelle zone centrali"
+    },
+    {
+      "id": 23,
+      "question": "La formula del moto circolare uniformemente accelerato",
+      "options": [
+        "non ricorda alcuna formula già vista",
+        "Ha nella legge oraria la velocità lineare",
+        "Non ha correlazioni con i mati rettilinei già visti",
+        "E' formalmente uguale a quella del moto rettilineo uniformemente accelerato, sostituendo le grandezze lineari con quelle del moto circolare"
+      ],
+      "correctAnswer": "E' formalmente uguale a quella del moto rettilineo uniformemente accelerato, sostituendo le grandezze lineari con quelle del moto circolare"
+    },
+    {
+      "id": 24,
+      "question": "Nel moto circolare uniformemente accelerato, l'accelerazione totale di un corpo è data da",
+      "options": [
+        "L'accelerazione centripeta",
+        "L'accelerazione tangente",
+        "La differenza vettoriale tra accelerazione tangente e accelerazione centripeta",
+        "La somma vettoriale tra accelerazione tangente e accelerazione centripeta"
+      ],
+      "correctAnswer": "La somma vettoriale tra accelerazione tangente e accelerazione centripeta"
+    },
+    {
+      "id": 25,
+      "question": "Nel moto circolare uniforme",
+      "options": [
+        "la velocità angolare dipende dal raggio",
+        "Il modulo della velocità tangente è inversamente proporzionale a quello della velocità angolare",
+        "Il modulo della velocità tangente è direttamente proporzionale a quello della velocità angolare, con coefficiente di proporzionalità il raggio",
+        "Non ci sono relazioni tra velocità tangente e velocità angolare"
+      ],
+      "correctAnswer": "Il modulo della velocità tangente è direttamente proporzionale a quello della velocità angolare, con coefficiente di proporzionalità il raggio"
+    },
+    {
+      "id": 26,
+      "question": "Il moto circolare",
+      "options": [
+        "E' un moto con traiettoria una linea retta",
+        "E' un moto con traiettoria una parabola",
+        "E' un moto con traiettoria una circonferenza",
+        "E' un moto con traiettoria una sinusoide"
+      ],
+      "correctAnswer": "E' un moto con traiettoria una circonferenza"
+    },
+    {
+      "id": 27,
+      "question": "La traiettoria di un corpo",
+      "options": [
+        "Può essere solo rettilinea",
+        "Può essere solo parabolica",
+        "E' la linea formata da tutti i punti occupati dal corpo allo scorrere del tempo",
+        "Può essere solo circolare"
+      ],
+      "correctAnswer": "E' la linea formata da tutti i punti occupati dal corpo allo scorrere del tempo"
+    },
+    {
+      "id": 28,
+      "question": "La gittata è una grandezza fisica tipica",
+      "options": [
+        "Del moto rettilineo uniformemente accelerato",
+        "Di nessun tipo di moto",
+        "Del moto parabolico",
+        "Del moto rettilineo uniforme"
+      ],
+      "correctAnswer": "Del moto parabolico"
+    },
+    {
+      "id": 29,
+      "question": "Il moto parabolico è combinazione di due moti:",
+      "options": [
+        "Moto rettilineo uniformemente accelerato lungo l'asse x, moto rettilneo uniforme lungo l'asse y",
+        "Moto rettilineo uniformemente accelerato lungo l'asse x, moto rettilneo uniformemente accelerato lungo l'asse y",
+        "Moto rettilineo uniforme lungo l'asse x, moto rettilneo uniformemente accelerato lungo l'asse y",
+        "Moto rettilineo uniforme lungo l'asse x, moto rettilneo uniforme lungo l'asse y"
+      ],
+      "correctAnswer": "Moto rettilineo uniforme lungo l'asse x, moto rettilneo uniformemente accelerato lungo l'asse y"
+    },
+    {
+      "id": 30,
+      "question": "Il vettore posizione",
+      "options": [
+        "E' una grandezza scalare",
+        "Nessuna delle precedenti",
+        "E' la differenza vettoriale tra due posizioni di un punto materiale",
+        "E' il vettore che congiunge l'origine degli assi al punto del piano occupato dal punto materiale"
+      ],
+      "correctAnswer": "E' il vettore che congiunge l'origine degli assi al punto del piano occupato dal punto materiale"
+    },
+    {
+      "id": 31,
+      "question": "La forza di attrito",
+      "options": [
+        "Ha direzione perpendicolare alla superficie di contatto tra i due corpi",
+        "Statico si manifesta quando due corpi sono a contatto ed in movimento l'uno rispetto all'altro",
+        "Ha lo stesso verso del moto",
+        "Ha direzione parallela e verso opposto al moto"
+      ],
+      "correctAnswer": "Ha direzione parallela e verso opposto al moto"
+    },
+    {
+      "id": 32,
+      "question": "Il diagramma della forze",
+      "options": [
+        "W un disegno in cui vengono rappresentate con delle frecce tutte le forze che agiscono su un corpo",
+        "E' un grafico spazio-temp",
+        "E' un grafico velocità-tempo",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "W un disegno in cui vengono rappresentate con delle frecce tutte le forze che agiscono su un corpo"
+    },
+    {
+      "id": 33,
+      "question": "La forza centripeta",
+      "options": [
+        "Fa si che la traiettoria del corpo resti rettilinea",
+        "Fa si che la traiettoria del corpo venga deviata in una traiettoria curvilinea",
+        "Ha direzione e verso opposti all'accelerazione centripeta",
+        "Ha modulo calcolabile a partire dall'accelerazione lineare del corpo"
+      ],
+      "correctAnswer": "Fa si che la traiettoria del corpo venga deviata in una traiettoria curvilinea"
+    },
+    {
+      "id": 34,
+      "question": "La forza elastica",
+      "options": [
+        "Ha lo stesso verso dell'elongaizone della molla",
+        "E' sempre perpendicolare all'elongazione della molla",
+        "Nessuna delle precedenti",
+        "E' una forza di richiamo"
+      ],
+      "correctAnswer": "E' una forza di richiamo"
+    },
+    {
+      "id": 35,
+      "question": "La forza di attrito",
+      "options": [
+        "esiste sempre, ma solo per mezzi gassosi",
+        "esiste sempre, e interessa qualsiasi tipo di mezzo, solido, liquido o gassoso",
+        "esiste sempre, ma solo per mezzi solidi",
+        "esiste sempre, ma solo per mezzi liquidi"
+      ],
+      "correctAnswer": "esiste sempre, e interessa qualsiasi tipo di mezzo, solido, liquido o gassoso"
+    },
+    {
+      "id": 36,
+      "question": "Il peso",
+      "options": [
+        "E' sempre lo stesso, qualsiasi sia l'altitudine terrestre del corpo",
+        "Dipende dall'accelerazione di gravità",
+        "E' una caratteristica intrinseca di un corpo",
+        "E' la stessa cosa della massa"
+      ],
+      "correctAnswer": "Dipende dall'accelerazione di gravità"
+    },
+    {
+      "id": 37,
+      "question": "L'inerzia",
+      "options": [
+        "Nessuna delle precedenti",
+        "E la capacità di un corpo di opporsi alla variazione di moto",
+        "E la capacità di un corpo di compiere lavoro",
+        "E la capacità di un corpo di produrre energia"
+      ],
+      "correctAnswer": "E la capacità di un corpo di opporsi alla variazione di moto"
+    },
+    {
+      "id": 38,
+      "question": "Il primo principio della dinamica",
+      "options": [
+        "afferma che un corpo tende a tornare al suo stato di quiete se soggetto a forze",
+        "da la formulazione della forza di graivtazione universale",
+        "parla dell'inerzia di un corpo, ovvero la capacità di un corpo perseverare nel suo stato di quiete o moto rettilineo uniforme se soggetto ad una risultante di forze nulla",
+        "afferma che ogni corpo dotato di massa esercita una forza attrattiva nei confronti dei corpi che si trovano intorno"
+      ],
+      "correctAnswer": "parla dell'inerzia di un corpo, ovvero la capacità di un corpo perseverare nel suo stato di quiete o moto rettilineo uniforme se soggetto ad una risultante di forze nulla"
+    },
+    {
+      "id": 39,
+      "question": "La reazione vincolare",
+      "options": [
+        "E' una forza esercitata su un corpo dotato di massa e soggetto ad un vincolo",
+        "Non serve a bilanciare la forza peso",
+        "Non è una forza",
+        "Si manifesta unicamente in contrapposizione alla forza di attrito"
+      ],
+      "correctAnswer": "E' una forza esercitata su un corpo dotato di massa e soggetto ad un vincolo"
+    },
+    {
+      "id": 40,
+      "question": "Il terzo principio della dinamica",
+      "options": [
+        "Ci fa capire che non può esserci squilibrio di forze che agiscono su uno stesso corpo",
+        "Nessuna delle precedenti",
+        "Ci da informazioni sulle forze che agiscono su un unico corpo",
+        "E' in contrapposizione con gli altir due"
+      ],
+      "correctAnswer": "Nessuna delle precedenti"
+    },
+    {
+      "id": 41,
+      "question": "Il terzo principio della dinamica afferma che",
+      "options": [
+        "Se un corpo A esercita una forza su un corpo B, allora il corpo B esercita una forza su un corpo C",
+        "Se un corpo A esercita una forza su un corpo B, allora il corpo B esercita una forza sul corpo A uguale e contraria",
+        "Nessuna delle precedenti",
+        "Le forze che esercitano due corpi A e B vicendevolmente non sono in relazione"
+      ],
+      "correctAnswer": "Se un corpo A esercita una forza su un corpo B, allora il corpo B esercita una forza sul corpo A uguale e contraria"
+    },
+    {
+      "id": 42,
+      "question": "Il principio di proporzionalità",
+      "options": [
+        "E'è il primo principio della dinamica",
+        "Afferma che la forza che agisce su un corpo è direttamente proporzionale all'accelerazione, con coefficiente di proporzionaleità pari alla massa del corpo stesso",
+        "Da la definizione dell'unità di misura J (Joule)",
+        "E' il terzo principio della dinamica"
+      ],
+      "correctAnswer": "Afferma che la forza che agisce su un corpo è direttamente proporzionale all'accelerazione, con coefficiente di proporzionaleità pari alla massa del corpo stesso"
+    },
+    {
+      "id": 43,
+      "question": "Il primo principio della dinamica è anche detto",
+      "options": [
+        "Principio di Azione-Reazione",
+        "Principio di proporzionalità",
+        "principio di Archimede",
+        "Principio di inerzia"
+      ],
+      "correctAnswer": "Principio di inerzia"
+    },
+    {
+      "id": 44,
+      "question": "I principi della dinamica vennero formulati da",
+      "options": [
+        "Galilei",
+        "Einstein",
+        "Newton",
+        "Maxwell"
+      ],
+      "correctAnswer": "Newton"
+    },
+    {
+      "id": 45,
+      "question": "La risultante di forze",
+      "options": [
+        "E' data dalla sola forza peso",
+        "E' la somma vettoriale delle forze che agiscono su un corpo",
+        "Non può essere nulla",
+        "Non tiene conto della direzione e verso delle forze, ma solo dei moduli."
+      ],
+      "correctAnswer": "E' la somma vettoriale delle forze che agiscono su un corpo"
+    },
+    {
+      "id": 46,
+      "question": "La potenza",
+      "options": [
+        "E' una grandezza vettoriale",
+        "Nessuna delle precedenti",
+        "Si misura in J (Joule)",
+        "E' definita come lavoro compiuto da una forza nell'unità di tempo"
+      ],
+      "correctAnswer": "E' definita come lavoro compiuto da una forza nell'unità di tempo"
+    },
+    {
+      "id": 47,
+      "question": "L'energia potenziale elastica è",
+      "options": [
+        "Inversamente proporzionale al quadrato dell'elongazione della molla",
+        "Direttamente proporzionale all'elongazione della molla",
+        "Direttamente proporzionale al quadrato dell'elongazione della molla",
+        "Inversamente proporzionale all'elongazione della molla"
+      ],
+      "correctAnswer": "Direttamente proporzionale al quadrato dell'elongazione della molla"
+    },
+    {
+      "id": 48,
+      "question": "Un urto completamente anelastico",
+      "options": [
+        "E' un caso particolare di urto elastico",
+        "Coinvolge due corpi che dopo l'urto si separano",
+        "conserva l'energia cinetica",
+        "oinvolge due corpi che dopo l'urto continuano il loro moto attaccati, come se fossero un unico corpo, la cui massa totale è data dalla somma delle due singole masse"
+      ],
+      "correctAnswer": "oinvolge due corpi che dopo l'urto continuano il loro moto attaccati, come se fossero un unico corpo, la cui massa totale è data dalla somma delle due singole masse"
+    },
+    {
+      "id": 49,
+      "question": "In un urto elastico",
+      "options": [
+        "Si conserva solo l'energia cinetica",
+        "Si conservano quantità di moto ed energia cinetica",
+        "Si conserva solo la quantità di moto",
+        "Non si conserva nessun tipo di energia"
+      ],
+      "correctAnswer": "Si conservano quantità di moto ed energia cinetica"
+    },
+    {
+      "id": 50,
+      "question": "Il principio di conservazione della quantità di moto afferma che",
+      "options": [
+        "Se la risultante delle forze che agisce su un corpo è nulla, allora la quantità di moto si conserva",
+        "Se la risultante delle forze che agisce su un corpo è nulla, allora la quantità di moto varia",
+        "La quantità di moto è uguale alla variazione di energia cinetica",
+        "La quantità di moto totale di un sistema è nulla"
+      ],
+      "correctAnswer": "Se la risultante delle forze che agisce su un corpo è nulla, allora la quantità di moto si conserva"
+    },
+    {
+      "id": 51,
+      "question": "L'impulso",
+      "options": [
+        "Viene definito per forze non impulsive",
+        "Viene definito per forze che agiscono in intervalli di tempo prolungati rispetto al tempo di osservazione del fenomeno",
+        "Nessuna delle precedenti",
+        "Viene definito per forze che agiscono in intervalli di tempo molto minotri rispetto al tempo di osservazione del fenomeno"
+      ],
+      "correctAnswer": "Viene definito per forze che agiscono in intervalli di tempo molto minotri rispetto al tempo di osservazione del fenomeno"
+    },
+    {
+      "id": 52,
+      "question": "La quantità di moto",
+      "options": [
+        "E' una grandezza scalare",
+        "Ha verso opposto alla velocità",
+        "Ha direzione perpendicolare al moto",
+        "E' definita come prodotto tra massa e volocità"
+      ],
+      "correctAnswer": "E' definita come prodotto tra massa e volocità"
+    },
+    {
+      "id": 53,
+      "question": "Il teorema dell'energia cinetica",
+      "options": [
+        "Lega energia cinetica ed energia potenziale",
+        "Afferma che il lavoro di una forza è uguale alla velocità della sua energia cinetica",
+        "Lega lavoro ed energia potenziale",
+        "Lega lavoro ed energia meccanica"
+      ],
+      "correctAnswer": "Afferma che il lavoro di una forza è uguale alla velocità della sua energia cinetica"
+    },
+    {
+      "id": 54,
+      "question": "L'enerrgia meccanica",
+      "options": [
+        "E' la somma di energia cinetica ed energia potenziale",
+        "Si misura in Newton",
+        "E' la differenza tra energia cinetica ed energia potenziale",
+        "Si conserva in presenza di attrito"
+      ],
+      "correctAnswer": "E' la somma di energia cinetica ed energia potenziale"
+    },
+    {
+      "id": 55,
+      "question": "L'energia potenziale",
+      "options": [
+        "Si definisce a partire dall'energia cinetica di un corpo",
+        "Si definisce solo per forze conservative",
+        "Si definisce solo per forze non conservative",
+        "Si definisce per forze conservative e non conservative"
+      ],
+      "correctAnswer": "Si definisce solo per forze conservative"
+    },
+    {
+      "id": 56,
+      "question": "Una forza conservativa",
+      "options": [
+        "Compie lavoro resistente su un cammino chiuso",
+        "E' la forza di attrito",
+        "Compie lavoro motore su un cammino chiuso",
+        "Compie lavoro nullo su un cammino chiuso"
+      ],
+      "correctAnswer": "Compie lavoro nullo su un cammino chiuso"
+    },
+    {
+      "id": 57,
+      "question": "Il lavoro di una forza può essere",
+      "options": [
+        "Nullo",
+        "Tutte le precedenti",
+        "Resistente",
+        "Motore"
+      ],
+      "correctAnswer": "Tutte le precedenti"
+    },
+    {
+      "id": 58,
+      "question": "L'energia cinetica",
+      "options": [
+        "E' inversamente proporzionale alla massa",
+        "E inversamente proporzionale al quadrato della velocità",
+        "E' legata all'accelerazione di un corpo",
+        "E' legata alla velocità di un corpo"
+      ],
+      "correctAnswer": "E' legata alla velocità di un corpo"
+    },
+    {
+      "id": 59,
+      "question": "Il lavoro della forza peso",
+      "options": [
+        "E' sempre nullo",
+        "Dipende dalla traiettoria",
+        "Dipende solo dal punto iniziale e da quello finale",
+        "E' costante"
+      ],
+      "correctAnswer": "Dipende solo dal punto iniziale e da quello finale"
+    },
+    {
+      "id": 60,
+      "question": "L'energia potenziale gravitazionale",
+      "options": [
+        "Non dipende dal sistema di riferimento",
+        "é minore se la quota è maggiore",
+        "è maggiore se la quota è minore",
+        "é maggiore se la quota è maggiore"
+      ],
+      "correctAnswer": "é maggiore se la quota è maggiore"
+    },
+    {
+      "id": 61,
+      "question": "Le leve possono essere",
+      "options": [
+        "Tutte le precedenti",
+        "Vantaggiose",
+        "Svantaggiose",
+        "Indifferenti"
+      ],
+      "correctAnswer": "Tutte le precedenti"
+    },
+    {
+      "id": 62,
+      "question": "Per corpi rigidi non omogenei",
+      "options": [
+        "Non si può dare la definizione di densità volumica",
+        "Nessuna delle precedenti",
+        "Non si può dare la definizione di densità superficiale",
+        "Non si può dare la definizione di densitàlineare"
+      ],
+      "correctAnswer": "Nessuna delle precedenti"
+    },
+    {
+      "id": 63,
+      "question": "Il Teorema diHuygens-Steiner",
+      "options": [
+        "Nessuna delle precedenti",
+        "Non tiene in considerzione la distanza tra gli assi",
+        "Dà la formula per calcolare il momento di inerzia rispetto qualsiasi asse attraverso gli integrali",
+        "Afferma che il momento di inerzia di un corpo rigido rispetto ad un asse qualsiasi è dato dalla somma del momento di nerzia rispetto al centro di massa, più il prodotto della massa totale del corpo per i lquadrato della distanza degli assi"
+      ],
+      "correctAnswer": "Afferma che il momento di inerzia di un corpo rigido rispetto ad un asse qualsiasi è dato dalla somma del momento di nerzia rispetto al centro di massa, più il prodotto della massa totale del corpo per i lquadrato della distanza degli assi"
+    },
+    {
+      "id": 64,
+      "question": "Il momento di inerzia",
+      "options": [
+        "E' inversamente proporzionale alla massa e alla distanza dall'asse di rotazione",
+        "E' una grandezza che misura l'inerzia rispetto ai moto traslatori",
+        "E' una grandezza che misura l'inerzia rispetto ai moto rotatori",
+        "E' una grandezza vettoriale"
+      ],
+      "correctAnswer": "E' una grandezza che misura l'inerzia rispetto ai moto rotatori"
+    },
+    {
+      "id": 65,
+      "question": "Il momento di inerzia",
+      "options": [
+        "E' tanto maggiore quanto più è facile ruotare la massa attorno all'asse scelto",
+        "Non può essere calcolato per un sistema di particelle",
+        "Nessuna delle precedenti",
+        "E' dato dalla somma dei momenti di inerzia di tutte le particelle del sistema"
+      ],
+      "correctAnswer": "E' dato dalla somma dei momenti di inerzia di tutte le particelle del sistema"
+    },
+    {
+      "id": 66,
+      "question": "La seconda condizione di equilibrio statico di un corpo rigido",
+      "options": [
+        "Riguarda la risultante delle forze interne",
+        "Riguarda il momento delle forze interne",
+        "Riguarda il momento delle forze esterne",
+        "Riguarda la risultante delle forze esterne"
+      ],
+      "correctAnswer": "Riguarda il momento delle forze esterne"
+    },
+    {
+      "id": 67,
+      "question": "Un corpo rigido è in equilibrio se",
+      "options": [
+        "Il corpo ruota ma non trasla",
+        "La risultante delle forze interne e delle forze esterne che agiscono su di esso è costante",
+        "Il momento delle forze esterne e la risultante delle forze esterne siano nulli",
+        "Il suo centro di massa sia in moto"
+      ],
+      "correctAnswer": "Il momento delle forze esterne e la risultante delle forze esterne siano nulli"
+    },
+    {
+      "id": 68,
+      "question": "La caratteristiche delle leve è che",
+      "options": [
+        "Il modulo della forza motrice è uguale a quello della forza resistente",
+        "La forza motrice è nulla",
+        "Il modulo della forza motrice è diverso da quello della forza resistente",
+        "Il lavoro è uguale alla variazione di energia cinetica"
+      ],
+      "correctAnswer": "Il modulo della forza motrice è diverso da quello della forza resistente"
+    },
+    {
+      "id": 69,
+      "question": "Una leva",
+      "options": [
+        "E' una macchina che sfrutta l'impulso di una forza",
+        "E' una macchina che sfrutta la forza peso",
+        "E' una macchina che sfrutta il momento di una forza motrice per produrre forza resistente",
+        "Nessuna della precedenti"
+      ],
+      "correctAnswer": "E' una macchina che sfrutta il momento di una forza motrice per produrre forza resistente"
+    },
+    {
+      "id": 70,
+      "question": "Il baricentro di un copro",
+      "options": [
+        "E' il punto in cui agisce la forza peso di un corpo",
+        "E' una caratteritica intrinseca del copro",
+        "Equivale al centro di massa di un corpo",
+        "E' indipendente dalla presenza di un campo gravitazionale"
+      ],
+      "correctAnswer": "E' il punto in cui agisce la forza peso di un corpo"
+    },
+    {
+      "id": 71,
+      "question": "Il momento di una forza",
+      "options": [
+        "E' dato dal prodotto vettoriale tra il vettore posizione e la forza",
+        "E' dato dal prodotto scalare tra il vettore posizione e la forza",
+        "E' una grandezza scalare",
+        "E' dato dal prodotto vettoria tra la forza e il vettore posizione"
+      ],
+      "correctAnswer": "E' dato dal prodotto vettoriale tra il vettore posizione e la forza"
+    },
+    {
+      "id": 72,
+      "question": "Nel caso semplice di un oggetto simmetrico ed omogeneo",
+      "options": [
+        "Il centro di massa corrisponde al centro geometrico dell'oggetto",
+        "Il centro di massa è esterno all'oggetto",
+        "Nessuna delle precedenti",
+        "Non si può individuare il centro di massa"
+      ],
+      "correctAnswer": "Il centro di massa corrisponde al centro geometrico dell'oggetto"
+    },
+    {
+      "id": 73,
+      "question": "La densità volumica",
+      "options": [
+        "Non può essere definita per corpi rigidi non omogenei",
+        "E' definita come rapporto tra massa e volume",
+        "E' una grandezza fisica vettoriale",
+        "E' la misura della quantità di moto"
+      ],
+      "correctAnswer": "E' definita come rapporto tra massa e volume"
+    },
+    {
+      "id": 74,
+      "question": "Un corpo rigido è un insieme di punti",
+      "options": [
+        "Nessuna delle precedenti",
+        "che mantengono invariate le distanze reciproche, tranne nel caso in cui siano sottoposti a forze",
+        "le cui distanze possono variare",
+        "che mantengono invariate le distanze reciproche, anche nel caso in cui siano sottoposti a forze"
+      ],
+      "correctAnswer": "che mantengono invariate le distanze reciproche, anche nel caso in cui siano sottoposti a forze"
+    },
+    {
+      "id": 75,
+      "question": "Il centro di massa",
+      "options": [
+        "Non permette di studiare sistemi di particelle",
+        "Non si può individuare con precisione",
+        "Si definisce per un punto materiale",
+        "E' il punto in cui il sistema di particelle si comporta come se la massa vi fosse tutta concentrata"
+      ],
+      "correctAnswer": "E' il punto in cui il sistema di particelle si comporta come se la massa vi fosse tutta concentrata"
+    },
+    {
+      "id": 76,
+      "question": "Il momento angolare",
+      "options": [
+        "Nessuna delle precedenti",
+        "E' il corrispondente rotazionale della quantità di moto",
+        "E' il corrispondente rotazionale della velocità lineare",
+        "E' il corrispondente rotazionale dell'accelerazione lineare"
+      ],
+      "correctAnswer": "E' il corrispondente rotazionale della quantità di moto"
+    },
+    {
+      "id": 77,
+      "question": "Il momento angolare",
+      "options": [
+        "Nessuna delle precedenti",
+        "Per convenzione ha lo stesso punto di applicaizone della quantità di moto",
+        "Giace sullo stesso piano che contiene il vettore che congiunge il polo alla particella e il vettore quantità di moto",
+        "Per convenzione ha lo stesso punto di applicaizone del vettore che congiunge il polo al punto"
+      ],
+      "correctAnswer": "Giace sullo stesso piano che contiene il vettore che congiunge il polo alla particella e il vettore quantità di moto"
+    },
+    {
+      "id": 78,
+      "question": "Nel moto rototraslatorio di una ruota, i punti sul bordo",
+      "options": [
+        "hanno velocità il cui modulo è pari alla sola velocità lineare",
+        "hanno velocità il cui modulo è pari alla somma vettoriale della velocità tangenziale del moto circolare uniforme e alla velocità lineare del moto traslatorio",
+        "Hanno velocità tangenti alla ruota",
+        "hanno velocità il cui modulo è pari alla sola velocità tangenziale"
+      ],
+      "correctAnswer": "hanno velocità il cui modulo è pari alla somma vettoriale della velocità tangenziale del moto circolare uniforme e alla velocità lineare del moto traslatorio"
+    },
+    {
+      "id": 79,
+      "question": "Il teorema dell'energia cinetica rotazionale afferma che",
+      "options": [
+        "La variazione di energia cinetica è pari al lavoro compiuto",
+        "Nessuna delle precedenti",
+        "La variazione di energia cinetica è pari alla variazione di energia potenziale",
+        "Non vi è variazione di energia cinetica nei moto rotazionali"
+      ],
+      "correctAnswer": "La variazione di energia cinetica è pari al lavoro compiuto"
+    },
+    {
+      "id": 80,
+      "question": "L'energia cinetica rotazionale è la metà del prodotto",
+      "options": [
+        "tra momento di inerzia e velocità tangenziale al quadrato",
+        "tra momento angolare e velocità tangenziale al quadrato",
+        "tra momento angolare e velocità angolare al quadrato",
+        "tra momento di inerzia e velocità angolare al quadrato"
+      ],
+      "correctAnswer": "tra momento di inerzia e velocità angolare al quadrato"
+    },
+    {
+      "id": 81,
+      "question": "Nel caso in cui un corpo ruoti attorno ad un asse senza traslare",
+      "options": [
+        "Il momento angolare è dato dal prodotto tra momento di inerzia e accelerazione angolare",
+        "Il momento angolare è dato dal prodotto tra momento di inerzia e velocità angolare",
+        "Il momento angolare è dato dal prodotto tra momento di inerzia e velocità tangenziale",
+        "Il momento angolare è dato dal prodotto tra momento di inerzia e accelerazione tangenziale"
+      ],
+      "correctAnswer": "Il momento angolare è dato dal prodotto tra momento di inerzia e velocità angolare"
+    },
+    {
+      "id": 82,
+      "question": "Il momento angolare",
+      "options": [
+        "E' dato dal prodotto vettoriale tra il vettore che congiunge il polo con la particella e la quantità di moto",
+        "E' dato dal prodotto scalare tra il vettore che congiunge il polo con la particella e la quantità di moto",
+        "E' dato dal prodotto vettoriale tra la quantità di moto e il vettore che congiunge il polo con la particella",
+        "E' una grandezza scalare"
+      ],
+      "correctAnswer": "E' dato dal prodotto vettoriale tra il vettore che congiunge il polo con la particella e la quantità di moto"
+    },
+    {
+      "id": 83,
+      "question": "Il lavoro che compie una forza per ruotare un corpo di un certo angolo",
+      "options": [
+        "nel caso di momento costante, la formula è formalmente diversa da quella di lavoro nel moto traslatorio",
+        "E' dato dall'integrazle del momento della forza relativo all'asse di rotazione",
+        "nessuna delle precedenti",
+        "E' dato dall'integrazle del momento di inerzia"
+      ],
+      "correctAnswer": "E' dato dall'integrazle del momento della forza relativo all'asse di rotazione"
+    },
+    {
+      "id": 84,
+      "question": "Nell'esempio del cilindro che rotola su un piano inclinato senza strusciare",
+      "options": [
+        "Maggiore è l'inerzia di un corpo, minore è la velocità di rotazione",
+        "Tutte le precedenti",
+        "C'è conservazione di energia meccanica",
+        "Se il momento di inerzia è nullo, la velocità finale è la stessa del moto traslatorio"
+      ],
+      "correctAnswer": "Tutte le precedenti"
+    },
+    {
+      "id": 85,
+      "question": "Il moto rototraslatorio si dice di puro rotolamento se",
+      "options": [
+        "I corpi hanno sezione circolare non omogenea con centro di massa uguale al baricentro e rotolano senza struscare",
+        "I corpi hanno sezione circolare non omogenea con centro di massa uguale al baricentro e strusciano",
+        "I corpi hanno sezione circolare omogenea con centro di massa uguale al baricentro e rotolano senza struscare",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "I corpi hanno sezione circolare omogenea con centro di massa uguale al baricentro e rotolano senza struscare"
+    },
+    {
+      "id": 86,
+      "question": "Consideriamo la ruota di un'auto in movimento",
+      "options": [
+        "Non è un valido esempio di moto rototraslatorio",
+        "Il suo moto è solo rotatorio",
+        "Il suo moto è rototraslatorio",
+        "Il suo moto è solo traslatorio"
+      ],
+      "correctAnswer": "Il suo moto è rototraslatorio"
+    },
+    {
+      "id": 87,
+      "question": "Il moto rototraslatorio",
+      "options": [
+        "Non coinvolge il moto traslatorio",
+        "E' combinazionedi moto rotatorio e traslatorio",
+        "E' un tipo di moto del punto materiale",
+        "Non coinvolge il moto rotatorio"
+      ],
+      "correctAnswer": "E' combinazionedi moto rotatorio e traslatorio"
+    },
+    {
+      "id": 88,
+      "question": "L'energia cinetica totale di un disco che viene lanciato e ruota attornao al suo asse è data da",
+      "options": [
+        "La sola energia cinetica di moto traslatoria",
+        "Nessuna delle precedenti",
+        "La somma dell'energia cinetica dovuta al moto traslatorio e quella dovuta al moto rotatorio",
+        "La sola energia cinetica di moto rotatorio"
+      ],
+      "correctAnswer": "La somma dell'energia cinetica dovuta al moto traslatorio e quella dovuta al moto rotatorio"
+    },
+    {
+      "id": 89,
+      "question": "Analogie tra l'energia cinetica e l'energia cinetica rotazionale",
+      "options": [
+        "Riguardano solo la formula, ma non il teorema dell'energia cinetica",
+        "Riguardano la formula e il teroema dell'energia cinetica",
+        "Riguardano solo il teorema dell'energia cinetica, ma non la formula",
+        "Non esistono"
+      ],
+      "correctAnswer": "Riguardano la formula e il teroema dell'energia cinetica"
+    },
+    {
+      "id": 90,
+      "question": "L'energia cinetica di un corpo esteso in rotazione",
+      "options": [
+        "E' data dalla differenza dell'energia cinetica dei singoli punti che la compongono",
+        "E' data dalla somma dell'energia cinetica dei singoli punti che la compongono",
+        "Ha la stessa formula dell'energia cinetica di un punto materiale",
+        "E' data dal prodotto dell'energia cinetica dei singoli punti che la compongono"
+      ],
+      "correctAnswer": "E' data dalla somma dell'energia cinetica dei singoli punti che la compongono"
+    },
+    {
+      "id": 91,
+      "question": "La seconda legge di Keplero",
+      "options": [
+        "Nega che la forza gravitazionale sia una forza centrale",
+        "Afferma che il raggio vettore di un pianeta spazia aree uguali in tempi uguali",
+        "Ha come conseguenza che la velocità del pianeta è maggiore quando il pianeta è più lontano dal Sole",
+        "mette in relazione il tempo di rivoluzione di un pianeta e la distanza dello stesso dal Sole"
+      ],
+      "correctAnswer": "Afferma che il raggio vettore di un pianeta spazia aree uguali in tempi uguali"
+    },
+    {
+      "id": 92,
+      "question": "La teoria della relatività generale fu pubblicata da",
+      "options": [
+        "Galilei",
+        "Einstein",
+        "Maxwell",
+        "Newton"
+      ],
+      "correctAnswer": "Einstein"
+    },
+    {
+      "id": 93,
+      "question": "Il teorema di Gauss afferma che",
+      "options": [
+        "Il flusso del campo gravitazionale attraverso una superficie aperta è direttamente proporzionale alla somma della masse interne alla superficie",
+        "Il flusso del campo gravitazionale attraverso una superficie chiusa è nullo",
+        "Il flusso del campo gravitazionale attraverso una superficie chiusa è direttamente proporzionale alla somma della masse interne alla superficie",
+        "Il flusso del campo gravitazionale attraverso una superficie aperta è nullo"
+      ],
+      "correctAnswer": "Il flusso del campo gravitazionale attraverso una superficie chiusa è direttamente proporzionale alla somma della masse interne alla superficie"
+    },
+    {
+      "id": 94,
+      "question": "Per i corpi celesti si può scrivere l'energia meccanica in funzione dei parametri dell'orbita",
+      "options": [
+        "Se l'energia è nulla, allora l'eccentricità è pari a",
+        "Se l'energia è positiva, allora l'eccentricità è pari a",
+        "Nessuna delle precedenti",
+        "Se l'energia è negativa, allora l'eccentricità è pari a"
+      ],
+      "correctAnswer": "Se l'energia è nulla, allora l'eccentricità è pari a"
+    },
+    {
+      "id": 95,
+      "question": "Per i satelliti",
+      "options": [
+        "Valgono le leggi di Keplero, ma solo per satelliti artificiali",
+        "Non valgono le leggi di Keplero",
+        "Valgono le leggi di Keplero, sia per satelliti naturali che per quelli artificiali",
+        "Valgono le leggi di Keplero, ma solo per satelliti naturali"
+      ],
+      "correctAnswer": "Valgono le leggi di Keplero, sia per satelliti naturali che per quelli artificiali"
+    },
+    {
+      "id": 96,
+      "question": "La forza gravitazionale",
+      "options": [
+        "Non è una forza per cui si può definire un'energia potenziale",
+        "E' una forza dissipativa",
+        "Non è una forza conservativa",
+        "E' una forza conservativa"
+      ],
+      "correctAnswer": "E' una forza conservativa"
+    },
+    {
+      "id": 97,
+      "question": "Il campo gravitazionale",
+      "options": [
+        "Lascia invariato, senza deformazionei, lo spazio che lo circonda",
+        "E' generato da un corpo dotato di massa",
+        "E' generato da ucorpo dotato di massa che respinge altri corpi dotati di massa",
+        "E' un campo di forze repulsivo"
+      ],
+      "correctAnswer": "E' generato da un corpo dotato di massa"
+    },
+    {
+      "id": 98,
+      "question": "La legge di gravitazione universale",
+      "options": [
+        "descrive una forza di contatto",
+        "Afferma che la forza di attrazione di due corpi dotati di massa è direttamente proporzionale al quadrato della distanza",
+        "Afferma che la forza di attrazione di due corpi dotati di massa è direttamente proporzionale al prodotto delle massee inversamente proporzionale al quadrato della loro distanza",
+        "Afferma che la forza di attrazione di due corpi dotati di massa è inversamente proporzionale al prodotto delle masse"
+      ],
+      "correctAnswer": "Afferma che la forza di attrazione di due corpi dotati di massa è direttamente proporzionale al prodotto delle massee inversamente proporzionale al quadrato della loro distanza"
+    },
+    {
+      "id": 99,
+      "question": "La prima legge di Keplero afferma che",
+      "options": [
+        "Le traiettorie dei pianeti sono ellissi con il Sole che occupa uno dei fuochi",
+        "I pianeti ruotano attorna alla Terra",
+        "Nessuna delle precedenti",
+        "Le traiettorie dei pianeti sono circolari"
+      ],
+      "correctAnswer": "Le traiettorie dei pianeti sono ellissi con il Sole che occupa uno dei fuochi"
+    },
+    {
+      "id": 100,
+      "question": "I teoremi del guscio sferico",
+      "options": [
+        "Affermano che un corpo posto internamente ad un guscio sferico non è soggetto ad alcuna forza di attrazione gravitazionale",
+        "Sono in tutto 3",
+        "Affermano che un corpo posto esternamente ad un guscio sferico non è soggetto ad alcuna forza di attrazione",
+        "Ci negano la possibilità di applicare la legge di gravitazione universale ai corpi celesti"
+      ],
+      "correctAnswer": "Affermano che un corpo posto internamente ad un guscio sferico non è soggetto ad alcuna forza di attrazione gravitazionale"
+    },
+    {
+      "id": 101,
+      "question": "Il principio di equivalenza fu formulato da",
+      "options": [
+        "Keplero",
+        "Newton",
+        "Cavendish",
+        "Einstein"
+      ],
+      "correctAnswer": "Einstein"
+    },
+    {
+      "id": 102,
+      "question": "La massa gravitazionale",
+      "options": [
+        "Nessuna delle precedenti",
+        "Misura l'inerzia di un corpo",
+        "non esercita attrazione gravitazionale su altri corpi",
+        "E' concettualmente identica alla massa inerziale"
+      ],
+      "correctAnswer": "E' concettualmente identica alla massa inerziale"
+    },
+    {
+      "id": 103,
+      "question": "L'accelerazione di gravità",
+      "options": [
+        "E' costante qualsiasi sia l'altitudine del corpo",
+        "Ha lo stesso valore sia sulla Luna che sulla Terra",
+        "Sulla Superficie terrestre, dipende dalla distanza tra il corpo e il centro della terra",
+        "terrestre, non dipende dalla massa della Terra"
+      ],
+      "correctAnswer": "Sulla Superficie terrestre, dipende dalla distanza tra il corpo e il centro della terra"
+    },
+    {
+      "id": 104,
+      "question": "L'esperimento di Cavendish",
+      "options": [
+        "E' servito a calcolare il valore di G",
+        "Nessuna delle precedenti",
+        "E' servito a calcolare direttamente la massa della Terra",
+        "Venne condotto usando un torchio idraulico"
+      ],
+      "correctAnswer": "E' servito a calcolare il valore di G"
+    },
+    {
+      "id": 105,
+      "question": "Il sistema Tolemaico",
+      "options": [
+        "E' un sistema eliocentrico",
+        "definisce la traiettoria dei pianeti attorno alla Terra come \"epiciclo\"",
+        "E' un sistema geocentrico",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "E' un sistema geocentrico"
+    },
+    {
+      "id": 106,
+      "question": "Il principio di isotropia delle pressioni locali",
+      "options": [
+        "Vale per i punti di contatto con le superfici delle pareti del recipiente",
+        "Vale per i punti a contatto tra superfiuci che separano liquidi differenti",
+        "Vale solo per i punti interni al liquido",
+        "Vale per tutti i punti verso l'esterno"
+      ],
+      "correctAnswer": "Vale solo per i punti interni al liquido"
+    },
+    {
+      "id": 107,
+      "question": "Come conseguenza del principio di Archimede avremo che",
+      "options": [
+        "Un corpo affonda in un fluido, se la sua densità è minore di quella di un fluido",
+        "Un corpo può solo affondare in un fluido",
+        "Un corpo galleggia in un fluido, se la sua densità è maggiore di quella di un fluido",
+        "Un corpo galleggia in un fluido, se la sua densità è minore di quella di un fluido"
+      ],
+      "correctAnswer": "Un corpo galleggia in un fluido, se la sua densità è minore di quella di un fluido"
+    },
+    {
+      "id": 108,
+      "question": "\"Un corpo immerso totalmente o parzialmente in un fluido, riceve una spinta dal basso verso l'alto di intensità pari alla forza peso del fluido spostato\" è l'enunciato di quale principio?",
+      "options": [
+        "Il principio di Pitagora",
+        "Il principio di Pascal",
+        "Il principio di Stevino",
+        "Il principio di Archimede"
+      ],
+      "correctAnswer": "Il principio di Archimede"
+    },
+    {
+      "id": 109,
+      "question": "La spinta di galleggiamento",
+      "options": [
+        "Nessuna delle precedenti",
+        "Non è originata alla differenza di pressione sulle diverse facce di un corpo immerso",
+        "é una forza che spinge il corpo verso il basso",
+        "E' la spinta verso l'alto che agisce su un corpo immerso totalemente o parzialmente in un fluido"
+      ],
+      "correctAnswer": "E' la spinta verso l'alto che agisce su un corpo immerso totalemente o parzialmente in un fluido"
+    },
+    {
+      "id": 110,
+      "question": "La legge di Stevino",
+      "options": [
+        "Afferma che la pressione interna ad un liquido in quiete dipende unicamente dalla profondità",
+        "Afferma che la pressione interna ad un liquido in quiete è indipendente dalla profondità",
+        "A a che fare con la definizione di liquido ideale",
+        "Afferma che la pressione interna ad un liquido in quiete dipende dalla profondità, dalla densità del liquido e dall'accelerazione di gravità"
+      ],
+      "correctAnswer": "Afferma che la pressione interna ad un liquido in quiete dipende dalla profondità, dalla densità del liquido e dall'accelerazione di gravità"
+    },
+    {
+      "id": 111,
+      "question": "Il principio di equilibrio statico di un liquido ideale",
+      "options": [
+        "Non è equivalente ad alcun principio della dinamica",
+        "E' il principio equivalente al principio di azione-reazione in dinamica",
+        "E' il principio equivalente al principio di inerzia in dinamica",
+        "E' il principio equivalente al principio di proporzionalità in dinamica"
+      ],
+      "correctAnswer": "E' il principio equivalente al principio di azione-reazione in dinamica"
+    },
+    {
+      "id": 112,
+      "question": "L'equilibrio idrostatico di un liquido ideale",
+      "options": [
+        "Si ha quando su qualsiasi elemento di superficie del liquido, vengono esercitate pressioni con stessa direzione, stesso modulo, ma verso opposto",
+        "Si ha quando su qualsiasi elemento di superficie del liquido, vengono esercitate pressioni con direzioni perpendicolari tra loro",
+        "Si ha quando su qualsiasi elemento di superficie del liquido, vengono esercitate pressioni con stessa direzione, ma modulo diverso",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "Si ha quando su qualsiasi elemento di superficie del liquido, vengono esercitate pressioni con stessa direzione, stesso modulo, ma verso opposto"
+    },
+    {
+      "id": 113,
+      "question": "Il principio di isotropia delle pressioni locali",
+      "options": [
+        "Afferma che la pressione in un punto non dipende dalla superficie su cui viene impressa la forza",
+        "Da una definizione di Pascal",
+        "Afferma che la pressione in un punto dipende dalla superficie su cui viene impressa la forza",
+        "Non si può applicare ai liquidi ideali"
+      ],
+      "correctAnswer": "Afferma che la pressione in un punto non dipende dalla superficie su cui viene impressa la forza"
+    },
+    {
+      "id": 114,
+      "question": "Un liquido ideale",
+      "options": [
+        "Sono incomprimibile e hanno molecole che non esercitano forze tra di loro e con le pareti interne",
+        "E' l'aria",
+        "ha forze di attrito interne",
+        "E' facilmente comprimibile"
+      ],
+      "correctAnswer": "Sono incomprimibile e hanno molecole che non esercitano forze tra di loro e con le pareti interne"
+    },
+    {
+      "id": 115,
+      "question": "Un torchio idraulico",
+      "options": [
+        "E' una macchina in grado di ottenere una froza in uscita minore della forza in entrata",
+        "E' una macchina in grado di ottenere una froza in uscita maggiore della forza in entrata",
+        "Nessuna delle precedenti",
+        "E' una macchina che sfrutta il momento angolare di una forza"
+      ],
+      "correctAnswer": "E' una macchina in grado di ottenere una froza in uscita maggiore della forza in entrata"
+    },
+    {
+      "id": 116,
+      "question": "Il principio di Pascal afferma che",
+      "options": [
+        "La pressione esercitata su un fluido racchiuso in un recipiente si trasmette invariata a qualsiasi punto del fluido e ak recipiente che lo contiene",
+        "La pressione deforma i corpi sospesi nei fluidi",
+        "La pressione dipende dalla profondità a cui si trova il corpo",
+        "Un liquido riceve una spinta dal basso verso l'alto pari al peso del liquido spostato"
+      ],
+      "correctAnswer": "La pressione esercitata su un fluido racchiuso in un recipiente si trasmette invariata a qualsiasi punto del fluido e ak recipiente che lo contiene"
+    },
+    {
+      "id": 117,
+      "question": "I fluidi risultanto incomprimibili",
+      "options": [
+        "Allo stato gassoso",
+        "Allo stato liquido",
+        "Sia allo stato liquido che gassoso",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "Allo stato liquido"
+    },
+    {
+      "id": 118,
+      "question": "La pressione",
+      "options": [
+        "E' definita come la forza esercitata in un fluido",
+        "E' misurata in Newton",
+        "viene applicata parallelamente alla superficie",
+        "E' definita come l'intensità di forza agente per unità di superficie"
+      ],
+      "correctAnswer": "E' definita come l'intensità di forza agente per unità di superficie"
+    },
+    {
+      "id": 119,
+      "question": "In un gas",
+      "options": [
+        "Le distanze reciproche tra le molecole restano invariate",
+        "Le molecole sono ferme",
+        "Le forze di coesione tra le molecole sono molto deboli",
+        "Le forze di coesione tra le molecole sono molto forti"
+      ],
+      "correctAnswer": "Le forze di coesione tra le molecole sono molto deboli"
+    },
+    {
+      "id": 120,
+      "question": "Un fluido",
+      "options": [
+        "E' una sostanza che possiede una forma propria",
+        "Nessuna delle precedenti",
+        "Può essere liquido o gas",
+        "E' una sostanza solamente alla stato liquido"
+      ],
+      "correctAnswer": "Può essere liquido o gas"
+    },
+    {
+      "id": 121,
+      "question": "Le linee di flusso",
+      "options": [
+        "Sono sempre parallele al vettore velocità istantanea della particella",
+        "Sono sempre perpendicolare al vettore velocità istantanea della particella",
+        "Nessuna delle precedenti",
+        "Possono incrociarsi tra di loro se il moto è stazionario"
+      ],
+      "correctAnswer": "Sono sempre parallele al vettore velocità istantanea della particella"
+    },
+    {
+      "id": 122,
+      "question": "Combinando l'equazione di Bernouilli con l'effetto Venturi otteniamo che",
+      "options": [
+        "Nelle conduttuire orizzontali, la pressione è costante, qualsiasi sia l'area della sezione",
+        "Nelle conduttuire orizzontali, la pressione è maggiore nelle zone in cui l'area della sezione trasversale è maggiore",
+        "Nessuna delle precedenti",
+        "Nelle conduttuire orizzontali, la pressione è maggiore nelle zone in cui l'area della sezione trasversale è minore"
+      ],
+      "correctAnswer": "Nelle conduttuire orizzontali, la pressione è maggiore nelle zone in cui l'area della sezione trasversale è maggiore"
+    },
+    {
+      "id": 123,
+      "question": "L'equazione di Bernouilli si può applicare a patto che",
+      "options": [
+        "Nessuna delle precedenti",
+        "Il fluido si possa comprimenre",
+        "Vi sia attrito all'interno della conduttura",
+        "Il flusso non sia stazionario"
+      ],
+      "correctAnswer": "Nessuna delle precedenti"
+    },
+    {
+      "id": 124,
+      "question": "L'equazione di continuità",
+      "options": [
+        "ha come conseguenza che la velocità del fluido è maggiore in condutture con sezione trasversale maggiore",
+        "afferma che il rapporto tra densità e il volume di fluido che attraversa una sezione è costante",
+        "ha come conseguenza che la velocità del fluido è maggiore in condutture con sezione trasversale minore",
+        "Afferma che la portata è variabile"
+      ],
+      "correctAnswer": "ha come conseguenza che la velocità del fluido è maggiore in condutture con sezione trasversale minore"
+    },
+    {
+      "id": 125,
+      "question": "La portata di una conduttura",
+      "options": [
+        "E' una grandezza fisica che descrive la viscosità di un fluido in proporzione al suo volume",
+        "E' una grandezza che descrive quanto è intesa la corrente del fluido ed è pari al rapporta tra il volume del fluido in un intervallo di tempo attraverso una sezione trasversale, e l'intervallo di tempo",
+        "E' una grandezza fisica che descrive la velocità del fluido in un determinato intervallo di tempo",
+        "E' una grandezza che esprime la pressione esercitata in un fluido nell'intervallo ditempo"
+      ],
+      "correctAnswer": "E' una grandezza che descrive quanto è intesa la corrente del fluido ed è pari al rapporta tra il volume del fluido in un intervallo di tempo attraverso una sezione trasversale, e l'intervallo di tempo"
+    },
+    {
+      "id": 126,
+      "question": "Il flusso è irrotazionale se",
+      "options": [
+        "Ogni elemento di fluido ha velocità tangenziale nulla",
+        "Ogni elemento di fluido ha velocità angolare nulla",
+        "Ogni elemento di fluido ha velocità angolare variabile",
+        "Ogni elemento di fluido ha velocità angolare costante"
+      ],
+      "correctAnswer": "Ogni elemento di fluido ha velocità angolare nulla"
+    },
+    {
+      "id": 127,
+      "question": "Se le linee di flusso in un tratto sono molto ravvicinate tra di loro",
+      "options": [
+        "non significa niente",
+        "Vuol dire che le particelle in quel tratto hanno una velocità minore",
+        "Vuol dire che le particelle in quel tratto hanno la stessa velocità del tratto precedente",
+        "Vuol dire che le particelle in quel tratto hanno una velocità maggiore"
+      ],
+      "correctAnswer": "Vuol dire che le particelle in quel tratto hanno una velocità maggiore"
+    },
+    {
+      "id": 128,
+      "question": "La fluidodinamica",
+      "options": [
+        "Studia la dinamica di corpi rigidi",
+        "Studia la statica dei fluidi",
+        "Studia il moto dei fluidi",
+        "E' una branca dell'astrologia"
+      ],
+      "correctAnswer": "Studia il moto dei fluidi"
+    },
+    {
+      "id": 129,
+      "question": "Un flusso è uniforme",
+      "options": [
+        "Se la velocità in un dato istante, è la uguale in direzione eintensità in ogni punto del fluido",
+        "Se la velocità è nulla in ogni punto",
+        "Nessuna delle precedenti",
+        "Se la velocità è variabile"
+      ],
+      "correctAnswer": "Se la velocità in un dato istante, è la uguale in direzione eintensità in ogni punto del fluido"
+    },
+    {
+      "id": 130,
+      "question": "Un flusso stazionario",
+      "options": [
+        "Nessuna delle precedenti",
+        "E' tale che le grandezze che caratterizzano il moto non possono variare da punto a punto",
+        "E' tale che le condizioni della corrente variano nel tempo",
+        "E tale che le particelle di fluido hanno la stessa velocità quando passano nello stesso punto."
+      ],
+      "correctAnswer": "E tale che le particelle di fluido hanno la stessa velocità quando passano nello stesso punto."
+    },
+    {
+      "id": 131,
+      "question": "Il moto di un fluido",
+      "options": [
+        "Nessuna delle precedenti",
+        "Si può facilemente studiare se si fa riferimento ai fluidi e flussi ideali",
+        "E' caratterizzato dal fatto che particelle molto vicine hanno sempre la stessa velocità",
+        "Si può studiare facilmente, osservando il moto di ogni particella che lo compone da un punto di vista dinamico"
+      ],
+      "correctAnswer": "Si può facilemente studiare se si fa riferimento ai fluidi e flussi ideali"
+    },
+    {
+      "id": 132,
+      "question": "I fluidi con tensione costante sono detti",
+      "options": [
+        "Fluidi pseudoplastici",
+        "Fluidi Newtoniani",
+        "Fluidi dilatanti",
+        "Fluidi reali"
+      ],
+      "correctAnswer": "Fluidi Newtoniani"
+    },
+    {
+      "id": 133,
+      "question": "La caratteristica dei fluidi dilatanti è che",
+      "options": [
+        "La tensione è nulla",
+        "La tensione diminuisce con l'aumentare della veloctià",
+        "La tensione aumenta con l'aumentare della velocità",
+        "La tensione è costante"
+      ],
+      "correctAnswer": "La tensione aumenta con l'aumentare della velocità"
+    },
+    {
+      "id": 134,
+      "question": "Si possono classificare i fluidi in base alla loro viscosità, come",
+      "options": [
+        "Pseudoplastici",
+        "Tutte le precedenti",
+        "Newtoniani",
+        "DIlatanti"
+      ],
+      "correctAnswer": "Tutte le precedenti"
+    },
+    {
+      "id": 135,
+      "question": "La viscosità di un fluido",
+      "options": [
+        "Si misura in Newton",
+        "Non si può definire per i liquidi",
+        "E' una grandezza vettoriale",
+        "E' la capacità di un fluido di opporsi allo scorrimento di uno strato di fluido sull'altro"
+      ],
+      "correctAnswer": "E' la capacità di un fluido di opporsi allo scorrimento di uno strato di fluido sull'altro"
+    },
+    {
+      "id": 136,
+      "question": "Il calore latente",
+      "options": [
+        "Non dipende dal cambiamente di stato considerato",
+        "E' una grandezza che indica la quantità di calore necessaria ad innalzare di 1°C la temperatura di 1kg di sostanza",
+        "Non è una grandezza caratteristica della sostanza",
+        "E' una grandezza fisica che sta ad indicare la quantità di calore necessaria ad 1kg di sostanza per effettura un cambio di stato"
+      ],
+      "correctAnswer": "E' una grandezza fisica che sta ad indicare la quantità di calore necessaria ad 1kg di sostanza per effettura un cambio di stato"
+    },
+    {
+      "id": 137,
+      "question": "Lo scambio di calore tra due corpi",
+      "options": [
+        "fa aumentare la temperatura di un corpo, se questo cede calore dall'altro",
+        "Non può avvenire in nessuna condizione",
+        "fa diminuire la temperatura di un corpo, se questo assorbe calore dall'altro",
+        "Può avvenire anche senza variazione di temperatura in un corpo, quando avviene un passagio di stato"
+      ],
+      "correctAnswer": "Può avvenire anche senza variazione di temperatura in un corpo, quando avviene un passagio di stato"
+    },
+    {
+      "id": 138,
+      "question": "La capacità termica di un corpo",
+      "options": [
+        "E' definito come il prodotte tra calore specifico e massa",
+        "E' una caratteristica intrinseca della sostanza",
+        "E' inversamente proporzionale alla massa del corpo",
+        "E' inversamente proporzionale al calore specifico della sostanza"
+      ],
+      "correctAnswer": "E' definito come il prodotte tra calore specifico e massa"
+    },
+    {
+      "id": 139,
+      "question": "Il calore specifico",
+      "options": [
+        "Tanto maggiore è il calore specifico, tanto minor calore servirà per scaldare una determita sostanza",
+        "E' direttamente proporzionale alla massa del corpo che si intende scaldare",
+        "Non dipende dalla sostanza",
+        "Si definisce come la grandezza fisica che esprime la quantità di calore necessaria ad innalzare di 1°C la temperatura di 1kg di sostanza"
+      ],
+      "correctAnswer": "Si definisce come la grandezza fisica che esprime la quantità di calore necessaria ad innalzare di 1°C la temperatura di 1kg di sostanza"
+    },
+    {
+      "id": 140,
+      "question": "Nella scala Celsius",
+      "options": [
+        "Tra il valore di 0°C e 100°C vengono inserite mille tacche identiche",
+        "Si possono raggiungere solo valori di gradi positivi",
+        "Non si può misurare lo zero assoluto",
+        "Tra il valore di 0°C e 100°C vengono inserite cento tacche identiche"
+      ],
+      "correctAnswer": "Tra il valore di 0°C e 100°C vengono inserite cento tacche identiche"
+    },
+    {
+      "id": 141,
+      "question": "L'unità di misure del calore è",
+      "options": [
+        "Il grado Celsius (°C)",
+        "Il metro (m)",
+        "La caloria (cal)",
+        "Il Newton (N)"
+      ],
+      "correctAnswer": "La caloria (cal)"
+    },
+    {
+      "id": 142,
+      "question": "la dilatazione termica",
+      "options": [
+        "E' legata alla temperatura del corpo: tanto più diminuisce la temperatura di un corpo, tanto più si dilata",
+        "Può essere solo Volumica",
+        "E' legata alla temperatura del corpo: tanto più aumenta la temperatura di un corpo, tanto più si dilata",
+        "E' solo di due tipo: superficiale e lineare"
+      ],
+      "correctAnswer": "E' legata alla temperatura del corpo: tanto più aumenta la temperatura di un corpo, tanto più si dilata"
+    },
+    {
+      "id": 143,
+      "question": "Si definisce temperatura",
+      "options": [
+        "La quantità di calore che può essere assorbita da un corpo",
+        "La grandezza fisica che permette di stabilire se un corpo è in equilibrio statico con un altro",
+        "La quantità di calore che può essere ceduta da un corpo",
+        "La caratteistica di un corpo di opporsi al moto"
+      ],
+      "correctAnswer": "La grandezza fisica che permette di stabilire se un corpo è in equilibrio statico con un altro"
+    },
+    {
+      "id": 144,
+      "question": "Il punto triplo dell'acqua corrisponde a",
+      "options": [
+        "0.01°C alla pressione di 611.7 Pa",
+        "100°C",
+        "-273.15°C",
+        "20°C"
+      ],
+      "correctAnswer": "0.01°C alla pressione di 611.7 Pa"
+    },
+    {
+      "id": 145,
+      "question": "Una scala termometrica",
+      "options": [
+        "E' ad esempio la scala Celsius , ma non la scala Fahrenheit o Kelvin",
+        "E' ad esempio la scala Kelvin, ma non la scala Celsius o Fahrenheit",
+        "E' ad esempio la scala Fahrenheit, ma non la scala Celsius o Kelvin",
+        "E' la Kelvin, ma anche la Celsius e la Fahrenheit"
+      ],
+      "correctAnswer": "E' la Kelvin, ma anche la Celsius e la Fahrenheit"
+    },
+    {
+      "id": 146,
+      "question": "Il principio zero della termodinamica afferma che",
+      "options": [
+        "Se due corpi A e B sono in equilibrio termico con un terzo corpo C, allora A e B non sono in equilibrio termico tra di loro",
+        "Se due corpi A e B sono singolarmente in equilibrio termico con un terzo corpo C, allora A e B sono in equilibrio termico tra di loro",
+        "Non si possono mai confrontare due corpi A e B da un punto di vista termico",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "Se due corpi A e B sono singolarmente in equilibrio termico con un terzo corpo C, allora A e B sono in equilibrio termico tra di loro"
+    },
+    {
+      "id": 147,
+      "question": "Un sistema termodinamico può essere",
+      "options": [
+        "Solo isolato",
+        "Solo aperto",
+        "Aperto, chiuso o isolato",
+        "Solo chiuso"
+      ],
+      "correctAnswer": "Aperto, chiuso o isolato"
+    },
+    {
+      "id": 148,
+      "question": "Nello studio di un sistema termodinamico, vogliamo conoscere le trasformazioni e le proprietà fisiche di",
+      "options": [
+        "Temperatura",
+        "Tutte le precedenti",
+        "Volume",
+        "Pressione"
+      ],
+      "correctAnswer": "Tutte le precedenti"
+    },
+    {
+      "id": 149,
+      "question": "La termodinamica",
+      "options": [
+        "Studia i sistemi termodinamici da un punto di vista macroscopico",
+        "Studia i flussi stazionari",
+        "Studia la dinamica di un corpo rigido",
+        "Non si interessa delle trasformazioni di calore, temperatura, lavoro ed energia"
+      ],
+      "correctAnswer": "Studia i sistemi termodinamici da un punto di vista macroscopico"
+    },
+    {
+      "id": 150,
+      "question": "Nella scala Celsius",
+      "options": [
+        "Si definisce a partire da due punti fissi: la temperatura ambiente dell'acqua e la temperatura di ebollizione dell'acqua",
+        "Si definisce a partire da due punti fissi: il punto triplo dell'acqua e la temperatura di ebollizione dell'acqua",
+        "Si definisce a partire da due punti fissi: la temperatura di congelamento dell'acqua distillata alla rpessione di 1 atm e la temperatura di ebollizione dell'acqua",
+        "Si definisce a partire da due punti fissi: lo zero assoluto e la temperatura di ebollizione dell'acqua"
+      ],
+      "correctAnswer": "Si definisce a partire da due punti fissi: la temperatura di congelamento dell'acqua distillata alla rpessione di 1 atm e la temperatura di ebollizione dell'acqua"
+    },
+    {
+      "id": 151,
+      "question": "Le due leggi di Guy Lussac e la legge di Boyle, valgono se sono soddisfatte determinate condizioni:",
+      "options": [
+        "La pressione del gas deve essere sufficientemente bassa e la temperatura deve essere lontana da quella di liquefazione",
+        "La temperatura del gas deve essere prossima a quella di liquefazione",
+        "La pressione del gas deve essere molto alta",
+        "La pressione del gas deve essere molto alta e la temperatura deve essere lontana da quella di liquefazione"
+      ],
+      "correctAnswer": "La pressione del gas deve essere sufficientemente bassa e la temperatura deve essere lontana da quella di liquefazione"
+    },
+    {
+      "id": 152,
+      "question": "Il ciclo di Carnot è composto da",
+      "options": [
+        "Una espansione isoterma e una adiabatica, seguite da una contrazione isoterma e una adiabatica",
+        "un'isocora, un'isobara e una isoterma",
+        "Una contrazione isoterma e una adiabatica, seguite da una espansione isoterma e una adiabatica",
+        "Un'espansione isobara e una contrazione isotrema"
+      ],
+      "correctAnswer": "Una espansione isoterma e una adiabatica, seguite da una contrazione isoterma e una adiabatica"
+    },
+    {
+      "id": 153,
+      "question": "Il secondo principio della termodinamica",
+      "options": [
+        "Ha 4 enunciati",
+        "In un suo enunciato, afferma che è impossibile realizzare una trasforazione il cui unico scopo è far passare calore da un corpo più freddo ad uno più caldo",
+        "Permette il moto perpetuo",
+        "Nell'enunciato del rendimento, afferma che si possono creare macchine termiche il cui rendimento è esattamente 1"
+      ],
+      "correctAnswer": "In un suo enunciato, afferma che è impossibile realizzare una trasforazione il cui unico scopo è far passare calore da un corpo più freddo ad uno più caldo"
+    },
+    {
+      "id": 154,
+      "question": "Una sorgente ideale di calore è un sistema che",
+      "options": [
+        "Mantiene costante la sua pressione",
+        "Mantiene costante la sua temperatura qualunque sia il calore che cede o assorbe",
+        "Mantiene costante il suo volume",
+        "Non mantiene costante nessuna grandezza"
+      ],
+      "correctAnswer": "Mantiene costante la sua temperatura qualunque sia il calore che cede o assorbe"
+    },
+    {
+      "id": 155,
+      "question": "Nelle trasformazioni isocore",
+      "options": [
+        "La variazione di energia interna è pari al lavoro compiuto",
+        "La variazione di energia interna è uguale alla quantità di calore scambiata",
+        "Nessuna della precedenti",
+        "La variazione di energia interna è nulla"
+      ],
+      "correctAnswer": "La variazione di energia interna è uguale alla quantità di calore scambiata"
+    },
+    {
+      "id": 156,
+      "question": "Il primo principio della termodinamica afferma che",
+      "options": [
+        "La differenza di energia interna di un gas deve essere uguale alla somma tra calore assorbito e lavoro compiuto",
+        "nessuna delle precedenti",
+        "La differenza dii energia interna di un gas deve essere uguale alla differenza tra calore assorbito e lavoro compiuto",
+        "Non c'è conservazione di energia interna"
+      ],
+      "correctAnswer": "La differenza dii energia interna di un gas deve essere uguale alla differenza tra calore assorbito e lavoro compiuto"
+    },
+    {
+      "id": 157,
+      "question": "Una macchina termica",
+      "options": [
+        "Sfrutta la pressione esercitata in un fluido",
+        "Trasforma calore in lavoro attraverso trasformazioni cicliche",
+        "Serve a misurare la temperatura di un corpo",
+        "Sfrutta il momento di una forza"
+      ],
+      "correctAnswer": "Trasforma calore in lavoro attraverso trasformazioni cicliche"
+    },
+    {
+      "id": 158,
+      "question": "la legge che afferma che \"A temperatura costante, il prodotta tra volume e pressione resta costante\" è",
+      "options": [
+        "La legge di Boyle",
+        "La seconda legge di Guy-Lussac",
+        "La prima legge di Guy-Lussac",
+        "RISPl principio zero della termodinamica"
+      ],
+      "correctAnswer": "La legge di Boyle"
+    },
+    {
+      "id": 159,
+      "question": "Un ciclo termodinamico",
+      "options": [
+        "Non può essere composto da trasformazioni adiabatiche e isoterme",
+        "E' formato da sole trasformazioni isocore",
+        "E' composto da una serie di trasformazioni termiche che partono da un certo stato fisico del sistema e arrivano ad un altro stato fisico del sistema",
+        "E' composto da una serie di trasformazioni termiche che partono da un certo stato fisico del sistema e tornano allo stesso stato fisico"
+      ],
+      "correctAnswer": "E' composto da una serie di trasformazioni termiche che partono da un certo stato fisico del sistema e tornano allo stesso stato fisico"
+    },
+    {
+      "id": 160,
+      "question": "Una trasformazione isobara avviene",
+      "options": [
+        "A volume costante",
+        "Senza scambio di calore",
+        "A temperatura costante",
+        "A pressione costante"
+      ],
+      "correctAnswer": "A pressione costante"
+    },
+    {
+      "id": 161,
+      "question": "Nei passaggi di stato",
+      "options": [
+        "Nessuna delle precedenti",
+        "Non vi è scambio di calore",
+        "Non vi è variazione di temperatura",
+        "la temperatura è variabile"
+      ],
+      "correctAnswer": "Non vi è variazione di temperatura"
+    },
+    {
+      "id": 162,
+      "question": "Il passaggio di stato, da liquido a gassoso si chiama",
+      "options": [
+        "Vaporizzazione",
+        "Fusione",
+        "Solidificazione",
+        "Sublimazione"
+      ],
+      "correctAnswer": "Vaporizzazione"
+    },
+    {
+      "id": 163,
+      "question": "Lo stato gassoso",
+      "options": [
+        "Non ha né volume né forma propria",
+        "Ha volume proprio, ma la forma del recipiente che lo contiene",
+        "Ha volume e forma propria",
+        "Ha forma propria, ma volume variabile"
+      ],
+      "correctAnswer": "Non ha né volume né forma propria"
+    },
+    {
+      "id": 164,
+      "question": "Gli stati della materia",
+      "options": [
+        "Sono in tutto quattro: liquido, soldito, gassoso e plasmatico",
+        "Sono solo liquido e gassoso",
+        "Sono in tutto tre: lòiquido, solido e gassoso",
+        "Sono solo solido e liquido"
+      ],
+      "correctAnswer": "Sono in tutto quattro: liquido, soldito, gassoso e plasmatico"
+    },
+    {
+      "id": 165,
+      "question": "la seconda legge di Guy-Lussac, espressa in temperatura assoluta, afferma che",
+      "options": [
+        "A volume costante, la pressione di un gas è inversamente proporzionale alla sua temperatura",
+        "A pressione costante, il volume di un gas è inversamente proporzionale alla sua temperatura",
+        "A volume costante, la pressione di un gas è direttamente proporzionale alla sua temperatura",
+        "A pressione costante, il volume di un gas è direttamente proporzionale alla sua temperatura"
+      ],
+      "correctAnswer": "A volume costante, la pressione di un gas è direttamente proporzionale alla sua temperatura"
+    },
+    {
+      "id": 166,
+      "question": "La dispersione",
+      "options": [
+        "E' un fenomeno secondo cui, per effetto della rifrazione, la luce si scompone nelle sue componenti monocromatiche",
+        "Nessuna delle precedenti",
+        "Non riguarda la scomposizione della luce",
+        "E' un fenomeno secondo cui, per effetto della riflessione, la luce si scompone nelle sue componenti monocromatiche"
+      ],
+      "correctAnswer": "E' un fenomeno secondo cui, per effetto della rifrazione, la luce si scompone nelle sue componenti monocromatiche"
+    },
+    {
+      "id": 167,
+      "question": "In uno specchio concavo",
+      "options": [
+        "Il raggio parallelo all'asse ottico converge al fuoco",
+        "Il raggio parallelo all'asse ottico diverge rispetto all'asse",
+        "Nessuna delle precedenti",
+        "Il raggio parallelo all'asse ottico converge al centro di curvatura"
+      ],
+      "correctAnswer": "Il raggio parallelo all'asse ottico converge al fuoco"
+    },
+    {
+      "id": 168,
+      "question": "Per costruire un'immagine, si fa uso di un diagramma dei raggi in cui vengon riportati",
+      "options": [
+        "Solo il raggio focale",
+        "Il raggio parallelo all'asse ottico, quello passante per il centro e quello focale",
+        "Solo il raggio per il centro",
+        "Solo il raggio parallello all'asse ottico"
+      ],
+      "correctAnswer": "Il raggio parallelo all'asse ottico, quello passante per il centro e quello focale"
+    },
+    {
+      "id": 169,
+      "question": "\"Se si inverte il verso di un raggio luminoso, il raggio ripercorre il cammino originale\"",
+      "options": [
+        "E la legge di Snell",
+        "E' la seconda legge di riflessione",
+        "E' detto principio di reversibilità dei cammini ottici",
+        "E' la prima legge di riflessione"
+      ],
+      "correctAnswer": "E' detto principio di reversibilità dei cammini ottici"
+    },
+    {
+      "id": 170,
+      "question": "Uno specchio piano produce un'immagine",
+      "options": [
+        "Reale e capovolta",
+        "Reale e dritta",
+        "Virtuale e dritta",
+        "Virtuale e capovolta"
+      ],
+      "correctAnswer": "Virtuale e dritta"
+    },
+    {
+      "id": 171,
+      "question": "La seconda legge della riflessione",
+      "options": [
+        "Riguarda solo gli specchi piani",
+        "Afferma che l'agolo di incidenza del raggio luminoso e l'angolo di riflessione sono diversi",
+        "Afferma che l'agolo di incidenza del raggio luminoso e l'angolo di riflessione sono uguali",
+        "Afferma che il raggio incidente, quello riflesso e la perpendicolare alla superficie riflettente giacciono sullo stesso piano"
+      ],
+      "correctAnswer": "Afferma che l'agolo di incidenza del raggio luminoso e l'angolo di riflessione sono uguali"
+    },
+    {
+      "id": 172,
+      "question": "La vvelocità della luce",
+      "options": [
+        "in un qualsiasi mezzo è sempre maggiore della velocità della luce nel vuoto",
+        "E' la stessa, qualsiasi sia il mezzo in cui si propaga",
+        "in un qualsiasi mezzo è sempre minore della velocità della luce nel vuoto",
+        "nel vuoto non può essere misurata"
+      ],
+      "correctAnswer": "in un qualsiasi mezzo è sempre minore della velocità della luce nel vuoto"
+    },
+    {
+      "id": 173,
+      "question": "Lo spettro visibile corrisponde",
+      "options": [
+        "Alle onde luminose con frequenza minore di 380 nm",
+        "Alle onde luminose con frequenza maggiore di 750 nm",
+        "Alle onde luminose di lunghezza compresa tra 380 nm e 750 nm",
+        "Allo spettro delle onde che non viene percepito dal nostro sistema visivo"
+      ],
+      "correctAnswer": "Alle onde luminose di lunghezza compresa tra 380 nm e 750 nm"
+    },
+    {
+      "id": 174,
+      "question": "La luce bianca",
+      "options": [
+        "Non esiste",
+        "è una miscela di onde con frequenza diverse",
+        "Contiene solo le onde corrispondenti alla frequenza del colore rosso e violetto",
+        "Ha una sua lunghezza d'onda precisa"
+      ],
+      "correctAnswer": "è una miscela di onde con frequenza diverse"
+    },
+    {
+      "id": 175,
+      "question": "Le onde luminose e le onde sonore",
+      "options": [
+        "producono sui nostri sensi lo stesso effetto, qualsiasi sia la loro frequenza",
+        "si propagano entrambe nel vuoto",
+        "producono sui nostri sensi effetti diversi a seconda della loro frequenza",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "producono sui nostri sensi effetti diversi a seconda della loro frequenza"
+    },
+    {
+      "id": 176,
+      "question": "La natura della luce è",
+      "options": [
+        "Ondulatoria e corpuscolare",
+        "Ondulatoria",
+        "Né odnulatoria, n",
+        "Corpuscolare"
+      ],
+      "correctAnswer": "Ondulatoria e corpuscolare"
+    },
+    {
+      "id": 177,
+      "question": "Quando un fascio di luce attraversa la superficie di divisione tra due materiali trasparenti, si dice che",
+      "options": [
+        "Il secondo mezzo è più rifrangente del primo se il fascio si allontana alla perpendicolare alla superficie",
+        "Il secondo mezzo è più rifrangente del primo se il fascio si avvicina alla perpendicolare alla superficie",
+        "Il secondo mezzo è più riflettente del primo se il fascio si avvicina alla perpendicolare alla superficie",
+        "Il secondo mezzo è più riflettente del primo se il fascio si allontana alla perpendicolare alla superficie"
+      ],
+      "correctAnswer": "Il secondo mezzo è più rifrangente del primo se il fascio si avvicina alla perpendicolare alla superficie"
+    },
+    {
+      "id": 178,
+      "question": "Il modello ondulatorio della luce",
+      "options": [
+        "Fu il primo ad essere considerato più valido",
+        "Fu inizialmente messo da parte",
+        "Afferma che la luce è un'onda in grado di trasportare materia",
+        "Afferma che la luce è un flusso di particelle microscopiche emesse da sorgenti luminose"
+      ],
+      "correctAnswer": "Fu inizialmente messo da parte"
+    },
+    {
+      "id": 179,
+      "question": "Il modello corpuscolare della luce fu proposto da",
+      "options": [
+        "Einstein",
+        "Maxwell",
+        "Huygens",
+        "Newton"
+      ],
+      "correctAnswer": "Newton"
+    },
+    {
+      "id": 180,
+      "question": "La riflessione totale",
+      "options": [
+        "Può avvenire solo se la luce proviene dal mezzo con indice di rifrazione minore",
+        "Avviene quando l'angolo di incidenza è minore dell'angolo limite",
+        "Non avviene mai",
+        "Può avvenire solo se la luce proviene dal mezzo con indice di rifrazione maggiore"
+      ],
+      "correctAnswer": "Può avvenire solo se la luce proviene dal mezzo con indice di rifrazione maggiore"
+    }
+  ]
+}

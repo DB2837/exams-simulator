@@ -1,0 +1,1544 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "question": "Sia f(x) uguale a √x se x ≥ 4 e x+4 se x <4. Allora f(16) vale:",
+      "options": [
+        "20",
+        "-4",
+        "16",
+        "4"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 2,
+      "question": "Quale tra le seguenti non è una funzione?",
+      "options": [
+        "f(x) = 3x5+ x4 - 2x",
+        "f(x) = x2",
+        "f(x) = ±√x",
+        "f(x) = 1/x"
+      ],
+      "correctAnswer": "f(x) = ±√x"
+    },
+    {
+      "id": 3,
+      "question": "Scrivere in termini di intervalli della retta reale l'insieme dei numeri strettamente minori di 0 oppure maggiori o uguali di 4.",
+      "options": [
+        "]-∞,0[ ∪ ]4,+∞[",
+        "]-∞,0[ ∩ [4,+∞[",
+        "]-∞,0[ ∪ [4,+∞[",
+        "]0,4]"
+      ],
+      "correctAnswer": "]-∞,0[ ∪ [4,+∞["
+    },
+    {
+      "id": 4,
+      "question": "Il campo di esistenza della funzione f(x)=arcsin(x+2) è",
+      "options": [
+        "(-1,1)",
+        "[-1,1]",
+        "[-3,-1]",
+        "(-3,-1)"
+      ],
+      "correctAnswer": "[-3,-1]"
+    },
+    {
+      "id": 5,
+      "question": "Il campo di esistenza della funzione f(x)=3√ln(x) è",
+      "options": [
+        "(0,+∞)",
+        "[1,+∞)",
+        "(1,+∞)",
+        "[0,+∞)"
+      ],
+      "correctAnswer": "(0,+∞)"
+    },
+    {
+      "id": 6,
+      "question": "Il campo di esistenza di f(x)=4√x2+1 è",
+      "options": [
+        "[0,+∞)",
+        "[1,+∞)",
+        "R",
+        "[-1,1]"
+      ],
+      "correctAnswer": "R"
+    },
+    {
+      "id": 7,
+      "question": "Le intersezioni di f(x)=ln(x+1) con l'asse x sono",
+      "options": [
+        "P=(1,0)",
+        "P=(-1,0) e Q=(1,0)",
+        "P=(0,0)",
+        "P=(-1,0)"
+      ],
+      "correctAnswer": "P=(0,0)"
+    },
+    {
+      "id": 8,
+      "question": "La funzione f(x)=√(x+1) lnx è positiva nell'insieme",
+      "options": [
+        "[-1,+∞)",
+        "(1,+∞)",
+        "(-1,1)∪(1,+∞)",
+        "(-1,+∞)"
+      ],
+      "correctAnswer": "(1,+∞)"
+    },
+    {
+      "id": 9,
+      "question": "La funzione f(x)=√(x-2) ⁄ lnx è negativa",
+      "options": [
+        "mai nel suo dominio",
+        "nell'intervallo (1, +∞)",
+        "nell'intervallo (0,1)",
+        "sempre nel suo dominio"
+      ],
+      "correctAnswer": "mai nel suo dominio"
+    },
+    {
+      "id": 10,
+      "question": "La funzione f(x) uguale a -x2 se x≤0 e uguale a x se x>0 è",
+      "options": [
+        "né iniettiva né suriettiva",
+        "iniettiva ma non suriettiva",
+        "biiettiva",
+        "suriettiva ma non iniettiva"
+      ],
+      "correctAnswer": "biiettiva"
+    },
+    {
+      "id": 11,
+      "question": "La funzione f(x)=cosx-x2 è",
+      "options": [
+        "dispari",
+        "pari",
+        "né pari né dispari",
+        "sia pari che dispari"
+      ],
+      "correctAnswer": "pari"
+    },
+    {
+      "id": 12,
+      "question": "La funzione f(x)=|x|+1 è",
+      "options": [
+        "suriettiva",
+        "dispari",
+        "pari",
+        "iniettiva"
+      ],
+      "correctAnswer": "pari"
+    },
+    {
+      "id": 13,
+      "question": "Siano f(x)=√x e g(x)=ex . Allora la funzione f◊g (x) (f composta con g) è",
+      "options": [
+        "√x ex",
+        "e2x",
+        "e √x",
+        "√ex"
+      ],
+      "correctAnswer": "√ex"
+    },
+    {
+      "id": 14,
+      "question": "Siano f(x)=sin(x2+1) e g(x)=x. Allora",
+      "options": [
+        "f◊g(x)=sin(x+1)",
+        "g◊f(x)=g(x)",
+        "f◊g(x)=g◊f(x)",
+        "f◊g(x)=g(x)"
+      ],
+      "correctAnswer": "f◊g(x)=g◊f(x)"
+    },
+    {
+      "id": 15,
+      "question": "Siano f(x)=x2+1 e g(x)=lnx. Allora",
+      "options": [
+        "f◊g(x)=ln(x2+1)",
+        "f◊g(x)=ln2 (x) +1",
+        "f◊g(x)=(lnx+1)2",
+        "f◊g(x)=ln(x2)"
+      ],
+      "correctAnswer": "f◊g(x)=ln2 (x) +1"
+    },
+    {
+      "id": 16,
+      "question": "limx→0 1/x2 è",
+      "options": [
+        "0+",
+        "-∞",
+        "+∞",
+        "0"
+      ],
+      "correctAnswer": "+∞"
+    },
+    {
+      "id": 17,
+      "question": "limx→0+ 1/x è",
+      "options": [
+        "0-",
+        "+∞",
+        "-∞",
+        "0+"
+      ],
+      "correctAnswer": "+∞"
+    },
+    {
+      "id": 18,
+      "question": "limx→+∞ 1/x è",
+      "options": [
+        "+∞",
+        "0+",
+        "0-",
+        "-∞"
+      ],
+      "correctAnswer": "0+"
+    },
+    {
+      "id": 19,
+      "question": "La successione an =(n-2)!/(n+1)! è uguale a",
+      "options": [
+        "an =(n-2)/(n+1)",
+        "an =1/n(n2-1)",
+        "an =-2/(n+1)",
+        "an =1/n(n+1)"
+      ],
+      "correctAnswer": "an =1/n(n2-1)"
+    },
+    {
+      "id": 20,
+      "question": "La successione definita per ricorrenza da: a0=-1/3 e an+1=an/2 è",
+      "options": [
+        "una progressione aritmetica di ragione -1/3",
+        "una progressione geometrica di ragione -1/3",
+        "una progressione aritmetica di ragione 1/2",
+        "una progressione geometrica di ragione 1/2"
+      ],
+      "correctAnswer": "una progressione geometrica di ragione 1/2"
+    },
+    {
+      "id": 21,
+      "question": "La successione definita per ricorrenza da: a0=-1 e an+1=an2-1 ha il termine a3 che vale",
+      "options": [
+        "-2",
+        "2",
+        "-1",
+        "0"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 22,
+      "question": "Le rette r: y=x/2+1 e s: 2x-4y+3=0 sono",
+      "options": [
+        "perpendicolari",
+        "incidenti ma non perpendicolari",
+        "la stessa retta",
+        "parallele"
+      ],
+      "correctAnswer": "parallele"
+    },
+    {
+      "id": 23,
+      "question": "Il fascio di rette parallele alla retta y=-3x+2 ha equazione",
+      "options": [
+        "y=x/3 +k",
+        "y=3x+k",
+        "y=mx+2",
+        "y=-3x+k"
+      ],
+      "correctAnswer": "y=-3x+k"
+    },
+    {
+      "id": 24,
+      "question": "Il coefficiente angolare della retta passante per i punti A=(-1,2) e B=(0,-3) è",
+      "options": [
+        "m=-1/5",
+        "m=-1",
+        "m=5",
+        "m=-5"
+      ],
+      "correctAnswer": "m=-5"
+    },
+    {
+      "id": 25,
+      "question": "La distanza tra i punti A=(-2,1) e B=(5,3) è",
+      "options": [
+        "√50",
+        "11",
+        "5",
+        "√53"
+      ],
+      "correctAnswer": "√53"
+    },
+    {
+      "id": 26,
+      "question": "La distanza del punto P=(2,-3) dalla retta di equazione 4x+y-1=0 è",
+      "options": [
+        "√17",
+        "4/√17",
+        "1",
+        "2"
+      ],
+      "correctAnswer": "4/√17"
+    },
+    {
+      "id": 27,
+      "question": "Il punto medio del segmento che congiunge i punti A=(1,1) e B=(-3,5) è",
+      "options": [
+        "M=(1,-3)",
+        "M=(-1,3)",
+        "M=(2,-2)",
+        "M=(-2,2)"
+      ],
+      "correctAnswer": "M=(-1,3)"
+    },
+    {
+      "id": 28,
+      "question": "La parabola di equazione y=-2x2+3x-1 è",
+      "options": [
+        "concava e interseca l'asse y nel punto (0,-1)",
+        "convessa e interseca l'asse x in due punti distinti",
+        "concava e ha una sola intersezione con l'asse x",
+        "concava e non interseca l'asse x"
+      ],
+      "correctAnswer": "concava e interseca l'asse y nel punto (0,-1)"
+    },
+    {
+      "id": 29,
+      "question": "Il vertice della parabola di equazione y=3x2+6x+1 è",
+      "options": [
+        "V=(1,10)",
+        "V=(1,-2)",
+        "V=(1,2)",
+        "V=(-1,-2)"
+      ],
+      "correctAnswer": "V=(-1,-2)"
+    },
+    {
+      "id": 30,
+      "question": "La parabola di equazione y=x2+2x",
+      "options": [
+        "interseca l'asse x nel punto (2,0) e non interseca l'asse y",
+        "è convessa e non interseca gli assi coordinati",
+        "interseca gli assi coordinati nell'origine",
+        "interseca l'asse x nel punto (-2,0) e non interseca l'asse y"
+      ],
+      "correctAnswer": "interseca gli assi coordinati nell'origine"
+    },
+    {
+      "id": 31,
+      "question": "La funzione y=(3x-1)/(4x+2)",
+      "options": [
+        "non è un'iperbole equilatera",
+        "è un'iperbole equilatera con asintoti y=3/4 e x=-1/2",
+        "è un'iperbole equilatera con asintoti y=3 e x=4",
+        "è un'iperbole equilatera con asintoti y=-1/2 e x=3/4"
+      ],
+      "correctAnswer": "è un'iperbole equilatera con asintoti y=3/4 e x=-1/2"
+    },
+    {
+      "id": 32,
+      "question": "La funzione y=(4x+1)/(8x+2) è",
+      "options": [
+        "una retta orizzontale",
+        "una retta verticale",
+        "una retta obliqua",
+        "un'iperbole equilatera"
+      ],
+      "correctAnswer": "una retta orizzontale"
+    },
+    {
+      "id": 33,
+      "question": "La funzione y=-2x/(5x+3)",
+      "options": [
+        "ha asintoto orizzontale y=-2/5",
+        "ha asintoto verticale x=0",
+        "ha asintoto verticale x=-2/5",
+        "ha asintoto orizzontale y=-2/3"
+      ],
+      "correctAnswer": "ha asintoto orizzontale y=-2/5"
+    },
+    {
+      "id": 34,
+      "question": "L'equazione 23x-1=3x+2 è equivalente all'equazione",
+      "options": [
+        "(3x-1)log32=(x+2)log23",
+        "(3x-1)log23=(x+2)log32",
+        "(3x-1)log33=(x+2)log22",
+        "(3x-1)ln2=(x+2)ln3"
+      ],
+      "correctAnswer": "(3x-1)ln2=(x+2)ln3"
+    },
+    {
+      "id": 35,
+      "question": "L'equazione 3x+2=-2x ammette",
+      "options": [
+        "due soluzioni distinte",
+        "nessuna soluzione",
+        "infinite soluzioni",
+        "un'unica soluzione"
+      ],
+      "correctAnswer": "nessuna soluzione"
+    },
+    {
+      "id": 36,
+      "question": "limx→+∞ (2/3)x è uguale a",
+      "options": [
+        "+∞",
+        "0",
+        "-∞",
+        "1"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 37,
+      "question": "La funzione y=arcsin(x)",
+      "options": [
+        "è definita ∀x∈R",
+        "ha [-π/2,π/2] come dominio",
+        "ha [-1,1] come dominio",
+        "ha [-1,1] come immagine"
+      ],
+      "correctAnswer": "ha [-1,1] come dominio"
+    },
+    {
+      "id": 38,
+      "question": "La funzione y=arctan(x)",
+      "options": [
+        "ha limx→-∞arctan(x)=-∞",
+        "ha come immagine l'intervallo (-π/2,π/2)",
+        "arctan(0) non è definito",
+        "ha limx→+∞arctan (x)=+∞"
+      ],
+      "correctAnswer": "ha come immagine l'intervallo (-π/2,π/2)"
+    },
+    {
+      "id": 39,
+      "question": "Se cos(α)=(√2)/2, allora",
+      "options": [
+        "sin(α)=1/2",
+        "sin(α)=-(√2)/2",
+        "sin(α)=(√2)/2",
+        "sin(α)=(√2)/2 oppure sin(α)=-(√2)/2"
+      ],
+      "correctAnswer": "sin(α)=(√2)/2 oppure sin(α)=-(√2)/2"
+    },
+    {
+      "id": 40,
+      "question": "limx→-∞(x+ex) è uguale a",
+      "options": [
+        "-∞",
+        "+∞",
+        "0-",
+        "0+"
+      ],
+      "correctAnswer": "-∞"
+    },
+    {
+      "id": 41,
+      "question": "limx→+∞xarctan(x) è uguale a",
+      "options": [
+        "-∞",
+        "+∞",
+        "0",
+        "π/2"
+      ],
+      "correctAnswer": "+∞"
+    },
+    {
+      "id": 42,
+      "question": "limx→0+1/(2x2-x) è uguale a",
+      "options": [
+        "0-",
+        "0+",
+        "+∞",
+        "-∞"
+      ],
+      "correctAnswer": "-∞"
+    },
+    {
+      "id": 43,
+      "question": "limx→+∞(3x2-x-ln(x)) è uguale a",
+      "options": [
+        "-∞",
+        "non esiste",
+        "0",
+        "+∞"
+      ],
+      "correctAnswer": "+∞"
+    },
+    {
+      "id": 44,
+      "question": "Sia P(x) un polinomio di grado ≥1. Allora se x→+∞",
+      "options": [
+        "P(x) tende all'infinito più lentamente di ln(x)",
+        "P(x) tende all'infinito più lentamente di ex",
+        "P(x) tende all'infinito più velocemente di ln(x) soltanto se il grado del polinomio è maggiore di 1",
+        "non è possibile stabilire se P(x) sia un infinito più o meno veloce di ln(x)"
+      ],
+      "correctAnswer": "P(x) tende all'infinito più lentamente di ex"
+    },
+    {
+      "id": 45,
+      "question": "Sia a>1. Allora la funzione loga(x2+x) tende all'infinito per x→+∞",
+      "options": [
+        "più velocemente di x",
+        "più lentamente di x",
+        "più velocemente di √x",
+        "con la stessa velocità di x2"
+      ],
+      "correctAnswer": "più lentamente di x"
+    },
+    {
+      "id": 46,
+      "question": "limx→0+(sin√x)/2x è uguale a",
+      "options": [
+        "non esiste",
+        "1",
+        "+∞",
+        "1/2"
+      ],
+      "correctAnswer": "+∞"
+    },
+    {
+      "id": 47,
+      "question": "limx→0(ln(1-4x))/(ex/2-1) è uguale a",
+      "options": [
+        "-2",
+        "4",
+        "-8",
+        "8"
+      ],
+      "correctAnswer": "-8"
+    },
+    {
+      "id": 48,
+      "question": "limx→0(√(1+5x2)-1)/(1-cos(4x)) è uguale a",
+      "options": [
+        "1/2",
+        "5/16",
+        "5/4",
+        "1/4"
+      ],
+      "correctAnswer": "5/16"
+    },
+    {
+      "id": 49,
+      "question": "Sia f(x)=ln(x)/(x-2). Allora",
+      "options": [
+        "x=2 è un asintoto verticale",
+        "y=2 è un asintoto orizzontale",
+        "y=x+2 è un asintoto obliquo",
+        "non esistono asintoti orizzontali"
+      ],
+      "correctAnswer": "x=2 è un asintoto verticale"
+    },
+    {
+      "id": 50,
+      "question": "Sia f(x)=(x2-1)/(2x+3). Allora",
+      "options": [
+        "y=1/2 x-3/4 è un asintoto obliquo",
+        "non esiste un asintoto verticale",
+        "y=1/2 x è un asintoto obliquo",
+        "y=0 è un asintoto orizzontale"
+      ],
+      "correctAnswer": "y=1/2 x-3/4 è un asintoto obliquo"
+    },
+    {
+      "id": 51,
+      "question": "Sia f(x)=e1/x . Allora",
+      "options": [
+        "y=0 è un asintoto orizzontale",
+        "y=1 è un asintoto orizzontale",
+        "non esistono asintoti orizzontali",
+        "non esistono asintoti verticali"
+      ],
+      "correctAnswer": "y=1 è un asintoto orizzontale"
+    },
+    {
+      "id": 52,
+      "question": "limn→+∞sin(n) è uguale a",
+      "options": [
+        "1",
+        "0",
+        "non esiste",
+        "+∞"
+      ],
+      "correctAnswer": "non esiste"
+    },
+    {
+      "id": 53,
+      "question": "limn→+∞[(n-1)/(n+1)]n è uguale a",
+      "options": [
+        "+∞",
+        "1",
+        "non esiste",
+        "e-2"
+      ],
+      "correctAnswer": "e-2"
+    },
+    {
+      "id": 54,
+      "question": "limn→+∞3n/(4n)! è uguale a",
+      "options": [
+        "3/4",
+        "non esiste",
+        "+∞",
+        "0"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 55,
+      "question": "La derivata destra di f(x)=|x| in x0=0",
+      "options": [
+        "vale 1",
+        "vale -1",
+        "non esiste",
+        "vale 0"
+      ],
+      "correctAnswer": "vale 1"
+    },
+    {
+      "id": 56,
+      "question": "La derivata di f(x)=sin(x)+2√x è",
+      "options": [
+        "f'(x)=-cos(x)+1/√x",
+        "f'(x)=cos(x)+1/(2√x)",
+        "f'(x)=cos(x)+1/√x",
+        "f'(x)=-cos(x)+1/(2√x)"
+      ],
+      "correctAnswer": "f'(x)=cos(x)+1/√x"
+    },
+    {
+      "id": 57,
+      "question": "La derivata di f(x)=-2ex+arctan(x) è",
+      "options": [
+        "f'(x)=-2ex+tan2(x)",
+        "f'(x)=-2ex+1/tan(x)",
+        "f'(x)=-2ex+1/cos2(x)",
+        "f'(x)=-2ex+1/(x2+1)"
+      ],
+      "correctAnswer": "f'(x)=-2ex+1/(x2+1)"
+    },
+    {
+      "id": 58,
+      "question": "La derivata di f(x)=(3x2-1)/(2x2+x) è",
+      "options": [
+        "f'(x)=(3x2-6x-1)/(2x2+x)2",
+        "f'(x)=(6x2-x+1)/(2x2+x)2",
+        "f'(x)=(6x3-2x2+1)/(2x2+x)2",
+        "f'(x)=(3x2+4x+1)/(2x2+x)2"
+      ],
+      "correctAnswer": "f'(x)=(3x2+4x+1)/(2x2+x)2"
+    },
+    {
+      "id": 59,
+      "question": "La derivata di f(x)=ln(x)cos(x) è",
+      "options": [
+        "f'(x)=cos(x)/x +ln(x)sin(x)",
+        "f'(x)=cos(x)/x -ln(x)sin(x)",
+        "f'(x)=ln(x)cos(x)+sin(x)/x",
+        "f'(x)=ln(x)cos(x)-sin(x)/x"
+      ],
+      "correctAnswer": "f'(x)=cos(x)/x -ln(x)sin(x)"
+    },
+    {
+      "id": 60,
+      "question": "La derivata di f(x)=√ln(x) è",
+      "options": [
+        "f'(x)=x/(2√x)",
+        "f'(x)=1/(2√ln(x))",
+        "f'(x)=1/(2x√ln(x))",
+        "f'(x)=1/(2x√x)"
+      ],
+      "correctAnswer": "f'(x)=1/(2x√ln(x))"
+    },
+    {
+      "id": 61,
+      "question": "La funzione f(x) uguale a 3 se x≤1 e uguale a 2x+1/x se x>1",
+      "options": [
+        "è continua ma non derivabile in x0=1",
+        "è continua ma non derivabile in x0=0",
+        "ha derivata sinistra uguale a 3 in x0=1",
+        "non ha derivata destra in x0=1"
+      ],
+      "correctAnswer": "è continua ma non derivabile in x0=1"
+    },
+    {
+      "id": 62,
+      "question": "La funzione f(x) uguale a x2 se x≤0 e uguale a x se x>0, in x0=0",
+      "options": [
+        "non ha derivata destra",
+        "è continua ma non derivabile",
+        "ha derivata uguale a 0",
+        "non ha derivata sinistra"
+      ],
+      "correctAnswer": "è continua ma non derivabile"
+    },
+    {
+      "id": 63,
+      "question": "La funzione f(x)=√x in x0=0",
+      "options": [
+        "ha derivata uguale a 0",
+        "non è derivabile",
+        "ha derivata destra uguale a 0",
+        "ha derivata uguale a 1/2"
+      ],
+      "correctAnswer": "non è derivabile"
+    },
+    {
+      "id": 64,
+      "question": "La funzione f(x)=|x+1|",
+      "options": [
+        "Non è continua in x0=-1",
+        "Ha un punto angoloso in x0=0",
+        "Ha un punto angoloso in x0=1",
+        "Ha un punto angoloso in x0=-1"
+      ],
+      "correctAnswer": "Ha un punto angoloso in x0=-1"
+    },
+    {
+      "id": 65,
+      "question": "La funzione f(x)=3√(x-1)",
+      "options": [
+        "È derivabile in x0=1",
+        "Ha un punto di flesso a tangente verticale in x0=0",
+        "Ha un punto di flesso a tangente verticale in x0=1",
+        "Ha una cuspide in x0=1"
+      ],
+      "correctAnswer": "Ha un punto di flesso a tangente verticale in x0=1"
+    },
+    {
+      "id": 66,
+      "question": "La funzione f(x)=2ex +x",
+      "options": [
+        "Ha retta tangente di equazione y=3x+2 nel punto di ascissa x0=0",
+        "Ha retta tangente di equazione y=x nel punto di ascissa x0=0",
+        "Ha retta tangente di equazione y=ex+2 nel punto di ascissa x0=0",
+        "Ha retta tangente di equazione y=2x nel punto di ascissa x0=0"
+      ],
+      "correctAnswer": "Ha retta tangente di equazione y=3x+2 nel punto di ascissa x0=0"
+    },
+    {
+      "id": 67,
+      "question": "limx→+∞ sinx/x",
+      "options": [
+        "utilizzando il teorema dell'Hopital si ottiene che il limite non esiste",
+        "è uguale a 1",
+        "il limite non esiste perché sinx è una funzione periodica",
+        "è uguale a 0 perché |sinx|≤1"
+      ],
+      "correctAnswer": "è uguale a 0 perché |sinx|≤1"
+    },
+    {
+      "id": 68,
+      "question": "Utilizzando il teorema dell'Hopital si ottiene che limx→+∞lnx/ex/2",
+      "options": [
+        "è uguale a -∞",
+        "è uguale a +∞",
+        "non esiste",
+        "è uguale a 0"
+      ],
+      "correctAnswer": "è uguale a 0"
+    },
+    {
+      "id": 69,
+      "question": "Utilizzando il teorema dell'Hopital si ottiene che limx→+∞ √x/lnx",
+      "options": [
+        "è uguale a +∞",
+        "è uguale 0+",
+        "non esiste",
+        "è uguale a 0-"
+      ],
+      "correctAnswer": "è uguale a +∞"
+    },
+    {
+      "id": 70,
+      "question": "Lo sviluppo di Taylor di ordine 3 centrato in x0=π/2 della funzione f(x)=cosx è",
+      "options": [
+        "-(x-π/2)+(x-π/2)3/6",
+        "-x+x3/6",
+        "-x+x2/2-x3/6",
+        "-(x-π/2)+(x-π/2)2/2-(x-π/2)3/6"
+      ],
+      "correctAnswer": "-(x-π/2)+(x-π/2)3/6"
+    },
+    {
+      "id": 71,
+      "question": "Utilizzando gli sviluppi di McLaurin delle funzioni coinvolte, si ha che limx→0 (e3x-1-3x)/[ln(1+x/2)-x/2] è uguale a",
+      "options": [
+        "-9/4",
+        "0",
+        "36",
+        "-36"
+      ],
+      "correctAnswer": "-36"
+    },
+    {
+      "id": 72,
+      "question": "Lo sviluppo di McLaurin di ordine 3 di f(x)=sin (2x)+3x è",
+      "options": [
+        "5x-4/3 x3",
+        "2x-4/3 x3",
+        "4x-x3/6",
+        "5x+x2/2-x3/6"
+      ],
+      "correctAnswer": "5x-4/3 x3"
+    },
+    {
+      "id": 73,
+      "question": "Sia f:I→R, con I intervallo, una funzione derivabile. Allora",
+      "options": [
+        "f'(x)<0⇔ f(x) è strettamente decrescente",
+        "Se f(x) è strettamente decrescente⇒ f'(x)<0",
+        "Se f(x) è decrescente⇒ f'(x)=0",
+        "Se f'(x)<0⇒ f(x) è strettamente decrescente"
+      ],
+      "correctAnswer": "Se f'(x)<0⇒ f(x) è strettamente decrescente"
+    },
+    {
+      "id": 74,
+      "question": "La funzione f(x)=3x3 ha in x0=0",
+      "options": [
+        "x0=0 non è un punto stazionario",
+        "un punto di minimo locale",
+        "un punto di massimo locale",
+        "un punto stazionario che non è un estremo locale"
+      ],
+      "correctAnswer": "un punto stazionario che non è un estremo locale"
+    },
+    {
+      "id": 75,
+      "question": "La funzione f(x)=xex",
+      "options": [
+        "non è derivabile in x0=-1",
+        "non ha punti stazionari",
+        "ha un punto di massimo in x0=-1",
+        "ha un punto di minimo in x0=-1"
+      ],
+      "correctAnswer": "ha un punto di minimo in x0=-1"
+    },
+    {
+      "id": 76,
+      "question": "La funzione f(x)=3|x|",
+      "options": [
+        "non ha punti di minimo perché in x0=0 non è derivabile",
+        "ha un punto di minimo assoluto in x0=0",
+        "non ha punti di estremo locale né globale perché |x|≥0 ∀x∈R",
+        "ha un punto di minimo relativo ma non assoluto in x0=0"
+      ],
+      "correctAnswer": "ha un punto di minimo assoluto in x0=0"
+    },
+    {
+      "id": 77,
+      "question": "La funzione f(x)=√x",
+      "options": [
+        "ha un punto stazionario in x0=0",
+        "è derivabile in tutti i punti del suo dominio e la derivata non si annulla mai",
+        "ha un punto di minimo relativo ma non assoluto in x0=0",
+        "ha un punto di minimo assoluto in x0=0"
+      ],
+      "correctAnswer": "ha un punto di minimo assoluto in x0=0"
+    },
+    {
+      "id": 78,
+      "question": "La funzione f(x) uguale a x+1 se x≥0 e uguale a -x se x<0",
+      "options": [
+        "non ha punti di estremo relativo, né assoluto",
+        "ha un punto di massimo relativo in x0=0",
+        "ha un punto di minimo relativo ma non assoluto in x0=0",
+        "ha un punto di minimo assoluto in x0=0"
+      ],
+      "correctAnswer": "non ha punti di estremo relativo, né assoluto"
+    },
+    {
+      "id": 79,
+      "question": "La funzione f(x)=|x-1|",
+      "options": [
+        "ha un punto di flesso in x0=1",
+        "ha un punto di flesso in x0=0",
+        "è concava nel suo dominio",
+        "è convessa nel suo dominio"
+      ],
+      "correctAnswer": "è convessa nel suo dominio"
+    },
+    {
+      "id": 80,
+      "question": "La funzione f(x)=ln(x+1)",
+      "options": [
+        "ha un punto di flesso in x0=1",
+        "ha un punto di flesso in x0=0",
+        "è convessa nel suo dominio",
+        "è concava nel suo dominio"
+      ],
+      "correctAnswer": "è concava nel suo dominio"
+    },
+    {
+      "id": 81,
+      "question": "La funzione f(x)=x3+2x",
+      "options": [
+        "ha un punto di minimo assoluto in x0=0",
+        "ha un punto di minimo relativo ma non assoluto in x0=0",
+        "ha un punto di flesso in x0=0",
+        "ha un punto di massimo relativo in x0=0"
+      ],
+      "correctAnswer": "ha un punto di flesso in x0=0"
+    },
+    {
+      "id": 82,
+      "question": "La funzione f(x)=xex",
+      "options": [
+        "ha un punto di minimo in x0=2",
+        "è concava nell'intervallo (2,+∞)",
+        "è crescente nell'intervallo (2,+∞)",
+        "è concava nell'intervallo (-∞, 2)"
+      ],
+      "correctAnswer": "è crescente nell'intervallo (2,+∞)"
+    },
+    {
+      "id": 83,
+      "question": "La funzione f(x)=xln(x)",
+      "options": [
+        "è decrescente nell'intervallo (e, +∞)",
+        "ha un punto di massimo assoluto in x0=e",
+        "è decrescente nell'intervallo (0, 1/e)",
+        "è crescente nell'intervallo (0, 1/e)"
+      ],
+      "correctAnswer": "è decrescente nell'intervallo (0, 1/e)"
+    },
+    {
+      "id": 84,
+      "question": "La funzione f(x)= ex/2+1",
+      "options": [
+        "ha un punto di flesso in x0=0",
+        "è concava in R",
+        "è convessa in R",
+        "ha un punto di flesso in x0=-2"
+      ],
+      "correctAnswer": "è convessa in R"
+    },
+    {
+      "id": 85,
+      "question": "L'integrale indefinito ∫(x2+√x)/x dx è uguale a",
+      "options": [
+        "x2+√x +c",
+        "x2/2+2√x +c",
+        "x2/2+√x +c",
+        "x2/2+1/(2√x) +c"
+      ],
+      "correctAnswer": "x2/2+2√x +c"
+    },
+    {
+      "id": 86,
+      "question": "L'integrale indefinito ∫ex2+x (2x+1) dx è uguale a",
+      "options": [
+        "ex(x2+x)+c",
+        "ex(2x+1)+c",
+        "ex2+x (x2+x)+c",
+        "ex2+x+c"
+      ],
+      "correctAnswer": "ex2+x+c"
+    },
+    {
+      "id": 87,
+      "question": "L'integrale indefinito ∫(3√x2+4√x3) dx è uguale a",
+      "options": [
+        "3/5 5√x3+4/7 7√x4+c",
+        "5/3 3√x5+7/4 4√x7+c",
+        "5/3 3√x2+7/4 4√x3+c",
+        "3/5 3√x5+4/7 4√x7+c"
+      ],
+      "correctAnswer": "3/5 3√x5+4/7 4√x7+c"
+    },
+    {
+      "id": 88,
+      "question": "L'integrale indefinito ∫x ln(x) dx è uguale a",
+      "options": [
+        "x2/2 (lnx-1)+c",
+        "x2/4 (lnx-1)+c",
+        "x2 (lnx-1)+c",
+        "x2/2 (lnx-1/2)+c"
+      ],
+      "correctAnswer": "x2/2 (lnx-1/2)+c"
+    },
+    {
+      "id": 89,
+      "question": "L'integrale indefinito ∫x e-x dx è uguale a",
+      "options": [
+        "(x-1)e-x+c",
+        "(x+1)e-x+c",
+        "-(x-1)e-x+c",
+        "-(x+1)e-x+c"
+      ],
+      "correctAnswer": "-(x+1)e-x+c"
+    },
+    {
+      "id": 90,
+      "question": "L'integrale indefinito ∫x sinx dx è uguale a",
+      "options": [
+        "x cosx-sinx+c",
+        "-x cosx-sinx+c",
+        "-x cosx+sinx+c",
+        "x cosx+sinx+c"
+      ],
+      "correctAnswer": "-x cosx+sinx+c"
+    },
+    {
+      "id": 91,
+      "question": "L'integrale indefinito ∫2/(2x-1) dx è uguale a",
+      "options": [
+        "-2/(2x-1)2 +c",
+        "ln|2x-1|+c",
+        "2ln|2x-1|+c",
+        "1/2 ln|2x-1|+c"
+      ],
+      "correctAnswer": "ln|2x-1|+c"
+    },
+    {
+      "id": 92,
+      "question": "L'integrale indefinito ∫1/(x+2)2 dx è uguale a",
+      "options": [
+        "1/(3x+2)2 +c",
+        "-1/(x+2) +c",
+        "1/(x+2)3 +c",
+        "3/(x+2)3 +c"
+      ],
+      "correctAnswer": "-1/(x+2) +c"
+    },
+    {
+      "id": 93,
+      "question": "L'integrale indefinito ∫x/(x2+x-2) dx è uguale a",
+      "options": [
+        "1/3 ln|x+1|+2/3 ln|x-2|+c",
+        "1/3 ln|x-1|+2/3 ln|x+2|+c",
+        "2/3 ln|x+1|+1/3 ln|x-2|+c",
+        "2/3 ln|x-1|+1/3 ln|x+2|+c"
+      ],
+      "correctAnswer": "1/3 ln|x-1|+2/3 ln|x+2|+c"
+    },
+    {
+      "id": 94,
+      "question": "L'integrale indefinito ∫1/√(4-x2) dx è uguale a",
+      "options": [
+        "arcsin(2x)+c",
+        "2arcsin(x)+c",
+        "1/2 arcsin(x)+c",
+        "arcsin(x/2)+c"
+      ],
+      "correctAnswer": "arcsin(x/2)+c"
+    },
+    {
+      "id": 95,
+      "question": "L'integrale indefinito ∫√(16-x2) dx è uguale a",
+      "options": [
+        "2 arcsin(x/4)+x √(16-x2)+c",
+        "8 arcsin(x)+x/4 √(16-x2)+c",
+        "4 arcsin(x)+x/2 √(16-x2)+c",
+        "8 arcsin(x/4)+x/2 √(16-x2)+c"
+      ],
+      "correctAnswer": "8 arcsin(x/4)+x/2 √(16-x2)+c"
+    },
+    {
+      "id": 96,
+      "question": "L'integrale definito da -2 a 2 di |x| è uguale a",
+      "options": [
+        "4",
+        "2",
+        "0",
+        "1/2"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 97,
+      "question": "L'integrale definito da -π/4 a π/4 di tan(x) è uguale a",
+      "options": [
+        "0",
+        "π/4",
+        "1",
+        "π/2"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 98,
+      "question": "L'integrale definito da -1 a 1 di e-x è uguale a",
+      "options": [
+        "e-1/e",
+        "1/e -e",
+        "0",
+        "e+1/e"
+      ],
+      "correctAnswer": "e-1/e"
+    },
+    {
+      "id": 99,
+      "question": "L'area racchiusa dalla retta y=x-3, gli assi cartesiani e la retta x=9 è uguale a",
+      "options": [
+        "45/2",
+        "81",
+        "3",
+        "27/2"
+      ],
+      "correctAnswer": "45/2"
+    },
+    {
+      "id": 100,
+      "question": "L'area racchiusa dai grafici di f(x)=ex, g(x)=e-x, la retta x=-1 e la retta x=1 è uguale a",
+      "options": [
+        "2e+2/e -4",
+        "4e-1/e",
+        "0",
+        "2e"
+      ],
+      "correctAnswer": "2e+2/e -4"
+    },
+    {
+      "id": 101,
+      "question": "Il solido ottenuto ruotando il grafico di y=x2+1, con -1≤x≤1, attorno all'asse x ha volume uguale a",
+      "options": [
+        "4π",
+        "2π",
+        "56/15 π",
+        "3/5 π"
+      ],
+      "correctAnswer": "56/15 π"
+    },
+    {
+      "id": 102,
+      "question": "L'integrale improprio da 1 a +∞ di 1/(x√x)",
+      "options": [
+        "diverge a +∞",
+        "diverge a -∞",
+        "converge a un valore negativo",
+        "converge a un valore positivo"
+      ],
+      "correctAnswer": "converge a un valore positivo"
+    },
+    {
+      "id": 103,
+      "question": "L'integrale improprio da 0 a 1 di sinx/x3/2",
+      "options": [
+        "diverge a +∞",
+        "diverge a -∞",
+        "converge a un valore positivo",
+        "converge a un valore negativo"
+      ],
+      "correctAnswer": "converge a un valore positivo"
+    },
+    {
+      "id": 104,
+      "question": "L'integrale improprio da 1 a +∞ di (x+2)/(3x2+2x)",
+      "options": [
+        "converge a un valore positivo",
+        "converge a un valore negativo",
+        "diverge a +∞",
+        "diverge a -∞"
+      ],
+      "correctAnswer": "diverge a +∞"
+    },
+    {
+      "id": 105,
+      "question": "Il problema di Cauchy y'=yx, y(0)=1 ha soluzione",
+      "options": [
+        "y(x)=ex2/2",
+        "y(x)=ex2/2+1",
+        "y(x)=ln(x2/2)+1",
+        "y(x)=ln(x2/2)"
+      ],
+      "correctAnswer": "y(x)=ex2/2"
+    },
+    {
+      "id": 106,
+      "question": "Il problema di Cauchy y'=y2x2, y(0)=1 ha soluzione",
+      "options": [
+        "y(x)=3/(3-x3)",
+        "y(x)=3/(x3-3)",
+        "y(x)=3-x3",
+        "y(x)=x3-3"
+      ],
+      "correctAnswer": "y(x)=3/(3-x3)"
+    },
+    {
+      "id": 107,
+      "question": "L'equazione differenziale y'=e-yx ha soluzioni",
+      "options": [
+        "y(x)=ln(x2/2)+c, c∈R",
+        "y(x)=x2/2 +c, c∈R",
+        "y(x)=(x+c)2/2, c∈R",
+        "y(x)=ln(x2/2 +c), c∈R"
+      ],
+      "correctAnswer": "y(x)=ln(x2/2 +c), c∈R"
+    },
+    {
+      "id": 108,
+      "question": "L'equazione differenziale lineare y'+xy=2x ha soluzioni",
+      "options": [
+        "y(x)=2+cx2/2, c∈R",
+        "y(x)=2+ce-x2/2, c∈R",
+        "y(x)=ce-x2/2, c∈R",
+        "y(x)=x2/2+c, c∈R"
+      ],
+      "correctAnswer": "y(x)=2+ce-x2/2, c∈R"
+    },
+    {
+      "id": 109,
+      "question": "L'equazione differenziale lineare y'+y/x=x2 ha soluzioni",
+      "options": [
+        "y(x)=ex3/4 +c/x, c∈R",
+        "y(x)=e-x3/4 +c/x, c∈R",
+        "y(x)=x3/4 +c/x, c∈R",
+        "y(x)=x2/2 +c/x, c∈R"
+      ],
+      "correctAnswer": "y(x)=x3/4 +c/x, c∈R"
+    },
+    {
+      "id": 110,
+      "question": "L'equazione differenziale lineare y'+ysin(x)=sin(x) ha soluzioni",
+      "options": [
+        "y(x)=cecosx+1, c∈R",
+        "y(x)=ce-sinx, c∈R",
+        "y(x)=cesinx+1, c∈R",
+        "y(x)=ce-cosx, c∈R"
+      ],
+      "correctAnswer": "y(x)=cecosx+1, c∈R"
+    },
+    {
+      "id": 111,
+      "question": "L'equazione differenziale y''+2y'-3y=0 ha soluzioni",
+      "options": [
+        "y(x)=c1e-x+c2e3x, c1, c2∈R",
+        "y(x)=c1ex+c2e3x, c1, c2∈R",
+        "y(x)=c1e-x+c2e-3x, c1, c2∈R",
+        "y(x)=c1ex+c2e-3x, c1, c2∈R"
+      ],
+      "correctAnswer": "y(x)=c1ex+c2e-3x, c1, c2∈R"
+    },
+    {
+      "id": 112,
+      "question": "L'equazione differenziale y''+4y'+4y=0 ha soluzioni",
+      "options": [
+        "y(x)=c1e2x+c2xe2x, c1, c2∈R",
+        "y(x)=c1e-2x+c2e2x, c1, c2∈R",
+        "y(x)=(c1+c2)xe-2x, c1, c2∈R",
+        "y(x)=c1e-2x+c2xe-2x, c1, c2∈R"
+      ],
+      "correctAnswer": "y(x)=c1e-2x+c2xe-2x, c1, c2∈R"
+    },
+    {
+      "id": 113,
+      "question": "L'equazione differenziale y''+2y'+2y=0 ha soluzioni",
+      "options": [
+        "y(x)=c1excosx+c2exsinx, c1,c2∈R",
+        "y(x)=c1excosx+c2e-xsinx, c1,c2∈R",
+        "y(x)=c1e-xcosx+c2exsinx, c1,c2∈R",
+        "y(x)=c1e-xcosx+c2e-xsinx, c1,c2∈R"
+      ],
+      "correctAnswer": "y(x)=c1e-xcosx+c2e-xsinx, c1,c2∈R"
+    },
+    {
+      "id": 114,
+      "question": "L'equazione differenziale y''+2y'+2y=2x2 ha soluzioni",
+      "options": [
+        "y(x)=c1excosx+c2exsinx+x2-2x+2, c1, c2∈R",
+        "y(x)=c1e-xcosx+c2e-xsinx+x2-2x+1, c1, c2∈R",
+        "y(x)=c1excosx+c2e-xsinx+x2+2x-1, c1, c2∈R",
+        "y(x)=c1e-xcosx+c2exsinx+x2+2x-2, c1, c2∈R"
+      ],
+      "correctAnswer": "y(x)=c1e-xcosx+c2e-xsinx+x2-2x+1, c1, c2∈R"
+    },
+    {
+      "id": 115,
+      "question": "L'equazione differenziale y''-2y'+y=3x ha soluzioni",
+      "options": [
+        "y(x)=c1ex+c2xex+3x+6, c1, c2∈R",
+        "y(x)=c1ex+c2xe-x+3x+6, c1, c2∈R",
+        "y(x)=c1ex+c2e-x+3x, c1, c2∈R",
+        "y(x)=c1e-x+c2xe-x+3x+3, c1, c2∈R"
+      ],
+      "correctAnswer": "y(x)=c1ex+c2xex+3x+6, c1, c2∈R"
+    },
+    {
+      "id": 116,
+      "question": "L'equazione differenziale y''+y'-6y=ex ha soluzioni",
+      "options": [
+        "y(x)=c1e2x+c2e-3x-1/4 ex, c1,c2∈R",
+        "y(x)=c1e-2x+c2e3x-1/4 ex, c1,c2∈R",
+        "y(x)=c1e2x+c2e3x+1/4 ex, c1,c2∈R",
+        "y(x)=c1e-2x+c2e-3x+1/4 ex, c1,c2∈R"
+      ],
+      "correctAnswer": "y(x)=c1e2x+c2e-3x-1/4 ex, c1,c2∈R"
+    },
+    {
+      "id": 117,
+      "question": "Quale dei seguenti vettori è un versore?",
+      "options": [
+        "v=(1,1,1)",
+        "v=(√2/2, -√2/2, 0)",
+        "v=(1,1,0)",
+        "v=(√2, √2, √2)"
+      ],
+      "correctAnswer": "v=(√2/2, -√2/2, 0)"
+    },
+    {
+      "id": 118,
+      "question": "Sia v=(2, -3, -2) e k=1/2. Allora",
+      "options": [
+        "kv=(1, -3, -1)",
+        "kv=(1, -3, -2)",
+        "kv=(1, -2, -1)",
+        "kv=(1, -3/2, -1)"
+      ],
+      "correctAnswer": "kv=(1, -3/2, -1)"
+    },
+    {
+      "id": 119,
+      "question": "Siano v=(2, -1, -1) e w=(0, 1, 3). Allora il prodotto scalare v•w è uguale a",
+      "options": [
+        "(0, -1, -3)",
+        "6",
+        "-4",
+        "-2"
+      ],
+      "correctAnswer": "-4"
+    },
+    {
+      "id": 120,
+      "question": "Sia A una matrice diagonale 2x2 e sia B una matrice diagonale 3x3. Allora la matrice A+B",
+      "options": [
+        "non esiste",
+        "non è una matrice diagonale",
+        "è una matrice diagonale 3x2",
+        "è una matrice diagonale 2x3"
+      ],
+      "correctAnswer": "non esiste"
+    },
+    {
+      "id": 121,
+      "question": "Quale tra le seguenti matrici è una matrice simmetrica?",
+      "options": [
+        "1 0 3 / -2 2 0 / 3 -2 -1",
+        "1 0 3 / -2 2 -2 / 3 0 -1",
+        "1 0 3 / 0 2 -2 / 3 -2 -1",
+        "1 0 3 / 3 2 -2 / 0 -2 -1"
+      ],
+      "correctAnswer": "1 0 3 / 0 2 -2 / 3 -2 -1"
+    },
+    {
+      "id": 122,
+      "question": "La trasposta della matrice A= 5 -1 1 2 -4 6 è la matrice",
+      "options": [
+        "AT= 2 -4 6 / -4 -1 1",
+        "AT= -1 5 1 / -4 2 6",
+        "5 2 / AT= -1 -4 / 1 6",
+        "2 5 / AT= -4 -1 / 6 1"
+      ],
+      "correctAnswer": "5 2 / AT= -1 -4 / 1 6"
+    },
+    {
+      "id": 123,
+      "question": "La matrice 1 2 1 A = -1 0 2 1 4 1 ha determinante uguale a",
+      "options": [
+        "4",
+        "8",
+        "-2",
+        "-6"
+      ],
+      "correctAnswer": "-6"
+    },
+    {
+      "id": 124,
+      "question": "La matrice 1 0 -1 0 A= 0 2 1 1 1 1 -1 0 -1 -1 0 0 ha determinante uguale a",
+      "options": [
+        "-1",
+        "0",
+        "-2",
+        "1"
+      ],
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 125,
+      "question": "La matrice A= -3 1 6 -2",
+      "options": [
+        "ha detA=12",
+        "è singolare",
+        "ha detA=-12",
+        "ha detA=1"
+      ],
+      "correctAnswer": "è singolare"
+    },
+    {
+      "id": 126,
+      "question": "Una generica matrice 4x4",
+      "options": [
+        "non può avere rango minore di 2",
+        "può avere al massimo rango 4",
+        "non può avere rango 0",
+        "ha sicuramente rango 4"
+      ],
+      "correctAnswer": "può avere al massimo rango 4"
+    },
+    {
+      "id": 127,
+      "question": "La matrice 1 0 A = -1 2 -1 0 -2 4 ha rango",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 128,
+      "question": "La matrice -2 1 1 A = -1 ½ ½ -4 2 2 ha rango",
+      "options": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 129,
+      "question": "I vettori v=(2, -1, 0), w=(-1, 1, 1) e u=(3, -2, -1) in R3 sono",
+      "options": [
+        "linearmente indipendenti",
+        "sono le colonne di una matrice 3x3 di rango 3",
+        "linearmente dipendenti",
+        "sono le colonne di una matrice 3x3 non singolare"
+      ],
+      "correctAnswer": "linearmente dipendenti"
+    },
+    {
+      "id": 130,
+      "question": "Dati i vettori v=(1, 1, 1) e w=(-2, -2, -2) in R3,",
+      "options": [
+        "nessuna delle precedenti affermazioni è vera",
+        "è possibile trovare una loro combinazione lineare nulla con coefficienti non tutti uguali a zero",
+        "sono linearmente indipendenti",
+        "non è possibile trovare una loro combinazione lineare nulla con coefficienti non tutti uguali a zero"
+      ],
+      "correctAnswer": "è possibile trovare una loro combinazione lineare nulla con coefficienti non tutti uguali a zero"
+    },
+    {
+      "id": 131,
+      "question": "Data la matrice 1 -2 -3 A = 2 0 1 1 -1 1 siano v1, v2 e v3 i vettori le cui coordinate sono rispettivamente uguali alle entrate della prima, della seconda e della terza colonna di A. Allora",
+      "options": [
+        "i tre vettori sono linearmente indipendenti in R3",
+        "v3=-v1-v2",
+        "esiste una combinazione lineare di v2 e v3 che ha come risultato v1",
+        "esiste una combinazione lineare di v1 e v3 che ha come risultato v2"
+      ],
+      "correctAnswer": "i tre vettori sono linearmente indipendenti in R3"
+    },
+    {
+      "id": 132,
+      "question": "Il sistema lineare x+y-z=1 2x-y =-1 x+2z =0 è",
+      "options": [
+        "determinato",
+        "non ammette soluzioni",
+        "indeterminato",
+        "ammette solo la soluzione nulla"
+      ],
+      "correctAnswer": "determinato"
+    },
+    {
+      "id": 133,
+      "question": "Il sistema lineare x+2y-3z=0 2x-y =0",
+      "options": [
+        "ammette infinite soluzioni dipendenti da un parametro",
+        "ammette infinite soluzioni dipendenti da due parametri",
+        "non ammette soluzioni",
+        "ammette soltanto la soluzione nulla"
+      ],
+      "correctAnswer": "ammette infinite soluzioni dipendenti da un parametro"
+    },
+    {
+      "id": 134,
+      "question": "Il sistema lineare 2x-y=1 3x+y=0 x-2y=0",
+      "options": [
+        "ammette infinite soluzioni dipendenti da due parametri",
+        "non ammette soluzione",
+        "ammette un'unica soluzione",
+        "ammette infinite soluzioni dipendenti da un parametro"
+      ],
+      "correctAnswer": "non ammette soluzione"
+    },
+    {
+      "id": 135,
+      "question": "La trasformazione L(x,y,z)=(2x-y-z, x+3y+z)",
+      "options": [
+        "non è una trasformazione lineare",
+        "è una trasformazione lineare da R2 in R3",
+        "è una trasformazione lineare da R3 in R2",
+        "è una trasformazione lineare da R3 in R3"
+      ],
+      "correctAnswer": "è una trasformazione lineare da R3 in R2"
+    },
+    {
+      "id": 136,
+      "question": "Sia 1 1 A = -3 2 5 -1 4 0 La trasformazione lineare L(v)= Av è una trasformazione",
+      "options": [
+        "da R4 in R4",
+        "da R4 in R2",
+        "da R2 in R4",
+        "da R2 in R2"
+      ],
+      "correctAnswer": "da R2 in R4"
+    },
+    {
+      "id": 137,
+      "question": "La trasformazione lineare L(x, y, z)=(2x-2y, x+y+z) ha nucleo",
+      "options": [
+        "Ker(L)={(x, y, z)∈R3: x=0, y=0, z=0}",
+        "Ker(L) non si può definire perché L non è rappresentato da una matrice quadrata",
+        "Ker(L)={(x, y)∈R2: x=0, y=0}",
+        "Ker(L)={(x, y, z)∈R3: 2x-2y=0, x+y+z=0}"
+      ],
+      "correctAnswer": "Ker(L)={(x, y, z)∈R3: 2x-2y=0, x+y+z=0}"
+    },
+    {
+      "id": 138,
+      "question": "Un gruppo di persone è formato da 2 individui con gli occhi azzurri, 2 con gli occhi verdi, 3 con gli occhi neri e 8 con gli occhi castani. La moda è",
+      "options": [
+        "8",
+        "castani",
+        "neri",
+        "3"
+      ],
+      "correctAnswer": "castani"
+    },
+    {
+      "id": 139,
+      "question": "I dati X={1,2,1,-3,0,1,2,2,0,-3} presentano una distribuzione",
+      "options": [
+        "zeromodale",
+        "bimodale",
+        "plurimodale (non bimodale)",
+        "unimodale"
+      ],
+      "correctAnswer": "bimodale"
+    },
+    {
+      "id": 140,
+      "question": "Le risposte corrette a un test formato da 8 domande sono {C,A,B,B,C,A,C,B}. Qual è la frequenza relativa delle A?",
+      "options": [
+        "0.33",
+        "0.25",
+        "0.2",
+        "2"
+      ],
+      "correctAnswer": "0.25"
+    }
+  ]
+}
