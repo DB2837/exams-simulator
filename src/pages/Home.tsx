@@ -37,6 +37,7 @@ const pathsOptions = {
   psicology: 'data/psicologia.json',
   math: 'data/matematica.json',
   physics: 'data/fisica.json',
+  'physics II': 'data/fisica2.json',
 };
 
 const totalQuestionNum = {
