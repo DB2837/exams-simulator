@@ -38,6 +38,8 @@ const pathsOptions = {
   math: 'data/matematica.json',
   physics: 'data/fisica.json',
   'physics II': 'data/fisica2.json',
+  'analisi numerica': 'data/analisi_numerica.json',
+  'calcolo numerico 2': 'data/calcolo_numerico_2.json',
 };
 
 const totalQuestionNum = {
@@ -224,7 +226,11 @@ const Home = () => {
               setUserPick={setData}
               handleIncrementQuestionNum={handleIncrementQuestionNum}
               enableMathFormatting={
-                selectedCategory === 'math' || selectedCategory === 'physics'
+                selectedCategory === 'math' ||
+                selectedCategory === 'physics' ||
+                selectedCategory === 'physics II' ||
+                selectedCategory === 'analisi numerica' ||
+                selectedCategory === 'calcolo numerico 2'
               }
             />
 
