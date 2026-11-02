@@ -115,9 +115,23 @@ const Title = styled.div`
     text-align: left;
   }
 
+  h3 > span {
+    display: block;
+    width: 100%;
+  }
+
   mjx-container {
     margin: 0 0.08em !important;
     font-size: 1.08em !important;
+  }
+
+  mjx-container[display='true'] {
+    display: block;
+    max-width: 100%;
+    margin: 0.8em 0 !important;
+    font-size: 1.15em !important;
+    overflow-x: auto;
+    overflow-y: hidden;
   }
 `;
 
@@ -183,9 +197,23 @@ const GridCell = styled.div<TGridCellProps>`
   transition: all 0.2s ease-in-out;
   line-height: 1.5;
 
+  > span {
+    display: block;
+    width: 100%;
+  }
+
   mjx-container {
     margin: 0 0.06em !important;
     font-size: 1.08em !important;
+  }
+
+  mjx-container[display='true'] {
+    display: block;
+    max-width: 100%;
+    margin: 0.55em 0 !important;
+    font-size: 1.18em !important;
+    overflow-x: auto;
+    overflow-y: hidden;
   }
 
   @media (hover: hover) {

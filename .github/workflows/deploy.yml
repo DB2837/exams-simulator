@@ -29,6 +29,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Matrix formatter regression tests
+        run: node --test tests/numericalMatrixFormatting.test.cjs
+
       - name: Build and type-check
         run: npm run build
 
