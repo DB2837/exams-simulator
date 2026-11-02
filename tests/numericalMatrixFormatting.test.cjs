@@ -47,3 +47,9 @@ test('ignores duplicated square bracket in PDF source', () => {
   assert.ok(!result.includes(']]'));
   assert.match(result, /\\,\?\\\]$/);
 });
+
+test('uses the font-independent MathJax SVG renderer', () => {
+  const html = readFileSync(join(__dirname, '../index.html'), 'utf8');
+  assert.match(html, /mathjax@3\.2\.2\/es5\/tex-svg\.js/);
+  assert.doesNotMatch(html, /tex-chtml\.js/);
+});
