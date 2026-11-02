@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef } from 'react';
 import { formatMathText } from '../utils/mathFormatting';
+import { formatNumericalMatrixText } from '../utils/numericalMatrixFormatting';
 
 declare global {
   interface Window {
@@ -19,7 +20,7 @@ type TProps = {
 const MathText = ({ text, enabled = true, className }: TProps) => {
   const containerRef = useRef<HTMLSpanElement>(null);
   const displayText = useMemo(
-    () => (enabled ? formatMathText(text) : text),
+    () => (enabled ? formatNumericalMatrixText(text, formatMathText) : text),
     [enabled, text],
   );
 

@@ -1,0 +1,1896 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "question": "Nei calcoli di tipo scientifico, quale tipo di rappresentazione numerica si è sempre preferito utilizzare tra quella in virgola mobile e quella in virgola fissa?",
+      "options": [
+        "Rappresentazione in virgola fissa.",
+        "Entrambe.",
+        "Nessuna delle due rappresentazioni.",
+        "Rappresentazione in virgola mobile."
+      ],
+      "correctAnswer": "Rappresentazione in virgola mobile."
+    },
+    {
+      "id": 2,
+      "question": "Come si definisce il fenomeno che avviene quando il risultato di un'operazione di macchina è un numero che non appartiene al range rappresentabile dal calcolatore?",
+      "options": [
+        "Overflow.",
+        "Cancellazione.",
+        "Pivoting.",
+        "Precisione di macchina."
+      ],
+      "correctAnswer": "Overflow."
+    },
+    {
+      "id": 3,
+      "question": "Come si definisce il fenomeno che avviene quando il risultato di un'operazione di macchina è un numero che non appartiene al range rappresentabile dal calcolatore?",
+      "options": [
+        "Cancellazione.",
+        "Precisione di macchina.",
+        "Underflow.",
+        "Pivoting."
+      ],
+      "correctAnswer": "Underflow."
+    },
+    {
+      "id": 4,
+      "question": "Come si definisce il fenomeno che avviene quando nel calcolatore si verifica una perdita sensibile di cifre significative?",
+      "options": [
+        "Overflow.",
+        "Pivoting.",
+        "Underflow.",
+        "Cancellazione."
+      ],
+      "correctAnswer": "Cancellazione."
+    },
+    {
+      "id": 5,
+      "question": "Individuare quale tra le seguenti affermazioni è quella corretta.",
+      "options": [
+        "Il risultato di operazioni aritmetiche tra numeri di macchina, sono sempre numeri di macchina.",
+        "Le operazioni di macchina godono delle stesse proprietà dell'aritmetica esatta dei numeri reali.",
+        "In un calcolatore è possibile implementare in modo esatto operazioni aritmetiche.",
+        "In un calcolatore non è possibile implementare in modo esatto operazioni aritmetiche."
+      ],
+      "correctAnswer": "In un calcolatore non è possibile implementare in modo esatto operazioni aritmetiche."
+    },
+    {
+      "id": 6,
+      "question": "Che cos’è un algoritmo?",
+      "options": [
+        "Metodo numerico per ottenere una soluzione esatta mediante un numero finito di operazioni matematiche.",
+        "Metodo numerico per ottenere una soluzione approssimata a quella analitica mediante un numero infinito di operazioni matematiche.",
+        "Metodo numerico per ottenere una soluzione esatta mediante un numero infinito di operazioni matematiche.",
+        "Metodo numerico per ottenere una soluzione approssimata a quella analitica mediante un numero finito di operazioni matematiche."
+      ],
+      "correctAnswer": "Metodo numerico per ottenere una soluzione approssimata a quella analitica mediante un numero finito di operazioni matematiche."
+    },
+    {
+      "id": 7,
+      "question": "Cosa significa risolvere algoritmicamente un problema matematico?",
+      "options": [
+        "Ottenere mediante un numero finito di operazioni aritmetiche e/o logiche una soluzione che approssimi quella rigorosamente definibile analiticamente",
+        "ottenere mediante un numero finito di operazioni aritmetiche e/o logiche una soluzione esatta",
+        "ottenere mediante un numero infinito di operazioni aritmetiche e/o logiche una soluzione che approssimi quella rigorosamente definibile analiticamente",
+        "ottenere mediante un numero infinito di operazioni aritmetiche e/o logiche una soluzione esatta"
+      ],
+      "correctAnswer": "Ottenere mediante un numero finito di operazioni aritmetiche e/o logiche una soluzione che approssimi quella rigorosamente definibile analiticamente"
+    },
+    {
+      "id": 8,
+      "question": "Qual è l'obiettivo di un metodo numerico?",
+      "options": [
+        "Ottenere una soluzione approssimata a quella analitica mediante un numero finito di operazioni matematiche.",
+        "Ottenere una soluzione esatta mediante un numero infinito di operazioni matematiche.",
+        "Ottenere una soluzione esatta mediante un numero finito di operazioni matematiche.",
+        "Ottenere una soluzione approssimata a quella analitica mediante un numero infinito di operazioni matematiche."
+      ],
+      "correctAnswer": "Ottenere una soluzione approssimata a quella analitica mediante un numero finito di operazioni matematiche."
+    },
+    {
+      "id": 9,
+      "question": "Quante cifre significative ha il numero 0.000321?",
+      "options": [
+        "Tre.",
+        "Quattro.",
+        "Sei.",
+        "Sette."
+      ],
+      "correctAnswer": "Tre."
+    },
+    {
+      "id": 10,
+      "question": "Quale tipo di contrazione del numero di cifre significative è più impegnativo da eseguire per un calcolatore?",
+      "options": [
+        "Nessuno di questi due tipi di contrazione di cifre significative può essere eseguito da un calcolatore.",
+        "Richiedono lo stesso impegno.",
+        "L'arrotondamento.",
+        "Il troncamento."
+      ],
+      "correctAnswer": "L'arrotondamento."
+    },
+    {
+      "id": 11,
+      "question": "Quale tipo di contrazione del numero di cifre significative è generalmente più preciso dal punto di vista dell'errore?",
+      "options": [
+        "Nessuno di questi due tipi di contrazione di cifre significative può essere eseguito da un calcolatore.",
+        "Arrotondamento e troncamento hanno la stessa precisione.",
+        "Il troncamento è più preciso dell'arrotondamento.",
+        "L'arrotondamento è più preciso del troncamento."
+      ],
+      "correctAnswer": "L'arrotondamento è più preciso del troncamento."
+    },
+    {
+      "id": 12,
+      "question": "Dato il numero decimale (12) in base 10, quanto vale il suo equivalente in base 2?",
+      "options": [
+        "(0011) in base 2.",
+        "(1111) in base 2.",
+        "(1100) in base 2.",
+        "(110) in base 2."
+      ],
+      "correctAnswer": "(1100) in base 2."
+    },
+    {
+      "id": 13,
+      "question": "Dato il numero decimale (7) in base 10, quanto vale il suo equivalente in base 2?",
+      "options": [
+        "(1110) in base 2.",
+        "(0011) in base 2.",
+        "(111) in base 2.",
+        "(000) in base 2."
+      ],
+      "correctAnswer": "(111) in base 2."
+    },
+    {
+      "id": 14,
+      "question": "Dato il numero binario (1000) in base 2, quanto vale il suo equivalente in base 10?",
+      "options": [
+        "(6) in base 10.",
+        "(16) in base 10.",
+        "(8) in base 10.",
+        "(5) in base 10."
+      ],
+      "correctAnswer": "(8) in base 10."
+    },
+    {
+      "id": 15,
+      "question": "Dato il numero binario (10001) in base 2, quanto vale il suo equivalente in base 10?",
+      "options": [
+        "(102) in base 10.",
+        "(64) in base 10.",
+        "(17) in base 10.",
+        "(16) in base 10."
+      ],
+      "correctAnswer": "(17) in base 10."
+    },
+    {
+      "id": 16,
+      "question": "Quante cifre significative ha il numero 3.2700x10^4?",
+      "options": [
+        "Una.",
+        "Quattro.",
+        "Cinque.",
+        "Tre."
+      ],
+      "correctAnswer": "Cinque."
+    },
+    {
+      "id": 17,
+      "question": "Indicare quale tra le seguenti affermazioni non è corretta.",
+      "options": [
+        "Se gli zeri occupano le ultime posizioni di grandi numeri, non è facile stabilire quanti di essi siano significativi.",
+        "Gli zeri non sono necessariamente cifre significative in quanto possono essere usate anche solo per posizionare il punto decimale.",
+        "Il numero 32500 può avere da tre a cinque cifre significative.",
+        "Gli zeri sono sempre cifre significative."
+      ],
+      "correctAnswer": "Gli zeri sono sempre cifre significative."
+    },
+    {
+      "id": 18,
+      "question": "Se le perturbazioni sui dati influenzano in modo molto significativo il risultato, il problema si dice che è:",
+      "options": [
+        "Malcondizionato.",
+        "Bencondizionato.",
+        "Instabile.",
+        "Stabile."
+      ],
+      "correctAnswer": "Malcondizionato."
+    },
+    {
+      "id": 19,
+      "question": "Se il problema è malcondizionato è possibile trovare algoritmi stabili?",
+      "options": [
+        "Sì, è possibile.",
+        "No, non è possibile.",
+        "Ci sono alcuni casi in cui è possibile.",
+        "Il condizionamento del problema non influisce sulla scelta dell'algoritmo da utilizzare."
+      ],
+      "correctAnswer": "Sì, è possibile."
+    },
+    {
+      "id": 20,
+      "question": "Se un algoritmo amplifica eccessivamente gli errori di arrotondamento, si dice che è:",
+      "options": [
+        "Malcondizionato.",
+        "Stabile.",
+        "Bencondizionato.",
+        "Instabile."
+      ],
+      "correctAnswer": "Instabile."
+    },
+    {
+      "id": 21,
+      "question": "Cosa succede all'errore di troncamento quando il numero delle operazioni decrescono?",
+      "options": [
+        "Diminuisce.",
+        "Aumenta.",
+        "Non aumenta, ne' diminuisce.",
+        "Si annulla."
+      ],
+      "correctAnswer": "Diminuisce."
+    },
+    {
+      "id": 22,
+      "question": "Come si possono ridurre gli errori di arrotondamento?",
+      "options": [
+        "Eseguendo un numero estremamente grande di operazioni aritmetiche.",
+        "Riducendo il numero di cifre significative trattabili con il calcolatore.",
+        "Tali errori si riducono da soli con il procedere delle operazioni.",
+        "Aumentando il numero di cifre significative trattabili con il calcolatore."
+      ],
+      "correctAnswer": "Aumentando il numero di cifre significative trattabili con il calcolatore."
+    },
+    {
+      "id": 23,
+      "question": "Quando si esegue un numero estremamente grande di operazioni aritmetiche:",
+      "options": [
+        "L'errore di arrotondamento si amplifica molto.",
+        "Non si genera nessun tipo di errore.",
+        "L'errore di arrotondamento diminuisce.",
+        "L'errore di troncamento si amplifica molto."
+      ],
+      "correctAnswer": "L'errore di arrotondamento si amplifica molto."
+    },
+    {
+      "id": 24,
+      "question": "Quando vengono eseguite manipolazioni algebriche contemporaneamente con numeri molto grandi e molto piccoli:",
+      "options": [
+        "L'errore di arrotondamento diminuisce.",
+        "L'errore di troncamento si amplifica molto.",
+        "L'errore di arrotondamento si amplifica molto.",
+        "Non si genera nessun tipo di errore."
+      ],
+      "correctAnswer": "L'errore di arrotondamento si amplifica molto."
+    },
+    {
+      "id": 25,
+      "question": "Cos’è il rango di una matrice?",
+      "options": [
+        "La somma degli elementi della diagonale principale della matrice.",
+        "La somma in valore assoluto degli elementi non appartenenti alla diagonale principale della matrice.",
+        "Il massimo ordine di minori non nulli di una matrice.",
+        "Il minimo ordine di minori non nulli di una matrice."
+      ],
+      "correctAnswer": "Il massimo ordine di minori non nulli di una matrice."
+    },
+    {
+      "id": 26,
+      "question": "Quanto vale il rango della matrice A=[ 0, 1; 0, 1; 1, 0; 1, 0]]?",
+      "options": [
+        "Non si può calcolare il rango di tale matrice.",
+        "0",
+        "2",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 27,
+      "question": "Quanto vale il rango della matrice A=[ 0, 1; 3, 0]?",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "Non si può calcolare il rango di tale matrice."
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 28,
+      "question": "Quanto vale il rango della matrice A=[ 1, 2; 5, 9]?",
+      "options": [
+        "0",
+        "Non si può calcolare il rango di tale matrice.",
+        "1",
+        "2"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 29,
+      "question": "Quanto vale la traccia della matrice A=[ 1, 0, 2, 1; 5, 6, 6, 2; 2, 4, 6, 1; 0, 0, 2, -1]?",
+      "options": [
+        "4",
+        "12",
+        "-36",
+        "36"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 30,
+      "question": "Quanto vale la traccia della matrice A=[ 3, 4, 0; 0, 0, 1; 1, 2, 1]?",
+      "options": [
+        "4",
+        "0",
+        "13",
+        "3"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 31,
+      "question": "Data la seguente matrice A=[ 3, 4, 0; 0, 0, 1; 1, 2, 1], quanto vale la traccia della sua matrice trasposta?",
+      "options": [
+        "4",
+        "3",
+        "Tale operazione non può essere eseguita.",
+        "0"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 32,
+      "question": "Se tr(BC)=10, quanto vale tr(CB)?",
+      "options": [
+        "0",
+        "10",
+        "1",
+        "Tale operazione non può essere eseguita."
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 33,
+      "question": "Data A=[4, 3, 2; -5, 1, 0; 3, 3, -7]. Che tipo di matrice è la seguente matrice B=[4, -5, 3; 3, 1, 3; 2, 0, -7]?",
+      "options": [
+        "B è il prodotto di A per uno scalare.",
+        "B è la emisimmetrica di A.",
+        "B non ha alcun legame con A.",
+        "B è la trasposta di A."
+      ],
+      "correctAnswer": "B è la trasposta di A."
+    },
+    {
+      "id": 34,
+      "question": "Quanto vale il rango della seguente matrice A=[-3, 1, 0; 0, -1, -1; 0, 0, -8]?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "Non è possibile calcolare il rango di questa matrice."
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 35,
+      "question": "Quale tra le seguenti è una matrice triangolare superiore?",
+      "options": [
+        "[0, 3, 5; 0, 0, 4; 0, 1, 0].",
+        "[1, 0, 0; 0, 6, 0; 0, 0, 7].",
+        "[5, 0, 0; 1, 3, 0; 3, 1, 2].",
+        "[5, 2, 1; 0, 3, 1; 0, 0, 2]."
+      ],
+      "correctAnswer": "[5, 2, 1; 0, 3, 1; 0, 0, 2]."
+    },
+    {
+      "id": 36,
+      "question": "Come si ottiene una matrice trasposta di una matrice A?",
+      "options": [
+        "Scambiando le colonne della matrice data tra di loro.",
+        "Scambiando le righe con le colonne tra di loro della matrice data.",
+        "Orlando la matrice di partenza.",
+        "Scambiando le righe della matrice data tra di loro."
+      ],
+      "correctAnswer": "Scambiando le righe con le colonne tra di loro della matrice data."
+    },
+    {
+      "id": 37,
+      "question": "Cosa è il minore di una matrice?",
+      "options": [
+        "Una sottomatrice quadrata ottenibile dalla matrice A di partenza eliminando alcune righe e/o colonne.",
+        "Una sottomatrice quadrata ottenibile dalla matrice A di partenza eliminando alcune righe.",
+        "Il determinante di una sottomatrice quadrata ottenibile dalla matrice A di partenza eliminando alcune righe e/o colonne.",
+        "Una sottomatrice quadrata ottenibile dalla matrice A di partenza eliminando alcune colonne."
+      ],
+      "correctAnswer": "Il determinante di una sottomatrice quadrata ottenibile dalla matrice A di partenza eliminando alcune righe e/o colonne."
+    },
+    {
+      "id": 38,
+      "question": "Quanto vale il rango di una matrice nulla?",
+      "options": [
+        "Non è possibile calcolare il rango di questa matrice.",
+        "Dipende dall'ordine della matrice.",
+        "0",
+        "1"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 39,
+      "question": "Cosa identifica l'ordine di una matrice?",
+      "options": [
+        "La somma del numero delle righe e delle colonne.",
+        "Il numero delle righe.",
+        "Il numero delle colonne.",
+        "Il numero delle righe per il numero delle colonne."
+      ],
+      "correctAnswer": "Il numero delle righe per il numero delle colonne."
+    },
+    {
+      "id": 40,
+      "question": "Quale tra le seguenti è una matrice triangolare inferiore?",
+      "options": [
+        "[5, 0, 0; 5, 3, 0; 1, 4, 6].",
+        "[0, 0, 0; 4, 0, 3; 5, 6, 0].",
+        "[1, 0, 0; 0, 6, 0; 0, 0, 7].",
+        "[5, 4, 6; 0, 3, 6; 0, 0, 1]."
+      ],
+      "correctAnswer": "[5, 0, 0; 5, 3, 0; 1, 4, 6]."
+    },
+    {
+      "id": 41,
+      "question": "Quale tra le seguenti è una matrice diagonale?",
+      "options": [
+        "[0, 0, 4; 0, 5, 0; 6, 0, 0].",
+        "[1, 5, 6; 2, 1, 7; 3, 4, 1].",
+        "[0, 3, 3; 3, 0, 3; 3, 3, 0].",
+        "[1, 0, 0; 0, 6, 0; 0, 0, 7]."
+      ],
+      "correctAnswer": "[1, 0, 0; 0, 6, 0; 0, 0, 7]."
+    },
+    {
+      "id": 42,
+      "question": "Data A=[4, 3, 2; -5, 1, 0; 3, 3, -7]. Che tipo di matrice è la seguente matrice B=[4, -5, 3; 3, 1, -3; 2, 0, -7]?",
+      "options": [
+        "B è il prodotto di A per uno scalare.",
+        "B non ha alcun legame con A.",
+        "B è la trasposta di A.",
+        "B è la emisimmetrica di A."
+      ],
+      "correctAnswer": "B non ha alcun legame con A."
+    },
+    {
+      "id": 43,
+      "question": "Cos’è il rango e cos'è la caratteristica di una matrice?",
+      "options": [
+        "Il rango è il massimo ordine di minori non nulli di una matrice. La caratteristica, invece, è la somma degli elementi della diagonale principale di una matrice.",
+        "Il rango è il massimo ordine di minori non nulli di una matrice. La caratteristica, invece, è il minimo ordine di minori non nulli di una matrice.",
+        "Sono la stessa cosa.",
+        "Il rango è il massimo ordine di minori non nulli di una matrice. La caratteristica, invece, è il prodotto del numero delle righe per il numero delle colonne della matrice."
+      ],
+      "correctAnswer": "Sono la stessa cosa."
+    },
+    {
+      "id": 44,
+      "question": "Date le seguenti matrici: B=[1, 0; 3, 4; 11, 3] e C=[5, 5, 5; -1, 2, 3; 1, -1, 0] quanto vale la matrice D=-B*C?",
+      "options": [
+        "D=[ 5, 5, 5; 11, 23, 15; 52, 61, 55]",
+        "D=[ 5, 5, 0; 11, 23, 15; -52, 61, 55]",
+        "D=[ 5, 5, 0; 11, 23, 15; 52, 61, 55]",
+        "Tale moltiplicazione non può essere eseguita."
+      ],
+      "correctAnswer": "Tale moltiplicazione non può essere eseguita."
+    },
+    {
+      "id": 45,
+      "question": "Una matrice A in cui tutti gli elementi sono elevati alla potenza zero che risultato fornisce?",
+      "options": [
+        "Una matrice con tutti gli elementi pari a 1.",
+        "La matrice A.",
+        "La matrice nulla.",
+        "Una matrice con tutti gli elementi della diagonale principale pari a 1."
+      ],
+      "correctAnswer": "Una matrice con tutti gli elementi pari a 1."
+    },
+    {
+      "id": 46,
+      "question": "La somma di una matrice A con la sua opposta fornisce:",
+      "options": [
+        "La matrice unità.",
+        "La matrice A con tutti gli elementi aumentati di -1.",
+        "La matrice nulla.",
+        "La matrice A."
+      ],
+      "correctAnswer": "La matrice nulla."
+    },
+    {
+      "id": 47,
+      "question": "Una matrice A moltiplicata per la matrice nulla, che risultato fornisce?",
+      "options": [
+        "La matrice nulla.",
+        "La matrice unità.",
+        "La matrice A con tutti gli elementi aumentati di 1.",
+        "La matrice A."
+      ],
+      "correctAnswer": "La matrice nulla."
+    },
+    {
+      "id": 48,
+      "question": "Una matrice A moltiplicata per la matrice identità, che risultato fornisce?",
+      "options": [
+        "La matrice A.",
+        "La matrice nulla.",
+        "La matrice unità.",
+        "La matrice A con tutti gli elementi aumentati di 1."
+      ],
+      "correctAnswer": "La matrice A."
+    },
+    {
+      "id": 49,
+      "question": "Una matrice A sommata alla matrice identità, che risultato fornisce?",
+      "options": [
+        "La matrice nulla.",
+        "La matrice A.",
+        "La matrice unità.",
+        "La matrice A con tutti gli elementi della diagonale principale aumentati di 1."
+      ],
+      "correctAnswer": "La matrice A con tutti gli elementi della diagonale principale aumentati di 1."
+    },
+    {
+      "id": 50,
+      "question": "Una matrice A moltiplicata per la matrice unità e sommata alla matrice nulla, che risultato fornisce?",
+      "options": [
+        "La matrice A.",
+        "La matrice nulla.",
+        "La matrice unità.",
+        "La matrice A con tutti gli elementi aumentati di 1."
+      ],
+      "correctAnswer": "La matrice A."
+    },
+    {
+      "id": 51,
+      "question": "Date le seguenti matrici: A=[2, 1; 3, 0; 1, 2] e B=[1, 2, 1, 3; 4, 3, 0, 1], quale trale seguenti affermazioni è corretta:",
+      "options": [
+        "Non sono conformabili rispetto alla moltiplicazione.",
+        "Si può eseguire C=A+B.",
+        "Si può eseguire C=A-B.",
+        "Sono conformabili rispetto alla moltiplicazione."
+      ],
+      "correctAnswer": "Sono conformabili rispetto alla moltiplicazione."
+    },
+    {
+      "id": 52,
+      "question": "Date le seguenti matrici: B=[1, 0, 1; 3, 4, 6; 11, 3, 1] e C=[5, 5, 5; -1, 2, 0], quanto vale la matrice D= - B*C?",
+      "options": [
+        "D=[ 5, 5, 5; 11, 23, 15; 52, 61, 55]",
+        "Tale moltiplicazione non può essere eseguita.",
+        "D=[ -5, -5, 0; 11, 23, 15; 52, 61, 55]",
+        "D=[ 5, 5, 5; 11, 23, 15; -52, 61, 55]"
+      ],
+      "correctAnswer": "Tale moltiplicazione non può essere eseguita."
+    },
+    {
+      "id": 53,
+      "question": "Date le seguenti matrici: A=[5, 2, 1; 0, 3, 4; -2, -5, -6] e B=[1, 1, 5; 2, 2, 2; 4, -3, 0], quanto vale la matrice C=-3*A+B?",
+      "options": [
+        "Tale operazione non può essere eseguita.",
+        "C=[14, 5, 2; 2, 7, 10; 10, 12, 18]",
+        "C=[-14, 5, 2; 2, -7, -10; 10, 12, 18]",
+        "C=[-14, -5, 2; 2, -7, -10; 10, 12, 18]"
+      ],
+      "correctAnswer": "C=[-14, -5, 2; 2, -7, -10; 10, 12, 18]"
+    },
+    {
+      "id": 54,
+      "question": "Quanto vale il determinante della matrice A =[1, 0, 0; 0, 0, -2; 7, 3, 0]?",
+      "options": [
+        "0",
+        "7",
+        "6",
+        "-6"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 55,
+      "question": "Date le seguenti matrici: A=[2, 1; 3, 0; 1, 2] e B=[1, 2, 1, 3; 4, 3, 0, 1], quale trale seguenti affermazioni è corretta:",
+      "options": [
+        "La matrice C=A*B sarà una matrice del tipo 3X4.",
+        "La matrice C=A*B sarà una matrice del tipo 4X3.",
+        "La matrice C=A*B sarà una matrice del tipo 3X3.",
+        "La matrice C=A*B sarà una matrice del tipo 2X2."
+      ],
+      "correctAnswer": "La matrice C=A*B sarà una matrice del tipo 3X4."
+    },
+    {
+      "id": 56,
+      "question": "Date le seguenti matrici: A=[5, 3; 2, 1; 3, 0; 1, 2] e B=[1, 2, 1, 3; 4, 3, 0, 1], quale trale seguenti affermazioni è corretta:",
+      "options": [
+        "Si può eseguire C=A+B.",
+        "Si può eseguire C=A-B.",
+        "Non sono conformabili rispetto alla moltiplicazione.",
+        "Sono conformabili rispetto alla moltiplicazione."
+      ],
+      "correctAnswer": "Sono conformabili rispetto alla moltiplicazione."
+    },
+    {
+      "id": 57,
+      "question": "Date le seguenti matrici: A=[1, 2, 0] e B=[3; -5; 2] quanto vale la matrice C=A*B?",
+      "options": [
+        "C= -7",
+        "C=[3, -10, 0]",
+        "C=[3; -10; 0]",
+        "C=15"
+      ],
+      "correctAnswer": "C= -7"
+    },
+    {
+      "id": 58,
+      "question": "Date le seguenti matrici: A=[2, 3, -1; 0, -5, 4] e B=[3, 1, 0; 2, 3, -1] quanto vale la matrice C=A+B?",
+      "options": [
+        "C=[6, 3, 0; 0, -15, -4]",
+        "C=[5, 4, -1; 2, 8, 5]",
+        "C=[5, 4, 0; 0, -2, 3]",
+        "C=[5, 4, -1; 2, -2, 3]"
+      ],
+      "correctAnswer": "C=[5, 4, -1; 2, -2, 3]"
+    },
+    {
+      "id": 59,
+      "question": "Qual è l’elemento neutro rispetto alla somma tra matrici?",
+      "options": [
+        "La matrice identità.",
+        "La matrice nulla.",
+        "Una qualsiasi matrice triangolare superiore.",
+        "Nessun tipo di matrice."
+      ],
+      "correctAnswer": "La matrice nulla."
+    },
+    {
+      "id": 60,
+      "question": "Qual è l’elemento neutro rispetto al prodotto tra matrici?",
+      "options": [
+        "La matrice identità.",
+        "Nessun tipo di matrice.",
+        "La matrice nulla.",
+        "Una qualsiasi matrice triangolare superiore."
+      ],
+      "correctAnswer": "La matrice identità."
+    },
+    {
+      "id": 61,
+      "question": "La matrice B=[ 1, 2,-1; 0, -3, -1; 1, 5, 0] è invertibile?",
+      "options": [
+        "No perché il suo determinante è diverso da zero.",
+        "Sì perché il suo determinante è uguale a zero",
+        "Sì perché il suo determinante è diverso da zero.",
+        "No perché il suo determinante è uguale a zero."
+      ],
+      "correctAnswer": "No perché il suo determinante è uguale a zero."
+    },
+    {
+      "id": 62,
+      "question": "La matrice A=[ 1, 0,-1; 2, 1, 1; 0, -2, 3] è invertibile?",
+      "options": [
+        "Sì perché il suo determinante è uguale a zero",
+        "No perché il suo determinante è uguale a zero.",
+        "No perché il suo determinante è diverso da zero.",
+        "Sì perché il suo determinante è diverso da zero."
+      ],
+      "correctAnswer": "Sì perché il suo determinante è diverso da zero."
+    },
+    {
+      "id": 63,
+      "question": "Quanto vale il determinante della matrice A =[1, 3, 2, 1, 0, 7; 0, 1, 7, 15, -3, -6; 0, 0, 1, 6, 3, 2; 0, 0, 0, 1, 1, 9; 0, 0, 0, 0, 1, 9; 0, 0, 0, 0, 0, 1]?",
+      "options": [
+        "1",
+        "6",
+        "85",
+        "0"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 64,
+      "question": "Quanto vale il determinante della matrice A =[1, 0, 0, 0; 0, 1, 0, 0; 0, 0, 1, 0; 0, 0, 0, 1]?",
+      "options": [
+        "1",
+        "6",
+        "-36",
+        "0"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 65,
+      "question": "Date le seguenti matrici A =[1, 0, 0, 0; 0, 1, 0, 0; 0, 0, 1, 0; 0, 0, 0, 1] e B=[3, 2, 1, 0; 0, 2, 5, 2; 0, 0, -2, -1; 0, 0, 0, 3], quanto vale il determinante del prodotto?",
+      "options": [
+        "-36",
+        "6",
+        "1",
+        "0"
+      ],
+      "correctAnswer": "-36"
+    },
+    {
+      "id": 66,
+      "question": "Quanto vale il determinante della matrice A =[5, 5, 6, 17, 1; 0, 1, 5, 6, 25; 0, 0, 3, -3, -7; 0, 0, 0, 5, -1; 0, 0, 0, 0, 3 ]?",
+      "options": [
+        "0",
+        "17",
+        "207",
+        "225"
+      ],
+      "correctAnswer": "225"
+    },
+    {
+      "id": 67,
+      "question": "Quanto vale il determinante della matrice A =[5, 5, 6, 17, 1; 0, 1, 5, 6, 25; 0, 0, 0, -3, -7; 0, 0, 0, 5, -1; 0, 0, 0, 0, 3 ]?",
+      "options": [
+        "0",
+        "75",
+        "14",
+        "69"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 68,
+      "question": "Quanto è il valore del determinante di una matrice triangolare di ordine 4X4 con tutti gli elementi sulla diagonale principale uguali a 1?",
+      "options": [
+        "1",
+        "Si applica la regola di Sarrus.",
+        "4",
+        "16"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 69,
+      "question": "Quanto vale il determinante della matrice A =[1, 7; 3, 0]?",
+      "options": [
+        "0",
+        "-21",
+        "21",
+        "22"
+      ],
+      "correctAnswer": "-21"
+    },
+    {
+      "id": 70,
+      "question": "Tutte le matrici hanno una propria inversa?",
+      "options": [
+        "Sì, basta trovare quella matrice che moltiplicata per se' stessa dia la matrice unità.",
+        "Si basta che il determinante sia uguale a zero.",
+        "Sì, basta che la matrice sia quadrata.",
+        "Non tutte le matrici hanno la propria inversa."
+      ],
+      "correctAnswer": "Non tutte le matrici hanno la propria inversa."
+    },
+    {
+      "id": 71,
+      "question": "Quanto vale il determinante della seguente matrice B=[3, 5, 1; 0, 0, 2; 0, 0, 7]?",
+      "options": [
+        "6",
+        "Zero.",
+        "1",
+        "5"
+      ],
+      "correctAnswer": "Zero."
+    },
+    {
+      "id": 72,
+      "question": "Quanto vale il determinante della seguente matrice B=[1, 2, 1, 3; 4, 3, 0, 1]?",
+      "options": [
+        "-2",
+        "Non è possibile calcolare il determinante di questa matrice.",
+        "3",
+        "Si utilizzano i complementi algebrici."
+      ],
+      "correctAnswer": "Non è possibile calcolare il determinante di questa matrice."
+    },
+    {
+      "id": 73,
+      "question": "Come si calcola il determinante della seguente matrice A=[5, 3; 2, 1; 3, 0; 1, 2]?",
+      "options": [
+        "Non è possibile calcolare il determinante di questa matrice.",
+        "Si utilizzano i complementi algebrici.",
+        "Basta fare il prodotto degli elementi della diagonale principale della matrice A.",
+        "Si applica la Regola di Sarrus."
+      ],
+      "correctAnswer": "Non è possibile calcolare il determinante di questa matrice."
+    },
+    {
+      "id": 74,
+      "question": "Se la matrice A è del tipo 5X4 e la matrice B è del tipo 4X3, di che tipo sarà la matrice C=AXB?",
+      "options": [
+        "4X4.",
+        "5X3.",
+        "3X5.",
+        "3X3."
+      ],
+      "correctAnswer": "5X3."
+    },
+    {
+      "id": 75,
+      "question": "Come si calcola il determinante di una matrice triangolare di ordine 4x4?",
+      "options": [
+        "Si opera la somma degli elementi al di fuori della diagonale principale della matrice.",
+        "Si opera il prodotto degli elementi sulla diagonale principale della matrice.",
+        "Si opera la somma degli elementi sulla diagonale principale della matrice.",
+        "Si applica la regola di Sarrus."
+      ],
+      "correctAnswer": "Si opera il prodotto degli elementi sulla diagonale principale della matrice."
+    },
+    {
+      "id": 76,
+      "question": "Data una matrice con determinante uguale a zero, quale delle seguenti affermazioni è corretta:",
+      "options": [
+        "Sì, basta trovare quella matrice che moltiplicata per se' stessa dia la matrice unità.",
+        "Non è possibile determinare la sua inversa.",
+        "E' sempre possibile determinare la sua inversa.",
+        "Si può determinare la sua inversa, basta che la matrice sia quadrata."
+      ],
+      "correctAnswer": "Non è possibile determinare la sua inversa."
+    },
+    {
+      "id": 77,
+      "question": "Quanto vale il determinante della matrice A se tale matrice ha solo un elemento e uguale a 2?",
+      "options": [
+        "Due.",
+        "Non si può calcolare il determinante di uma matrice con un solo elemento.",
+        "Uno.",
+        "Zero."
+      ],
+      "correctAnswer": "Due."
+    },
+    {
+      "id": 78,
+      "question": "Se il rango di una matrice è uguale al numero dei vettori (riga o colonna) che la costituiscono:",
+      "options": [
+        "i vettori sono linearmente dipendenti",
+        "i vettori sono ortonormali",
+        "i vettori sono ortogonali",
+        "i vettori sono linearmente indipendenti"
+      ],
+      "correctAnswer": "i vettori sono linearmente indipendenti"
+    },
+    {
+      "id": 79,
+      "question": "Se il rango di una matrice è minore del numero dei vettori (riga o colonna) che la costituiscono:",
+      "options": [
+        "i vettori sono linearmente dipendenti",
+        "i vettori sono linearmente indipendenti",
+        "i vettori sono ortonormali",
+        "i vettori sono ortogonali"
+      ],
+      "correctAnswer": "i vettori sono linearmente dipendenti"
+    },
+    {
+      "id": 80,
+      "question": "Affinchè due vettori siano ortogonali:",
+      "options": [
+        "Deve essere nullo il prodotto tra uno dei due vettori e la trasposta dell'altro vettore.",
+        "Non deve essere nullo il prodotto tra le norme dei due vettori.",
+        "Deve essere nulla la somma tra uno dei due vettori e la trasposta dell'altro vettore.",
+        "Non deve essere nullo il prodotto tra uno dei due vettori e la trasposta dell'altro vettore."
+      ],
+      "correctAnswer": "Deve essere nullo il prodotto tra uno dei due vettori e la trasposta dell'altro vettore."
+    },
+    {
+      "id": 81,
+      "question": "Quanto vale la norma del vettore D =[2.90; 3.48; 2.90]?",
+      "options": [
+        "9.3",
+        "5.38",
+        "3.05",
+        "32.38"
+      ],
+      "correctAnswer": "5.38"
+    },
+    {
+      "id": 82,
+      "question": "Quanto vale la norma del vettore D =[2.81; 3.68; 2.81]?",
+      "options": [
+        "5.42",
+        "9.3",
+        "3.05",
+        "29.38"
+      ],
+      "correctAnswer": "5.42"
+    },
+    {
+      "id": 83,
+      "question": "Quanto vale la norma del vettore C =[3; 5; 8]?",
+      "options": [
+        "4",
+        "16",
+        "8",
+        "9.9"
+      ],
+      "correctAnswer": "9.9"
+    },
+    {
+      "id": 84,
+      "question": "Quale forma deve assumere il sistema lineare affinchè esso risulti impossibile?",
+      "options": [
+        "Tutte le equazioni del sistema devono assumere la forma 0=0.",
+        "Basta che una delle equazioni del sistema assuma la forma 0=0.",
+        "Basta che una delle equazioni del sistema assuma la forma 0=1.",
+        "Tutte le equazioni del sistema devono assumere la forma 0=1."
+      ],
+      "correctAnswer": "Basta che una delle equazioni del sistema assuma la forma 0=1."
+    },
+    {
+      "id": 85,
+      "question": "Il seguente sistema lineare [ 1, 2, 3; 4, 5, 6; 7, 8, 9]*[x; y; z]=[0; 0; 0] è possibile?",
+      "options": [
+        "E' sempre possibile.",
+        "E' possibile solo se il rango della matrice completa è maggiore di quello della matrice dei coefficienti.",
+        "Sono possibili solo se il rango della matrice completa è maggiore del numero di incognite del sistema.",
+        "E' possibile solo se il rango della matrice dei coefficienti è maggiore di quello della matrice completa."
+      ],
+      "correctAnswer": "E' sempre possibile."
+    },
+    {
+      "id": 86,
+      "question": "In un sistema lineare omogeneo, la matrice dei coefficienti e quella completa:",
+      "options": [
+        "Entrambe non ammettono soluzione.",
+        "La matrice dei coefficienti ha rango maggiore di quella compelta.",
+        "La matrice completa ha rango maggiore di quella dei coefficienti.",
+        "Hanno lo stesso rango."
+      ],
+      "correctAnswer": "Hanno lo stesso rango."
+    },
+    {
+      "id": 87,
+      "question": "I sistemi omogenei:",
+      "options": [
+        "Sono possibili solo se il rango della matrice completa è maggiore di quello della matrice dei coefficienti.",
+        "Sono possibili solo se il rango della matrice dei coefficienti è maggiore di quello della matrice completa.",
+        "Sono possibili solo se il rango della matrice dei coefficienti è minore del numero di incognite del sistema.",
+        "Sono sempre possibili."
+      ],
+      "correctAnswer": "Sono sempre possibili."
+    },
+    {
+      "id": 88,
+      "question": "La condizione det(A) diverso da zero è sufficiente affinchè:",
+      "options": [
+        "Un sistema lineare sia possibile e indeterminato.",
+        "Un sistema lineare sia possibile e determinato.",
+        "Un sistema lineare sia indeterminato.",
+        "Un sistema lineare sia impossibile."
+      ],
+      "correctAnswer": "Un sistema lineare sia possibile e determinato."
+    },
+    {
+      "id": 89,
+      "question": "Se il determinante di una matrice dei coefficienti di un sistema lineare è diverso da zero:",
+      "options": [
+        "Il sistema è indeterminato.",
+        "Il sistema non è ne' impossibile, ne' indeterminato.",
+        "Il sistema è impossibile o indeterminato.",
+        "Il sistema è impossibile."
+      ],
+      "correctAnswer": "Il sistema non è ne' impossibile, ne' indeterminato."
+    },
+    {
+      "id": 90,
+      "question": "Un sistema lineare che ammette infinite soluzioni si dice:",
+      "options": [
+        "Indeterminato.",
+        "Incompatibile.",
+        "Impossibile.",
+        "Omogeneo."
+      ],
+      "correctAnswer": "Indeterminato."
+    },
+    {
+      "id": 91,
+      "question": "Il metodo di eliminazione delle incognite su quale principio si basa?",
+      "options": [
+        "Principio di eliminazione.",
+        "Principio di induzione.",
+        "Principio di riduzione.",
+        "Principio di sostituzione."
+      ],
+      "correctAnswer": "Principio di riduzione."
+    },
+    {
+      "id": 92,
+      "question": "Quale principio afferma che:\"Se ad una equazione del sistema si sostituisce quella che si ottiene sommando ad essa membro a membro un’altra equazione del sistema eventualmente dopo averne moltiplicato entrambi i membri per una stessa costante non nulla, si ottiene un sistema equivalente a quello di partenza\"?",
+      "options": [
+        "Principio di riduzione.",
+        "Principio di eliminazione in avanti.",
+        "Principio di sostituzione all'indietro.",
+        "Principio di induzione."
+      ],
+      "correctAnswer": "Principio di riduzione."
+    },
+    {
+      "id": 93,
+      "question": "Qual è l'operazione equivalente in forma matriciale al cambio dell'ordine delle incognite di un sistema lineare?",
+      "options": [
+        "Cambiare l'ordine delle colonne della matrice completa.",
+        "Cambiare l'ordine delle colonne della matrice dei coefficienti.",
+        "Cambiare l'ordine delle righe della matrice dei coefficienti.",
+        "Cambiare l'ordine delle righe della matrice completa."
+      ],
+      "correctAnswer": "Cambiare l'ordine delle colonne della matrice dei coefficienti."
+    },
+    {
+      "id": 94,
+      "question": "E' computazionalmente più costoso, il metodo di Cramer o il metodo di Gauss?",
+      "options": [
+        "Dipende da come è strutturata la matrice dei coefficienti di partenza.",
+        "Il metodo di Gauss.",
+        "Hanno lo stesso costo computazionale.",
+        "Il metodo di Cramer."
+      ],
+      "correctAnswer": "Il metodo di Cramer."
+    },
+    {
+      "id": 95,
+      "question": "Quale tra i seguenti metodi è un metodo numerico diretto per risolvere sistemi lineari?",
+      "options": [
+        "Metodo di Gauss Jordan.",
+        "Metodo di Gauss Seidel.",
+        "Metodo di Newton Raphson.",
+        "Metodo di Jacobi."
+      ],
+      "correctAnswer": "Metodo di Gauss Jordan."
+    },
+    {
+      "id": 96,
+      "question": "Che succede se ad un certo passo del metodo di Gauss il pivot è molto prossimo allo zero?",
+      "options": [
+        "Il sistema risulta impossibile.",
+        "Il sistema risulta indeterminato.",
+        "L'algoritmo si blocca.",
+        "Non succede nulla."
+      ],
+      "correctAnswer": "L'algoritmo si blocca."
+    },
+    {
+      "id": 97,
+      "question": "Dopo aver terminato i passi del Metodo di Gauss, quale operazione va eseguita per ricavare il valore delle incognite?",
+      "options": [
+        "Eliminazione in avanti.",
+        "Sostituzione all'indietro.",
+        "Eliminazione all'indietro.",
+        "Sostituzione in avanti."
+      ],
+      "correctAnswer": "Sostituzione all'indietro."
+    },
+    {
+      "id": 98,
+      "question": "Cosa significa normalizzare una equazione del sistema lineare?",
+      "options": [
+        "Dividere tutti gli elementi della riga per il primo valore della riga successiva.",
+        "Dividere tutti gli elementi della riga per il pivot in modo da ottenere un valore unitario dell'incognita.",
+        "Moltiplicare il primo valore della riga per il pivot.",
+        "Dividere tutti gli elementi della riga per il pivot in modo da ottenere un valore nullo dell'incognita."
+      ],
+      "correctAnswer": "Dividere tutti gli elementi della riga per il pivot in modo da ottenere un valore unitario dell'incognita."
+    },
+    {
+      "id": 99,
+      "question": "Che succede se ad un certo passo del metodo di Gauss il pivot è nullo?",
+      "options": [
+        "Il sistema risulta impossibile.",
+        "Non succede nulla.",
+        "Il sistema risulta indeterminato.",
+        "L'algoritmo si blocca."
+      ],
+      "correctAnswer": "L'algoritmo si blocca."
+    },
+    {
+      "id": 100,
+      "question": "E' computazionalmente più efficiente, il metodo di Cramer o il metodo di Gauss?",
+      "options": [
+        "Il metodo di Gauss.",
+        "Dipende da come è strutturata la matrice dei coefficienti di partenza.",
+        "Sono efficienti allo stesso modo.",
+        "Il metodo di Cramer."
+      ],
+      "correctAnswer": "Il metodo di Gauss."
+    },
+    {
+      "id": 101,
+      "question": "Da cosa dipende l’efficienza computazionale?",
+      "options": [
+        "Solo dal tempo di esecuzione.",
+        "Ne’ dal numero di operazioni matematiche, ne’ dal tempo di esecuzione.",
+        "Solo dal numero di operazioni matematiche.",
+        "Numero di operazioni matematiche in rapporto al tempo di esecuzione."
+      ],
+      "correctAnswer": "Numero di operazioni matematiche in rapporto al tempo di esecuzione."
+    },
+    {
+      "id": 102,
+      "question": "Quando un metodo numerico diretto non risulta essere efficiente?",
+      "options": [
+        "Quando la matrice dei coefficienti del sistema lineare è una matrice di ordine non elevato.",
+        "Quando la matrice dei coefficienti del sistema lineare è una matrice sparsa e di ordine molto elevato.",
+        "Quando la matrice dei coefficienti del sistema lineare è una matrice densa e di ordine non elevato.",
+        "L’efficienza del metodo non cambia se la matrice è densa oppure se è sparsa."
+      ],
+      "correctAnswer": "Quando la matrice dei coefficienti del sistema lineare è una matrice sparsa e di ordine molto elevato."
+    },
+    {
+      "id": 103,
+      "question": "Quale tra i seguenti metodi non è un metodo numerico diretto per risolvere sistemi lineari?",
+      "options": [
+        "Metodo di Jacobi.",
+        "Metodo di Gauss Jordan.",
+        "Metodo di Gauss.",
+        "Metodo di Cholesky."
+      ],
+      "correctAnswer": "Metodo di Jacobi."
+    },
+    {
+      "id": 104,
+      "question": "Quando un metodo numerico diretto risulta essere efficiente?",
+      "options": [
+        "Quando la matrice dei coefficienti del sistema lineare è una matrice densa e di ordine non elevato.",
+        "Quando la matrice dei coefficienti del sistema lineare è una matrice sparsa.",
+        "Quando la matrice dei coefficienti del sistema lineare è una matrice di ordine molto elevato.",
+        "L’efficienza del metodo non cambia se la matrice è densa oppure se è sparsa."
+      ],
+      "correctAnswer": "Quando la matrice dei coefficienti del sistema lineare è una matrice densa e di ordine non elevato."
+    },
+    {
+      "id": 105,
+      "question": "Che tipo di matrice dei coefficienti otteniamo alla fine dei passi del metodo di Gauss?",
+      "options": [
+        "Una matrice identità.",
+        "Una matrice dei coefficienti triangolare superiore.",
+        "Una matrice dei coefficienti triangolare inferiore.",
+        "Una matrice trasposta a quella di partenza."
+      ],
+      "correctAnswer": "Una matrice dei coefficienti triangolare superiore."
+    },
+    {
+      "id": 106,
+      "question": "Qual è la condizione da rispettare per ottenere una ed una sola soluzione con il metodo di Gauss?",
+      "options": [
+        "Determinante della matrice dei coefficienti uguale a zero.",
+        "Determinante della matrice dei coefficienti diverso da zero.",
+        "Determinante della matrice completa uguale a zero.",
+        "Determinante della matrice completa diverso da zero."
+      ],
+      "correctAnswer": "Determinante della matrice dei coefficienti diverso da zero."
+    },
+    {
+      "id": 107,
+      "question": "Dato il sistema lineare Ax=C dove A=[0, 1, 1; -2, 0, 7; 7, 0, 3] e C=[-1; 0; -4]. Se applico la strategia di Pivoting parziale, quali sono le righe che devo scambiare tra loro ?",
+      "options": [
+        "La terza e la seconda.",
+        "La terza e la prima.",
+        "In questo caso, scambiare le righe non è necessario.",
+        "La seconda e la prima."
+      ],
+      "correctAnswer": "La terza e la prima."
+    },
+    {
+      "id": 108,
+      "question": "Dato il sistema lineare Ax=C dove A=[1, 1, 1; 0, 5, 3; 0, 1, 1] e C=[3; 5; 0]. Se applico la strategia di Pivoting parziale, quali sono le righe che devo scambiare tra loro ?",
+      "options": [
+        "In questo caso, scambiare le righe non è necessario.",
+        "La terza e la prima.",
+        "La terza e la seconda.",
+        "La seconda e la prima."
+      ],
+      "correctAnswer": "In questo caso, scambiare le righe non è necessario."
+    },
+    {
+      "id": 109,
+      "question": "Dato il sistema lineare Ax=C dove A=[0.0001, -7, 0, 1; 2, -2.9, 6, 1; 7, -1, -3, 1; 1, 1, 2, 1] e C=[3; 2; 1; 0]. Se applico la strategia di Pivoting parziale, quali sono le righe che devo scambiare tra loro ?",
+      "options": [
+        "La quarta e la prima.",
+        "La seconda e la prima.",
+        "La quarta e la seconda.",
+        "La terza e la prima."
+      ],
+      "correctAnswer": "La terza e la prima."
+    },
+    {
+      "id": 110,
+      "question": "Dato il sistema lineare Ax=C dove A=[0, 1, 1; -2, 0, 7; -3, 0, -2] e C=[-1; 0; -4]. Se applico la strategia di Pivoting parziale, quali sono le righe che devo scambiare tra loro ?",
+      "options": [
+        "Non devo scambiare alcuna riga.",
+        "La terza e la prima.",
+        "La seconda e la prima.",
+        "La terza e la seconda."
+      ],
+      "correctAnswer": "La terza e la prima."
+    },
+    {
+      "id": 111,
+      "question": "Dato il sistema lineare Ax=C dove A=[1, 1, 1; 0, 0.0001, 3; 0, 1, 1] e C=[3; 5; 0]. Se applico la strategia di Pivoting parziale, quali sono le righe che devo scambiare tra loro ?",
+      "options": [
+        "La terza e la prima.",
+        "La seconda e la terza.",
+        "La seconda e la prima.",
+        "In questo caso, scambiare le righe non è necessario."
+      ],
+      "correctAnswer": "La seconda e la terza."
+    },
+    {
+      "id": 112,
+      "question": "Nella strategia di Pivoting totale:",
+      "options": [
+        "Scambio la prima e la seconda riga tra loro del sistema lineare da risolvere.",
+        "Individuo la riga dove il primo elemento è l’elemento di modulo maggiore rispetto a tutte le altre righe e la scambio con la prima riga del sistema lineare da risolvere.",
+        "Scambio la prima e la seconda colonna tra loro della matrice dei coefficienti del sistema lineare da risolvere.",
+        "Scambio sia righe che colonne della matrice dei coefficienti del sistema da risolvere."
+      ],
+      "correctAnswer": "Scambio sia righe che colonne della matrice dei coefficienti del sistema da risolvere."
+    },
+    {
+      "id": 113,
+      "question": "Nella strategia di Pivoting parziale:",
+      "options": [
+        "Scambio sia righe che colonne della matrice dei coefficienti del sistema da risolvere.",
+        "Individuo la riga dove il primo elemento è l’elemento di modulo maggiore rispetto a tutte le altre righe e la scambio con la prima riga del sistema lineare da risolvere.",
+        "Scambio la prima e la seconda colonna tra loro della matrice dei coefficienti del sistema lineare da risolvere.",
+        "Scambio la prima e la seconda riga tra loro del sistema lineare da risolvere."
+      ],
+      "correctAnswer": "Individuo la riga dove il primo elemento è l’elemento di modulo maggiore rispetto a tutte le altre righe e la scambio con la prima riga del sistema lineare da risolvere."
+    },
+    {
+      "id": 114,
+      "question": "Qual è la condizione da rispettare per ottenere una ed una sola soluzione con il metodo di Gauss Jordan?",
+      "options": [
+        "Determinante della matrice completa diverso da zero.",
+        "Determinante della matrice dei coefficienti diverso da zero.",
+        "Determinante della matrice dei coefficienti uguale a zero.",
+        "Determinante della matrice completa uguale a zero."
+      ],
+      "correctAnswer": "Determinante della matrice dei coefficienti diverso da zero."
+    },
+    {
+      "id": 115,
+      "question": "Che succede se ad un certo passo del metodo di Gauss-Jordan il pivot è molto prossimo allo zero?",
+      "options": [
+        "Non succede nulla.",
+        "Il sistema risulta impossibile.",
+        "Il sistema risulta indeterminato.",
+        "L'algoritmo si blocca."
+      ],
+      "correctAnswer": "L'algoritmo si blocca."
+    },
+    {
+      "id": 116,
+      "question": "Che succede se ad un certo passo del metodo di Gauss-Jordan il pivot è nullo?",
+      "options": [
+        "Il sistema risulta impossibile.",
+        "L'algoritmo si blocca.",
+        "Il sistema risulta indeterminato.",
+        "Non succede nulla."
+      ],
+      "correctAnswer": "L'algoritmo si blocca."
+    },
+    {
+      "id": 117,
+      "question": "Che tipo di matrice dei coefficienti otteniamo alla fine dei passi del metodo di Gauss Jordan?",
+      "options": [
+        "Una matrice dei coefficienti triangolare inferiore.",
+        "Una matrice trasposta a quella di partenza.",
+        "Una matrice identità.",
+        "Una matrice dei coefficienti triangolare superiore."
+      ],
+      "correctAnswer": "Una matrice identità."
+    },
+    {
+      "id": 118,
+      "question": "Tra tutti i metodi numerici diretti per la risoluzione di un sistema lineare che abbiamo visto nel Corso, qual è quello più costoso in termini computazionali?",
+      "options": [
+        "Il metodo di Gauss.",
+        "Il metodo di Gauss-Jordan.",
+        "Il metodo di Cholesky.",
+        "Il metodo di Fattorizzazione LU."
+      ],
+      "correctAnswer": "Il metodo di Gauss-Jordan."
+    },
+    {
+      "id": 119,
+      "question": "Quale tra le seguenti affermazioni relative ai metodi di Gauss e Gauss-Jordan è corretta?",
+      "options": [
+        "L'operazione di sostituzione all'indietro si esegue in entrambi i metodi.",
+        "Nel metodo di Gauss Jordan non si esegue l'operazione di eliminazione in avanti.",
+        "Nel metodo di Gauss non si esegue l'operazione di sostituzione all'indietro.",
+        "Nel metodo di Gauss Jordan non si esegue l'operazione di sostituzione all'indietro."
+      ],
+      "correctAnswer": "Nel metodo di Gauss Jordan non si esegue l'operazione di sostituzione all'indietro."
+    },
+    {
+      "id": 120,
+      "question": "Che tipo di matrice affianchiamo alla matrice dei coefficienti del sistema di partenza per ottenere la matrice inversa nel metodo di Gauss Jordan?",
+      "options": [
+        "Una matrice trasposta a quella di partenza.",
+        "Una matrice dei coefficienti triangolare inferiore.",
+        "Una matrice triangolare con tutti gli elementi sulla diagonale principale uguali a 1.",
+        "Una matrice identità."
+      ],
+      "correctAnswer": "Una matrice identità."
+    },
+    {
+      "id": 121,
+      "question": "Dal punto di vista computazionale, è più costoso il metodo di Gauss o il metodo di Gauss-Jordan?",
+      "options": [
+        "Metodo di Gauss.",
+        "Metodo di Gauss Jordan.",
+        "Dipende, a volte Gauss, a volte Gauss Jordan.",
+        "Sono uguali."
+      ],
+      "correctAnswer": "Metodo di Gauss Jordan."
+    },
+    {
+      "id": 122,
+      "question": "Tra tutti i metodi numerici diretti per la risoluzione di un sistema lineare che abbiamo visto nel Corso, qual è quello meno costoso in termini computazionali?",
+      "options": [
+        "Il metodo di Gauss-Jordan.",
+        "Il metodo di Gauss.",
+        "Il metodo di Cholesky.",
+        "Il metodo di Fattorizzazione LU."
+      ],
+      "correctAnswer": "Il metodo di Cholesky."
+    },
+    {
+      "id": 123,
+      "question": "Qual è il vantaggio del metodo di Fattorizzazione LU rispetto alla Fattorizzazione di Cholesky?",
+      "options": [
+        "E' meno costoso dal punto di vista computazionale.",
+        "Si può applicare solo alle matrici simmetriche e definite positive.",
+        "Non ha bisogno dell'esecuzione del metodo di Gauss.",
+        "Nessuno, il metodo di Cholesky, se applicabile è meno costoso computazionalmente."
+      ],
+      "correctAnswer": "Nessuno, il metodo di Cholesky, se applicabile è meno costoso computazionalmente."
+    },
+    {
+      "id": 124,
+      "question": "Dal punto di vista computazionale, è più costoso il metodo di Fattorizzazione LU o il metodo di Fattorizzazione di Cholesky?",
+      "options": [
+        "Metodo di Fattorizzazione LU.",
+        "Dipende, a volte Cholesky, a volte LU.",
+        "Metodo di Fattorizzazione di Cholesky",
+        "Sono uguali."
+      ],
+      "correctAnswer": "Metodo di Fattorizzazione LU."
+    },
+    {
+      "id": 125,
+      "question": "Qual è il vantaggio del metodo di Fattorizzazione LU rispetto al metodo di Gauss?",
+      "options": [
+        "Il metodo di Fattorizzazione LU non ha nessun vantaggio rispetto al metodo di Gauss.",
+        "Il metodo di Gauss ha il vantaggio di essere computazionalmente molto meno costoso rispetto al metodo di Fattorizzazione LU per risolvere un sistema lineare.",
+        "Il metodo di Fattorizzazione LU ha il vantaggio di essere computazionalmente molto meno costoso rispetto al metodo di Gauss per risolvere un sistema lineare.",
+        "Il metodo di Fattorizzazione LU rispetto al metodo di Gauss ha solo il vantaggio di una esecuzione più compatta che non memorizza gli stadi intermedi."
+      ],
+      "correctAnswer": "Il metodo di Fattorizzazione LU rispetto al metodo di Gauss ha solo il vantaggio di una esecuzione più compatta che non memorizza gli stadi intermedi."
+    },
+    {
+      "id": 126,
+      "question": "Quale tra i seguenti metodi è il metodo numerico utile per calcolare il determinante di una matrice?",
+      "options": [
+        "Metodo di Gauss.",
+        "Il metodo di Fattorizzazione LU.",
+        "Metodo di Gauss Jordan.",
+        "Metodo di Jacobi."
+      ],
+      "correctAnswer": "Metodo di Gauss."
+    },
+    {
+      "id": 127,
+      "question": "Quale tra i seguenti metodi è il metodo numerico utile per risolvere una serie di sistemi lineari con stessa matrice dei coefficienti ma diversi vettori dei termini noti?",
+      "options": [
+        "Metodo di Jacobi.",
+        "Metodo di Gauss Seidel.",
+        "Il metodo di Fattorizzazione LU.",
+        "Metodo di Gauss Jordan."
+      ],
+      "correctAnswer": "Il metodo di Fattorizzazione LU."
+    },
+    {
+      "id": 128,
+      "question": "Qual è la condizione di applicabilità della Fattorizzazione LU?",
+      "options": [
+        "Determinante della matrice completa uguale a zero.",
+        "Determinante della matrice dei coefficienti uguale a zero.",
+        "Determinante della matrice completa diverso da zero.",
+        "Determinante della matrice dei coefficienti diverso da zero."
+      ],
+      "correctAnswer": "Determinante della matrice dei coefficienti diverso da zero."
+    },
+    {
+      "id": 129,
+      "question": "Dal punto di vista computazionale, è più costoso il metodo di Cholesky o il metodo di Gauss?",
+      "options": [
+        "Dipende, a volte il metodo di Gauss, a volte quello di Cholesky.",
+        "Metodo di Gauss.",
+        "Metodo di Cholesky.",
+        "Sono uguali."
+      ],
+      "correctAnswer": "Metodo di Gauss."
+    },
+    {
+      "id": 130,
+      "question": "Quando è applicabile il metodo di Cholesky?",
+      "options": [
+        "Se e solo se la matrice è simmetrica e definita positiva.",
+        "Se e solo se la matrice è definita positiva.",
+        "Sempre.",
+        "Se e solo se la matrice è simmetrica."
+      ],
+      "correctAnswer": "Se e solo se la matrice è simmetrica e definita positiva."
+    },
+    {
+      "id": 131,
+      "question": "Che tipo di matrice è una matrice tridiagonale?",
+      "options": [
+        "Matrice a banda.",
+        "Matrice densa.",
+        "Matrice non diagonale.",
+        "Matrice con tutti gli elementi sulla diagonale principale uguali a 3."
+      ],
+      "correctAnswer": "Matrice a banda."
+    },
+    {
+      "id": 132,
+      "question": "Quale metodo iterativo per la risoluzione di sistemi lineari Ax=C si basa sull'inversione ad ogni iterazione della parte diagonale della matrice dei coefficienti A?",
+      "options": [
+        "Metodo di Gauss Seidel.",
+        "Metodo di Newton- Raphson.",
+        "Metodo di Gauss-Jordan.",
+        "Metodo di Jacobi."
+      ],
+      "correctAnswer": "Metodo di Jacobi."
+    },
+    {
+      "id": 133,
+      "question": "Quale è il metodo iterativo per la risoluzione di sistemi lineari Ax=C in cui il vettore di nuove incognite si calcola in base ai valori delle incognite stesse calcolate nell'iterazione precedente?",
+      "options": [
+        "Metodo di Jacobi.",
+        "Metodo di Gauss Seidel.",
+        "Metodo di Gauss-Jordan.",
+        "Metodo di Newton- Raphson."
+      ],
+      "correctAnswer": "Metodo di Jacobi."
+    },
+    {
+      "id": 134,
+      "question": "Quale metodo iterativo per la risoluzione di sistemi lineari Ax=C si basa sull'inversione ad ogni iterazione della parte triangolare inferiore della matrice dei coefficienti A?",
+      "options": [
+        "Metodo di Jacobi.",
+        "Metodo di Gauss-Jordan.",
+        "Metodo di Gauss Seidel.",
+        "Metodo di Newton- Raphson."
+      ],
+      "correctAnswer": "Metodo di Gauss Seidel."
+    },
+    {
+      "id": 135,
+      "question": "Quale tra i seguenti metodi risente di più del problema della propagazione dell’errore?",
+      "options": [
+        "Nessuno di questi metodi.",
+        "Metodo di Jacobi.",
+        "Metodo di Gauss Seidel.",
+        "Metodo di Gauss."
+      ],
+      "correctAnswer": "Metodo di Gauss."
+    },
+    {
+      "id": 136,
+      "question": "Quale metodo tra il metodo di Gauss Seidel e Jacobi è preferibile in termini di convegenza perché utilizza le migliori stime possibili?",
+      "options": [
+        "Convergono alla stessa velocità.",
+        "Metodo di Jacobi.",
+        "Entrambi i metodi citati presentano problemi di convergenza .",
+        "Metodo di Gauss Seidel."
+      ],
+      "correctAnswer": "Metodo di Gauss Seidel."
+    },
+    {
+      "id": 137,
+      "question": "Dal punto di vista della propagazione degli errori, è più conveniente un metodo diretto o iterativo?",
+      "options": [
+        "Nessuno dei due.",
+        "Entrambi.",
+        "Metodo diretto.",
+        "Metodo iterativo."
+      ],
+      "correctAnswer": "Metodo iterativo."
+    },
+    {
+      "id": 138,
+      "question": "Quale tra i seguenti metodi risente meno del problema della propagazione dell’errore?",
+      "options": [
+        "Metodo di Jacobi.",
+        "Metodo di Gauss Jordan.",
+        "Metodo di Gauss.",
+        "Metodo di Fattorizzazione LU."
+      ],
+      "correctAnswer": "Metodo di Jacobi."
+    },
+    {
+      "id": 139,
+      "question": "Quale tra i seguenti metodi non è un metodo numerico diretto per risolvere sistemi lineari?",
+      "options": [
+        "Metodo di Gauss Jordan.",
+        "Metodo di Gauss.",
+        "Metodo di Cholesky.",
+        "Metodo di Gauss Seidel."
+      ],
+      "correctAnswer": "Metodo di Gauss Seidel."
+    },
+    {
+      "id": 140,
+      "question": "Quale tra i seguenti metodi risente meno del problema della propagazione dell’errore?",
+      "options": [
+        "Metodo di Fattorizzazione LU.",
+        "Metodo di Gauss Seidel.",
+        "Metodo di Gauss.",
+        "Metodo di Gauss Jordan."
+      ],
+      "correctAnswer": "Metodo di Gauss Seidel."
+    },
+    {
+      "id": 141,
+      "question": "Quale tra i seguenti metodi risente di più del problema della propagazione dell’errore?",
+      "options": [
+        "Metodo di Gauss Seidel.",
+        "Metodo di Gauss-Jordan.",
+        "Metodo di Jacobi.",
+        "Nessuno di questi metodi."
+      ],
+      "correctAnswer": "Metodo di Gauss-Jordan."
+    },
+    {
+      "id": 142,
+      "question": "Cosa è necessario operativamente, oltre all’equazione non lineare di partenza, per poter iniziare le iterazioni di un metodo chiuso per risolvere equazioni non lineari?",
+      "options": [
+        "Di due punti di partenza.",
+        "Basta conoscere l’equazione non lineare di partenza.",
+        "Di un punto di partenza.",
+        "Di conoscere la derivata della equazione non lineare di partenza."
+      ],
+      "correctAnswer": "Di due punti di partenza."
+    },
+    {
+      "id": 143,
+      "question": "Cosa è necessario operativamente, oltre all’equazione non lineare di partenza, per poter iniziare le iterazioni di un metodo aperto per risolvere equazioni non lineari?",
+      "options": [
+        "Di due punti di partenza.",
+        "Di un punto di partenza.",
+        "Basta conoscere l’equazione non lineare di partenza.",
+        "Di conoscere la derivata della equazione non lineare di partenza."
+      ],
+      "correctAnswer": "Di un punto di partenza."
+    },
+    {
+      "id": 144,
+      "question": "Cosa è necessario operativamente, oltre all’equazione non lineare di partenza, per poter iniziare le iterazioni del metodo di Bisezione?",
+      "options": [
+        "Di un punto di partenza.",
+        "Di conoscere la derivata della equazione non lineare di partenza.",
+        "Di due punti di partenza.",
+        "Basta conoscere l’equazione non lineare di partenza."
+      ],
+      "correctAnswer": "Di due punti di partenza."
+    },
+    {
+      "id": 145,
+      "question": "Cosa è necessario operativamente, oltre all’equazione non lineare di partenza, per poter iniziare le iterazioni del metodo di Falsa Posizione?",
+      "options": [
+        "Basta conoscere l’equazione non lineare di partenza.",
+        "Di conoscere la derivata della equazione non lineare di partenza.",
+        "Di un punto di partenza.",
+        "Di due punti di partenza."
+      ],
+      "correctAnswer": "Di due punti di partenza."
+    },
+    {
+      "id": 146,
+      "question": "Per applicare il metodo di Bisezione:",
+      "options": [
+        "la funzione deve essere continua e non cambiare di segno nell’intervallo di partenza.",
+        "la funzione non deve essere continua nell’intervallo di partenza.",
+        "la funzione deve essere continua e cambiare di segno nell’intervallo di partenza.",
+        "la funzione deve essere continua nell’intervallo di partenza."
+      ],
+      "correctAnswer": "la funzione deve essere continua e cambiare di segno nell’intervallo di partenza."
+    },
+    {
+      "id": 147,
+      "question": "Il metodo della Bisezione:",
+      "options": [
+        "Converge solo in casi particolari.",
+        "E’ un metodo più efficiente di quello di Falsa Posizione.",
+        "Esistono casi in cui non converge.",
+        "Converge sempre."
+      ],
+      "correctAnswer": "Converge sempre."
+    },
+    {
+      "id": 148,
+      "question": "Sto eseguendo il metodo di Bisezione. Operativamente dopo aver determinato il valore di tentativo (xr) nella prima iterazione come faccio a stabilire il nuovo intervallo per procedere con la seconda iterazione?",
+      "options": [
+        "Scelgo arbitrariamente i due nuovi punti.",
+        "Eseguo il prodotto tra la funzione in uno dei due punti di partenza e la funzione in xr determinato nella prima iterazione e controllo se risulta minore, maggiore o uguale a zero.",
+        "Eseguo il prodotto tra le funzioni dei due punti di partenza e controllo se risulta minore, maggiore o uguale a zero.",
+        "Eseguo la somma tra la funzione in uno dei due punti di partenza e la funzione in xr determinato nella prima iterazione e controllo se risulta minore, maggiore o uguale a zero."
+      ],
+      "correctAnswer": "Eseguo il prodotto tra la funzione in uno dei due punti di partenza e la funzione in xr determinato nella prima iterazione e controllo se risulta minore, maggiore o uguale a zero."
+    },
+    {
+      "id": 149,
+      "question": "Data un'equazione non lineare pari a f=[ 1, -1, -2] ed un intervallo pari a x1=-10 e x2=1, quanto vale il valore di tentativo xr nella prima iterazione del metodo di Bisezione?",
+      "options": [
+        "-5.5",
+        "5.5",
+        "-4.5",
+        "4.5"
+      ],
+      "correctAnswer": "-4.5"
+    },
+    {
+      "id": 150,
+      "question": "Quando si applica il metodo di Bisezione, se il prodotto tra f(x1) [funzione nel punto x1, estremo dell'intervallo di partenza] e f(xr) [funzione nel punto xr, nuovo valore di tentativo trovato] è minore di zero, qual è il nuovo valore da utilizzare nella iterazione successiva?",
+      "options": [
+        "L'intervallo tra xr e x2.",
+        "L'intervallo tra x1 e xr.",
+        "E' indifferente, se ne sceglie arbitrariamente uno.",
+        "L'intervallo tra x1 e x2."
+      ],
+      "correctAnswer": "L'intervallo tra x1 e xr."
+    },
+    {
+      "id": 151,
+      "question": "Quando si applica il metodo di Bisezione, se il prodotto tra f(x1) [funzione nel punto x1, estremo dell'intervallo di partenza] e f(xr) [funzione nel punto xr, nuovo valore di tentativo trovato] è maggiore di zero, qual è il nuovo valore da utilizzare nella iterazione successiva?",
+      "options": [
+        "L'intervallo tra x1 e x2.",
+        "L'intervallo tra xr e x2.",
+        "E' indifferente, se ne sceglie arbitrariamente uno.",
+        "L'intervallo tra x1 e xr."
+      ],
+      "correctAnswer": "L'intervallo tra xr e x2."
+    },
+    {
+      "id": 152,
+      "question": "Quando si applica il metodo di Bisezione, se il prodotto tra f(x1) [funzione nel punto x1, estremo dell'intervallo di partenza] e f(xr) [funzione nel punto xr, nuovo valore di tentativo trovato] è uguale a zero, qual è il nuovo valore da utilizzare nella iterazione successiva?",
+      "options": [
+        "L'intervallo tra x1 e xr.",
+        "E' indifferente, se ne sceglie arbitrariamente uno.",
+        "Nessuno, si è trovata la radice della funzione di partenza.",
+        "L'intervallo tra xr e x2."
+      ],
+      "correctAnswer": "Nessuno, si è trovata la radice della funzione di partenza."
+    },
+    {
+      "id": 153,
+      "question": "Quando si applica il metodo di Falsa Posizione, se il prodotto tra f(x1) [funzione nel punto x1, estremo dell'intervallo di partenza] e f(xr) [funzione nel punto xr, nuovo valore di tentativo trovato] è uguale a zero, qual è il nuovo valore da utilizzare nella iterazione successiva?",
+      "options": [
+        "L'intervallo tra xr e x2.",
+        "E' indifferente, se ne sceglie arbitrariamente uno.",
+        "L'intervallo tra x1 e xr.",
+        "Nessuno, si è trovata la radice della funzione di partenza."
+      ],
+      "correctAnswer": "Nessuno, si è trovata la radice della funzione di partenza."
+    },
+    {
+      "id": 154,
+      "question": "Quando si applica il metodo di Falsa Posizione, se il prodotto tra f(x1) [funzione nel punto x1, estremo dell'intervallo di partenza] e f(xr) [funzione nel punto xr, nuovo valore di tentativo trovato] è maggiore di zero, qual è il nuovo valore da utilizzare nella iterazione successiva?",
+      "options": [
+        "L'intervallo tra x1 e xr.",
+        "E' indifferente, se ne sceglie arbitrariamente uno.",
+        "L'intervallo tra xr e x2.",
+        "L'intervallo tra x1 e x2."
+      ],
+      "correctAnswer": "L'intervallo tra xr e x2."
+    },
+    {
+      "id": 155,
+      "question": "Quando si applica il metodo di Falsa Posizione, se il prodotto tra f(x1) [funzione nel punto x1, estremo dell'intervallo di partenza] e f(xr) [funzione nel punto xr, nuovo valore di tentativo trovato] è minore di zero, qual è il nuovo valore da utilizzare nella iterazione successiva?",
+      "options": [
+        "L'intervallo tra x1 e x2.",
+        "L'intervallo tra x1 e xr.",
+        "E' indifferente, se ne sceglie arbitrariamente uno.",
+        "L'intervallo tra xr e x2."
+      ],
+      "correctAnswer": "L'intervallo tra x1 e xr."
+    },
+    {
+      "id": 156,
+      "question": "Data un'equazione non lineare pari a f=[ 1, -1, -2] ed un intervallo pari a x1=-10 e x2=0.59, quanto vale il valore di tentativo xr nella prima iterazione del metodo di Falsa Posizione?",
+      "options": [
+        "0.37",
+        "-0.21",
+        "0.8",
+        "0.21"
+      ],
+      "correctAnswer": "0.37"
+    },
+    {
+      "id": 157,
+      "question": "Il metodo della Falsa Posizione:",
+      "options": [
+        "Converge sempre.",
+        "Converge solo in casi particolari.",
+        "Esistono casi in cui non converge.",
+        "E’ un metodo meno efficiente di quello di Bisezione."
+      ],
+      "correctAnswer": "Converge sempre."
+    },
+    {
+      "id": 158,
+      "question": "Sto eseguendo il metodo di Falsa Posizione. Operativamente dopo aver determinato il valore di tentativo (xr) nella prima iterazione come faccio a stabilire il nuovo intervallo per procedere con la seconda iterazione?",
+      "options": [
+        "Eseguo il prodotto tra le funzioni dei due punti di partenza e controllo se risulta minore, maggiore o uguale a zero.",
+        "Eseguo la somma tra la funzione in uno dei due punti di partenza e la funzione in xr determinato nella prima iterazione e controllo se risulta minore, maggiore o uguale a zero.",
+        "Eseguo il prodotto tra la funzione in uno dei due punti di partenza e la funzione in xr determinato nella prima iterazione e controllo se risulta minore, maggiore o uguale a zero.",
+        "Scelgo arbitrariamente i due nuovi punti."
+      ],
+      "correctAnswer": "Eseguo il prodotto tra la funzione in uno dei due punti di partenza e la funzione in xr determinato nella prima iterazione e controllo se risulta minore, maggiore o uguale a zero."
+    },
+    {
+      "id": 159,
+      "question": "Cosa è necessario operativamente, oltre all’equazione non lineare di partenza, per poter iniziare le iterazioni del metodo di Newton Raphson?",
+      "options": [
+        "Di due punti di partenza.",
+        "Basta conoscere l’equazione non lineare di partenza.",
+        "Di un punto di partenza.",
+        "Di conoscere la derivata della equazione non lineare di partenza."
+      ],
+      "correctAnswer": "Di un punto di partenza."
+    },
+    {
+      "id": 160,
+      "question": "Cosa è necessario operativamente, oltre all’equazione non lineare di partenza, per poter iniziare le iterazioni del metodo della Secante?",
+      "options": [
+        "Di due punti di partenza.",
+        "Di conoscere la derivata della equazione non lineare di partenza",
+        "Di un punto di partenza.",
+        "Basta conoscere l’equazione non lineare di partenza."
+      ],
+      "correctAnswer": "Di due punti di partenza."
+    },
+    {
+      "id": 161,
+      "question": "Il metodo di Newton Raphson:",
+      "options": [
+        "Esistono casi in cui la convergenza è lenta o non si verifica affatto.",
+        "Converge solo nel caso ci sia un flesso della funzione di partenza oppure una radice multipla.",
+        "E’ un metodo meno efficiente di quello di Bisezione.",
+        "Converge sempre."
+      ],
+      "correctAnswer": "Esistono casi in cui la convergenza è lenta o non si verifica affatto."
+    },
+    {
+      "id": 162,
+      "question": "Il metodo di Newton Raphson ha problemi di convergenza quando la funzione presenta un punto di flesso?",
+      "options": [
+        "Si, quando un punto di flesso si trova in prossimità della radice.",
+        "No, il metodo non presenta problemi in caso di un punto di flesso in prossimità della radice.",
+        "Il metodo di Newton Raphson converge sempre.",
+        "Si, quando un punto di flesso si trova lontano della radice."
+      ],
+      "correctAnswer": "Si, quando un punto di flesso si trova in prossimità della radice."
+    },
+    {
+      "id": 163,
+      "question": "Il metodo di Newton Raphson ha problemi di convergenza quando c’è una zona di pendenza molto ridotta della funzione di partenza?",
+      "options": [
+        "Si.",
+        "No, mai.",
+        "Solo quando tale zona di pendenza è molto ristretta.",
+        "Solo quando tale zona di pendenza è molto ampia."
+      ],
+      "correctAnswer": "Si."
+    },
+    {
+      "id": 164,
+      "question": "Si sta lavorando con il metodo di Newton Raphson. Il valore di tentativo nella prima iterazione vale x1= 1.7838. Il valore di tentativo nella seconda iterazione vale x2= 1.7835. Quanto vale l'errore relativo percentuale?",
+      "options": [
+        "5.03%",
+        "2.82%",
+        "0.02%",
+        "202.90%"
+      ],
+      "correctAnswer": "0.02%"
+    },
+    {
+      "id": 165,
+      "question": "Si sta lavorando con il metodo di Newton Raphson. Il valore di tentativo nella prima iterazione vale x1= 2.0375. Il valore di tentativo nella seconda iterazione vale x2= 2.0005. Quanto vale l'errore relativo percentuale?",
+      "options": [
+        "201.85%",
+        "1.85%",
+        "3.70%",
+        "-1.85%"
+      ],
+      "correctAnswer": "1.85%"
+    },
+    {
+      "id": 166,
+      "question": "Il metodo della Secante:",
+      "options": [
+        "Converge sempre",
+        "Richiede un cambiamento di segno tra i due valori di f(x).",
+        "E’ un metodo chiuso.",
+        "Ha bisogno di due valori iniziali per iniziare le iterazioni del metodo."
+      ],
+      "correctAnswer": "Ha bisogno di due valori iniziali per iniziare le iterazioni del metodo."
+    },
+    {
+      "id": 167,
+      "question": "Come si determinano i raggi dei cerchi di Gerschgorin?",
+      "options": [
+        "Prodotto degli elementi nella diagonale principale della matrice di partenza.",
+        "Prodotto dei valori assoluti degli elementi extra-diagonale nella stessa riga della matrice di partenza.",
+        "Somma dei valori assoluti degli elementi extra-diagonale nella stessa riga della matrice di partenza.",
+        "Somma degli elementi nella diagonale principale della matrice di partenza."
+      ],
+      "correctAnswer": "Somma dei valori assoluti degli elementi extra-diagonale nella stessa riga della matrice di partenza."
+    },
+    {
+      "id": 168,
+      "question": "Come si determinano i centri dei cerchi di Gerschgorin?",
+      "options": [
+        "Sono gli elementi sulla diagonale principale della matrice di partenza.",
+        "Prodotto degli elementi nella diagonale principale della matrice di partenza.",
+        "somma degli elementi nella diagonale principale della matrice di partenza.",
+        "somma dei valori assoluti degli elementi extra-diagonale nella stessa riga della matrice di partenza."
+      ],
+      "correctAnswer": "Sono gli elementi sulla diagonale principale della matrice di partenza."
+    },
+    {
+      "id": 169,
+      "question": "In cosa consiste la localizzazione degli autovalori (cerchi di Gerschgorin)?",
+      "options": [
+        "E’ un metodo numerico per individuare le zone di piano in cui si trovano gli autovalori dominanti.",
+        "E’ un metodo numerico per determinare il valore di tutti gli autovalori della matrice di partenza.",
+        "E’ un metodo numerico per determinare il valore dell’autovalore dominante.",
+        "E’ un metodo numerico per individuare le zone di piano in cui si trovano gli autovalori."
+      ],
+      "correctAnswer": "E’ un metodo numerico per individuare le zone di piano in cui si trovano gli autovalori."
+    },
+    {
+      "id": 170,
+      "question": "Per il secondo teorema di Gerschgorin, se ho determinato cinque cerchi e l'unione di tre cerchi (M1) è disgiunta dall'unione del quarto e quinto rimasti (M2), quanti autovalori appartengono all'unione denominata M1?",
+      "options": [
+        "Due.",
+        "Cinque.",
+        "Uno.",
+        "Tre."
+      ],
+      "correctAnswer": "Tre."
+    },
+    {
+      "id": 171,
+      "question": "Per il secondo teorema di Gerschgorin, se ho determinato cinque cerchi e l'unione di tre cerchi (M1) è disgiunta dall'unione del quarto e quinto rimasti (M2), quanti autovalori appartengono all'unione denominata M2?",
+      "options": [
+        "Uno.",
+        "Due.",
+        "Cinque.",
+        "Tre."
+      ],
+      "correctAnswer": "Due."
+    },
+    {
+      "id": 172,
+      "question": "Nell’algoritmo del metodo delle potenze è presente una normalizzazione. Tale normalizzazione è indispensabile ai fini del funzionamento del metodo?",
+      "options": [
+        "No. Non è indispensabile.",
+        "Sì. E’ indispensabile.",
+        "E’ indispensabile solo in alcuni casi specifici.",
+        "In realtà, nell’algoritmo del metodo delle potenze non è presente alcuna normalizzazione."
+      ],
+      "correctAnswer": "No. Non è indispensabile."
+    }
+  ]
+}
